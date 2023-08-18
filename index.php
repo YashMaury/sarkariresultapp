@@ -1444,7 +1444,7 @@
 															identification documents. The internet has made it very easy
 															to apply for these jobs, which was once considered to be a
 															cumbersome task. Sarkari result online form can be found on
-															sarkariresult.app After applying for the exam, one has to
+															sarkariresultsapp.com After applying for the exam, one has to
 															appear for the exam and wait for the <a
 																href="results.php">Sarkari
 																exam result</a>. Some of the exams have multiple stages,
@@ -1481,7 +1481,7 @@
 															to apply for these jobs, which was once considered to be a
 															cumbersome task. <a href="latest-jobs.php">Sarkari
 																result online form</a> can be found on
-															sarkariresult.app. After applying for the exam, one has to
+															sarkariresultsapp.com After applying for the exam, one has to
 															appear for the exam and wait for the Sarkari exam result.
 															Some of the exams have multiple stages, and hence, one has
 															to be prepared for all the levels.</p>
@@ -1524,7 +1524,7 @@
 															<p><b>Q. 2: Can Students pay the fees online safely?</b></p>
 															<p><strong>Answer:</strong>  Yes, all payment options made
 																on government websites are secure. Please note that
-																there is no payment link between Sarkariresult.app and
+																there is no payment link between Sarkariresultsapp.com and
 																the government website. We only advertise vacancies
 																through our websites.  Please check the official website
 																before proceeding with the online payment.</p>
@@ -1533,7 +1533,7 @@
 															<p><strong>Answer:</strong> Admit cards are posted securely
 																without revealing any information. Admit Cards arrive
 																between 7 to 15 days before the exam date.
-																SarkariResult.app provides the official link for your
+																SarkariResultsapp.com provides the official link for your
 																admit card and you can download it by visiting the
 																official website.</p>
 															<p><b>Q. 4: What are the best exams for govt jobs in
@@ -1568,7 +1568,7 @@
 								</div>
 								<div class="su-table su-table-alternate"></div><br />
 								<script
-									type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Q. 1: What is the Sarkari result information?","acceptedAnswer":{"@type":"Answer","text":"Answer: Sarkari Result is a platform where we provide updates of all government job notifications and the latest job information on all government jobs. We work 24 hours to seven days a week."}},{"@type":"Question","name":"Q. 2: Can Students pay the fees online safely?","acceptedAnswer":{"@type":"Answer","text":"Answer:  Yes, all payment options made on government websites are secure. Please note that there is no payment link between Sarkariresult.app and the government website. We only advertise vacancies through our websites.  Please check the official website before proceeding with the online payment."}},{"@type":"Question","name":"Q. 3: When do we get Admit Cards from Sarkari Result?","acceptedAnswer":{"@type":"Answer","text":"Answer: Admit cards are posted securely without revealing any information. Admit Cards arrive between 7 to 15 days before the exam date. SarkariResult.app provides the official link for your admit card and you can download it by visiting the official website."}},{"@type":"Question","name":"Q. 4: What are the best exams for govt jobs in India?","acceptedAnswer":{"@type":"Answer","text":"Answer: There are many major exams like SSC CGL, SSC Sub Inspector Exam, IBPS Clerk Exam, SSC, CHSL, IBPS PO Exam, RBI Grade B Officer, and Railway Recruitment Board Exam."}}]}</script>
+									type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Q. 1: What is the Sarkari result information?","acceptedAnswer":{"@type":"Answer","text":"Answer: Sarkari Result is a platform where we provide updates of all government job notifications and the latest job information on all government jobs. We work 24 hours to seven days a week."}},{"@type":"Question","name":"Q. 2: Can Students pay the fees online safely?","acceptedAnswer":{"@type":"Answer","text":"Answer:  Yes, all payment options made on government websites are secure. Please note that there is no payment link between Sarkariresultsapp.com and the government website. We only advertise vacancies through our websites.  Please check the official website before proceeding with the online payment."}},{"@type":"Question","name":"Q. 3: When do we get Admit Cards from Sarkari Result?","acceptedAnswer":{"@type":"Answer","text":"Answer: Admit cards are posted securely without revealing any information. Admit Cards arrive between 7 to 15 days before the exam date. SarkariResultsapp.com provides the official link for your admit card and you can download it by visiting the official website."}},{"@type":"Question","name":"Q. 4: What are the best exams for govt jobs in India?","acceptedAnswer":{"@type":"Answer","text":"Answer: There are many major exams like SSC CGL, SSC Sub Inspector Exam, IBPS Clerk Exam, SSC, CHSL, IBPS PO Exam, RBI Grade B Officer, and Railway Recruitment Board Exam."}}]}</script>
 								</p>
 							</div>
 						</div>
