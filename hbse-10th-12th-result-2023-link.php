@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>HBSE 10th, 12th Result 2023 Direct Link Haryana Board Class 10, 12 Result Name Wise</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

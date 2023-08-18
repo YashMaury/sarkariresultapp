@@ -1,4 +1,7 @@
 <?php include "include/header.php";?>
+<head>
+	<title>BEL Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</title>
+</head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">

@@ -1,4 +1,7 @@
 <?php include "include/header.php";?>
+<head>
+	<title>Bihar Board 10th Admit Card 2023 Download Link BSEB Matric Admit Card biharboardonline.bihar.gov.in</title>
+</head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">

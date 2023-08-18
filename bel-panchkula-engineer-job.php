@@ -1,4 +1,7 @@
 <?php include "include/header.php";?>
+<head>
+	<title>BEL Panchkula Recruitment 2023 Apply Online Engineer 57 Post</title>
+</head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">

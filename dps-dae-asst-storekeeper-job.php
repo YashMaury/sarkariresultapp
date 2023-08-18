@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>DPS DAE Group C Admit Card 2023 Check Asst, Storekeeper Hall Ticket, Exam Date</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

@@ -1,4 +1,7 @@
 <?php include "include/header.php";?>
+<head>
+	<title>Bihar Board 10th Compartmental Result 2023 Check BSEB Matric Compartmental Result</title>
+</head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">
