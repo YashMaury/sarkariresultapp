@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>Odisha Board Time Table 2023 Download Link BSE Odisha Class 10, 12 Exam Date</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

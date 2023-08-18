@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>HPBOSE 10th Result 2023 Link Check HP Board Class 10th Term 2 Result</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

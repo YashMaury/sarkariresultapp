@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>JNU Non-Teaching Admit Card 2023 Release Exam Date / City Intimation Link</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

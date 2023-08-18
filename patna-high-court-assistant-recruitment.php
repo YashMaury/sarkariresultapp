@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>Patna High Court Assistant Admit Card 2023 Link Activate for 550 Post</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

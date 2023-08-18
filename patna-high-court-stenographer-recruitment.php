@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>Patna High Court Stenographer Recruitment 2023 Apply Now 51 Post</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

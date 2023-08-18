@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>JEE(Main) 2023 Session 2 Admit Card 2023 Release jeemain.nta.nic.in Exam City Slip, Hall Ticket</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
