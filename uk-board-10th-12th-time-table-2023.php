@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>UK Board 10th, 12th Time Table 2023 Check Uttarakhand Board Class 10, 12 Subject Wise Date</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
