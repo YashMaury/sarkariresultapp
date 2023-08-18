@@ -1,4 +1,7 @@
 <?php include "include/header.php";?>
+<head>
+	<title>Sarkari Result Answer Key (17 August 2023) All Competition Exam</title>
+</head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">

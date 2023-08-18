@@ -1,4 +1,7 @@
 <?php include "include/header.php";?>
+<head>
+	<title>BAU Non-Teaching Recruitment 2023 Clerk, Attendant, Manager 82 Post</title>
+</head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">
