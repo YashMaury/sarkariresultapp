@@ -1,55 +1,57 @@
 <?php include "include/header.php";?>
 <head>
-	<title>AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35 Post</title>
+	<title>Punjab Haryana High Court Clerk Result 2023 Download Link Cut Off, Merit List</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">
 				<main class="site-main" id="main">
-					<article id="post-164099"
-						class="post-164099 post type-post status-publish format-standard has-post-thumbnail hentry category-aiims-jobs category-govt-jobs category-latest-notification"
+					<article id="post-115335"
+						class="post-115335 post type-post status-publish format-standard has-post-thumbnail hentry category-govt-jobs category-high-court-vacancy category-sarkari-result"
 						itemtype="https://schema.org/CreativeWork" itemscope>
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
-								<h1 class="entry-title" itemprop="headline">AIIMS Bathinda Recruitment 2023 Apply Online
-									Group A, B, C 35 Post</h1>
+								<h1 class="entry-title" itemprop="headline">Punjab Haryana High Court Clerk Result 2023
+									Download Link Cut Off, Merit List</h1>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
-											datetime="2023-08-16T15:05:00+05:30" itemprop="datePublished">16 Aug
+											datetime="2023-04-13T12:15:00+05:30" itemprop="datePublished">13 Apr
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
 								</div>
 							</header>
 							<div class="entry-content" itemprop="text">
-								<p><span style="color: #000000;"><strong>Name of Post: </strong>Group A, B, C (Nursing
-										Tutor/ Clinical Instructor, Librarian Grade III, Hostel Warden, Laboratory
-										Technician, Cashier, Senior Administrative Assistant (UDC), Laboratory Attendant
-										Grade II, Hospital Attendant Grade III) </span>Vacancies 35 Posts.<span
-										style="color: #000000;"><strong><br />
+								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Clerk Vacancy at
+									390 posts.<span style="color: #000000;"><strong><br />
 											<span style="color: #000000;"><strong>Short
-													Information:</strong></span></strong></span> AIIMS published Adt No.
-									Advertisement No.PGI/RC/037/2023/2934. All India Institute of Medical Sciences
-									Bathinda has published <a href="https://www.sarkariresult.app/latest-jobs/">a
-										notification</a> on its website for the recruitment of 57 posts of Group A, B ,
-									and C.</p>
-								<p>Information about qualifications and other eligibility criteria, pay level,
-									application process, and methodology &amp; other terms and conditions of the
-									recruitment is given in the succeeding sections of these guidelines. Candidates who
-									are interested in <a href="https://www.sarkariresult.app/rojgar-result/">AIIMS
-										Bathinda Recruitment 2023</a> can apply online through the official website
-									BAIIMS Bathinda <span style="font-size: inherit;">Jobs from </span><strong
-										style="font-size: inherit;">16 August 2023 to 11 September 2023.</strong></p>
-								<h2>AIIMS Bathinda Jobs Notification 2023 &#8211; Apply Online Group A, B, C 35 Posts
+													Information:</strong></span></strong></span> Punjab and Haryana High
+									Court have uploaded the Punjab Haryana High Court Clerk Result, <a
+										href="results/">Cut Off Marks 2023</a> at the
+									official website. Those candidates who are interested in <a
+										href="results/">Punjab Haryana High Court Result
+										2023</a> Download Link Online through the Punjab Haryana High Court Merit List
+									2023 from here.</p>
+								<h2>Punjab Haryana High Court Result 2023 Link Clerk 390 Post Exam Cut Off, Merit List
 								</h2>
-								<p>Those Candidates are Interested in AIIMS Bathinda Recruitment 2023 the Following
-									AIIMS Bathinda Group A Vacancy 2023 and Completed the All Eligibility Criteria Can
-									Read the <a href="https://www.sarkariresult.app/sarkari-exam/">AIIMS Bathinda
-										Notification 2023</a>
+								<p>Society for Centralized Recruitment of Staff in Subordinate Courts under the High
+									Court of Punjab and Haryana (S.S.S.C.) on behalf of the District and Sessions Judges
+									in the State of Haryana invites online applications from<br />
+									eligible candidates only at www.sssc.gov.in for filling up vacant posts of
+									Clerk. Those Candidates who Are Interested in Punjab and Haryana High Court Clerk
+									Recruitment 2022 the Following Punjab Haryana High Court Vacancy 2022 and Completed
+									the All Eligibility Criteria Can Read the <a
+										href="admit-card/">Punjab Haryana High Court Clerk
+										Result 2023</a> Before <a
+										href="admit-card/">Punjab Haryana High Court Clerk
+										Result Link Online 2023</a>. Below is a brief description of the Punjab Haryana
+									High Court Jobs 2022 official notification. Other details of the Punjab Haryana High
+									Court Result 2023 Like Age Limit, Educational Qualification, Selection Process,
+									Application Fee, and How to Apply are given below.</p>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
 									class="afw afw-ga afw_ad afwadid-19274  ">
@@ -63,95 +65,102 @@
 									<script>
 										(adsbygoogle = window.adsbygoogle || []).push({});
 									</script>
-								</div> Before <a href="https://www.sarkariresult.app/sarkari-naukri/">AIIMS Bathinda
-									Apply Online 2023</a>. Below is a brief description of the AIIMS Bathinda Group B
-								Jobs 2023 official notification. Other details of the AIIMS Bathinda Salary, Like Age
-								Limit, Educational Qualification, Selection Process, Application Fee, and AIIMS Bathinda
-								Group C Apply Online How to Apply are given below.</p>
-								<h3 style="text-align: center;">All India Institute of Medical Sciences Bathinda
-									Recruitment 2023<strong><span style="color: #ffffff;"><br />
-										</span></strong></h3>
-								<p style="text-align: center;">AIIMS Bathinda Vacancy Notification Details<strong><span
-											style="color: #ffffff;"><br />
+								</div>
+								<h3 style="text-align: center;">Punjab and Haryana High Court Recruitment 2022</h3>
+								<p style="text-align: center;">Punjab Haryana High Court Clerk Result Notification
+									Details<strong><span style="color: #ffffff;"><br />
 										</span></strong></p>
 								<p><span style="text-decoration: underline;"><strong>Eligibility </strong></span></p>
 								<ul>
-									<li>Candidates should have a <strong>B.E, B.Tech, MBA, MSW, PGHRM, </strong>or
-										equivalent from a recognized Board/ University/Institution.</li>
+									<li>Candidates should have <strong>a Bachelor&#8217;s Degree of Arts or
+											Bachelor&#8217;s Degree of Science </strong>or equivalent from a recognized
+										Board/ University/ Institution.</li>
+									<li>He/she should have passed the<strong> matriculation examination with
+											Hindi</strong> as one of the subjects and must have proficiency in the
+										operation of Computers.</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Important Date</strong></span></p>
+								<p><span style="text-decoration: underline;"><strong>Important Date </strong></span></p>
 								<ul>
-									<li>Opening Date for Submission of Online Form: <strong>16 August 2023.</strong>
+									<li>Notification Date: <strong>14 October 2022.</strong></li>
+									<li>Starting Date for Submission of Online Application:<strong> 15 October
+											2022.</strong></li>
+									<li>Last Date for Submission of Online Application:<strong> 30 October
+											2022.</strong></li>
+									<li>Punjab Haryana High Court Clerk Exam Date: <strong>22-24 November 2022.</strong>
 									</li>
-									<li>Closing Date for Submission of Online Form:<strong> 11 September 2023.</strong>
-									</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Application Fee</strong></span></p>
+								<p><span style="text-decoration: underline;"><strong>Application Fees</strong></span>
+								</p>
 								<ul>
-									<li>General/OBC candidate&#8217;s application fee <strong>Rs. 1500/-</strong></li>
-									<li>SC/ST/PWD candidate&#8217;s application fee is <strong>Rs.800/-</strong></li>
+									<li>For General Category Application Fee <strong>Rs. 825/-.</strong></li>
+									<li>For SC/ ST/ OBC Category Application Fee <strong>Rs. 525/-</strong></li>
+									<li>For PHC of Haryana Category Application Fee<strong> as per their original
+											category.</strong></li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong style="font-size: inherit;">Salary
-											Details</strong></span></p>
+								<p><strong>For Female Candidates</strong></p>
 								<ul>
-									<li>Group A, B, and C post candidate&#8217;s salary <strong>Rs. 18000/- to
-											177500/-</strong></li>
+									<li>General Candidates Application Fee <strong>Rs.625/-.</strong></li>
+									<li>SC/ST/BC-A/BC-B/ESM of State of Haryana Candidate Application Fee<strong>
+											Rs.525/-.</strong></li>
+									<li>PHC of Haryana Candidate Application Fee <strong>As per their original
+											category.</strong></li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong style="font-size: inherit;">Age
-											Limit</strong></span></p>
+								<p><span style="text-decoration: underline;"><strong>Pay Details</strong></span></p>
+								<ul>
+									<li>Punjab Haryana High Court Clerk as per the latest rules and instructions issued
+										by the Government of Haryana duly adopted for the Subordinate Courts of Haryana
+										from<br />
+										time to time.</li>
+								</ul>
+								<p><span style="text-decoration: underline;"><strong>Age Limit</strong></span></p>
 								<ul>
 									<li>Minimum Age: <strong>18 years.</strong></li>
-									<li>Maximum Age: <strong>50 years.</strong></li>
+									<li>Maximum Age: <strong>42 years</strong> as of 01/01/2022.</li>
 								</ul>
 								<p><span style="text-decoration: underline;"><strong>Selection Process</strong></span>
 								</p>
 								<ul>
-									<li>Written Test.</li>
-									<li>Personal Interview.</li>
+									<li>Online Written Examination (Computer-Based-Test).</li>
+									<li>Computer Proficiency Test (CPT).</li>
+									<li>Typing Test.</li>
+									<li>Document Verification.</li>
+									<li>Medical Test.</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Vacancy Details</strong></span></p>
+								<p><span style="text-decoration: underline;"><strong>How to Apply</strong></span></p>
 								<ul>
-									<li>Group A: <strong>8 Post.</strong></li>
-									<li>Group B: <strong>3 Post.</strong></li>
-									<li>Group C: <strong>24 Post.</strong></li>
+									<li>Mode of Apply: Through <strong>Online.</strong></li>
+									<li>Job Location: <strong>Punjab and Haryana High Court.</strong></li>
 								</ul>
-								<p><strong style="font-size: inherit;"><span style="text-decoration: underline;">How to
-											Apply</span></strong></p>
+								<p style="text-align: center;"><span style="color: #000000;"><b><strong>Punjab and
+												Haryana High Court Result Download </strong></b></span><b><span
+											style="color: #000000;">Link</span></b></p>
 								<ul>
-									<li>Mode of Apply: Through <strong>Online. </strong></li>
-									<li>Job Location: <strong>Bathinda.</strong></li>
+									<li><b>Result: </b><a
+											href="https://www.placementstore.in/category/notification.php?id=1jV16ru9nwny67kZaNW3NvAFRxKqsDLDZ&amp;name=Punjab%20Haryana%20High%20Court%20Clerk%20Final%20Result%202023%20Out"
+											rel="nofollow noopener"><strong>Click Here</strong></a></li>
 								</ul>
-								<p style="text-align: center;"><span style="color: #000000;"><b><strong>AIIMS Bathinda
-												Recruitment Notification</strong> Vacancy Details </b></span><b><span
-											style="color: #000000;">Total: 35 P</span></b><b
-										style="font-family: inherit; font-size: inherit;"><span
-											style="color: #000000;">osts</span></b><b><span
-											style="color: #000000;"><br />
-										</span><span style="color: #000000;">Interested Candidates Can Read the Full
-											Notification Before Apply Online</span></b></p>
-								<table
-									style="height: auto; width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;"
-									border="1">
-									<tbody>
-										<tr>
-											<td style="width: 50%; text-align: center;">Apply Online</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://jobapply.in/bel2023panCHKULA/"
-													rel="nofollow noopener">Click Here</a></td>
-										</tr>
-										<tr>
-											<td style="width: 50%; text-align: center;">Notification</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://www.placementstore.in/category/notification.php?id=1rY8b-hViwKsLS7abcmKe-LiWPsbuX8rP&amp;name=AIIMS%20Bathinda%20Group%20A,%20B,%20C%2035%20Post%20Notification%202023%20Apply%20Online"
-													rel="nofollow noopener">Click Here</a></td>
-										</tr>
-										<tr>
-											<td style="width: 50%; text-align: center;">Home Page</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://sarkariresult.app/">Click Here</a></td>
-										</tr>
-									</tbody>
-								</table>
+								<ul>
+									<li><b>Admit Card: </b><a href="https://highcourtchd.gov.in/"
+											rel="nofollow noopener"><strong>Click Here</strong></a></li>
+								</ul>
+								<ul>
+									<li><b>Exam Date: </b><a
+											href="https://www.placementstore.in/category/notification.php?id=138pSK2zcQF3ohnqA8e-rQsor5HGTmJGO&amp;name=Punjab%20Haryana%20High%20Court%20Clerk%20Exam%20Date%20Out%202022"
+											rel="nofollow noopener"><strong>Click Here</strong></a></li>
+								</ul>
+								<ul>
+									<li><b>Notification: </b><a
+											href="https://www.placementstore.in/category/notification.php?id=13YFtlSzno5_11PE012CYzfZnuz3qdFBI&amp;name=Punjab%20Haryana%20High%20Court%20390%20Clerk%20Notification%202022%20Apply%20Online"
+											rel="nofollow noopener"><strong>Click Here</strong></a></li>
+								</ul>
+								<ul>
+									<li><b>Apply Online: </b><a href="https://highcourtchd.gov.in/"
+											rel="nofollow noopener"><strong>Click Here</strong></a></li>
+								</ul>
+								<ul>
+									<li><b>Official Website: </b><a href="https://highcourtchd.gov.in/"
+											rel="nofollow noopener"><b>Click Here</b></a></li>
+								</ul>
 							</div>
 							<footer class="entry-meta" aria-label="Entry meta">
 								<span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
@@ -160,11 +169,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
-										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
-										rel="category tag">Latest Notification</a></span>
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
+										rel="category tag">High Court Jobs</a>, <a
+										href="sarkari-result/"
+										rel="category tag">Results</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -175,9 +184,9 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/kondagaon-district-recruitment/"
-												rel="prev">Kondagaon District Recruitment 2023 Officer, Manager, Asst 20
-												Post</a></span></div>
+												href="uppcl-computer-assistant-recruitment/"
+												rel="prev">UPPCL Computer Assistant Admit Card 2023 Link Exam Call
+												Letter</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
 												xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
@@ -187,9 +196,9 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/"
-												rel="next">BEL Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34
-												Post</a></span></div>
+												href="pspcl-lineman-apply-online/"
+												rel="next">PSPCL Lineman Final E-Admit Card 2023 Release Punjab Lineman
+												Hall Ticket</a></span></div>
 								</nav>
 							</footer>
 						</div>
@@ -199,8 +208,8 @@
 							<div id="respond" class="comment-respond">
 								<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a
 											rel="nofollow" id="cancel-comment-reply-link"
-											href="/aiims-bathinda-group-a-b-c-job/#respond" style="display:none;">Cancel
-											reply</a></small></h3>
+											href="/punjab-and-haryana-high-court-recruitment/#respond"
+											style="display:none;">Cancel reply</a></small></h3>
 								<form action="https://www.sarkariresult.app/wp-comments-post.php" method="post"
 									id="commentform" class="comment-form" novalidate>
 									<p class="comment-form-comment"><label for="comment"
@@ -220,14 +229,14 @@
 									<div class="uncr-g-recaptcha"></div>
 									<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit"
 											value="Post Comment" /> <input type="hidden" name="comment_post_ID"
-											value="164099" id="comment_post_ID" />
+											value="115335" id="comment_post_ID" />
 										<input type="hidden" name="comment_parent" id="comment_parent" value="0" />
 									</p>
 									<p style="display: none;"><input type="hidden" id="akismet_comment_nonce"
-											name="akismet_comment_nonce" value="7486003aeb" /></p>
+											name="akismet_comment_nonce" value="04d9849e09" /></p>
 									<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea"
 												cols="45" rows="8" maxlength="100"></textarea></label><input
-											type="hidden" id="ak_js_1" name="ak_js" value="89" />
+											type="hidden" id="ak_js_1" name="ak_js" value="175" />
 										<script>document.getElementById("ak_js_1").setAttribute("value", (new Date()).getTime());</script>
 									</p>
 								</form>
@@ -254,85 +263,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
-									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
+								<a href="ukmrc-recruitment/">UKMRC Recruitment 2023
+									Supervisor, Lekhpal, JE, Asst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
-									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
+								<a href="hscc-recruitment/">HSCC Recruitment 2023 Online
+									Application Assistant Manger 24 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
-									August 2023) Today New Updates</a>
+								<a href="aiims-madurai-group-b-c-apply-online/">AIIMS
+									Madurai Group B &#038; C Recruitment 2023 Apply Now 08 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
-									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
+								<a href="cbse-notification-pdf/">CBSE Recruitment 2023
+									Apply Advisor, Officer, Secretary 08 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
-									Sarkari Result Group Direct Join Links</a>
+								<a href="nit-manipur-non-teaching-job/">NIT Manipur
+									Recruitment 2023 Apply Online Non Teaching 48 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
-									2023 Executive, Trade Analyst 15 Post</a>
+								<a href="western-command-csbo-recruitment/">Western
+									Command CSBO Recruitment 2023 Apply Now 17 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
-									(17 August 2023) New Updates</a>
+								<a href="aai-junior-assistant-recruitment/">AAI Assistant
+									Recruitment 2023 Apply Now Jr Executive 342 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
-									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
+								<a href="dsssb-tgt-notification/">DSSSB Recruitment 2023
+									Apply Now Teaching &#038; Non Teaching 1841 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
-									(17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
-									10+2 latest Job (17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
-									2023 Notification, Eligibility, Application Form, Exam Date</a>
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (19
+									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
-									2023 Apply Online Asst, Officer, Typist 795 Post</a>
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
+									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
-									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+									(19 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/"
-									aria-current="page">AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35
-									Post</a>
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+									(19 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
-									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
+									10+2 latest Job (19 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
-									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
+								<a href="nit-raipur-associate-professor-job/">NIT Raipur
+									Recruitment 2023 Apply Online Associate Professor Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
-									Recruitment 2023 Apply Now 138 Post</a>
+								<a href="goa-hrdc-recruitment/">Goa HRDC Recruitment 2023
+									Apply MTS, Driver, Asst 370 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
-									Officer Recruitment 2023 Apply Now 7276 Posts</a>
+								<a href="ssc-mts-notification-pdf/">SSC MTS, Havaldar
+									Admit Card 2023 Paper 1 Exam Region Wise Hall Ticket</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
-									Recruitment 2023 Apply Now 226 Post</a>
+								<a href="appsc-amvi-jobs/">APPSC AMVI Recruitment 2023
+									Asst Motor Vehicle Inspector 17 Post</a>
+							</li>
+							<li>
+								<a href="northern-railway-sta-recruitment/">Northern
+									Railway STA Recruitment 2023 Technical Associate 93 Post</a>
+							</li>
+							<li>
+								<a href="hal-apprentice-job/">HAL Apprentice Recruitment
+									2023 Apply Now 1060 Posts</a>
 							</li>
 						</ul>
 					</aside>
@@ -352,7 +360,7 @@
 		<footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
 			<div class="inside-site-info grid-container">
 				<div class="copyright-bar">
-					&copy; 2023 www.sarkariresultsapp.com </div>
+					&copy; 2023 www.sarkariresult.app </div>
 			</div>
 		</footer>
 	</div>
@@ -442,7 +450,7 @@
 	<script
 		id="generate-a11y">!function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("mousedown", function () { e.classList.add("using-mouse") }), e.addEventListener("keydown", function () { e.classList.remove("using-mouse") }) } }();</script>
 	<script id="adsforwp-ads-front-js-js-extra">
-		var adsforwp_obj = { "ajax_url": "https:\/\/www.sarkariresult.app\/wp-admin\/admin-ajax.php", "adsforwp_front_nonce": "c64baa44c7" };
+		var adsforwp_obj = { "ajax_url": "https:\/\/www.sarkariresult.app\/wp-admin\/admin-ajax.php", "adsforwp_front_nonce": "c389eba96c" };
 	</script>
 	<script
 		src="https://www.sarkariresult.app/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.24"
@@ -516,7 +524,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

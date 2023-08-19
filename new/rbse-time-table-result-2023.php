@@ -1,55 +1,64 @@
 <?php include "include/header.php";?>
 <head>
-	<title>AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35 Post</title>
+	<title></title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">
 				<main class="site-main" id="main">
-					<article id="post-164099"
-						class="post-164099 post type-post status-publish format-standard has-post-thumbnail hentry category-aiims-jobs category-govt-jobs category-latest-notification"
+					<article id="post-124302"
+						class="post-124302 post type-post status-publish format-standard has-post-thumbnail hentry category-hall-ticket category-govt-jobs"
 						itemtype="https://schema.org/CreativeWork" itemscope>
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
-								<h1 class="entry-title" itemprop="headline">AIIMS Bathinda Recruitment 2023 Apply Online
-									Group A, B, C 35 Post</h1>
+								<h1 class="entry-title" itemprop="headline">RBSE Time Table 2023 Out Rajasthan Board
+									Class 10th, 12th Exam Date Check</h1>
 								<div class="entry-meta">
-									<span class="posted-on"><time class="entry-date published"
-											datetime="2023-08-16T15:05:00+05:30" itemprop="datePublished">16 Aug
+									<span class="posted-on"><time class="updated" datetime="2023-04-14T12:31:04+05:30"
+											itemprop="dateModified">14 Apr 2023</time><time class="entry-date published"
+											datetime="2023-04-12T11:12:22+05:30" itemprop="datePublished">12 Apr
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
 								</div>
 							</header>
 							<div class="entry-content" itemprop="text">
-								<p><span style="color: #000000;"><strong>Name of Post: </strong>Group A, B, C (Nursing
-										Tutor/ Clinical Instructor, Librarian Grade III, Hostel Warden, Laboratory
-										Technician, Cashier, Senior Administrative Assistant (UDC), Laboratory Attendant
-										Grade II, Hospital Attendant Grade III) </span>Vacancies 35 Posts.<span
-										style="color: #000000;"><strong><br />
-											<span style="color: #000000;"><strong>Short
-													Information:</strong></span></strong></span> AIIMS published Adt No.
-									Advertisement No.PGI/RC/037/2023/2934. All India Institute of Medical Sciences
-									Bathinda has published <a href="https://www.sarkariresult.app/latest-jobs/">a
-										notification</a> on its website for the recruitment of 57 posts of Group A, B ,
-									and C.</p>
-								<p>Information about qualifications and other eligibility criteria, pay level,
-									application process, and methodology &amp; other terms and conditions of the
-									recruitment is given in the succeeding sections of these guidelines. Candidates who
-									are interested in <a href="https://www.sarkariresult.app/rojgar-result/">AIIMS
-										Bathinda Recruitment 2023</a> can apply online through the official website
-									BAIIMS Bathinda <span style="font-size: inherit;">Jobs from </span><strong
-										style="font-size: inherit;">16 August 2023 to 11 September 2023.</strong></p>
-								<h2>AIIMS Bathinda Jobs Notification 2023 &#8211; Apply Online Group A, B, C 35 Posts
-								</h2>
-								<p>Those Candidates are Interested in AIIMS Bathinda Recruitment 2023 the Following
-									AIIMS Bathinda Group A Vacancy 2023 and Completed the All Eligibility Criteria Can
-									Read the <a href="https://www.sarkariresult.app/sarkari-exam/">AIIMS Bathinda
-										Notification 2023</a>
+								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Sarkari Result
+									RBSE Time Table 2023 Live Update: <a
+										href="rbse-time-table-result-2023/">RBSE Class
+										10th, 12th Date Sheet 2023</a>: Download RBSE 10th, 12th Time Table 2023
+									Declared Check Rajasthan Board 10th, 12th Exam Date Sheet 2023 10th,
+									12th/Matriculation and Inter examinations Exam date Subject Wise<br />
+									<span style="color: #000000;"><strong>Short Information:</strong></span> Sarkari
+									Result RBSE Time Table 2023 News Today Latest Update: Rajasthan Board Exam Date
+									Sheet for Classes 10 and 12 will be announced on 9 March 2023 to 16 March 2023 and
+									students will be able to see the Check RBSE 10th, 12th Time Table 2023. Rajasthan
+									Board of Secondary Education (RBSE) will announce the Exam Date Sheet of RBSE Class
+									10th, 12th 2023 students who appeared in the examination today, RBSE 12 Their all
+									subject-wise time table of Rajasthan Board Matriculation and Inter examinations
+									here. <a href="rbse-time-table-result-2023/">RBSE Time
+										Table 2023 Class 10th, 12th</a> will be made available online mode through the
+									Rajasthan Board 10th, 12th Time Table 2023 Date website Sarkari Result 10th, 12th
+									2023 RBSE Date Sheet 2023. Students can check their <a
+										href="rbse-time-table-result-2023/">Rajasthan
+										Board Class 10th, 12th Exam Date 2023</a> by visiting the official website 10th,
+									12th Date Sheet 2023 of RBSE. Here we have also provided a direct link to the 12th
+									Class ka Time Table for RBSE Time Table 2023 Near Haryana as well as RBSE Time Table
+									2023 Class 10, 12 so that students can easily reach the same RBSE 10th, 12th Exam
+									Date 2023 Subject Wise by clicking on the same 12 Time Table Link
+								</p>
+								<h2>Rajasthan Board 10th Time Table 2023 Subject Wise Download Direct Link RBSE Class
+									10, 12 Time Table</h2>
+								<p>Sarkari Result RBSE Time Table 2023 in Hindi Date All Students Check your RBSE 10th,
+									12th Time Table 2023 here also check the RBSE Date Sheet 2023 Class 12 published on
+									10th, 12th Time Table 2023 Click Here Today. Rajasthan Board Class 10th, 12th Exam
+									Date 2023 Check Now available here when published on the <a
+										href="rbse-time-table-result-2023/">Rajasthan
+										Board 10th, 12th Time Table 2023</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
 									class="afw afw-ga afw_ad afwadid-19274  ">
@@ -63,95 +72,186 @@
 									<script>
 										(adsbygoogle = window.adsbygoogle || []).push({});
 									</script>
-								</div> Before <a href="https://www.sarkariresult.app/sarkari-naukri/">AIIMS Bathinda
-									Apply Online 2023</a>. Below is a brief description of the AIIMS Bathinda Group B
-								Jobs 2023 official notification. Other details of the AIIMS Bathinda Salary, Like Age
-								Limit, Educational Qualification, Selection Process, Application Fee, and AIIMS Bathinda
-								Group C Apply Online How to Apply are given below.</p>
-								<h3 style="text-align: center;">All India Institute of Medical Sciences Bathinda
-									Recruitment 2023<strong><span style="color: #ffffff;"><br />
-										</span></strong></h3>
-								<p style="text-align: center;">AIIMS Bathinda Vacancy Notification Details<strong><span
-											style="color: #ffffff;"><br />
-										</span></strong></p>
-								<p><span style="text-decoration: underline;"><strong>Eligibility </strong></span></p>
+								</div> Check Online official website rajeduboard.rajasthan.gov.in 2023 10th, 12th. RBSE
+								Exam Date 2023 10th, 12th Check RBSE Exam Date 2023 Class 10, 12 Science Notification
+								for Name Wise Check from here rajeduboard.rajasthan.gov.in RBSE 10th, 12th Time Table
+								2023 Download RBSE Class 10th, 12th Time Table Subject Wise Release RBSE Time Table 2023
+								Class 10, 12:–</p>
+								<h3 style="text-align: center;">Rajasthan Board 10th, 12th Time Table 2023 Check
+									online<br />
+									Sarkari Result RBSE 10th, 12th Time Table 2023<br />
+									RBSE Class 10th, 12th Date Sheet 2023 Link</h3>
+								<p><span style="text-decoration: underline;"><strong>RBSE Exam Date 2023 class 10, 12
+											science Details</strong></span></p>
 								<ul>
-									<li>Candidates should have a <strong>B.E, B.Tech, MBA, MSW, PGHRM, </strong>or
-										equivalent from a recognized Board/ University/Institution.</li>
+									<li>Board Name: Rajasthan Board of Secondary Education Or Board of Secondary
+										Education, Rajasthan</li>
+									<li>Stream: All subjects from all streams of RBSE class 12th Arts, Commerce and
+										Science.</li>
+									<li>Academic Year: <strong>2023-2023.</strong></li>
+									<li>RBSE Date Sheet Release Date:<strong> 12 January 2023.</strong></li>
+									<li>RBSE Class 10th Exam Date: <strong>31 March – 24 April 2023.</strong></li>
+									<li>RBSE Class 12th Exam Date:<strong> 9 March – 12 April 2023.</strong></li>
+									<li>Start time for RBSE Board Exam 2023: <strong>8:30 AM.</strong></li>
+									<li>End Time for RBSE Board Exam 2023: <strong>11:45 AM.</strong></li>
+									<li>Class 10, 12th All Stream Result Available: Update Soon.</li>
+									<li>Toppers List Available Soon.</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Important Date</strong></span></p>
+								<p><span style="text-decoration: underline;"><strong>Course /RBSE 10th, 12th Exam
+											Name</strong></span></p>
 								<ul>
-									<li>Opening Date for Submission of Online Form: <strong>16 August 2023.</strong>
-									</li>
-									<li>Closing Date for Submission of Online Form:<strong> 11 September 2023.</strong>
-									</li>
+									<li>Rajasthan Board of Secondary Education (RBSE) Matriculation and Inter
+										examinations Exam Date</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Application Fee</strong></span></p>
-								<ul>
-									<li>General/OBC candidate&#8217;s application fee <strong>Rs. 1500/-</strong></li>
-									<li>SC/ST/PWD candidate&#8217;s application fee is <strong>Rs.800/-</strong></li>
-								</ul>
-								<p><span style="text-decoration: underline;"><strong style="font-size: inherit;">Salary
-											Details</strong></span></p>
-								<ul>
-									<li>Group A, B, and C post candidate&#8217;s salary <strong>Rs. 18000/- to
-											177500/-</strong></li>
-								</ul>
-								<p><span style="text-decoration: underline;"><strong style="font-size: inherit;">Age
-											Limit</strong></span></p>
-								<ul>
-									<li>Minimum Age: <strong>18 years.</strong></li>
-									<li>Maximum Age: <strong>50 years.</strong></li>
-								</ul>
-								<p><span style="text-decoration: underline;"><strong>Selection Process</strong></span>
-								</p>
-								<ul>
-									<li>Written Test.</li>
-									<li>Personal Interview.</li>
-								</ul>
-								<p><span style="text-decoration: underline;"><strong>Vacancy Details</strong></span></p>
-								<ul>
-									<li>Group A: <strong>8 Post.</strong></li>
-									<li>Group B: <strong>3 Post.</strong></li>
-									<li>Group C: <strong>24 Post.</strong></li>
-								</ul>
-								<p><strong style="font-size: inherit;"><span style="text-decoration: underline;">How to
-											Apply</span></strong></p>
-								<ul>
-									<li>Mode of Apply: Through <strong>Online. </strong></li>
-									<li>Job Location: <strong>Bathinda.</strong></li>
-								</ul>
-								<p style="text-align: center;"><span style="color: #000000;"><b><strong>AIIMS Bathinda
-												Recruitment Notification</strong> Vacancy Details </b></span><b><span
-											style="color: #000000;">Total: 35 P</span></b><b
-										style="font-family: inherit; font-size: inherit;"><span
-											style="color: #000000;">osts</span></b><b><span
-											style="color: #000000;"><br />
-										</span><span style="color: #000000;">Interested Candidates Can Read the Full
-											Notification Before Apply Online</span></b></p>
+								<h3 style="text-align: center;"><span style="text-decoration: underline;">RBSE 10th
+										Class Time Table 2023</span></h3>
 								<table
 									style="height: auto; width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;"
 									border="1">
 									<tbody>
 										<tr>
-											<td style="width: 50%; text-align: center;">Apply Online</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://jobapply.in/bel2023panCHKULA/"
-													rel="nofollow noopener">Click Here</a></td>
+											<td style="width: 99.8348%; text-align: center;" colspan="2">RBSE Exam Date
+												Sheet 2023 Class 10</td>
 										</tr>
 										<tr>
-											<td style="width: 50%; text-align: center;">Notification</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://www.placementstore.in/category/notification.php?id=1rY8b-hViwKsLS7abcmKe-LiWPsbuX8rP&amp;name=AIIMS%20Bathinda%20Group%20A,%20B,%20C%2035%20Post%20Notification%202023%20Apply%20Online"
-													rel="nofollow noopener">Click Here</a></td>
+											<td style="width: 49.9174%; text-align: center;" width="254">16 March 2023
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">English</td>
 										</tr>
 										<tr>
-											<td style="width: 50%; text-align: center;">Home Page</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://sarkariresult.app/">Click Here</a></td>
+											<td style="width: 49.9174%; text-align: center;" width="254">21 March 2023
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Hindi</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%; text-align: center;" width="254">25 March 2023
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Social Science
+											</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%; text-align: center;" width="254">29 March 2023
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Visit the link
+												given below download the complete RBSE Class 10th Date sheet</td>
 										</tr>
 									</tbody>
 								</table>
+								<p><span style="text-decoration: underline;"><strong>RBSE Time Table 2023 Class 10, 12
+											Exam Mode of Examination</strong>
+										<div data-ad-id="19276"
+											style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
+											class="afw afw-ga afw_ad afwadid-19276  ">
+											<script async
+												src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+												</script>
+											<ins class="adsbygoogle"
+												style="background:none;display:inline-block;max-width:800px;width:100%;height:50px;max-height:50px;"
+												data-ad-client="ca-pub-5556269545614517" data-ad-slot="4759425360"
+												data-ad-format="auto" data-full-width-responsive="true">
+											</ins>
+											<script>
+												(adsbygoogle = window.adsbygoogle || []).push({});
+											</script>
+										</div>
+									</span></p>
+								<ul>
+									<li style="list-style-type: none;">
+										<ul>
+											<li style="list-style-type: none;">
+												<ul>
+													<li>Written Examination.</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+								<p><span style="text-decoration: underline;"><strong>RBSE Class 10th, 12th  Exam Date
+											Status</strong></span></p>
+								<ul>
+									<li style="list-style-type: none;">
+										<ul>
+											<li style="list-style-type: none;">
+												<ul>
+													<li>RBSE 10th Time Table Declared Date: <strong>12 January
+															2023</strong></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+								<h3 style="text-align: center;">RBSE 12th Class Time Table 2023</h3>
+								<table
+									style="height: auto; width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;"
+									border="1">
+									<tbody>
+										<tr>
+											<td style="width: 99.8348%; text-align: center;" colspan="2">RBSE Exam Date
+												Sheet 2023 Class 12</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%;" width="254">
+												<p style="text-align: center;">9 March 2023</p>
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Psychology</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%;" width="254">
+												<p style="text-align: center;">10 March 2023</p>
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Public
+												Administration</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%;" width="254">
+												<p style="text-align: center;">11 March 2023</p>
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Environmental
+												Science</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%;">
+												<p style="text-align: center;">13 March 2023</p>
+											</td>
+											<td style="width: 49.9174%; text-align: center;">Physical Education</td>
+										</tr>
+										<tr>
+											<td style="width: 49.9174%;" width="254">
+												<p style="text-align: center;">14 March 2023</p>
+											</td>
+											<td style="width: 49.9174%; text-align: center;" width="597">Visit the link
+												given below to download the complete RBSE Class 12th Date sheet</td>
+										</tr>
+									</tbody>
+								</table>
+								<p><span style="text-decoration: underline;"><strong>How to Check RBSE 10th,12th Class
+											Time Table 2023</strong></span></p>
+								<ul>
+									<li><strong>Step 1:</strong> For please visit the RBSE website</li>
+									<li><strong>Step 2:</strong> Then check the RBSE 10th Time Table 2023 as well as
+										RBSE 12th Time Table 2023.</li>
+									<li><strong>Step 3: </strong>Click on the 12th Class ka Time Table option on the
+										home page.</li>
+									<li><strong>Step 4:</strong> Also, don’t forget to click on submit option.</li>
+									<li><strong>Step 5:</strong> After clicking, your RBSE Time Table 2023 will open in
+										front of you.</li>
+									<li><strong>Step 6:</strong> Save RBSE 12th Time Table 2023 pdf and download the
+										12th Class Time Table 2023 for future reference as well.</li>
+								</ul>
+								<p style="text-align: center;"><span style="color: #000000;"><b>Sarkari Result RBSE Date
+											Sheet 2023 10th, 12th Download Direct Link</b></span></p>
+								<ul>
+									<li>Download Class 10 Time Table: <a
+											href="https://www.placementstore.in/category/notification.php?id=1tAKi98YL3ZKvEE_5heWAg3yWCmjxsq_2&amp;name=RBSE%20Class%2010th%20Time%20Table%20Notification%202023"
+											rel="nofollow noopener">Click Here</a></li>
+									<li>Download Class 12 Time Table: <a
+											href="https://www.placementstore.in/category/notification.php?id=1ZdpsyVsWW8FjoKkRi-NQissMBRzqNjRl&amp;name=RBSE%20Class%2012th%20Time%20Table%20Notification%202023"
+											rel="nofollow noopener">Click Here</a></li>
+									<li>RBSE Admit Card Download Link: <a href="https://rajeduboard.rajasthan.gov.in/"
+											rel="nofollow noopener">Click Here</a></li>
+									<li>Official Website: <a href="https://rajeduboard.rajasthan.gov.in/"
+											rel="nofollow noopener">Click Here</a></li>
+								</ul>
 							</div>
 							<footer class="entry-meta" aria-label="Entry meta">
 								<span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
@@ -160,11 +260,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
-										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
-										rel="category tag">Latest Notification</a></span>
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
+										rel="category tag">Govt Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -175,8 +273,8 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/kondagaon-district-recruitment/"
-												rel="prev">Kondagaon District Recruitment 2023 Officer, Manager, Asst 20
+												href="allahabad-cantt-recruitment/"
+												rel="prev">Allahabad Cantt Recruitment 2023 Assistant, Teacher, JE 12
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -187,9 +285,9 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/"
-												rel="next">BEL Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34
-												Post</a></span></div>
+												href="haryana-roadways-kaithal-bharti/"
+												rel="next">Haryana Roadways Kaithal Recruitment 2023 Apply Now 34
+												Posts</a></span></div>
 								</nav>
 							</footer>
 						</div>
@@ -199,7 +297,7 @@
 							<div id="respond" class="comment-respond">
 								<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a
 											rel="nofollow" id="cancel-comment-reply-link"
-											href="/aiims-bathinda-group-a-b-c-job/#respond" style="display:none;">Cancel
+											href="/rbse-time-table-result-2023/#respond" style="display:none;">Cancel
 											reply</a></small></h3>
 								<form action="https://www.sarkariresult.app/wp-comments-post.php" method="post"
 									id="commentform" class="comment-form" novalidate>
@@ -220,14 +318,14 @@
 									<div class="uncr-g-recaptcha"></div>
 									<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit"
 											value="Post Comment" /> <input type="hidden" name="comment_post_ID"
-											value="164099" id="comment_post_ID" />
+											value="124302" id="comment_post_ID" />
 										<input type="hidden" name="comment_parent" id="comment_parent" value="0" />
 									</p>
 									<p style="display: none;"><input type="hidden" id="akismet_comment_nonce"
-											name="akismet_comment_nonce" value="7486003aeb" /></p>
+											name="akismet_comment_nonce" value="bcfd3c2866" /></p>
 									<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea"
 												cols="45" rows="8" maxlength="100"></textarea></label><input
-											type="hidden" id="ak_js_1" name="ak_js" value="89" />
+											type="hidden" id="ak_js_1" name="ak_js" value="212" />
 										<script>document.getElementById("ak_js_1").setAttribute("value", (new Date()).getTime());</script>
 									</p>
 								</form>
@@ -254,85 +352,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
-									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
+								<a href="hscc-recruitment/">HSCC Recruitment 2023 Online
+									Application Assistant Manger 24 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
-									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
+								<a href="aiims-madurai-group-b-c-apply-online/">AIIMS
+									Madurai Group B &#038; C Recruitment 2023 Apply Now 08 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
-									August 2023) Today New Updates</a>
+								<a href="cbse-notification-pdf/">CBSE Recruitment 2023
+									Apply Advisor, Officer, Secretary 08 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
-									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
+								<a href="nit-manipur-non-teaching-job/">NIT Manipur
+									Recruitment 2023 Apply Online Non Teaching 48 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
-									Sarkari Result Group Direct Join Links</a>
+								<a href="western-command-csbo-recruitment/">Western
+									Command CSBO Recruitment 2023 Apply Now 17 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
-									2023 Executive, Trade Analyst 15 Post</a>
+								<a href="aai-junior-assistant-recruitment/">AAI Assistant
+									Recruitment 2023 Apply Now Jr Executive 342 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
-									(17 August 2023) New Updates</a>
+								<a href="dsssb-tgt-notification/">DSSSB Recruitment 2023
+									Apply Now Teaching &#038; Non Teaching 1841 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
-									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
-									(17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
-									10+2 latest Job (17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
-									2023 Notification, Eligibility, Application Form, Exam Date</a>
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (19
+									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
-									2023 Apply Online Asst, Officer, Typist 795 Post</a>
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
+									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
-									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+									(19 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/"
-									aria-current="page">AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35
-									Post</a>
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+									(19 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
-									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
+									10+2 latest Job (19 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
-									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
+								<a href="nit-raipur-associate-professor-job/">NIT Raipur
+									Recruitment 2023 Apply Online Associate Professor Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
-									Recruitment 2023 Apply Now 138 Post</a>
+								<a href="goa-hrdc-recruitment/">Goa HRDC Recruitment 2023
+									Apply MTS, Driver, Asst 370 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
-									Officer Recruitment 2023 Apply Now 7276 Posts</a>
+								<a href="ssc-mts-notification-pdf/">SSC MTS, Havaldar
+									Admit Card 2023 Paper 1 Exam Region Wise Hall Ticket</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
-									Recruitment 2023 Apply Now 226 Post</a>
+								<a href="appsc-amvi-jobs/">APPSC AMVI Recruitment 2023
+									Asst Motor Vehicle Inspector 17 Post</a>
+							</li>
+							<li>
+								<a href="northern-railway-sta-recruitment/">Northern
+									Railway STA Recruitment 2023 Technical Associate 93 Post</a>
+							</li>
+							<li>
+								<a href="hal-apprentice-job/">HAL Apprentice Recruitment
+									2023 Apply Now 1060 Posts</a>
+							</li>
+							<li>
+								<a href="bel-bangalore-non-executive-job/">BEL Bangalore
+									Recruitment 2023 Apply Online Non Executive 63 Post</a>
 							</li>
 						</ul>
 					</aside>
@@ -442,7 +539,7 @@
 	<script
 		id="generate-a11y">!function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("mousedown", function () { e.classList.add("using-mouse") }), e.addEventListener("keydown", function () { e.classList.remove("using-mouse") }) } }();</script>
 	<script id="adsforwp-ads-front-js-js-extra">
-		var adsforwp_obj = { "ajax_url": "https:\/\/www.sarkariresult.app\/wp-admin\/admin-ajax.php", "adsforwp_front_nonce": "c64baa44c7" };
+		var adsforwp_obj = { "ajax_url": "https:\/\/www.sarkariresult.app\/wp-admin\/admin-ajax.php", "adsforwp_front_nonce": "c389eba96c" };
 	</script>
 	<script
 		src="https://www.sarkariresult.app/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.24"
@@ -516,7 +613,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

@@ -1,4 +1,4 @@
-<?php include "include/header.php";?>
+<?php include "include/header.php"; ?>
 <head>
 	<title>Latest Sarkari Result 2023 | Recruitment Results | All Exam Result &#8211; Sarkari Result</title>
 </head>
@@ -25,12 +25,12 @@
 								</div>
 							</header>
 							<div class="entry-content" itemprop="text">
-								<p>Get the update for all <a href="https://sarkariresultsapp.com/latest-jobs.php">Sakari
+								<p>Get the update for all <a href="latest-jobs.php">Sakari
 										Result</a> in the various <a
-										href="https://sarkariresultsapp.com/sarkari-exam.php">Sarkari Exam</a> Results like
-									Entrance Results, <a href="https://sarkariresultsapp.com/railway-jobs.php">Railway</a>
+										href="sarkari-exam.php">Sarkari Exam</a> Results like
+									Entrance Results, <a href="railway-jobs.php">Railway</a>
 									Sarkari Results, Mains Results, Shikshamitra Sarkari Results, <a
-										href="https://sarkariresultsapp.com/rojgar-results.php">Rojgar Results</a>, and
+										href="rojgar-results.php">Rojgar Results</a>, and
 									more. Here we Sarkari Result /All Exam Result Frequently Updated.</p>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -60,190 +60,190 @@
 												<td>
 													<ul class="su-posts su-posts-list-loop">
 														<li id="su-post-63747" class="su-post"><a
-																href="https://sarkariresultsapp.com/uppsc-pre-2022-notification-out.php">UPPSC
+																href="uppsc-pre-2022-notification-out.php">UPPSC
 																Cut Off 2022 Prelims Direct Link PCS Pre Result, Weit
 																List</a>
 															</span></li>
 														<li id="su-post-84646" class="su-post"><a
-																href="https://sarkariresultsapp.com/upsc-cds-ii-online-application.php">UPSC
+																href="upsc-cds-ii-online-application.php">UPSC
 																CDS II 2022 Result, Merit List, Cut Off Marks, Qualified
 																Candidates</a>
 															</span></li>
 														<li id="su-post-159623" class="su-post"><a
-																href="https://sarkariresultsapp.com/bihar-board-10th-compartmental-result-2023.php">Bihar
+																href="bihar-board-10th-compartmental-result-2023.php">Bihar
 																Board 10th Compartmental Result 2023 Check BSEB Matric
 																Compartmental Result</a>
 															</span></li>
 														<li id="su-post-159439" class="su-post"><a
-																href="https://sarkariresultsapp.com/maharashtra-board-ssc-result-2023.php">Maharashtra
+																href="maharashtra-board-ssc-result-2023.php">Maharashtra
 																Board SSC Result 2023 Check Live MSBSHSE 10th Result</a>
 															</span></li>
 														<li id="su-post-159432" class="su-post"><a
-																href="https://sarkariresultsapp.com/rbse-10th-result-2023-link.php">RBSE
+																href="rbse-10th-result-2023-link.php">RBSE
 																10th Result 2023 Link Check Rajasthan Board 10th Result
 																Topper List</a>
 															</span></li>
 														<li id="su-post-158791" class="su-post"><a
-																href="https://sarkariresultsapp.com/kerala-plus-two-result-2023.php">Kerala
+																href="kerala-plus-two-result-2023.php">Kerala
 																Plus Two Result 2023 Live Update Kerala 12th Result Name
 																Wise Check</a>
 															</span></li>
 														<li id="su-post-158781" class="su-post"><a
-																href="https://sarkariresultsapp.com/rbse-12th-result-2023.php">RBSE
+																href="rbse-12th-result-2023.php">RBSE
 																12th Arts Result 2023 Check Link Rajasthan Board 12th
 																Arts Result</a>
 															</span></li>
 														<li id="su-post-158771" class="su-post"><a
-																href="https://sarkariresultsapp.com/hpbose-10th-result-2023.php">HPBOSE
+																href="hpbose-10th-result-2023.php">HPBOSE
 																10th Result 2023 Link Check HP Board Class 10th Term 2
 																Result</a>
 															</span></li>
 														<li id="su-post-158763" class="su-post"><a
-																href="https://sarkariresultsapp.com/mp-board-result-2023.php">MP
+																href="mp-board-result-2023.php">MP
 																Board Result 2023 Check (Live) MPBSE Class 10th, 12th
 																Result Name Wise</a>
 															</span></li>
 														<li id="su-post-157203" class="su-post"><a
-																href="https://sarkariresultsapp.com/hbse-10th-12th-result-2023-link.php">HBSE
+																href="hbse-10th-12th-result-2023-link.php">HBSE
 																10th, 12th Result 2023 Direct Link Haryana Board Class
 																10, 12 Result Name Wise</a>
 															</span></li>
 														<li id="su-post-157898" class="su-post"><a
-																href="https://sarkariresultsapp.com/kerala-board-sslc-result-2023.php">Kerala
+																href="kerala-board-sslc-result-2023.php">Kerala
 																Board SSLC Result 2023 Check 10th Class Result with Roll
 																No &#038; Name Wise Live</a>
 															</span></li>
 														<li id="su-post-157906" class="su-post"><a
-																href="https://sarkariresultsapp.com/tn-board-sslc-1-hsc-result-2023.php">TN
+																href="tn-board-sslc-1-hsc-result-2023.php">TN
 																10th Result 2023 Check Tamilnadu Board SSLC &#038; HSC
 																Result Link</a>
 															</span></li>
 														<li id="su-post-157892" class="su-post"><a
-																href="https://sarkariresultsapp.com/wb-madhyamik-result-2023.php">WB
+																href="wb-madhyamik-result-2023.php">WB
 																Madhyamik Result 2023 Check (Live) West Bengal 10th
 																Result</a>
 															</span></li>
 														<li id="su-post-157742" class="su-post"><a
-																href="https://sarkariresultsapp.com/bse-odisha-10th-result-2023-check.php">BSE
+																href="bse-odisha-10th-result-2023-check.php">BSE
 																Odisha 10th Result 2023 Check (Live) Odisha HSC Result
 																Update</a>
 															</span></li>
 														<li id="su-post-157188" class="su-post"><a
-																href="https://sarkariresultsapp.com/hbse-result-2023.php">HBSE
+																href="hbse-result-2023.php">HBSE
 																Result 2023 Check Haryana Board HBSE Class 10, 12 Result
 																Link</a>
 															</span></li>
 														<li id="su-post-157244" class="su-post"><a
-																href="https://sarkariresultsapp.com/hbse-10th-result-2023.php">HBSE
+																href="hbse-10th-result-2023.php">HBSE
 																10th Result 2023 Declared Haryana Board Class 10 Result
 																Name Wise</a>
 															</span></li>
 														<li id="su-post-157224" class="su-post"><a
-																href="https://sarkariresultsapp.com/hbse-12th-result-2023.php">HBSE
+																href="hbse-12th-result-2023.php">HBSE
 																12th Result 2023 Check Link Haryana Board Class 12th
 																Result Name Wise</a>
 															</span></li>
 														<li id="su-post-155459" class="su-post"><a
-																href="https://sarkariresultsapp.com/cbse-board-12th-result-2023.php">CBSE
+																href="cbse-board-12th-result-2023.php">CBSE
 																Board 12th Result 2023 Check CBSE Class 12 Result,
 																Topper List Link</a>
 															</span></li>
 														<li id="su-post-155454" class="su-post"><a
-																href="https://sarkariresultsapp.com/cbse-board-10th-result-2023.php">CBSE
+																href="cbse-board-10th-result-2023.php">CBSE
 																Board 10th Result 2023 Check Online CBSE Class 10 Result
 																Topper List</a>
 															</span></li>
 														<li id="su-post-155408" class="su-post"><a
-																href="https://sarkariresultsapp.com/cbse-board-result-2023.php">CBSE
+																href="cbse-board-result-2023.php">CBSE
 																Board Result 2023 Check Link CBSE Class 10th, 12th Exam
 																Result</a>
 															</span></li>
 														<li id="su-post-156562" class="su-post"><a
-																href="https://sarkariresultsapp.com/mbse-hslc-result-2023.php">MBSE
+																href="mbse-hslc-result-2023.php">MBSE
 																HSLC Result 2023 Link Check Mizoram Board Class 10
 																Result</a>
 															</span></li>
 														<li id="su-post-156351" class="su-post"><a
-																href="https://sarkariresultsapp.com/ts-ssc-result-2023.php">TS
+																href="ts-ssc-result-2023.php">TS
 																SSC Result 2023 Live Check Telangana Board 10th Result
 																Manabadi</a>
 															</span></li>
 														<li id="su-post-156329" class="su-post"><a
-																href="https://sarkariresultsapp.com/cgbse-10th-12th-result.php">Chhattisgarh
+																href="cgbse-10th-12th-result.php">Chhattisgarh
 																Board Result 2023 Check CGBSE 10th, 12th Result Link</a>
 															</span></li>
 														<li id="su-post-142228" class="su-post"><a
-																href="https://sarkariresultsapp.com/cgbse-10th-result-2023.php">CGBSE
+																href="cgbse-10th-result-2023.php">CGBSE
 																10th Result 2023 Check Link Chhattisgarh Board 10th,
 																12th Result</a>
 															</span></li>
 														<li id="su-post-90646" class="su-post"><a
-																href="https://sarkariresultsapp.com/uppsc-mines-inspector-recruitment.php">UPPSC
+																href="uppsc-mines-inspector-recruitment.php">UPPSC
 																Mines Inspector Mains Exam Result 2023 Release for 55
 																Post</a>
 															</span></li>
 														<li id="su-post-50126" class="su-post"><a
-																href="https://sarkariresultsapp.com/uppsc-staff-nurse-vacancy.php">UPPSC
+																href="uppsc-staff-nurse-vacancy.php">UPPSC
 																Staff Nurse Final Result 2023 Check Online Manis Exam
 																Selected List</a>
 															</span></li>
 														<li id="su-post-156178" class="su-post"><a
-																href="https://sarkariresultsapp.com/mbose-hsslc-result-2023.php">MBOSE
+																href="mbose-hsslc-result-2023.php">MBOSE
 																HSSLC Result 2023 Link (Live) Meghalaya Class 12th
 																Result</a>
 															</span></li>
 														<li id="su-post-156169" class="su-post"><a
-																href="https://sarkariresultsapp.com/ts-inter-result-2023.php">TS
+																href="ts-inter-result-2023.php">TS
 																Inter Result 2023 Check Live Telangana 1st, 2nd Inter
 																Result Manabadi</a>
 															</span></li>
 														<li id="su-post-155968" class="su-post"><a
-																href="https://sarkariresultsapp.com/tn-12th-result-2023.php">TN
+																href="tn-12th-result-2023.php">TN
 																12th Result 2023 Check Link Tamil Nadu Plus One Result
 																Name Wise</a>
 															</span></li>
 														<li id="su-post-155740" class="su-post"><a
-																href="https://sarkariresultsapp.com/goa-board-12th-result-2023.php">Goa
+																href="goa-board-12th-result-2023.php">Goa
 																Board 12th Result 2023 Check Link GBSHSE HSSC Result
 																Toppers List</a>
 															</span></li>
 														<li id="su-post-155686" class="su-post"><a
-																href="https://sarkariresultsapp.com/ap-ssc-result-2023.php">AP
+																href="ap-ssc-result-2023.php">AP
 																SSC Result 2023 Live Update Manabadi SSC Result 2023
 																AP</a>
 															</span></li>
 														<li id="su-post-155013" class="su-post"><a
-																href="https://sarkariresultsapp.com/gseb-hsc-science-result-2023.php">GSEB
+																href="gseb-hsc-science-result-2023.php">GSEB
 																HSC Science Result 2023 Check Gujarat Board 12th Science
 																Result Link</a>
 															</span></li>
 														<li id="su-post-154055" class="su-post"><a
-																href="https://sarkariresultsapp.com/ap-1st-2nd-inter-result-manabadi.php">AP
+																href="ap-1st-2nd-inter-result-manabadi.php">AP
 																Inter Result 2023 Live Update AP 1st, 2nd Inter Result
 																Manabadi bie.ap.gov.in</a>
 															</span></li>
 														<li id="su-post-141116" class="su-post"><a
-																href="https://sarkariresultsapp.com/up-board-result-2023.php">UP
+																href="up-board-result-2023.php">UP
 																Board Result 2023 Check UPMSP UP Board 10th, 12th Result
 																Roll No and Name Wise Link</a>
 															</span></li>
 														<li id="su-post-141185" class="su-post"><a
-																href="https://sarkariresultsapp.com/up-board-10th-result-2023.php">UP
+																href="up-board-10th-result-2023.php">UP
 																Board 10th Result 2023 Check Online UPMSP High School
 																Result Link</a>
 															</span></li>
 														<li id="su-post-141421" class="su-post"><a
-																href="https://sarkariresultsapp.com/up-board-12th-result-2023.php">UP
+																href="up-board-12th-result-2023.php">UP
 																Board 12th Result 2023 Check UPMSP Inter Result Name
 																Wise List</a>
 															</span></li>
 														<li id="su-post-115335" class="su-post"><a
-																href="https://sarkariresultsapp.com/punjab-and-haryana-high-court-recruitment.php">Punjab
+																href="punjab-and-haryana-high-court-recruitment.php">Punjab
 																Haryana High Court Clerk Result 2023 Download Link Cut
 																Off, Merit List</a>
 															</span></li>
 														<li id="su-post-145565" class="su-post"><a
-																href="https://sarkariresultsapp.com/ugc-net-answer-key-2023-link.php">UGC
+																href="ugc-net-answer-key-2023-link.php">UGC
 																NET Result 2023 Link » UGC NET Dec Exam Cut Off Marks,
 																Merit List</a>
 															</span></li>
@@ -252,7 +252,7 @@
 															style="color: #0000ff;"><strong
 																style="float: right; padding: 0px 6px;"><a
 																	style="color: #0000ee; text-decoration: underline;"
-																	href="https://sarkariresultsapp.com/"
+																	href=""
 																	target="_blank" rel="noopener noreferrer">More
 																	»</a></strong></span></span>
 												</td>
@@ -269,7 +269,7 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://sarkariresultsapp.com/govt-jobs/" rel="category tag">Govt
+										href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -281,7 +281,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://sarkariresultsapp.com/msetcl-recruitment/"
+												href="msetcl-recruitment/"
 												rel="prev">MSETCL Recruitment 2021 Apply Online Electrician 28
 												Posts</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -293,7 +293,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://sarkariresultsapp.com/gauhati-high-court-law-clerk-jobs/"
+												href="gauhati-high-court-law-clerk-jobs/"
 												rel="next">Gauhati High Court Law Clerk Recruitment 2021 Apply Now 12
 												Post</a></span></div>
 								</nav>
@@ -325,7 +325,7 @@
 													<cite itemprop="name" class="fn">Prashant</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-9972"> <time
+													<a href="results/#comment-9972"> <time
 															datetime="2020-12-03T18:06:12+05:30"
 															itemprop="datePublished">
 															3 Dec 2020 at 18:06 </time>
@@ -365,7 +365,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://sarkariresultsapp.com/results/#comment-9973">
+																href="results/#comment-9973">
 																<time datetime="2020-12-03T18:07:14+05:30"
 																	itemprop="datePublished">
 																	3 Dec 2020 at 18:07 </time>
@@ -409,7 +409,7 @@
 													<cite itemprop="name" class="fn">Anju devi</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-14869">
+													<a href="results/#comment-14869">
 														<time datetime="2021-02-26T18:08:13+05:30"
 															itemprop="datePublished">
 															26 Feb 2021 at 18:08 </time>
@@ -449,7 +449,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://sarkariresultsapp.com/results/#comment-14871">
+																href="results/#comment-14871">
 																<time datetime="2021-02-26T18:13:05+05:30"
 																	itemprop="datePublished">
 																	26 Feb 2021 at 18:13 </time>
@@ -491,7 +491,7 @@
 																</div>
 																<div class="entry-meta comment-metadata">
 																	<a
-																		href="https://sarkariresultsapp.com/results/#comment-36606">
+																		href="results/#comment-36606">
 																		<time datetime="2022-03-30T16:02:06+05:30"
 																			itemprop="datePublished">
 																			30 Mar 2022 at 16:02 </time>
@@ -536,7 +536,7 @@
 													<cite itemprop="name" class="fn">Vachan pal</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-15150">
+													<a href="results/#comment-15150">
 														<time datetime="2021-03-04T10:36:16+05:30"
 															itemprop="datePublished">
 															4 Mar 2021 at 10:36 </time>
@@ -574,7 +574,7 @@
 													<cite itemprop="name" class="fn">Amit Kumar Singh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16126">
+													<a href="results/#comment-16126">
 														<time datetime="2021-03-24T09:49:55+05:30"
 															itemprop="datePublished">
 															24 Mar 2021 at 09:49 </time>
@@ -612,7 +612,7 @@
 													<cite itemprop="name" class="fn">Amit Kumar Singh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16127">
+													<a href="results/#comment-16127">
 														<time datetime="2021-03-24T09:50:21+05:30"
 															itemprop="datePublished">
 															24 Mar 2021 at 09:50 </time>
@@ -653,7 +653,7 @@
 													<cite itemprop="name" class="fn">Tanu verma</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16132">
+													<a href="results/#comment-16132">
 														<time datetime="2021-03-24T10:40:39+05:30"
 															itemprop="datePublished">
 															24 Mar 2021 at 10:40 </time>
@@ -691,7 +691,7 @@
 													<cite itemprop="name" class="fn">Tanu verma</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16133">
+													<a href="results/#comment-16133">
 														<time datetime="2021-03-24T10:41:44+05:30"
 															itemprop="datePublished">
 															24 Mar 2021 at 10:41 </time>
@@ -729,7 +729,7 @@
 													<cite itemprop="name" class="fn">Sudama kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16240">
+													<a href="results/#comment-16240">
 														<time datetime="2021-03-24T19:51:34+05:30"
 															itemprop="datePublished">
 															24 Mar 2021 at 19:51 </time>
@@ -767,7 +767,7 @@
 													<cite itemprop="name" class="fn">Md Esphak</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16253">
+													<a href="results/#comment-16253">
 														<time datetime="2021-03-24T22:11:32+05:30"
 															itemprop="datePublished">
 															24 Mar 2021 at 22:11 </time>
@@ -805,7 +805,7 @@
 													<cite itemprop="name" class="fn">Amrendra kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16292">
+													<a href="results/#comment-16292">
 														<time datetime="2021-03-25T06:54:40+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 06:54 </time>
@@ -843,7 +843,7 @@
 													<cite itemprop="name" class="fn">Mukesh Kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16329">
+													<a href="results/#comment-16329">
 														<time datetime="2021-03-25T10:52:05+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 10:52 </time>
@@ -881,7 +881,7 @@
 													<cite itemprop="name" class="fn">Ajit kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16355">
+													<a href="results/#comment-16355">
 														<time datetime="2021-03-25T13:46:26+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 13:46 </time>
@@ -919,7 +919,7 @@
 													<cite itemprop="name" class="fn">Sunil Kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16356">
+													<a href="results/#comment-16356">
 														<time datetime="2021-03-25T13:46:33+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 13:46 </time>
@@ -957,7 +957,7 @@
 													<cite itemprop="name" class="fn">Abhishek Kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16364">
+													<a href="results/#comment-16364">
 														<time datetime="2021-03-25T14:22:55+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 14:22 </time>
@@ -995,7 +995,7 @@
 													<cite itemprop="name" class="fn">Ashish singh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16394">
+													<a href="results/#comment-16394">
 														<time datetime="2021-03-25T16:17:05+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 16:17 </time>
@@ -1033,7 +1033,7 @@
 													<cite itemprop="name" class="fn">Shivam Kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16405">
+													<a href="results/#comment-16405">
 														<time datetime="2021-03-25T16:43:01+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 16:43 </time>
@@ -1071,7 +1071,7 @@
 													<cite itemprop="name" class="fn">Pappu bharti</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16408">
+													<a href="results/#comment-16408">
 														<time datetime="2021-03-25T16:47:37+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 16:47 </time>
@@ -1109,7 +1109,7 @@
 													<cite itemprop="name" class="fn">Bipeen kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16443">
+													<a href="results/#comment-16443">
 														<time datetime="2021-03-25T18:11:27+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 18:11 </time>
@@ -1147,7 +1147,7 @@
 													<cite itemprop="name" class="fn">Pawan arya</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16448">
+													<a href="results/#comment-16448">
 														<time datetime="2021-03-25T18:23:23+05:30"
 															itemprop="datePublished">
 															25 Mar 2021 at 18:23 </time>
@@ -1185,7 +1185,7 @@
 													<cite itemprop="name" class="fn">Gudiya joshi</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16542">
+													<a href="results/#comment-16542">
 														<time datetime="2021-03-26T15:08:06+05:30"
 															itemprop="datePublished">
 															26 Mar 2021 at 15:08 </time>
@@ -1223,7 +1223,7 @@
 													<cite itemprop="name" class="fn">MONA</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16555">
+													<a href="results/#comment-16555">
 														<time datetime="2021-03-26T15:37:17+05:30"
 															itemprop="datePublished">
 															26 Mar 2021 at 15:37 </time>
@@ -1261,7 +1261,7 @@
 													<cite itemprop="name" class="fn">Abhishek kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16565">
+													<a href="results/#comment-16565">
 														<time datetime="2021-03-26T15:52:57+05:30"
 															itemprop="datePublished">
 															26 Mar 2021 at 15:52 </time>
@@ -1299,7 +1299,7 @@
 													<cite itemprop="name" class="fn">Abhishek kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-16566">
+													<a href="results/#comment-16566">
 														<time datetime="2021-03-26T15:53:46+05:30"
 															itemprop="datePublished">
 															26 Mar 2021 at 15:53 </time>
@@ -1345,7 +1345,7 @@
 													<cite itemprop="name" class="fn">Karanjeet roy</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17138">
+													<a href="results/#comment-17138">
 														<time datetime="2021-04-04T10:42:40+05:30"
 															itemprop="datePublished">
 															4 Apr 2021 at 10:42 </time>
@@ -1383,7 +1383,7 @@
 													<cite itemprop="name" class="fn">Parbhu kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17174">
+													<a href="results/#comment-17174">
 														<time datetime="2021-04-04T17:42:51+05:30"
 															itemprop="datePublished">
 															4 Apr 2021 at 17:42 </time>
@@ -1423,7 +1423,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://sarkariresultsapp.com/results/#comment-36664">
+																href="results/#comment-36664">
 																<time datetime="2022-03-31T15:01:15+05:30"
 																	itemprop="datePublished">
 																	31 Mar 2022 at 15:01 </time>
@@ -1464,7 +1464,7 @@
 													<cite itemprop="name" class="fn">SUMAN KUMAR</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17178">
+													<a href="results/#comment-17178">
 														<time datetime="2021-04-04T20:06:51+05:30"
 															itemprop="datePublished">
 															4 Apr 2021 at 20:06 </time>
@@ -1502,7 +1502,7 @@
 													<cite itemprop="name" class="fn">Gautam Kumar Sharma</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17250">
+													<a href="results/#comment-17250">
 														<time datetime="2021-04-05T15:09:01+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 15:09 </time>
@@ -1540,7 +1540,7 @@
 													<cite itemprop="name" class="fn">Kishan kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17265">
+													<a href="results/#comment-17265">
 														<time datetime="2021-04-05T15:56:31+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 15:56 </time>
@@ -1578,7 +1578,7 @@
 													<cite itemprop="name" class="fn">Sahil kha</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17270">
+													<a href="results/#comment-17270">
 														<time datetime="2021-04-05T16:00:59+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 16:00 </time>
@@ -1616,7 +1616,7 @@
 													<cite itemprop="name" class="fn">Sonu Kumar sharmasadheli</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17286">
+													<a href="results/#comment-17286">
 														<time datetime="2021-04-05T16:28:53+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 16:28 </time>
@@ -1654,7 +1654,7 @@
 													<cite itemprop="name" class="fn">Pankaj Mandal</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17293">
+													<a href="results/#comment-17293">
 														<time datetime="2021-04-05T16:36:41+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 16:36 </time>
@@ -1695,7 +1695,7 @@
 													<cite itemprop="name" class="fn">Sanjeet kumar ram</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17311">
+													<a href="results/#comment-17311">
 														<time datetime="2021-04-05T17:29:42+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 17:29 </time>
@@ -1735,7 +1735,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://sarkariresultsapp.com/results/#comment-32327">
+																href="results/#comment-32327">
 																<time datetime="2021-11-19T17:01:43+05:30"
 																	itemprop="datePublished">
 																	19 Nov 2021 at 17:01 </time>
@@ -1777,7 +1777,7 @@
 													<cite itemprop="name" class="fn">Jyotish kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17315">
+													<a href="results/#comment-17315">
 														<time datetime="2021-04-05T18:02:35+05:30"
 															itemprop="datePublished">
 															5 Apr 2021 at 18:02 </time>
@@ -1815,7 +1815,7 @@
 													<cite itemprop="name" class="fn">BIKASh kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-17559">
+													<a href="results/#comment-17559">
 														<time datetime="2021-04-09T16:07:04+05:30"
 															itemprop="datePublished">
 															9 Apr 2021 at 16:07 </time>
@@ -1853,7 +1853,7 @@
 													<cite itemprop="name" class="fn">Anuj Gupta</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-20346">
+													<a href="results/#comment-20346">
 														<time datetime="2021-05-21T09:13:11+05:30"
 															itemprop="datePublished">
 															21 May 2021 at 09:13 </time>
@@ -1891,7 +1891,7 @@
 													<cite itemprop="name" class="fn">Sujit kumar mehta</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-22673">
+													<a href="results/#comment-22673">
 														<time datetime="2021-06-19T19:41:24+05:30"
 															itemprop="datePublished">
 															19 Jun 2021 at 19:41 </time>
@@ -1929,7 +1929,7 @@
 													<cite itemprop="name" class="fn">Divyanshi</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-23385">
+													<a href="results/#comment-23385">
 														<time datetime="2021-07-05T12:30:27+05:30"
 															itemprop="datePublished">
 															5 Jul 2021 at 12:30 </time>
@@ -1967,7 +1967,7 @@
 													<cite itemprop="name" class="fn">Divyanshi</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-23388">
+													<a href="results/#comment-23388">
 														<time datetime="2021-07-05T12:36:00+05:30"
 															itemprop="datePublished">
 															5 Jul 2021 at 12:36 </time>
@@ -2007,7 +2007,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://sarkariresultsapp.com/results/#comment-36685">
+																href="results/#comment-36685">
 																<time datetime="2022-03-31T16:43:15+05:30"
 																	itemprop="datePublished">
 																	31 Mar 2022 at 16:43 </time>
@@ -2048,7 +2048,7 @@
 													<cite itemprop="name" class="fn">Keshavraj kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-23467">
+													<a href="results/#comment-23467">
 														<time datetime="2021-07-07T13:31:09+05:30"
 															itemprop="datePublished">
 															7 Jul 2021 at 13:31 </time>
@@ -2086,7 +2086,7 @@
 													<cite itemprop="name" class="fn">Ajay sharma</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-23823">
+													<a href="results/#comment-23823">
 														<time datetime="2021-07-15T12:11:14+05:30"
 															itemprop="datePublished">
 															15 Jul 2021 at 12:11 </time>
@@ -2124,7 +2124,7 @@
 													<cite itemprop="name" class="fn">Prashant yadav</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-24546">
+													<a href="results/#comment-24546">
 														<time datetime="2021-07-31T09:47:41+05:30"
 															itemprop="datePublished">
 															31 Jul 2021 at 09:47 </time>
@@ -2162,7 +2162,7 @@
 													<cite itemprop="name" class="fn">kundan kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-36525">
+													<a href="results/#comment-36525">
 														<time datetime="2022-03-29T19:39:04+05:30"
 															itemprop="datePublished">
 															29 Mar 2022 at 19:39 </time>
@@ -2200,7 +2200,7 @@
 													<cite itemprop="name" class="fn">Vipin kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-36795">
+													<a href="results/#comment-36795">
 														<time datetime="2022-04-04T08:28:50+05:30"
 															itemprop="datePublished">
 															4 Apr 2022 at 08:28 </time>
@@ -2238,7 +2238,7 @@
 													<cite itemprop="name" class="fn">Lockendra singh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-39933">
+													<a href="results/#comment-39933">
 														<time datetime="2022-06-01T14:56:17+05:30"
 															itemprop="datePublished">
 															1 Jun 2022 at 14:56 </time>
@@ -2279,7 +2279,7 @@
 													<cite itemprop="name" class="fn">Shiv kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-40151">
+													<a href="results/#comment-40151">
 														<time datetime="2022-06-04T22:15:07+05:30"
 															itemprop="datePublished">
 															4 Jun 2022 at 22:15 </time>
@@ -2320,7 +2320,7 @@
 													<cite itemprop="name" class="fn">Pankaj</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-40490">
+													<a href="results/#comment-40490">
 														<time datetime="2022-06-09T13:36:53+05:30"
 															itemprop="datePublished">
 															9 Jun 2022 at 13:36 </time>
@@ -2363,7 +2363,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://sarkariresultsapp.com/results/#comment-40491">
+																href="results/#comment-40491">
 																<time datetime="2022-06-09T13:37:50+05:30"
 																	itemprop="datePublished">
 																	9 Jun 2022 at 13:37 </time>
@@ -2403,7 +2403,7 @@
 													<cite itemprop="name" class="fn">Sunita</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-40713">
+													<a href="results/#comment-40713">
 														<time datetime="2022-06-12T15:59:20+05:30"
 															itemprop="datePublished">
 															12 Jun 2022 at 15:59 </time>
@@ -2441,7 +2441,7 @@
 													<cite itemprop="name" class="fn">Shailesh Youtuber</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-41088">
+													<a href="results/#comment-41088">
 														<time datetime="2022-06-18T13:07:27+05:30"
 															itemprop="datePublished">
 															18 Jun 2022 at 13:07 </time>
@@ -2482,7 +2482,7 @@
 													<cite itemprop="name" class="fn">Ajit</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-41813">
+													<a href="results/#comment-41813">
 														<time datetime="2022-06-25T19:43:15+05:30"
 															itemprop="datePublished">
 															25 Jun 2022 at 19:43 </time>
@@ -2520,7 +2520,7 @@
 													<cite itemprop="name" class="fn">Dharshika</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-41941">
+													<a href="results/#comment-41941">
 														<time datetime="2022-06-27T08:04:19+05:30"
 															itemprop="datePublished">
 															27 Jun 2022 at 08:04 </time>
@@ -2558,7 +2558,7 @@
 													<cite itemprop="name" class="fn">Shailesh chaurasiya</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-42534">
+													<a href="results/#comment-42534">
 														<time datetime="2022-07-04T11:50:10+05:30"
 															itemprop="datePublished">
 															4 Jul 2022 at 11:50 </time>
@@ -2596,7 +2596,7 @@
 													<cite itemprop="name" class="fn">Shailesh chaurasia</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-48101">
+													<a href="results/#comment-48101">
 														<time datetime="2022-09-20T14:17:45+05:30"
 															itemprop="datePublished">
 															20 Sep 2022 at 14:17 </time>
@@ -2634,7 +2634,7 @@
 													<cite itemprop="name" class="fn">Shailesh chaurasia</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-48103">
+													<a href="results/#comment-48103">
 														<time datetime="2022-09-20T14:19:22+05:30"
 															itemprop="datePublished">
 															20 Sep 2022 at 14:19 </time>
@@ -2672,7 +2672,7 @@
 													<cite itemprop="name" class="fn">Shailesh chaurasia</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-48104">
+													<a href="results/#comment-48104">
 														<time datetime="2022-09-20T14:20:00+05:30"
 															itemprop="datePublished">
 															20 Sep 2022 at 14:20 </time>
@@ -2710,7 +2710,7 @@
 													<cite itemprop="name" class="fn">NIRAJ kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-57004">
+													<a href="results/#comment-57004">
 														<time datetime="2023-04-25T13:44:19+05:30"
 															itemprop="datePublished">
 															25 Apr 2023 at 13:44 </time>
@@ -2748,7 +2748,7 @@
 													<cite itemprop="name" class="fn">Kunal Kushwah</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-57007">
+													<a href="results/#comment-57007">
 														<time datetime="2023-04-25T13:48:49+05:30"
 															itemprop="datePublished">
 															25 Apr 2023 at 13:48 </time>
@@ -2786,7 +2786,7 @@
 													<cite itemprop="name" class="fn">Divypakash kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-57092">
+													<a href="results/#comment-57092">
 														<time datetime="2023-04-28T10:15:44+05:30"
 															itemprop="datePublished">
 															28 Apr 2023 at 10:15 </time>
@@ -2825,7 +2825,7 @@
 													<cite itemprop="name" class="fn">Divypakash kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://sarkariresultsapp.com/results/#comment-57093">
+													<a href="results/#comment-57093">
 														<time datetime="2023-04-28T10:16:48+05:30"
 															itemprop="datePublished">
 															28 Apr 2023 at 10:16 </time>
@@ -2887,7 +2887,7 @@
 			</div>
 			<div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
 				<div class="inside-right-sidebar">
-					<aside id="custom_html-17" class="widget_text widget inner-padding widget_custom_html">
+					<!-- <aside id="custom_html-17" class="widget_text widget inner-padding widget_custom_html">
 						<h2 class="widget-title">★Like Us On Facebook★</h2>
 						<div class="textwidget custom-html-widget"><iframe loading="lazy" src="about:blank" width="300"
 								height="190" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
@@ -2898,92 +2898,76 @@
 									width="300" height="190" style="border:none;overflow:hidden" scrolling="no"
 									frameborder="0" allowtransparency="true"
 									allow="encrypted-media"></iframe></noscript></div>
-					</aside>
+					</aside> -->
 					<aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
-						<h2 class="widget-title">Recent Posts</h2>
-						<ul>
-							<li>
-								<a href="https://sarkariresultsapp.com/karnataka-bank-po-acs-notification/">Karnataka
-									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/gbpuat-teaching-personnel-job/">GBPUAT
-									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
-									August 2023) Today New Updates</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/cag-administrative-assistant-recruitment/">CAG
-									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/whatsapp-group-link/">WhatsApp Group Links 2023
-									Sarkari Result Group Direct Join Links</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/spices-board-india/">Spices Board Recruitment
-									2023 Executive, Trade Analyst 15 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
-									(17 August 2023) New Updates</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/iiit-allahabad-asst-professor-job/">IIIT
-									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
-									(17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/sarkari-result-10-2-latest-job/">Sarkari Result
-									10+2 latest Job (17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/high-court-jobs/">High Court Jobs 2023 Check
-									Today New Recruitment Notification</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/bihar-stet-2023-notification-out/">Bihar STET
-									2023 Notification, Eligibility, Application Form, Exam Date</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/midc-asst-officer-typist-job/">MIDC Recruitment
-									2023 Apply Online Asst, Officer, Typist 795 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/bel-ghaziabad-deputy-engineer-recruitment/">BEL
-									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
-									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/kondagaon-district-recruitment/">Kondagaon
-									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/aiesl-aircraft-technician-recruitment/">AIESL
-									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/jpsc-civil-judge-notification/">JPSC Civil Judge
-									Recruitment 2023 Apply Now 138 Post</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/opsc-medical-officer-notification/">OPSC Medical
-									Officer Recruitment 2023 Apply Now 7276 Posts</a>
-							</li>
-							<li>
-								<a href="https://sarkariresultsapp.com/bmc-stenographer-recruitment/">BMC Stenographer
-									Recruitment 2023 Apply Now 226 Post</a>
-							</li>
-						</ul>
-					</aside>
+				<h2 class="widget-title">Recent Posts</h2>
+				<ul>
+					<li>
+						<a href="high-court-jobs.php">High Court Jobs 2023 Check Today
+							New Recruitment Notification</a>
+					</li>
+					<li>
+						<a href="karnataka-bank-po-acs-notification.php">Karnataka Bank
+							Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
+					</li>
+					<li>
+						<a href="gbpuat-teaching-personnel-job.php">GBPUAT Recruitment
+							2023 Apply Teaching Personnel 22 Post</a>
+					</li>
+					<li>
+						<a href="cag-administrative-assistant-recruitment.php">CAG
+							Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
+					</li>
+					<li>
+						<a href="spices-board-india.php">Spices Board Recruitment 2023
+							Executive, Trade Analyst 15 Post</a>
+					</li>
+					<li>
+						<a href="iiit-allahabad-asst-professor-job.php">IIIT Allahabad
+							Recruitment 2023 Apply Asst Professor 18 Post</a>
+					</li>
+					<li>
+						<a href="sarkari-result-10-2-latest-job.php">Sarkari Result 10+2
+							latest Job (17 August 2023) Latest Updates</a>
+					</li>
+					<li>
+						<a href="bihar-stet-2023-notification-out.php">Bihar STET 2023
+							Notification, Eligibility, Application Form, Exam Date</a>
+					</li>
+					<li>
+						<a href="midc-asst-officer-typist-job.php">MIDC Recruitment 2023
+							Apply Online Asst, Officer, Typist 795 Post</a>
+					</li>
+					<li>
+						<a href="bel-ghaziabad-deputy-engineer-recruitment.php">BEL
+							Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
+					</li>
+					<li>
+						<a href="aiims-bathinda-group-a-b-c-job.php">AIIMS Bathinda
+							Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
+					</li>
+					<li>
+						<a href="kondagaon-district-recruitment.php">Kondagaon District
+							Recruitment 2023 Officer, Manager, Asst 20 Post</a>
+					</li>
+					<li>
+						<a href="aiesl-aircraft-technician-recruitment.php">AIESL
+							Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
+					</li>
+					<li>
+						<a href="jpsc-civil-judge-notification.php">JPSC Civil Judge
+							Recruitment 2023 Apply Now 138 Post</a>
+					</li>
+					<li>
+						<a href="opsc-medical-officer-notification.php">OPSC Medical
+							Officer Recruitment 2023 Apply Now 7276 Posts</a>
+					</li>
+					<li>
+						<a href="bmc-stenographer-recruitment.php">BMC Stenographer
+							Recruitment 2023 Apply Now 226 Post</a>
+					</li>
+				</ul>
+			</aside>
 					<aside id="custom_html-3" class="widget_text widget inner-padding widget_custom_html">
 						<div class="textwidget custom-html-widget">
 							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -3164,7 +3148,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://sarkariresultsapp.com/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+			href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

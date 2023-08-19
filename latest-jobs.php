@@ -34,17 +34,17 @@
 						<div class="entry-content" itemprop="text">
 							<p><span style="color: #000000;">Welcome to Free Job Alert Latest Notification. We
 									recommend job seekers to redirect below mention job titles containing finite
-									numbers of <a href="https://sarkariresultsapp.com/">Govt Jobs</a>, results,
+									numbers of <a href="">Govt Jobs</a>, results,
 									admit cards, and other free job alerts 2023.</span><br />
 								<span style="color: #000000;">But how can you find the right job
-									<a href="https://sarkariresultsapp.com/">Latest Notification</a>
+									<a href="">Latest Notification</a>
 									or free alert you are searching for. That’s what you’ll see on this page. The
 									featured job
 									title of the various latest notification. Apart from this, we’ve listed the
-									<a href="https://sarkariresultsapp.com/">Latest Sarkari Result Jobs</a>,
+									<a href="">Latest Sarkari Result Jobs</a>,
 									the latest
-									<a href="https://sarkariresultsapp.com/results.php">Sarkari Results</a>,
-									and <a href="https://sarkariresultsapp.com/admit-card.php">Admit Cards</a>
+									<a href="results.php">Sarkari Results</a>,
+									and <a href="admit-card.php">Admit Cards</a>
 									announced by the various government institutions you can simply get all details
 									about it by
 									clicking on the title.<br />
@@ -64,164 +64,164 @@
 										<td>
 											<ul class="su-posts su-posts-list-loop">
 												<li id="su-post-164210" class="su-post"><a
-														href="https://sarkariresultsapp.com/karnataka-bank-po-acs-notification.php">Karnataka
+														href="karnataka-bank-po-acs-notification.php">Karnataka
 														Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 													<span style="color:#ab183d">Last Date: 26 August 2023 </span>
 												</li>
 												<li id="su-post-164205" class="su-post"><a
-														href="https://sarkariresultsapp.com/gbpuat-teaching-personnel-job.php">GBPUAT
+														href="gbpuat-teaching-personnel-job.php">GBPUAT
 														Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 													<span style="color:#ab183d">Last Date: 23 August 2023 </span>
 												</li>
 												<li id="su-post-164208" class="su-post"><a
-														href="https://sarkariresultsapp.com/cag-administrative-assistant-recruitment.php">CAG
+														href="cag-administrative-assistant-recruitment.php">CAG
 														Administrative Assistant Recruitment 2023 Apply Now 1773
 														Post</a>
 													<span style="color:#ab183d">Last Date: 17 September 2023 </span>
 												</li>
 												<li id="su-post-164184" class="su-post"><a
-														href="https://sarkariresultsapp.com/spices-board-india.php">Spices
+														href="spices-board-india.php">Spices
 														Board Recruitment 2023 Executive, Trade Analyst 15 Post</a>
 													<span style="color:#ab183d">Last Date: 9 September 2023 </span>
 												</li>
 												<li id="su-post-164180" class="su-post"><a
-														href="https://sarkariresultsapp.com/iiit-allahabad-asst-professor-job.php">IIIT
+														href="iiit-allahabad-asst-professor-job.php">IIIT
 														Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 													<span style="color:#ab183d">Last Date: 7 September 2023 </span>
 												</li>
 												<li id="su-post-164159" class="su-post"><a
-														href="https://sarkariresultsapp.com/bihar-stet-2023-notification-out.php">Bihar
+														href="bihar-stet-2023-notification-out.php">Bihar
 														STET 2023 Notification, Eligibility, Application Form, Exam
 														Date</a>
 													<span style="color:#ab183d">Last Date: 28 August 2023 </span>
 												</li>
 												<li id="su-post-164153" class="su-post"><a
-														href="https://sarkariresultsapp.com/midc-asst-officer-typist-job.php">MIDC
+														href="midc-asst-officer-typist-job.php">MIDC
 														Recruitment 2023 Apply Online Asst, Officer, Typist 795
 														Post</a>
 													<span style="color:#ab183d">Last Date: 25 September 2023 </span>
 												</li>
 												<li id="su-post-164140" class="su-post"><a
-														href="https://sarkariresultsapp.com/bel-ghaziabad-deputy-engineer-recruitment.php">BEL
+														href="bel-ghaziabad-deputy-engineer-recruitment.php">BEL
 														Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34
 														Post</a>
 													<span style="color:#ab183d">Last Date: 9 September 2023 </span>
 												</li>
 												<li id="su-post-164099" class="su-post"><a
-														href="https://sarkariresultsapp.com/aiims-bathinda-group-a-b-c-job.php">AIIMS
+														href="aiims-bathinda-group-a-b-c-job.php">AIIMS
 														Bathinda Recruitment 2023 Apply Online Group A, B, C 35
 														Post</a>
 													<span style="color:#ab183d">Last Date: 11 September 2023 </span>
 												</li>
 												<li id="su-post-164126" class="su-post"><a
-														href="https://sarkariresultsapp.com/kondagaon-district-recruitment.php">Kondagaon
+														href="kondagaon-district-recruitment.php">Kondagaon
 														District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 													<span style="color:#ab183d">Last Date: 2 September 2023 </span>
 												</li>
 												<li id="su-post-164115" class="su-post"><a
-														href="https://sarkariresultsapp.com/aiesl-aircraft-technician-recruitment.php">AIESL
+														href="aiesl-aircraft-technician-recruitment.php">AIESL
 														Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 													<span style="color:#ab183d">Last Date: 21 August 2023 </span>
 												</li>
 												<li id="su-post-164090" class="su-post"><a
-														href="https://sarkariresultsapp.com/jpsc-civil-judge-notification.php">JPSC
+														href="jpsc-civil-judge-notification.php">JPSC
 														Civil Judge Recruitment 2023 Apply Now 138 Post</a>
 													<span style="color:#ab183d">Last Date: 21 September 2023 </span>
 												</li>
 												<li id="su-post-164100" class="su-post"><a
-														href="https://sarkariresultsapp.com/opsc-medical-officer-notification.php">OPSC
+														href="opsc-medical-officer-notification.php">OPSC
 														Medical Officer Recruitment 2023 Apply Now 7276 Posts</a>
 													<span style="color:#ab183d">Last Date: 18 September 2023 </span>
 												</li>
 												<li id="su-post-164083" class="su-post"><a
-														href="https://sarkariresultsapp.com/bmc-stenographer-recruitment.php">BMC
+														href="bmc-stenographer-recruitment.php">BMC
 														Stenographer Recruitment 2023 Apply Now 226 Post</a>
 													<span style="color:#ab183d">Last Date: 4 September 2023 </span>
 												</li>
 												<li id="su-post-164074" class="su-post"><a
-														href="https://sarkariresultsapp.com/bel-panchkula-engineer-job.php">BEL
+														href="bel-panchkula-engineer-job.php">BEL
 														Panchkula Recruitment 2023 Apply Online Engineer 57 Post</a>
 													<span style="color:#ab183d">Last Date: 26 August 2023 </span>
 												</li>
 												<li id="su-post-164073" class="su-post"><a
-														href="https://sarkariresultsapp.com/mdl-non-executive-notification.php">MDL
+														href="mdl-non-executive-notification.php">MDL
 														Non-Executive Recruitment 2023 Driver, Translator 531
 														Post</a>
 													<span style="color:#ab183d">Last Date: 21 August 2023 </span>
 												</li>
 												<li id="su-post-164042" class="su-post"><a
-														href="https://sarkariresultsapp.com/bau-non-teaching-recruitment.php">BAU
+														href="bau-non-teaching-recruitment.php">BAU
 														Non-Teaching Recruitment 2023 Clerk, Attendant, Manager 82
 														Post</a>
 													<span style="color:#ab183d">Last Date: 4 September 2023 </span>
 												</li>
 												<li id="su-post-164043" class="su-post"><a
-														href="https://sarkariresultsapp.com/mecl-executive-non-executive-job.php">MECL
+														href="mecl-executive-non-executive-job.php">MECL
 														Recruitment 2023 Apply Executive, Non Executive 94 Post</a>
 													<span style="color:#ab183d">Last Date: 13 September 2023 </span>
 												</li>
 												<li id="su-post-164031" class="su-post"><a
-														href="https://sarkariresultsapp.com/upsrlm-up-bc-sakhi-recruitment.php">UPSRLM
+														href="upsrlm-up-bc-sakhi-recruitment.php">UPSRLM
 														UP BC Sakhi Recruitment 2023 Apply Online Form 1544 Post</a>
 													<span style="color:#ab183d">Last Date: 26 August 2023 </span>
 												</li>
 												<li id="su-post-164021" class="su-post"><a
-														href="https://sarkariresultsapp.com/niot-apprentices-job.php">NIOT
+														href="niot-apprentices-job.php">NIOT
 														Recruitment 2023 Apply Online Apprentices 25 Post</a>
 													<span style="color:#ab183d">Last Date: 31 August 2023 </span>
 												</li>
 												<li id="su-post-164017" class="su-post"><a
-														href="https://sarkariresultsapp.com/uppsc-assistant-town-planner-recruitment.php">UPPSC
+														href="uppsc-assistant-town-planner-recruitment.php">UPPSC
 														Assistant Town Planner Recruitment 2023 Apply Now 24
 														Post</a>
 													<span style="color:#ab183d">Last Date: 14 September 2023 </span>
 												</li>
 												<li id="su-post-163985" class="su-post"><a
-														href="https://sarkariresultsapp.com/nta-group-a-b-job.php">NTA
+														href="nta-group-a-b-job.php">NTA
 														Recruitment 2023 Apply Online Group A, B 28 Post</a>
 													<span style="color:#ab183d">Last Date: 31 August 2023 </span>
 												</li>
 												<li id="su-post-163989" class="su-post"><a
-														href="https://sarkariresultsapp.com/pgi-chandigarh-job-notifications.php">PGI
+														href="pgi-chandigarh-job-notifications.php">PGI
 														Chandigarh Group A, B, C Recruitment 2023 Apply Now 55
 														Post</a>
 													<span style="color:#ab183d">Last Date: 11 September 2023 </span>
 												</li>
 												<li id="su-post-163969" class="su-post"><a
-														href="https://sarkariresultsapp.com/goa-psc-associate-professor-vacancy.php">Goa
+														href="goa-psc-associate-professor-vacancy.php">Goa
 														PSC Recruitment 2023 Advisor, Lecturer, Professor 35
 														Post</a>
 													<span style="color:#ab183d">Last Date: 25 September 2023 </span>
 												</li>
 												<li id="su-post-163962" class="su-post"><a
-														href="https://sarkariresultsapp.com/cuh-notification.php">CUH
+														href="cuh-notification.php">CUH
 														Non Teaching Recruitment 2023 Apply Now 32 Posts</a>
 													<span style="color:#ab183d">Last Date: 26 August 2023 </span>
 												</li>
 												<li id="su-post-163932" class="su-post"><a
-														href="https://sarkariresultsapp.com/tfl-chief-manager-manager-job.php">TFL
+														href="tfl-chief-manager-manager-job.php">TFL
 														Recruitment 2023 Apply Online Chief Manager, Manager 40
 														Post</a>
 													<span style="color:#ab183d">Last Date: 30 August 2023 </span>
 												</li>
 												<li id="su-post-163943" class="su-post"><a
-														href="https://sarkariresultsapp.com/icar-recruitment.php">ICAR
+														href="icar-recruitment.php">ICAR
 														Recruitment 2023 Comptroller, Director, Advisor 34 Post</a>
 													<span style="color:#ab183d">Last Date: 30 September 2023 </span>
 												</li>
 												<li id="su-post-163948" class="su-post"><a
-														href="https://sarkariresultsapp.com/dtp-maharashtra-peon-recruitment.php">DTP
+														href="dtp-maharashtra-peon-recruitment.php">DTP
 														Maharashtra Peon Recruitment 2023 Apply Now 125 Posts</a>
 													<span style="color:#ab183d">Last Date: 20 September 2023 </span>
 												</li>
 												<li id="su-post-163930" class="su-post"><a
-														href="https://sarkariresultsapp.com/dgca-flight-operations-inspector-vacancy.php">DGCA
+														href="dgca-flight-operations-inspector-vacancy.php">DGCA
 														Flight Operations Inspector Recruitment 2023 Apply 62
 														Posts</a>
 													<span style="color:#ab183d">Last Date: 28 August 2023 </span>
 												</li>
 												<li id="su-post-163924" class="su-post"><a
-														href="https://sarkariresultsapp.com/indian-navy-draughtsman-notification.php">Indian
+														href="indian-navy-draughtsman-notification.php">Indian
 														Navy Draughtsman Recruitment 2023 Application Form 258
 														Post</a>
 													<span style="color:#ab183d">Last Date: 60 Days </span>
@@ -231,7 +231,7 @@
 													style="color: #0000ff;"><strong
 														style="float: right; padding: 0px 6px;"><a
 															style="color: #0000ee; text-decoration: underline;"
-															href="https://sarkariresultsapp.com/latest-jobs.php"
+															href="latest-jobs.php"
 															target="_blank" rel="noopener noreferrer">More
 															»</a></strong></span></span>
 										</td>
@@ -349,7 +349,7 @@
 									<path
 										d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 								</svg></span><span class="screen-reader-text">Categories </span><a
-								href="https://sarkariresultsapp.com/freejobalert/" rel="category tag">Free Job
+								href="freejobalert/" rel="category tag">Free Job
 								Alert</a></span>
 						<nav id="nav-below" class="post-navigation" aria-label="Posts">
 							<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg viewBox="0 0 192 512"
@@ -360,7 +360,7 @@
 											d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 											fill-rule="nonzero" />
 									</svg></span><span class="prev"><a
-										href="https://sarkariresultsapp.com/delhi-cantt-jobs/" rel="prev">Delhi
+										href="delhi-cantt-jobs/" rel="prev">Delhi
 										Cantt Recruitment 2022 Apply Now Assistant Programmer Post</a></span></div>
 							<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg viewBox="0 0 192 512"
 										aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
@@ -370,7 +370,7 @@
 											d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 											fill-rule="nonzero" />
 									</svg></span><span class="next"><a
-										href="https://sarkariresultsapp.com/mgsu-recruitment/" rel="next">MGSU
+										href="mgsu-recruitment/" rel="next">MGSU
 										Recruitment 2022 Application Form Guest Faculty 32 Post</a></span></div>
 						</nav>
 					</footer>
@@ -401,7 +401,7 @@
 										<cite itemprop="name" class="fn">VIVEK Kumar Upadhayay</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-10755"> <time
+										<a href="latest-jobs/#comment-10755"> <time
 												datetime="2020-12-21T09:00:31+05:30" itemprop="datePublished">
 												21 Dec 2020 at 09:00 </time>
 										</a>
@@ -437,7 +437,7 @@
 										<cite itemprop="name" class="fn">Nil kamal</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-15083"> <time
+										<a href="latest-jobs/#comment-15083"> <time
 												datetime="2021-03-02T16:07:28+05:30" itemprop="datePublished">
 												2 Mar 2021 at 16:07 </time>
 										</a>
@@ -473,7 +473,7 @@
 										<cite itemprop="name" class="fn">Pooja Choudhary</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-15089"> <time
+										<a href="latest-jobs/#comment-15089"> <time
 												datetime="2021-03-02T18:47:09+05:30" itemprop="datePublished">
 												2 Mar 2021 at 18:47 </time>
 										</a>
@@ -509,7 +509,7 @@
 										<cite itemprop="name" class="fn">KN Chaudhary</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-15866"> <time
+										<a href="latest-jobs/#comment-15866"> <time
 												datetime="2021-03-20T20:36:06+05:30" itemprop="datePublished">
 												20 Mar 2021 at 20:36 </time>
 										</a>
@@ -545,7 +545,7 @@
 										<cite itemprop="name" class="fn">Shivam</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-16527"> <time
+										<a href="latest-jobs/#comment-16527"> <time
 												datetime="2021-03-26T11:52:21+05:30" itemprop="datePublished">
 												26 Mar 2021 at 11:52 </time>
 										</a>
@@ -581,7 +581,7 @@
 										<cite itemprop="name" class="fn">Md Rashid Khan</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-17284"> <time
+										<a href="latest-jobs/#comment-17284"> <time
 												datetime="2021-04-05T16:24:53+05:30" itemprop="datePublished">
 												5 Apr 2021 at 16:24 </time>
 										</a>
@@ -617,7 +617,7 @@
 												<cite itemprop="name" class="fn">Anas ansari</cite>
 											</div>
 											<div class="entry-meta comment-metadata">
-												<a href="https://sarkariresultsapp.com/latest-jobs/#comment-40915">
+												<a href="latest-jobs/#comment-40915">
 													<time datetime="2022-06-15T15:27:46+05:30" itemprop="datePublished">
 														15 Jun 2022 at 15:27 </time>
 												</a>
@@ -656,7 +656,7 @@
 										<cite itemprop="name" class="fn">Narendra Kumar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-23240"> <time
+										<a href="latest-jobs/#comment-23240"> <time
 												datetime="2021-07-02T09:41:36+05:30" itemprop="datePublished">
 												2 Jul 2021 at 09:41 </time>
 										</a>
@@ -695,7 +695,7 @@
 										<cite itemprop="name" class="fn">AKSHAY KUMAR</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-24201"> <time
+										<a href="latest-jobs/#comment-24201"> <time
 												datetime="2021-07-24T21:39:56+05:30" itemprop="datePublished">
 												24 Jul 2021 at 21:39 </time>
 										</a>
@@ -731,7 +731,7 @@
 										<cite itemprop="name" class="fn">Kumari parmeshwari keut</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-33875"> <time
+										<a href="latest-jobs/#comment-33875"> <time
 												datetime="2022-01-21T11:54:04+05:30" itemprop="datePublished">
 												21 Jan 2022 at 11:54 </time>
 										</a>
@@ -767,7 +767,7 @@
 										<cite itemprop="name" class="fn">Shaker Ahmed</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-34692"> <time
+										<a href="latest-jobs/#comment-34692"> <time
 												datetime="2022-02-19T11:20:59+05:30" itemprop="datePublished">
 												19 Feb 2022 at 11:20 </time>
 										</a>
@@ -803,7 +803,7 @@
 										<cite itemprop="name" class="fn">Abhishek Kumar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-35171"> <time
+										<a href="latest-jobs/#comment-35171"> <time
 												datetime="2022-03-05T12:18:25+05:30" itemprop="datePublished">
 												5 Mar 2022 at 12:18 </time>
 										</a>
@@ -839,7 +839,7 @@
 										<cite itemprop="name" class="fn">Mohuya Chandra</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-35295"> <time
+										<a href="latest-jobs/#comment-35295"> <time
 												datetime="2022-03-07T09:29:54+05:30" itemprop="datePublished">
 												7 Mar 2022 at 09:29 </time>
 										</a>
@@ -877,7 +877,7 @@
 										<cite itemprop="name" class="fn">Priyadarshi kumar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-36648"> <time
+										<a href="latest-jobs/#comment-36648"> <time
 												datetime="2022-03-31T13:45:46+05:30" itemprop="datePublished">
 												31 Mar 2022 at 13:45 </time>
 										</a>
@@ -916,7 +916,7 @@
 										<cite itemprop="name" class="fn">SOMNATH NEYE</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-41535"> <time
+										<a href="latest-jobs/#comment-41535"> <time
 												datetime="2022-06-23T00:34:07+05:30" itemprop="datePublished">
 												23 Jun 2022 at 00:34 </time>
 										</a>
@@ -952,7 +952,7 @@
 										<cite itemprop="name" class="fn">Pratibha raj</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-43227"> <time
+										<a href="latest-jobs/#comment-43227"> <time
 												datetime="2022-07-11T14:00:51+05:30" itemprop="datePublished">
 												11 Jul 2022 at 14:00 </time>
 										</a>
@@ -988,7 +988,7 @@
 										<cite itemprop="name" class="fn">Jogi Ram</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-43507"> <time
+										<a href="latest-jobs/#comment-43507"> <time
 												datetime="2022-07-14T21:37:00+05:30" itemprop="datePublished">
 												14 Jul 2022 at 21:37 </time>
 										</a>
@@ -1028,7 +1028,7 @@
 												<cite itemprop="name" class="fn">Shankar Das</cite>
 											</div>
 											<div class="entry-meta comment-metadata">
-												<a href="https://sarkariresultsapp.com/latest-jobs/#comment-51053">
+												<a href="latest-jobs/#comment-51053">
 													<time datetime="2022-11-07T13:22:14+05:30" itemprop="datePublished">
 														7 Nov 2022 at 13:22 </time>
 												</a>
@@ -1069,7 +1069,7 @@
 										<cite itemprop="name" class="fn">Naseeb Singh</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-46874"> <time
+										<a href="latest-jobs/#comment-46874"> <time
 												datetime="2022-09-04T12:39:47+05:30" itemprop="datePublished">
 												4 Sep 2022 at 12:39 </time>
 										</a>
@@ -1105,7 +1105,7 @@
 										<cite itemprop="name" class="fn">Lallu kumar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-47837"> <time
+										<a href="latest-jobs/#comment-47837"> <time
 												datetime="2022-09-16T09:54:33+05:30" itemprop="datePublished">
 												16 Sep 2022 at 09:54 </time>
 										</a>
@@ -1144,7 +1144,7 @@
 										<cite itemprop="name" class="fn">Kausal Yadav</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-48919"> <time
+										<a href="latest-jobs/#comment-48919"> <time
 												datetime="2022-10-04T10:36:44+05:30" itemprop="datePublished">
 												4 Oct 2022 at 10:36 </time>
 										</a>
@@ -1180,7 +1180,7 @@
 										<cite itemprop="name" class="fn">Shivank sharma</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-50612"> <time
+										<a href="latest-jobs/#comment-50612"> <time
 												datetime="2022-10-24T19:22:32+05:30" itemprop="datePublished">
 												24 Oct 2022 at 19:22 </time>
 										</a>
@@ -1216,7 +1216,7 @@
 										<cite itemprop="name" class="fn">Paras kumar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-53061"> <time
+										<a href="latest-jobs/#comment-53061"> <time
 												datetime="2023-01-11T11:55:05+05:30" itemprop="datePublished">
 												11 Jan 2023 at 11:55 </time>
 										</a>
@@ -1252,7 +1252,7 @@
 										<cite itemprop="name" class="fn">Deepak oram</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-56433"> <time
+										<a href="latest-jobs/#comment-56433"> <time
 												datetime="2023-04-10T19:15:19+05:30" itemprop="datePublished">
 												10 Apr 2023 at 19:15 </time>
 										</a>
@@ -1288,7 +1288,7 @@
 										<cite itemprop="name" class="fn">Deepak oram</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-56434"> <time
+										<a href="latest-jobs/#comment-56434"> <time
 												datetime="2023-04-10T19:16:00+05:30" itemprop="datePublished">
 												10 Apr 2023 at 19:16 </time>
 										</a>
@@ -1324,7 +1324,7 @@
 										<cite itemprop="name" class="fn">Sharanu talwar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-56787"> <time
+										<a href="latest-jobs/#comment-56787"> <time
 												datetime="2023-04-19T19:07:35+05:30" itemprop="datePublished">
 												19 Apr 2023 at 19:07 </time>
 										</a>
@@ -1360,7 +1360,7 @@
 										<cite itemprop="name" class="fn">Sharanu talwar</cite>
 									</div>
 									<div class="entry-meta comment-metadata">
-										<a href="https://sarkariresultsapp.com/latest-jobs/#comment-56788"> <time
+										<a href="latest-jobs/#comment-56788"> <time
 												datetime="2023-04-19T19:08:01+05:30" itemprop="datePublished">
 												19 Apr 2023 at 19:08 </time>
 										</a>
@@ -1439,67 +1439,67 @@
 				<h2 class="widget-title">Recent Posts</h2>
 				<ul>
 					<li>
-						<a href="https://sarkariresultsapp.com/high-court-jobs.php">High Court Jobs 2023 Check Today
+						<a href="high-court-jobs.php">High Court Jobs 2023 Check Today
 							New Recruitment Notification</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/karnataka-bank-po-acs-notification.php">Karnataka Bank
+						<a href="karnataka-bank-po-acs-notification.php">Karnataka Bank
 							Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/gbpuat-teaching-personnel-job.php">GBPUAT Recruitment
+						<a href="gbpuat-teaching-personnel-job.php">GBPUAT Recruitment
 							2023 Apply Teaching Personnel 22 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/cag-administrative-assistant-recruitment.php">CAG
+						<a href="cag-administrative-assistant-recruitment.php">CAG
 							Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/spices-board-india.php">Spices Board Recruitment 2023
+						<a href="spices-board-india.php">Spices Board Recruitment 2023
 							Executive, Trade Analyst 15 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/iiit-allahabad-asst-professor-job.php">IIIT Allahabad
+						<a href="iiit-allahabad-asst-professor-job.php">IIIT Allahabad
 							Recruitment 2023 Apply Asst Professor 18 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/sarkari-result-10-2-latest-job.php">Sarkari Result 10+2
+						<a href="sarkari-result-10-2-latest-job.php">Sarkari Result 10+2
 							latest Job (17 August 2023) Latest Updates</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/bihar-stet-2023-notification-out.php">Bihar STET 2023
+						<a href="bihar-stet-2023-notification-out.php">Bihar STET 2023
 							Notification, Eligibility, Application Form, Exam Date</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/midc-asst-officer-typist-job.php">MIDC Recruitment 2023
+						<a href="midc-asst-officer-typist-job.php">MIDC Recruitment 2023
 							Apply Online Asst, Officer, Typist 795 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/bel-ghaziabad-deputy-engineer-recruitment.php">BEL
+						<a href="bel-ghaziabad-deputy-engineer-recruitment.php">BEL
 							Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/aiims-bathinda-group-a-b-c-job.php">AIIMS Bathinda
+						<a href="aiims-bathinda-group-a-b-c-job.php">AIIMS Bathinda
 							Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/kondagaon-district-recruitment.php">Kondagaon District
+						<a href="kondagaon-district-recruitment.php">Kondagaon District
 							Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/aiesl-aircraft-technician-recruitment.php">AIESL
+						<a href="aiesl-aircraft-technician-recruitment.php">AIESL
 							Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/jpsc-civil-judge-notification.php">JPSC Civil Judge
+						<a href="jpsc-civil-judge-notification.php">JPSC Civil Judge
 							Recruitment 2023 Apply Now 138 Post</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/opsc-medical-officer-notification.php">OPSC Medical
+						<a href="opsc-medical-officer-notification.php">OPSC Medical
 							Officer Recruitment 2023 Apply Now 7276 Posts</a>
 					</li>
 					<li>
-						<a href="https://sarkariresultsapp.com/bmc-stenographer-recruitment.php">BMC Stenographer
+						<a href="bmc-stenographer-recruitment.php">BMC Stenographer
 							Recruitment 2023 Apply Now 226 Post</a>
 					</li>
 				</ul>
@@ -1682,7 +1682,7 @@
 <script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 <noscript>
 	<link rel="stylesheet"
-		href="https://sarkariresultsapp.com/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+		href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 		data-minify="1" />
 </noscript>
 </body>

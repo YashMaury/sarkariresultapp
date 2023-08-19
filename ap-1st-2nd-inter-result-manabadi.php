@@ -1,55 +1,62 @@
 <?php include "include/header.php";?>
 <head>
-	<title>AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35 Post</title>
+	<title>AP Inter Result 2023 Live Update AP 1st, 2nd Inter Result Manabadi bie.ap.gov.in</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
 			<div class="content-area" id="primary">
 				<main class="site-main" id="main">
-					<article id="post-164099"
-						class="post-164099 post type-post status-publish format-standard has-post-thumbnail hentry category-aiims-jobs category-govt-jobs category-latest-notification"
+					<article id="post-154055"
+						class="post-154055 post type-post status-publish format-standard has-post-thumbnail hentry category-10th-12th-result category-govt-jobs category-sarkari-result"
 						itemtype="https://schema.org/CreativeWork" itemscope>
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
-								<h1 class="entry-title" itemprop="headline">AIIMS Bathinda Recruitment 2023 Apply Online
-									Group A, B, C 35 Post</h1>
+								<h1 class="entry-title" itemprop="headline">AP Inter Result 2023 Live Update AP 1st, 2nd
+									Inter Result Manabadi bie.ap.gov.in</h1>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
-											datetime="2023-08-16T15:05:00+05:30" itemprop="datePublished">16 Aug
+											datetime="2023-04-26T16:47:47+05:30" itemprop="datePublished">26 Apr
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
 								</div>
 							</header>
 							<div class="entry-content" itemprop="text">
-								<p><span style="color: #000000;"><strong>Name of Post: </strong>Group A, B, C (Nursing
-										Tutor/ Clinical Instructor, Librarian Grade III, Hostel Warden, Laboratory
-										Technician, Cashier, Senior Administrative Assistant (UDC), Laboratory Attendant
-										Grade II, Hospital Attendant Grade III) </span>Vacancies 35 Posts.<span
-										style="color: #000000;"><strong><br />
-											<span style="color: #000000;"><strong>Short
-													Information:</strong></span></strong></span> AIIMS published Adt No.
-									Advertisement No.PGI/RC/037/2023/2934. All India Institute of Medical Sciences
-									Bathinda has published <a href="https://www.sarkariresult.app/latest-jobs/">a
-										notification</a> on its website for the recruitment of 57 posts of Group A, B ,
-									and C.</p>
-								<p>Information about qualifications and other eligibility criteria, pay level,
-									application process, and methodology &amp; other terms and conditions of the
-									recruitment is given in the succeeding sections of these guidelines. Candidates who
-									are interested in <a href="https://www.sarkariresult.app/rojgar-result/">AIIMS
-										Bathinda Recruitment 2023</a> can apply online through the official website
-									BAIIMS Bathinda <span style="font-size: inherit;">Jobs from </span><strong
-										style="font-size: inherit;">16 August 2023 to 11 September 2023.</strong></p>
-								<h2>AIIMS Bathinda Jobs Notification 2023 &#8211; Apply Online Group A, B, C 35 Posts
-								</h2>
-								<p>Those Candidates are Interested in AIIMS Bathinda Recruitment 2023 the Following
-									AIIMS Bathinda Group A Vacancy 2023 and Completed the All Eligibility Criteria Can
-									Read the <a href="https://www.sarkariresult.app/sarkari-exam/">AIIMS Bathinda
-										Notification 2023</a>
+								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Sarkari Result AP
+									Inter Result 2023 Live Update: AP 1st, 2nd Inter Result Manabadi Declared: AP inter
+									1st, 2nd year Result 2023: Check Manabadi Inter Result 2023 1st, 2nd years Result
+									Link Manabadi AP Inter Results 2023 bie.ap.gov.in, apcfss.in: Manabadi 1st, 2nd Year
+									Marks Download BIEAP 1st, 2nd Year Results<br />
+									<span style="color: #000000;"><strong>Short Information: </strong></span>Today AP
+									Inter Result 2023 Latest Updates: Inter (1st, 2nd year) result declared by Andhra
+									Pradesh Board of Intermediate Education (BIE AP) at examresults.ap.nic.in,
+									resultsbie.ap.gov.in, and apcfss.in Manabadi Inter result ap 1st, 2nd year 2023.
+									TSBIE has uploaded the Telangana 1st, 2nd Inter Result Manabadi. <a
+										href="results/">AP Intermediate 1st and 2nd year
+										result</a> Declared by BIE AP on 26 April 2023 at 6:00 PM. A total of 10 lakh
+									students. Out of the total, 4.84 lakh students sat for the AP Inter 1st Year exam
+									while 5.19 lakh students sat for the AP Inter 2nd Year exam. 10 lakh students for
+									the intermediate 1st, 2nd year latest updates download their AP Inter Result 2023
+									from the Inter 1st Year Results 2023 and 2nd year Result link given by us. <a
+										href="results/">AP Board Inter 1 Result</a> by
+									checking online at bie.ap.gov.in Result AP Inter 2023 results inter 1st, 2nd year
+									website. Sarkari Result AP Inter Result 2023 link has been activated on the official
+									website. Sarkari Result AP inter 1st year, 2nd year result 2023 link Manabadi inter
+									results 2023 AP Manabadi has been activated. All the students now have <a
+										href="results/">AP Inter Result 2023</a> as well
+									as ts inter 2nd-year results with more details given below Manabadi Inter Result
+									2023 1st, 2nd year.
+								</p>
+								<h2>Manabadi Inter 1st, 2nd year Result 2023 Direct Link tsbie.cgg.gov.in 2023
+									intermediate 1st, 2nd year Result</h2>
+								<p>Sarkari Result AP Inter Result 2023 1st, 2nd year Date All Students Check your AP
+									Board Inter Result 2023 Manabadi and AP 1st, 2nd Inter Result Manabadi Live Updates
+									Here Sarkari Result Inter Result 202 AP Manabadi. here also check the <a
+										href="results/">AP inter 1st, 2nd year result</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
 									class="afw afw-ga afw_ad afwadid-19274  ">
@@ -63,95 +70,284 @@
 									<script>
 										(adsbygoogle = window.adsbygoogle || []).push({});
 									</script>
-								</div> Before <a href="https://www.sarkariresult.app/sarkari-naukri/">AIIMS Bathinda
-									Apply Online 2023</a>. Below is a brief description of the AIIMS Bathinda Group B
-								Jobs 2023 official notification. Other details of the AIIMS Bathinda Salary, Like Age
-								Limit, Educational Qualification, Selection Process, Application Fee, and AIIMS Bathinda
-								Group C Apply Online How to Apply are given below.</p>
-								<h3 style="text-align: center;">All India Institute of Medical Sciences Bathinda
-									Recruitment 2023<strong><span style="color: #ffffff;"><br />
-										</span></strong></h3>
-								<p style="text-align: center;">AIIMS Bathinda Vacancy Notification Details<strong><span
+								</div> Date published on the Manabadi Inter 1st, 2nd year result kab aayega Click Here
+								Today. AP Inter Marks Memo 2023 in result 2023 AP Inter on the <a
+									href="results/">Manabadi inter 1st years Results
+									Online</a> check official website <a
+									href="results/">bie.ap.gov.in Inter Results</a> |
+								resultsbie.ap.gov.in, apcfss.in, manabadi.co.in and examresults.ap.nic.in Notification,
+								for AP Inter results with marks 2023 Check from here BIEAP 1st, 2nd Year Result with
+								Roll Number, as well as Manabadi Inter Results 2023.</p>
+								<h3 style="text-align: center;">Sarkari Result AP Inter Result 2023 Declared<br />
+									AP inter 1st, 2nd year Result Check Online<strong><span
 											style="color: #ffffff;"><br />
-										</span></strong></p>
-								<p><span style="text-decoration: underline;"><strong>Eligibility </strong></span></p>
+										</span></strong>Manabadi Inter Result Link<strong><span
+											style="color: #ffffff;"><br />
+										</span></strong></h3>
+								<p><span style="text-decoration: underline;"><strong>Telangana inter 1st, 2nd year
+											Result Date Details</strong></span></p>
 								<ul>
-									<li>Candidates should have a <strong>B.E, B.Tech, MBA, MSW, PGHRM, </strong>or
-										equivalent from a recognized Board/ University/Institution.</li>
-								</ul>
-								<p><span style="text-decoration: underline;"><strong>Important Date</strong></span></p>
-								<ul>
-									<li>Opening Date for Submission of Online Form: <strong>16 August 2023.</strong>
+									<li>AP Inter 2nd year Exam Date: 16 March 2023 16 to 4 April 2023.</li>
+									<li>AP 1st year Exam Date: 15 March 20 and 3 April 2023.</li>
+									<li><a href="results/">AP Inter Board Exam Result</a>
+										1st and 2nd Year Exams Declare Date:<span style="color: #ff0000;"> (Today 26
+											April 2023 at 6:00 PM).</span></li>
+									<li>Official Website Links: results.apcfss.in bie.ap.gov.in examresults.ap.nic.in.
 									</li>
-									<li>Closing Date for Submission of Online Form:<strong> 11 September 2023.</strong>
-									</li>
+									<li>AP Board 12th re-evaluation &#8211; application date June 2023.</li>
+									<li>Revaluation Result Revaluation Result.</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Application Fee</strong></span></p>
+								<p><span style="text-decoration: underline;"><strong>Credentials
+											Required</strong></span></p>
 								<ul>
-									<li>General/OBC candidate&#8217;s application fee <strong>Rs. 1500/-</strong></li>
-									<li>SC/ST/PWD candidate&#8217;s application fee is <strong>Rs.800/-</strong></li>
+									<li>Roll Number/Hall Ticket Number</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong style="font-size: inherit;">Salary
+								<p><span style="text-decoration: underline;"><strong>AP inter Result 2023 Course/Exam
 											Details</strong></span></p>
 								<ul>
-									<li>Group A, B, and C post candidate&#8217;s salary <strong>Rs. 18000/- to
-											177500/-</strong></li>
+									<li>The Andhra Pradesh Board of Intermediate Education (BIE AP) Class 11th and 12th
+									</li>
+									<li>AP Inter Result 1st year.</li>
+									<li>AP Inter Result 2nd Year</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong style="font-size: inherit;">Age
-											Limit</strong></span></p>
+								<p><strong><span style="text-decoration: underline;">Exam Years:-</span></strong></p>
 								<ul>
-									<li>Minimum Age: <strong>18 years.</strong></li>
-									<li>Maximum Age: <strong>50 years.</strong></li>
+									<li>First Year, Second Year</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Selection Process</strong></span>
-								</p>
+								<p><span style="text-decoration: underline;"><strong>Manabadi Inter Result 2023 1st, 2nd
+											year Mode of Examination</strong></span></p>
 								<ul>
-									<li>Written Test.</li>
-									<li>Personal Interview.</li>
+									<li>Online</li>
 								</ul>
-								<p><span style="text-decoration: underline;"><strong>Vacancy Details</strong></span></p>
-								<ul>
-									<li>Group A: <strong>8 Post.</strong></li>
-									<li>Group B: <strong>3 Post.</strong></li>
-									<li>Group C: <strong>24 Post.</strong></li>
-								</ul>
-								<p><strong style="font-size: inherit;"><span style="text-decoration: underline;">How to
-											Apply</span></strong></p>
-								<ul>
-									<li>Mode of Apply: Through <strong>Online. </strong></li>
-									<li>Job Location: <strong>Bathinda.</strong></li>
-								</ul>
-								<p style="text-align: center;"><span style="color: #000000;"><b><strong>AIIMS Bathinda
-												Recruitment Notification</strong> Vacancy Details </b></span><b><span
-											style="color: #000000;">Total: 35 P</span></b><b
-										style="font-family: inherit; font-size: inherit;"><span
-											style="color: #000000;">osts</span></b><b><span
-											style="color: #000000;"><br />
-										</span><span style="color: #000000;">Interested Candidates Can Read the Full
-											Notification Before Apply Online</span></b></p>
+								<p class="has-medium-font-size" style="text-align: center;"><strong>AP Inter 2nd Year
+										Result Statistics 2022</strong></p>
 								<table
 									style="height: auto; width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;"
 									border="1">
 									<tbody>
 										<tr>
-											<td style="width: 50%; text-align: center;">Apply Online</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://jobapply.in/bel2023panCHKULA/"
-													rel="nofollow noopener">Click Here</a></td>
+											<td style="width: 50%; text-align: center;"><strong>Percentage</strong></td>
+											<td style="width: 50%; text-align: center;"><strong>Grades Awarded</strong>
+											</td>
 										</tr>
 										<tr>
-											<td style="width: 50%; text-align: center;">Notification</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://www.placementstore.in/category/notification.php?id=1rY8b-hViwKsLS7abcmKe-LiWPsbuX8rP&amp;name=AIIMS%20Bathinda%20Group%20A,%20B,%20C%2035%20Post%20Notification%202023%20Apply%20Online"
-													rel="nofollow noopener">Click Here</a></td>
+											<td style="width: 50%; text-align: center;">The total number of students
+												appeared</td>
+											<td style="width: 50%; text-align: center;">423455</td>
 										</tr>
 										<tr>
-											<td style="width: 50%; text-align: center;">Home Page</td>
-											<td style="width: 50%; text-align: center;"><a
-													href="https://sarkariresult.app/">Click Here</a></td>
+											<td style="width: 50%; text-align: center;">The total number of students
+												passed</td>
+											<td style="width: 50%; text-align: center;">258449</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;">Overall Pass percentage</td>
+											<td style="width: 50%; text-align: center;">61%</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;">Girls pass percentage</td>
+											<td style="width: 50%; text-align: center;">68%</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;">Boys pass percentage</td>
+											<td style="width: 50%; text-align: center;">54%</td>
 										</tr>
 									</tbody>
 								</table>
+								<p style="text-align: center;"><strong>AP Intermediate Board Result Statistics </strong>
+								</p>
+								<table
+									style="height: auto; width: 100%; border-style: solid; margin-left: auto; margin-right: auto;"
+									border="1">
+									<tbody>
+										<tr>
+											<td><strong>Years</strong></td>
+											<td>
+												<p style="text-align: center;"><strong>Overall Pass Percentage</strong>
+												</p>
+											</td>
+											<td><strong>Total Appeared Students</strong></td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2022</p>
+											</td>
+											<td>
+												<p style="text-align: center;">61%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">4,23,455</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2021</p>
+											</td>
+											<td>
+												<p style="text-align: center;">100%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">5,08,672</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2020</p>
+											</td>
+											<td>
+												<p style="text-align: center;">63%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">4,35,655</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2019</p>
+											</td>
+											<td>
+												<p style="text-align: center;">72.00%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">9.65,000</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2018</p>
+											</td>
+											<td>
+												<p style="text-align: center;">73.30%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">5,16,103</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2017</p>
+											</td>
+											<td>
+												<p style="text-align: center;">74%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">4,93,891</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2016</p>
+											</td>
+											<td>
+												<p style="text-align: center;">74%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">8, 56,701</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2015</p>
+											</td>
+											<td>
+												<p style="text-align: center;">82%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">7, 93,496</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2014</p>
+											</td>
+											<td>
+												<p style="text-align: center;">77%</p>
+											</td>
+											<td>
+												<p style="text-align: center;">7, 71,587</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p style="text-align: center;">2013</p>
+											</td>
+											<td>
+												<p style="text-align: center;">63.27</p>
+											</td>
+											<td>
+												<p style="text-align: center;">7, 56,459</p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<p>&nbsp;</p>
+								<p>AP Intermediate Board Result 2023 &#8211; Grading System</p>
+								<table
+									style="height: auto; width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;"
+									border="1">
+									<tbody>
+										<tr>
+											<td style="width: 50%; text-align: center;">Percentage</td>
+											<td style="width: 50%; text-align: center;">Grades Awarded</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;"> Above 75%</td>
+											<td style="width: 50%; text-align: center;">A</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;">60% to 75%</td>
+											<td style="width: 50%; text-align: center;">B</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;">50% to 60%</td>
+											<td style="width: 50%; text-align: center;">C</td>
+										</tr>
+										<tr>
+											<td style="width: 50%; text-align: center;">35% to 50%</td>
+											<td style="width: 50%; text-align: center;">D</td>
+										</tr>
+									</tbody>
+								</table>
+								<p><span style="text-decoration: underline;"><strong><br />
+											AP Inter Result 2023 Check Online Date Status</strong></span></p>
+								<ul>
+									<li>inter Result 1st years 2nd years Result Announced Today:<strong><span
+												style="font-family: inherit; font-size: inherit;"> 26 April 2023 at 6:00
+												PM.</span></strong></li>
+								</ul>
+								<p><span style="text-decoration: underline;"><strong>How to check Inter Results 2023
+											AP</strong></span></p>
+								<ul>
+									<li><strong>Step 1:</strong> Click on the direct BIEAP &#8211; bie.ap.gov.in Result
+										2023 Inter 1st / 2nd Year Result 2023 link to the official website BSE
+										Telangana.</li>
+									<li><strong>Step 2:</strong> Now click on the AP Inter result 2023 link.</li>
+									<li><strong>Step 3: </strong><a
+											href="results/">Manabadi AP Inter Result
+											2023</a> Login page for 1st / 2nd Year Result 2023 will appear on the
+										screen.</li>
+									<li><strong>Step 4:</strong> Enter the hall ticket number and captcha code.</li>
+									<li><strong>Step 5:</strong> Click on the submit button.</li>
+									<li><strong>Step 6: </strong>Your <a href="">AP Inter
+											2nd-Year result Link</a> will appear on the computer screen.</li>
+									<li><strong>Step 7:</strong> Download the AP Inter Result 2023 1st / 2nd Year Result
+										and take a printout for future reference.</li>
+								</ul>
+								<p style="text-align: center;"><span style="color: #000000;"><b>Sarkari Result AP Inter
+											Result 2023 Download Direct Link Details</b></span></p>
+								<ul>
+									<li style="margin-left: 23px;"><b>AP Inter 1st, 2nd-year Result </b><span
+											style="color: #ff0000;">(Available Today 26 April 2023 at 6:00 PM):
+										</span><a href="https://resultsbie.ap.gov.in/" rel="nofollow noopener">Link
+											1</a> | <a href="https://examresults.ap.nic.in/"
+											rel="nofollow noopener">Link 2</a>| <a href="https://bie.ap.gov.in/"
+											rel="nofollow noopener">Link 3</a></li>
+								</ul>
+								<ul>
+									<li style="margin-left: 23px;"><b>Official Website:</b> <a
+											href="https://resultsbie.ap.gov.in/" rel="nofollow noopener">Click Here</a>
+									</li>
+								</ul>
 							</div>
 							<footer class="entry-meta" aria-label="Entry meta">
 								<span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
@@ -160,11 +356,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
-										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
-										rel="category tag">Latest Notification</a></span>
+										href="10th-12th-result/"
+										rel="category tag">10th/12th Result</a>, <a
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="sarkari-result/"
+										rel="category tag">Results</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -175,8 +371,8 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/kondagaon-district-recruitment/"
-												rel="prev">Kondagaon District Recruitment 2023 Officer, Manager, Asst 20
+												href="becil-handyman-job/"
+												rel="prev">BECIL Recruitment 2023 Apply Online Handyman 70
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -187,8 +383,8 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/"
-												rel="next">BEL Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34
+												href="gndu-teaching-non-teaching-job/"
+												rel="next">GNDU Recruitment 2023 Apply Now Teaching, Non Teaching 15
 												Post</a></span></div>
 								</nav>
 							</footer>
@@ -199,8 +395,8 @@
 							<div id="respond" class="comment-respond">
 								<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a
 											rel="nofollow" id="cancel-comment-reply-link"
-											href="/aiims-bathinda-group-a-b-c-job/#respond" style="display:none;">Cancel
-											reply</a></small></h3>
+											href="/ap-1st-2nd-inter-result-manabadi/#respond"
+											style="display:none;">Cancel reply</a></small></h3>
 								<form action="https://www.sarkariresult.app/wp-comments-post.php" method="post"
 									id="commentform" class="comment-form" novalidate>
 									<p class="comment-form-comment"><label for="comment"
@@ -220,14 +416,14 @@
 									<div class="uncr-g-recaptcha"></div>
 									<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit"
 											value="Post Comment" /> <input type="hidden" name="comment_post_ID"
-											value="164099" id="comment_post_ID" />
+											value="154055" id="comment_post_ID" />
 										<input type="hidden" name="comment_parent" id="comment_parent" value="0" />
 									</p>
 									<p style="display: none;"><input type="hidden" id="akismet_comment_nonce"
-											name="akismet_comment_nonce" value="7486003aeb" /></p>
+											name="akismet_comment_nonce" value="5732e4a6de" /></p>
 									<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea"
 												cols="45" rows="8" maxlength="100"></textarea></label><input
-											type="hidden" id="ak_js_1" name="ak_js" value="89" />
+											type="hidden" id="ak_js_1" name="ak_js" value="43" />
 										<script>document.getElementById("ak_js_1").setAttribute("value", (new Date()).getTime());</script>
 									</p>
 								</form>
@@ -254,85 +450,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
-									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
+								<a href="hscc-recruitment/">HSCC Recruitment 2023 Online
+									Application Assistant Manger 24 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
-									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
+								<a href="aiims-madurai-group-b-c-apply-online/">AIIMS
+									Madurai Group B &#038; C Recruitment 2023 Apply Now 08 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
-									August 2023) Today New Updates</a>
+								<a href="cbse-notification-pdf/">CBSE Recruitment 2023
+									Apply Advisor, Officer, Secretary 08 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
-									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
+								<a href="nit-manipur-non-teaching-job/">NIT Manipur
+									Recruitment 2023 Apply Online Non Teaching 48 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
-									Sarkari Result Group Direct Join Links</a>
+								<a href="western-command-csbo-recruitment/">Western
+									Command CSBO Recruitment 2023 Apply Now 17 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
-									2023 Executive, Trade Analyst 15 Post</a>
+								<a href="aai-junior-assistant-recruitment/">AAI Assistant
+									Recruitment 2023 Apply Now Jr Executive 342 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
-									(17 August 2023) New Updates</a>
+								<a href="dsssb-tgt-notification/">DSSSB Recruitment 2023
+									Apply Now Teaching &#038; Non Teaching 1841 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
-									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
-									(17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
-									10+2 latest Job (17 August 2023) Latest Updates</a>
-							</li>
-							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
-									2023 Notification, Eligibility, Application Form, Exam Date</a>
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (19
+									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
-									2023 Apply Online Asst, Officer, Typist 795 Post</a>
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
+									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
-									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+									(19 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/"
-									aria-current="page">AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35
-									Post</a>
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+									(19 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
-									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
+									10+2 latest Job (19 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
-									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
+								<a href="nit-raipur-associate-professor-job/">NIT Raipur
+									Recruitment 2023 Apply Online Associate Professor Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
-									Recruitment 2023 Apply Now 138 Post</a>
+								<a href="goa-hrdc-recruitment/">Goa HRDC Recruitment 2023
+									Apply MTS, Driver, Asst 370 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
-									Officer Recruitment 2023 Apply Now 7276 Posts</a>
+								<a href="ssc-mts-notification-pdf/">SSC MTS, Havaldar
+									Admit Card 2023 Paper 1 Exam Region Wise Hall Ticket</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
-									Recruitment 2023 Apply Now 226 Post</a>
+								<a href="appsc-amvi-jobs/">APPSC AMVI Recruitment 2023
+									Asst Motor Vehicle Inspector 17 Post</a>
+							</li>
+							<li>
+								<a href="northern-railway-sta-recruitment/">Northern
+									Railway STA Recruitment 2023 Technical Associate 93 Post</a>
+							</li>
+							<li>
+								<a href="hal-apprentice-job/">HAL Apprentice Recruitment
+									2023 Apply Now 1060 Posts</a>
+							</li>
+							<li>
+								<a href="bel-bangalore-non-executive-job/">BEL Bangalore
+									Recruitment 2023 Apply Online Non Executive 63 Post</a>
 							</li>
 						</ul>
 					</aside>
@@ -352,7 +547,7 @@
 		<footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
 			<div class="inside-site-info grid-container">
 				<div class="copyright-bar">
-					&copy; 2023 www.sarkariresultsapp.com </div>
+					&copy; 2023 www.sarkariresult.app </div>
 			</div>
 		</footer>
 	</div>
@@ -442,7 +637,7 @@
 	<script
 		id="generate-a11y">!function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("mousedown", function () { e.classList.add("using-mouse") }), e.addEventListener("keydown", function () { e.classList.remove("using-mouse") }) } }();</script>
 	<script id="adsforwp-ads-front-js-js-extra">
-		var adsforwp_obj = { "ajax_url": "https:\/\/www.sarkariresult.app\/wp-admin\/admin-ajax.php", "adsforwp_front_nonce": "c64baa44c7" };
+		var adsforwp_obj = { "ajax_url": "https:\/\/www.sarkariresult.app\/wp-admin\/admin-ajax.php", "adsforwp_front_nonce": "c389eba96c" };
 	</script>
 	<script
 		src="https://www.sarkariresult.app/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.24"
@@ -516,7 +711,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>
