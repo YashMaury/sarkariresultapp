@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>HBSE Date Sheet 2023 Check Haryana Board HBSE Class 10, 12 Exam Date Sheet</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">

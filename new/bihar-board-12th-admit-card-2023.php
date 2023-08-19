@@ -1,6 +1,6 @@
 <?php include "include/header.php";?>
 <head>
-	<title></title>
+	<title>Bihar Board 12th Admit Card 2023 Download Link BSEB Inter Admit Card biharboardonline.bihar.gov.in</title>
 </head>
 	<div class="site grid-container container hfeed" id="page">
 		<div class="site-content" id="content">
