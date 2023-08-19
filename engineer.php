@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/midc-asst-officer-typist-job/"
+										href="midc-asst-officer-typist-job/"
 										rel="bookmark">MIDC Recruitment 2023 Apply Online Asst, Officer, Typist 795
 										Post</a></h2>
 								<div class="entry-meta">
@@ -25,7 +25,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -40,7 +40,7 @@
 									Assistant Draftsman, Tracer, Fitter Vacancies 795 Posts. Short Information: MIDC
 									&#8230; <a title="MIDC Recruitment 2023 Apply Online Asst, Officer, Typist 795 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/midc-asst-officer-typist-job/"
+										href="midc-asst-officer-typist-job/"
 										aria-label="More on MIDC Recruitment 2023 Apply Online Asst, Officer, Typist 795 Post">Read
 										more</a></p>
 							</div>
@@ -51,9 +51,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -63,7 +63,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/midc-asst-officer-typist-job/#respond">Leave
+										href="midc-asst-officer-typist-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -74,7 +74,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-panchkula-engineer-job/"
+										href="bel-panchkula-engineer-job/"
 										rel="bookmark">BEL Panchkula Recruitment 2023 Apply Online Engineer 57 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -83,7 +83,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -97,7 +97,7 @@
 									which is considered as one year &#8230; <a
 										title="BEL Panchkula Recruitment 2023 Apply Online Engineer 57 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-panchkula-engineer-job/"
+										href="bel-panchkula-engineer-job/"
 										aria-label="More on BEL Panchkula Recruitment 2023 Apply Online Engineer 57 Post">Read
 										more</a></p>
 							</div>
@@ -108,9 +108,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -120,7 +120,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-panchkula-engineer-job/#respond">Leave a
+										href="bel-panchkula-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -131,7 +131,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ppsc-sdo-recruitment/" rel="bookmark">PPSC
+										href="ppsc-sdo-recruitment/" rel="bookmark">PPSC
 										SDO Recruitment 2023 Sub Divisional Engineer Group A 39 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -139,7 +139,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -152,7 +152,7 @@
 									Divisional Officer (SDE/SEO) (Civil/Public Health) (Group-A) Vacancies at 39 Posts.
 									Those candidates who are interested in PPSC Vacancy &#8230; <a
 										title="PPSC SDO Recruitment 2023 Sub Divisional Engineer Group A 39 Post"
-										class="read-more" href="https://www.sarkariresult.app/ppsc-sdo-recruitment/"
+										class="read-more" href="ppsc-sdo-recruitment/"
 										aria-label="More on PPSC SDO Recruitment 2023 Sub Divisional Engineer Group A 39 Post">Read
 										more</a></p>
 							</div>
@@ -163,9 +163,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -175,7 +175,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ppsc-sdo-recruitment/#respond">Leave a
+										href="ppsc-sdo-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -186,7 +186,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-je-2023/" rel="bookmark">SSC JE
+										href="ssc-je-2023/" rel="bookmark">SSC JE
 										Recruitment 2023 for Vacancy Deatils Notification, Apply Online</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -194,7 +194,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -207,7 +207,7 @@
 									candidates should submit their SSC JE Recruitment online applications from 26 July
 									2023 to 16 August 2023. &#8230; <a
 										title="SSC JE Recruitment 2023 for Vacancy Deatils Notification, Apply Online"
-										class="read-more" href="https://www.sarkariresult.app/ssc-je-2023/"
+										class="read-more" href="ssc-je-2023/"
 										aria-label="More on SSC JE Recruitment 2023 for Vacancy Deatils Notification, Apply Online">Read
 										more</a></p>
 							</div>
@@ -218,10 +218,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/ssc/" rel="category tag">SSC</a>, <a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="ssc/" rel="category tag">SSC</a>, <a
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -230,7 +230,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/ssc-je-2023/#respond">Leave
+										</svg></span><a href="ssc-je-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -241,7 +241,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nit-calicut-non-teaching-recruitment/"
+										href="nit-calicut-non-teaching-recruitment/"
 										rel="bookmark">NIT Calicut Non-Teaching Recruitment 2023 JE, JAT, Asst 150
 										Post</a></h2>
 								<div class="entry-meta">
@@ -250,7 +250,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -265,7 +265,7 @@
 									&amp; C) Junior Engineer, &#8230; <a
 										title="NIT Calicut Non-Teaching Recruitment 2023 JE, JAT, Asst 150 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nit-calicut-non-teaching-recruitment/"
+										href="nit-calicut-non-teaching-recruitment/"
 										aria-label="More on NIT Calicut Non-Teaching Recruitment 2023 JE, JAT, Asst 150 Post">Read
 										more</a></p>
 							</div>
@@ -276,9 +276,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -288,7 +288,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nit-calicut-non-teaching-recruitment/#respond">Leave
+										href="nit-calicut-non-teaching-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -299,7 +299,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-housing-board-recruitment/"
+										href="rajasthan-housing-board-recruitment/"
 										rel="bookmark">Rajasthan Housing Board Recruitment 2023 Accountant, DEO 258
 										Post</a></h2>
 								<div class="entry-meta">
@@ -308,7 +308,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -323,7 +323,7 @@
 									Housing Board Jaipur (RHB) has released the latest &#8230; <a
 										title="Rajasthan Housing Board Recruitment 2023 Accountant, DEO 258 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-housing-board-recruitment/"
+										href="rajasthan-housing-board-recruitment/"
 										aria-label="More on Rajasthan Housing Board Recruitment 2023 Accountant, DEO 258 Post">Read
 										more</a></p>
 							</div>
@@ -334,9 +334,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -346,7 +346,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-housing-board-recruitment/#respond">Leave
+										href="rajasthan-housing-board-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -357,7 +357,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tpsc-jr-engineer-job-apply-online/"
+										href="tpsc-jr-engineer-job-apply-online/"
 										rel="bookmark">TPSC Recruitment 2023 Apply Online Junior Engineer 400 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -366,7 +366,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -380,7 +380,7 @@
 									from 23 July 2023 to 24 &#8230; <a
 										title="TPSC Recruitment 2023 Apply Online Junior Engineer 400 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tpsc-jr-engineer-job-apply-online/"
+										href="tpsc-jr-engineer-job-apply-online/"
 										aria-label="More on TPSC Recruitment 2023 Apply Online Junior Engineer 400 Post">Read
 										more</a></p>
 							</div>
@@ -391,9 +391,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -403,7 +403,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tpsc-jr-engineer-job-apply-online/#respond">Leave
+										href="tpsc-jr-engineer-job-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -414,7 +414,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cpcl-engineer-online-form/"
+										href="cpcl-engineer-online-form/"
 										rel="bookmark">CPCL Engineer Recruitment 2023 Apply Online Form 16 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-07-15T11:13:01+05:30"
@@ -423,7 +423,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -437,7 +437,7 @@
 									official website CPCL Jobs from &#8230; <a
 										title="CPCL Engineer Recruitment 2023 Apply Online Form 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cpcl-engineer-online-form/"
+										href="cpcl-engineer-online-form/"
 										aria-label="More on CPCL Engineer Recruitment 2023 Apply Online Form 16 Post">Read
 										more</a></p>
 							</div>
@@ -448,9 +448,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -460,7 +460,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cpcl-engineer-online-form/#respond">Leave a
+										href="cpcl-engineer-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -471,7 +471,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mmrcl-agm-sdgm-dgm-apply-online/"
+										href="mmrcl-agm-sdgm-dgm-apply-online/"
 										rel="bookmark">MMRCL Recruitment 2023 » Apply JE, AGM, DGM, Supervisor 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -480,7 +480,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -494,7 +494,7 @@
 									for the MMRCL JE Recruitment 2023 of General Manager, Sr Deputy General Manager,
 									&#8230; <a title="MMRCL Recruitment 2023 » Apply JE, AGM, DGM, Supervisor 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mmrcl-agm-sdgm-dgm-apply-online/"
+										href="mmrcl-agm-sdgm-dgm-apply-online/"
 										aria-label="More on MMRCL Recruitment 2023 » Apply JE, AGM, DGM, Supervisor 22 Post">Read
 										more</a></p>
 							</div>
@@ -505,9 +505,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -517,7 +517,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mmrcl-agm-sdgm-dgm-apply-online/#respond">Leave
+										href="mmrcl-agm-sdgm-dgm-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -528,7 +528,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hplng-fire-officer-engineer-job/"
+										href="hplng-fire-officer-engineer-job/"
 										rel="bookmark">HPLNG Recruitment 2023 Apply Fire, Officer, Engineer 29 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -537,7 +537,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -552,7 +552,7 @@
 									Shift Officer &#8230; <a
 										title="HPLNG Recruitment 2023 Apply Fire, Officer, Engineer 29 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hplng-fire-officer-engineer-job/"
+										href="hplng-fire-officer-engineer-job/"
 										aria-label="More on HPLNG Recruitment 2023 Apply Fire, Officer, Engineer 29 Post">Read
 										more</a></p>
 							</div>
@@ -563,9 +563,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -575,7 +575,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hplng-fire-officer-engineer-job/#respond">Leave
+										href="hplng-fire-officer-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -586,7 +586,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhm-mp-sub-engineer-recruitment/"
+										href="nhm-mp-sub-engineer-recruitment/"
 										rel="bookmark">NHM MP Sub Engineer Recruitment 2023 Apply Online Form 55
 										Post</a></h2>
 								<div class="entry-meta">
@@ -595,7 +595,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -609,7 +609,7 @@
 									official website NHM &#8230; <a
 										title="NHM MP Sub Engineer Recruitment 2023 Apply Online Form 55 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nhm-mp-sub-engineer-recruitment/"
+										href="nhm-mp-sub-engineer-recruitment/"
 										aria-label="More on NHM MP Sub Engineer Recruitment 2023 Apply Online Form 55 Post">Read
 										more</a></p>
 							</div>
@@ -620,9 +620,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -632,7 +632,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhm-mp-sub-engineer-recruitment/#respond">Leave
+										href="nhm-mp-sub-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -643,7 +643,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/smc-asst-engineer-officer-job/"
+										href="smc-asst-engineer-officer-job/"
 										rel="bookmark">SMC Recruitment 2023 Apply Online Asst, Engineer, Officer 78
 										Post</a></h2>
 								<div class="entry-meta">
@@ -652,7 +652,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -667,7 +667,7 @@
 									the SMC Recruitment 2023 of Maintenance Assistant, &#8230; <a
 										title="SMC Recruitment 2023 Apply Online Asst, Engineer, Officer 78 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/smc-asst-engineer-officer-job/"
+										href="smc-asst-engineer-officer-job/"
 										aria-label="More on SMC Recruitment 2023 Apply Online Asst, Engineer, Officer 78 Post">Read
 										more</a></p>
 							</div>
@@ -678,10 +678,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -690,7 +690,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/smc-asst-engineer-officer-job/#respond">Leave
+										href="smc-asst-engineer-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -701,7 +701,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pspcl-ae-recruitment-apply-online/"
+										href="pspcl-ae-recruitment-apply-online/"
 										rel="bookmark">PSPCL AE Recruitment 2023 Apply Now Assistant Engineer 139
 										Post</a></h2>
 								<div class="entry-meta">
@@ -710,7 +710,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -724,7 +724,7 @@
 									are interested in &#8230; <a
 										title="PSPCL AE Recruitment 2023 Apply Now Assistant Engineer 139 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pspcl-ae-recruitment-apply-online/"
+										href="pspcl-ae-recruitment-apply-online/"
 										aria-label="More on PSPCL AE Recruitment 2023 Apply Now Assistant Engineer 139 Post">Read
 										more</a></p>
 							</div>
@@ -735,9 +735,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -747,7 +747,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pspcl-ae-recruitment-apply-online/#respond">Leave
+										href="pspcl-ae-recruitment-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -758,7 +758,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ihbas-demonstrator-recruitment/"
+										href="ihbas-demonstrator-recruitment/"
 										rel="bookmark">IHBAS Recruitment 2023 Resident, Demonstrator Walk In Interview
 										54 Post</a></h2>
 								<div class="entry-meta">
@@ -768,7 +768,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -782,7 +782,7 @@
 									interested in IHBAS Vacancy 2023 may attend walk-in-Interview &#8230; <a
 										title="IHBAS Recruitment 2023 Resident, Demonstrator Walk In Interview 54 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ihbas-demonstrator-recruitment/"
+										href="ihbas-demonstrator-recruitment/"
 										aria-label="More on IHBAS Recruitment 2023 Resident, Demonstrator Walk In Interview 54 Post">Read
 										more</a></p>
 							</div>
@@ -793,11 +793,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
-										Jobs</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="walk-in-jobs/" rel="category tag">Walk In
+										Jobs</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -807,7 +807,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ihbas-demonstrator-recruitment/#respond">Leave
+										href="ihbas-demonstrator-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -818,7 +818,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/upsc-engineer-job/" rel="bookmark">UPSC
+										href="upsc-engineer-job/" rel="bookmark">UPSC
 										Recruitment 2023 Apply Online Officer, Engineer 189 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -826,7 +826,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -840,7 +840,7 @@
 									Service Commission (UPSC) has released the latest notification Advt No. 12/2023 for
 									the UPSC recruitment 2023 &#8230; <a
 										title="UPSC Recruitment 2023 Apply Online Officer, Engineer 189 Post"
-										class="read-more" href="https://www.sarkariresult.app/upsc-engineer-job/"
+										class="read-more" href="upsc-engineer-job/"
 										aria-label="More on UPSC Recruitment 2023 Apply Online Officer, Engineer 189 Post">Read
 										more</a></p>
 							</div>
@@ -851,11 +851,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/upsc/" rel="category tag">UPSC</a></span>
+										href="upsc/" rel="category tag">UPSC</a></span>
 								<span class="comments-link"><span class="gp-icon icon-comments"><svg
 											viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
 											width="1em" height="1em">
@@ -864,7 +864,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/upsc-engineer-job/#respond">Leave a
+										href="upsc-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -875,7 +875,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dvc-engineer-director-job/"
+										href="dvc-engineer-director-job/"
 										rel="bookmark">DVC Recruitment 2023 Apply Asst Engineer, Director, Manager
 										Post</a></h2>
 								<div class="entry-meta">
@@ -884,7 +884,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -898,7 +898,7 @@
 									Those candidates who are interested in DVC Junior Engineer Recruitment 2023 &#8230;
 									<a title="DVC Recruitment 2023 Apply Asst Engineer, Director, Manager Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/dvc-engineer-director-job/"
+										href="dvc-engineer-director-job/"
 										aria-label="More on DVC Recruitment 2023 Apply Asst Engineer, Director, Manager Post">Read
 										more</a></p>
 							</div>
@@ -909,9 +909,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -921,7 +921,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dvc-engineer-director-job/#respond">Leave a
+										href="dvc-engineer-director-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -932,7 +932,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nit-hamirpur-non-teaching-recruitment/"
+										href="nit-hamirpur-non-teaching-recruitment/"
 										rel="bookmark">NIT Hamirpur Non-Teaching Recruitment 2023 Apply Online 84
 										Post</a></h2>
 								<div class="entry-meta">
@@ -941,7 +941,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -956,7 +956,7 @@
 									latest notification for the NIT Hamirpur Non-Teaching Recruitment 2023 of &#8230; <a
 										title="NIT Hamirpur Non-Teaching Recruitment 2023 Apply Online 84 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nit-hamirpur-non-teaching-recruitment/"
+										href="nit-hamirpur-non-teaching-recruitment/"
 										aria-label="More on NIT Hamirpur Non-Teaching Recruitment 2023 Apply Online 84 Post">Read
 										more</a></p>
 							</div>
@@ -967,9 +967,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -979,7 +979,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nit-hamirpur-non-teaching-recruitment/#respond">Leave
+										href="nit-hamirpur-non-teaching-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -990,7 +990,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bfuhs-vacancy/" rel="bookmark">BFUHS
+										href="bfuhs-vacancy/" rel="bookmark">BFUHS
 										Recruitment 2023 JE, ANM, Warden, Clerk, Liftman 312 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -998,7 +998,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1012,7 +1012,7 @@
 									Attendant, Staff Nurse, Photographer, Technical Assistant, Biomedical Technician, JE
 									Vacancy at 312 Posts. Short Information: Baba &#8230; <a
 										title="BFUHS Recruitment 2023 JE, ANM, Warden, Clerk, Liftman 312 Post"
-										class="read-more" href="https://www.sarkariresult.app/bfuhs-vacancy/"
+										class="read-more" href="bfuhs-vacancy/"
 										aria-label="More on BFUHS Recruitment 2023 JE, ANM, Warden, Clerk, Liftman 312 Post">Read
 										more</a></p>
 							</div>
@@ -1023,11 +1023,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/university-jobs/"
+										href="university-jobs/"
 										rel="category tag">University Jobs</a>, <a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1037,7 +1037,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bfuhs-vacancy/#respond">Leave a
+										href="bfuhs-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1048,7 +1048,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gpsc-engineer-officer-job/"
+										href="gpsc-engineer-officer-job/"
 										rel="bookmark">GPSC Recruitment 2023 Apply Online Engineer, Officer 88 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1057,7 +1057,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1072,7 +1072,7 @@
 									Gujarat Public Service Commission has released &#8230; <a
 										title="GPSC Recruitment 2023 Apply Online Engineer, Officer 88 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gpsc-engineer-officer-job/"
+										href="gpsc-engineer-officer-job/"
 										aria-label="More on GPSC Recruitment 2023 Apply Online Engineer, Officer 88 Post">Read
 										more</a></p>
 							</div>
@@ -1083,10 +1083,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/gpsc/" rel="category tag">GPSC</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="gpsc/" rel="category tag">GPSC</a>, <a
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1096,7 +1096,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gpsc-engineer-officer-job/#respond">Leave a
+										href="gpsc-engineer-officer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1107,7 +1107,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-bangalore-project-engineer-vacancy/"
+										href="bel-bangalore-project-engineer-vacancy/"
 										rel="bookmark">BEL Bangalore Recruitment 2023 Apply Online Engineer 82 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1116,7 +1116,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1130,7 +1130,7 @@
 									BEL Bangalore Vacancy 2023 apply through the official &#8230; <a
 										title="BEL Bangalore Recruitment 2023 Apply Online Engineer 82 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-bangalore-project-engineer-vacancy/"
+										href="bel-bangalore-project-engineer-vacancy/"
 										aria-label="More on BEL Bangalore Recruitment 2023 Apply Online Engineer 82 Post">Read
 										more</a></p>
 							</div>
@@ -1141,9 +1141,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1153,7 +1153,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-bangalore-project-engineer-vacancy/#respond">Leave
+										href="bel-bangalore-project-engineer-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1164,7 +1164,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-bombay-superintendent-recruitment/"
+										href="iit-bombay-superintendent-recruitment/"
 										rel="bookmark">IIT Bombay Superintendent Recruitment 2023 Apply Engineer 18
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1173,7 +1173,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1187,7 +1187,7 @@
 									Engineer Vacancy at 18 Posts. Those candidates who are interested in IIT Bombay
 									&#8230; <a title="IIT Bombay Superintendent Recruitment 2023 Apply Engineer 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iit-bombay-superintendent-recruitment/"
+										href="iit-bombay-superintendent-recruitment/"
 										aria-label="More on IIT Bombay Superintendent Recruitment 2023 Apply Engineer 18 Post">Read
 										more</a></p>
 							</div>
@@ -1198,9 +1198,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1210,7 +1210,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-bombay-superintendent-recruitment/#respond">Leave
+										href="iit-bombay-superintendent-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1221,7 +1221,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dsiidc-engineer-manager-job/"
+										href="dsiidc-engineer-manager-job/"
 										rel="bookmark">DSIIDC Recruitment 2023 Apply Online Engineer, Manager 34
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1230,7 +1230,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1245,7 +1245,7 @@
 									Adviser, Chief Engineer, &#8230; <a
 										title="DSIIDC Recruitment 2023 Apply Online Engineer, Manager 34 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/dsiidc-engineer-manager-job/"
+										href="dsiidc-engineer-manager-job/"
 										aria-label="More on DSIIDC Recruitment 2023 Apply Online Engineer, Manager 34 Post">Read
 										more</a></p>
 							</div>
@@ -1256,9 +1256,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1268,7 +1268,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dsiidc-engineer-manager-job/#respond">Leave
+										href="dsiidc-engineer-manager-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1279,7 +1279,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/syama-prasad-je-officer-job/"
+										href="syama-prasad-je-officer-job/"
 										rel="bookmark">SM Port Kolkata Recruitment 2023 Apply Online JE, Officer 24
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1288,7 +1288,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1303,7 +1303,7 @@
 									(PSO) &#8230; <a
 										title="SM Port Kolkata Recruitment 2023 Apply Online JE, Officer 24 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/syama-prasad-je-officer-job/"
+										href="syama-prasad-je-officer-job/"
 										aria-label="More on SM Port Kolkata Recruitment 2023 Apply Online JE, Officer 24 Post">Read
 										more</a></p>
 							</div>
@@ -1314,9 +1314,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1326,7 +1326,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/syama-prasad-je-officer-job/#respond">Leave
+										href="syama-prasad-je-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1337,7 +1337,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-bangalore-engineer-job/"
+										href="bel-bangalore-engineer-job/"
 										rel="bookmark">BEL Bangalore Recruitment 2023 Apply Online Engineer 205 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1346,7 +1346,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1360,7 +1360,7 @@
 									in BEL Bangalore Recruitment 2023 can apply online &#8230; <a
 										title="BEL Bangalore Recruitment 2023 Apply Online Engineer 205 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-bangalore-engineer-job/"
+										href="bel-bangalore-engineer-job/"
 										aria-label="More on BEL Bangalore Recruitment 2023 Apply Online Engineer 205 Post">Read
 										more</a></p>
 							</div>
@@ -1371,9 +1371,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1383,7 +1383,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-bangalore-engineer-job/#respond">Leave a
+										href="bel-bangalore-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1394,7 +1394,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ntpc-agm-recruitment/" rel="bookmark">NTPC
+										href="ntpc-agm-recruitment/" rel="bookmark">NTPC
 										Recruitment 2023 Apply Now AGM, DGM, SM, Engineer 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -1402,7 +1402,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1415,7 +1415,7 @@
 									General Manager, Deputy General Manager, Sr Manager, Assistant Manager, and Engineer
 									Vacancies at 11 Posts in NTPC Jobs. Candidates who are &#8230; <a
 										title="NTPC Recruitment 2023 Apply Now AGM, DGM, SM, Engineer 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/ntpc-agm-recruitment/"
+										class="read-more" href="ntpc-agm-recruitment/"
 										aria-label="More on NTPC Recruitment 2023 Apply Now AGM, DGM, SM, Engineer 11 Post">Read
 										more</a></p>
 							</div>
@@ -1426,9 +1426,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1438,7 +1438,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ntpc-agm-recruitment/#respond">Leave a
+										href="ntpc-agm-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1449,7 +1449,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/thdc-engineer-trainee-vacancy/"
+										href="thdc-engineer-trainee-vacancy/"
 										rel="bookmark">THDC Recruitment 2023 Apply Online Engineer Trainee 52 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1458,7 +1458,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1472,7 +1472,7 @@
 									Vacancy 2023 apply online through the official website &#8230; <a
 										title="THDC Recruitment 2023 Apply Online Engineer Trainee 52 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/thdc-engineer-trainee-vacancy/"
+										href="thdc-engineer-trainee-vacancy/"
 										aria-label="More on THDC Recruitment 2023 Apply Online Engineer Trainee 52 Post">Read
 										more</a></p>
 							</div>
@@ -1483,9 +1483,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1495,7 +1495,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/thdc-engineer-trainee-vacancy/#respond">Leave
+										href="thdc-engineer-trainee-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1506,7 +1506,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jkpsc-assistant-engineer-job/"
+										href="jkpsc-assistant-engineer-job/"
 										rel="bookmark">JKPSC Recruitment 2023 Apply Online Assistant Engineer 36
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1516,7 +1516,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1530,7 +1530,7 @@
 									online through the official website JKPSC Jobs from 29 &#8230; <a
 										title="JKPSC Recruitment 2023 Apply Online Assistant Engineer 36 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jkpsc-assistant-engineer-job/"
+										href="jkpsc-assistant-engineer-job/"
 										aria-label="More on JKPSC Recruitment 2023 Apply Online Assistant Engineer 36 Post">Read
 										more</a></p>
 							</div>
@@ -1541,9 +1541,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1553,7 +1553,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jkpsc-assistant-engineer-job/#respond">Leave
+										href="jkpsc-assistant-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1564,7 +1564,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jssc-jr-engineer-inspector-job/"
+										href="jssc-jr-engineer-inspector-job/"
 										rel="bookmark">JSSC Recruitment 2023 Apply Now Jr Engineer, Inspector 1562
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1574,7 +1574,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1588,7 +1588,7 @@
 									Vehicle Inspector (MVI), Pipeline Inspector Vacancy at 1562 Posts. Those candidates
 									&#8230; <a title="JSSC Recruitment 2023 Apply Now Jr Engineer, Inspector 1562 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jssc-jr-engineer-inspector-job/"
+										href="jssc-jr-engineer-inspector-job/"
 										aria-label="More on JSSC Recruitment 2023 Apply Now Jr Engineer, Inspector 1562 Post">Read
 										more</a></p>
 							</div>
@@ -1599,9 +1599,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1611,7 +1611,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jssc-jr-engineer-inspector-job/#respond">Leave
+										href="jssc-jr-engineer-inspector-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1622,7 +1622,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/isro-icrb-scientist-engineer-job/"
+										href="isro-icrb-scientist-engineer-job/"
 										rel="bookmark">ISRO ICRB Recruitment 2023 Apply Scientist, Engineer 303 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1632,7 +1632,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1646,7 +1646,7 @@
 									ISRO ICRB Jobs 2023 from 24 &#8230; <a
 										title="ISRO ICRB Recruitment 2023 Apply Scientist, Engineer 303 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/isro-icrb-scientist-engineer-job/"
+										href="isro-icrb-scientist-engineer-job/"
 										aria-label="More on ISRO ICRB Recruitment 2023 Apply Scientist, Engineer 303 Post">Read
 										more</a></p>
 							</div>
@@ -1657,9 +1657,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1669,7 +1669,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/isro-icrb-scientist-engineer-job/#respond">Leave
+										href="isro-icrb-scientist-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1680,7 +1680,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nidap-teaching-recruitment/"
+										href="nidap-teaching-recruitment/"
 										rel="bookmark">NIDAP Teaching Recruitment 2023 Apply Non-Teaching, Tech 26
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1689,7 +1689,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1704,7 +1704,7 @@
 									Posts. Short Information: National Institute Of Design Andhra Pradesh &#8230; <a
 										title="NIDAP Teaching Recruitment 2023 Apply Non-Teaching, Tech 26 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nidap-teaching-recruitment/"
+										href="nidap-teaching-recruitment/"
 										aria-label="More on NIDAP Teaching Recruitment 2023 Apply Non-Teaching, Tech 26 Post">Read
 										more</a></p>
 							</div>
@@ -1715,11 +1715,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1728,7 +1728,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nidap-teaching-recruitment/#respond">Leave a
+										href="nidap-teaching-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1739,7 +1739,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cdot-recruitment-apply/" rel="bookmark">CDOT
+										href="cdot-recruitment-apply/" rel="bookmark">CDOT
 										Project Engineer Recruitment 2023 Apply Online 156 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -1747,7 +1747,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1760,7 +1760,7 @@
 									who are interested in CDOT Recruitment 2023 can apply online through the official
 									website CDOT Jobs from 29 November &#8230; <a
 										title="CDOT Project Engineer Recruitment 2023 Apply Online 156 Posts"
-										class="read-more" href="https://www.sarkariresult.app/cdot-recruitment-apply/"
+										class="read-more" href="cdot-recruitment-apply/"
 										aria-label="More on CDOT Project Engineer Recruitment 2023 Apply Online 156 Posts">Read
 										more</a></p>
 							</div>
@@ -1771,9 +1771,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1783,7 +1783,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cdot-recruitment-apply/#respond">Leave a
+										href="cdot-recruitment-apply/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1794,7 +1794,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhsrcl-recruitment-apply-online/"
+										href="nhsrcl-recruitment-apply-online/"
 										rel="bookmark">NHSRCL Recruitment 2023 Apply JE, Manager, Technicain 64 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1803,7 +1803,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1818,7 +1818,7 @@
 									candidates &#8230; <a
 										title="NHSRCL Recruitment 2023 Apply JE, Manager, Technicain 64 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nhsrcl-recruitment-apply-online/"
+										href="nhsrcl-recruitment-apply-online/"
 										aria-label="More on NHSRCL Recruitment 2023 Apply JE, Manager, Technicain 64 Post">Read
 										more</a></p>
 							</div>
@@ -1829,9 +1829,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1841,7 +1841,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhsrcl-recruitment-apply-online/#respond">Leave
+										href="nhsrcl-recruitment-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1852,7 +1852,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-operator-engineer-job/"
+										href="bmrcl-operator-engineer-job/"
 										rel="bookmark">BMRCL Recruitment 2023 Apply Online Operator, Engineer 236
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1861,7 +1861,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1875,7 +1875,7 @@
 									Candidates who are interested in BMRCL Operator Vacancy 2023 can apply through the
 									&#8230; <a title="BMRCL Recruitment 2023 Apply Online Operator, Engineer 236 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bmrcl-operator-engineer-job/"
+										href="bmrcl-operator-engineer-job/"
 										aria-label="More on BMRCL Recruitment 2023 Apply Online Operator, Engineer 236 Post">Read
 										more</a></p>
 							</div>
@@ -1886,9 +1886,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1898,7 +1898,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-operator-engineer-job/#respond">Leave
+										href="bmrcl-operator-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1909,7 +1909,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bseidc-recruitment/" rel="bookmark">BSEIDC
+										href="bseidc-recruitment/" rel="bookmark">BSEIDC
 										Recruitment 2023 Apply Online AE, Officer, Clerk 30 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -1917,7 +1917,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1931,7 +1931,7 @@
 									Accounts Clerk Vacancy at 30 Posts. Short Information: Bihar State and
 									Infrastructure Development Corporation Limited has issued &#8230; <a
 										title="BSEIDC Recruitment 2023 Apply Online AE, Officer, Clerk 30 Post"
-										class="read-more" href="https://www.sarkariresult.app/bseidc-recruitment/"
+										class="read-more" href="bseidc-recruitment/"
 										aria-label="More on BSEIDC Recruitment 2023 Apply Online AE, Officer, Clerk 30 Post">Read
 										more</a></p>
 							</div>
@@ -1942,9 +1942,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1954,7 +1954,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bseidc-recruitment/#respond">Leave a
+										href="bseidc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1965,7 +1965,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wbmsc-engineer-analyst-job/"
+										href="wbmsc-engineer-analyst-job/"
 										rel="bookmark">WBMSC Recruitment 2023 Apply Online Engineer, Analyst 94 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1974,7 +1974,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1988,7 +1988,7 @@
 									are interested in WBMSC Analyst Recruitment 2023 &#8230; <a
 										title="WBMSC Recruitment 2023 Apply Online Engineer, Analyst 94 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wbmsc-engineer-analyst-job/"
+										href="wbmsc-engineer-analyst-job/"
 										aria-label="More on WBMSC Recruitment 2023 Apply Online Engineer, Analyst 94 Post">Read
 										more</a></p>
 							</div>
@@ -1999,9 +1999,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2011,7 +2011,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wbmsc-engineer-analyst-job/#respond">Leave a
+										href="wbmsc-engineer-analyst-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2022,7 +2022,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-jammu-non-teaching-apply-online/"
+										href="iit-jammu-non-teaching-apply-online/"
 										rel="bookmark">IIT Jammu Non-Teaching Recruitment 2023 Group A, B &#038; C 48
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2031,7 +2031,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2046,7 +2046,7 @@
 									recruitment 2023 &#8230; <a
 										title="IIT Jammu Non-Teaching Recruitment 2023 Group A, B &#038; C 48 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iit-jammu-non-teaching-apply-online/"
+										href="iit-jammu-non-teaching-apply-online/"
 										aria-label="More on IIT Jammu Non-Teaching Recruitment 2023 Group A, B &#038; C 48 Post">Read
 										more</a></p>
 							</div>
@@ -2057,9 +2057,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2069,7 +2069,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-jammu-non-teaching-apply-online/#respond">Leave
+										href="iit-jammu-non-teaching-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2080,7 +2080,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dvc-junior-engineer-job/" rel="bookmark">DVC
+										href="dvc-junior-engineer-job/" rel="bookmark">DVC
 										Recruitment 2023 Apply Online Junior Engineer 40 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -2088,7 +2088,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2101,7 +2101,7 @@
 									Junior Engineer Recruitment 2023 apply online to through the official website DVC
 									Jobs from 13 May 2023 &#8230; <a
 										title="DVC Recruitment 2023 Apply Online Junior Engineer 40 Post"
-										class="read-more" href="https://www.sarkariresult.app/dvc-junior-engineer-job/"
+										class="read-more" href="dvc-junior-engineer-job/"
 										aria-label="More on DVC Recruitment 2023 Apply Online Junior Engineer 40 Post">Read
 										more</a></p>
 							</div>
@@ -2112,9 +2112,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2124,7 +2124,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dvc-junior-engineer-job/#respond">Leave a
+										href="dvc-junior-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2135,7 +2135,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-psc-officer-plumber-job/"
+										href="kerala-psc-officer-plumber-job/"
 										rel="bookmark">Kerala PSC Recruitment 2023 Apply Online Officer, Plumber 81
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2144,7 +2144,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2159,7 +2159,7 @@
 									Arabic Vacancy at 81 Posts. Short &#8230; <a
 										title="Kerala PSC Recruitment 2023 Apply Online Officer, Plumber 81 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-psc-officer-plumber-job/"
+										href="kerala-psc-officer-plumber-job/"
 										aria-label="More on Kerala PSC Recruitment 2023 Apply Online Officer, Plumber 81 Post">Read
 										more</a></p>
 							</div>
@@ -2170,11 +2170,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2183,7 +2183,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-psc-officer-plumber-job/#respond">Leave
+										href="kerala-psc-officer-plumber-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2194,7 +2194,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-bangalore-trainee-engineer-job/"
+										href="bel-bangalore-trainee-engineer-job/"
 										rel="bookmark">BEL Bangalore Recruitment 2023 Apply Trainee Engineer 43 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2203,7 +2203,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2217,7 +2217,7 @@
 									through the official website BEL Jobs from &#8230; <a
 										title="BEL Bangalore Recruitment 2023 Apply Trainee Engineer 43 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-bangalore-trainee-engineer-job/"
+										href="bel-bangalore-trainee-engineer-job/"
 										aria-label="More on BEL Bangalore Recruitment 2023 Apply Trainee Engineer 43 Post">Read
 										more</a></p>
 							</div>
@@ -2228,9 +2228,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2240,7 +2240,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-bangalore-trainee-engineer-job/#comments">1
+										href="bel-bangalore-trainee-engineer-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2251,7 +2251,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jnu-non-teaching-vacancy/"
+										href="jnu-non-teaching-vacancy/"
 										rel="bookmark">JNU Non-Teaching Admit Card 2023 Release Exam Date / City
 										Intimation Link</a></h2>
 								<div class="entry-meta">
@@ -2260,7 +2260,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2274,7 +2274,7 @@
 									Helper, AE, JE, Works Asst, Wireman, Carpenter, Attendant, Lift Operator, Computer
 									Operator, Technician, Asst Manager, Laboratory, &#8230; <a
 										title="JNU Non-Teaching Admit Card 2023 Release Exam Date / City Intimation Link"
-										class="read-more" href="https://www.sarkariresult.app/jnu-non-teaching-vacancy/"
+										class="read-more" href="jnu-non-teaching-vacancy/"
 										aria-label="More on JNU Non-Teaching Admit Card 2023 Release Exam Date / City Intimation Link">Read
 										more</a></p>
 							</div>
@@ -2285,11 +2285,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/university-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="university-jobs/"
 										rel="category tag">University Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2298,7 +2298,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jnu-non-teaching-vacancy/#respond">Leave a
+										href="jnu-non-teaching-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2309,7 +2309,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nwda-ldc-udc-stenographer-job/"
+										href="nwda-ldc-udc-stenographer-job/"
 										rel="bookmark">NWDA Admit Card 2023 Download LDC, UDC, Stenographer Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -2319,7 +2319,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2333,7 +2333,7 @@
 									recruitment 2023 of Junior Engineer (Civil), Junior Accounts Officer, &#8230; <a
 										title="NWDA Admit Card 2023 Download LDC, UDC, Stenographer Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/nwda-ldc-udc-stenographer-job/"
+										href="nwda-ldc-udc-stenographer-job/"
 										aria-label="More on NWDA Admit Card 2023 Download LDC, UDC, Stenographer Exam Date">Read
 										more</a></p>
 							</div>
@@ -2344,10 +2344,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2356,7 +2356,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nwda-ldc-udc-stenographer-job/#respond">Leave
+										href="nwda-ldc-udc-stenographer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2367,7 +2367,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/visva-bharati-non-teaching-job/"
+										href="visva-bharati-non-teaching-job/"
 										rel="bookmark">Visva Bharati Recruitment 2023 Apply Non Teaching 709 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2377,7 +2377,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2393,7 +2393,7 @@
 									Assistant &#8230; <a
 										title="Visva Bharati Recruitment 2023 Apply Non Teaching 709 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/visva-bharati-non-teaching-job/"
+										href="visva-bharati-non-teaching-job/"
 										aria-label="More on Visva Bharati Recruitment 2023 Apply Non Teaching 709 Post">Read
 										more</a></p>
 							</div>
@@ -2404,11 +2404,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/university-jobs/"
+										href="university-jobs/"
 										rel="category tag">University Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2417,7 +2417,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/visva-bharati-non-teaching-job/#comments">1
+										href="visva-bharati-non-teaching-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2428,7 +2428,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wbmscl-consultant-job/" rel="bookmark">WBMSC
+										href="wbmscl-consultant-job/" rel="bookmark">WBMSC
 										Recruitment 2023 Apply DEO, Engineer, Manager 147 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-05-16T23:55:30+05:30"
@@ -2437,7 +2437,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2451,7 +2451,7 @@
 									Assistant Engineer, Programme Manager, Finance Consultant, Data Entry Operator (DEO)
 									vacancies at 147 &#8230; <a
 										title="WBMSC Recruitment 2023 Apply DEO, Engineer, Manager 147 Post"
-										class="read-more" href="https://www.sarkariresult.app/wbmscl-consultant-job/"
+										class="read-more" href="wbmscl-consultant-job/"
 										aria-label="More on WBMSC Recruitment 2023 Apply DEO, Engineer, Manager 147 Post">Read
 										more</a></p>
 							</div>
@@ -2462,9 +2462,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2474,7 +2474,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wbmscl-consultant-job/#respond">Leave a
+										href="wbmscl-consultant-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2485,7 +2485,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-engineer-librarian-job/"
+										href="aiims-bhubaneswar-engineer-librarian-job/"
 										rel="bookmark">AIIMS Bhubaneswar Recruitment 2023 Apply Engineer, Librarian
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2495,7 +2495,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2510,7 +2510,7 @@
 									Superintendent, Nursing Superintendent, Principal Private Secretary, &#8230; <a
 										title="AIIMS Bhubaneswar Recruitment 2023 Apply Engineer, Librarian Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-engineer-librarian-job/"
+										href="aiims-bhubaneswar-engineer-librarian-job/"
 										aria-label="More on AIIMS Bhubaneswar Recruitment 2023 Apply Engineer, Librarian Post">Read
 										more</a></p>
 							</div>
@@ -2521,11 +2521,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2535,7 +2535,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-engineer-librarian-job/#comments">1
+										href="aiims-bhubaneswar-engineer-librarian-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2546,7 +2546,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rpsc-assistant-engineer-recruitment/"
+										href="rpsc-assistant-engineer-recruitment/"
 										rel="bookmark">RPSC Assistant Engineer Admit Card 2023 Release for 118 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2555,7 +2555,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2569,7 +2569,7 @@
 									recruitment 2022 of Assistant Engineer (AE Civil), Revenue Officer RO Grade &#8230;
 									<a title="RPSC Assistant Engineer Admit Card 2023 Release for 118 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rpsc-assistant-engineer-recruitment/"
+										href="rpsc-assistant-engineer-recruitment/"
 										aria-label="More on RPSC Assistant Engineer Admit Card 2023 Release for 118 Post">Read
 										more</a></p>
 							</div>
@@ -2580,11 +2580,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/rpsc-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="rpsc-jobs/"
 										rel="category tag">RPSC Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2593,7 +2593,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rpsc-assistant-engineer-recruitment/#respond">Leave
+										href="rpsc-assistant-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2604,7 +2604,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/opgc-get-recruitment/" rel="bookmark">OPGC
+										href="opgc-get-recruitment/" rel="bookmark">OPGC
 										GET Recruitment 2023 Apply Graduate Engineer Trainee 20 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-05-02T14:58:30+05:30"
@@ -2613,7 +2613,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2626,7 +2626,7 @@
 									Trainee (GET) Vacancies at 20 posts. Those candidates who are interested in OPGC GET
 									Vacancy 2023 apply online through the &#8230; <a
 										title="OPGC GET Recruitment 2023 Apply Graduate Engineer Trainee 20 Post"
-										class="read-more" href="https://www.sarkariresult.app/opgc-get-recruitment/"
+										class="read-more" href="opgc-get-recruitment/"
 										aria-label="More on OPGC GET Recruitment 2023 Apply Graduate Engineer Trainee 20 Post">Read
 										more</a></p>
 							</div>
@@ -2637,9 +2637,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2649,7 +2649,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/opgc-get-recruitment/#respond">Leave a
+										href="opgc-get-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2660,7 +2660,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sjvn-field-engineer-job/"
+										href="sjvn-field-engineer-job/"
 										rel="bookmark">SJVN Recruitment 2023 Apply Online Field Engineer 50 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2670,7 +2670,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2683,7 +2683,7 @@
 									candidates who are interested in SJVN Recruitment 2023 apply online the sjvn.nic.in
 									rough the official website SJVN &#8230; <a
 										title="SJVN Recruitment 2023 Apply Online Field Engineer 50 Post"
-										class="read-more" href="https://www.sarkariresult.app/sjvn-field-engineer-job/"
+										class="read-more" href="sjvn-field-engineer-job/"
 										aria-label="More on SJVN Recruitment 2023 Apply Online Field Engineer 50 Post">Read
 										more</a></p>
 							</div>
@@ -2694,9 +2694,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2706,7 +2706,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sjvn-field-engineer-job/#respond">Leave a
+										href="sjvn-field-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2717,7 +2717,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/upsc-officer-engineer-job/"
+										href="upsc-officer-engineer-job/"
 										rel="bookmark">UPSC Recruitment 2023 Apply Online Officer, Engineer 146 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2727,7 +2727,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2742,7 +2742,7 @@
 									recruitment 2023 of Research Officer &#8230; <a
 										title="UPSC Recruitment 2023 Apply Online Officer, Engineer 146 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/upsc-officer-engineer-job/"
+										href="upsc-officer-engineer-job/"
 										aria-label="More on UPSC Recruitment 2023 Apply Online Officer, Engineer 146 Post">Read
 										more</a></p>
 							</div>
@@ -2753,11 +2753,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/upsc/" rel="category tag">UPSC</a></span>
+										href="upsc/" rel="category tag">UPSC</a></span>
 								<span class="comments-link"><span class="gp-icon icon-comments"><svg
 											viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
 											width="1em" height="1em">
@@ -2766,7 +2766,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/upsc-officer-engineer-job/#respond">Leave a
+										href="upsc-officer-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2777,7 +2777,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nfsc-nagpur-recruitment/"
+										href="nfsc-nagpur-recruitment/"
 										rel="bookmark">NFSC Nagpur Recruitment 2023 Dy Director, Instructor, Officer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2787,7 +2787,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2801,7 +2801,7 @@
 									Accounts Officer, Laboratory Technician Grade &#8211; I, and Senior Instructor
 									Vacancies at 13 &#8230; <a
 										title="NFSC Nagpur Recruitment 2023 Dy Director, Instructor, Officer Post"
-										class="read-more" href="https://www.sarkariresult.app/nfsc-nagpur-recruitment/"
+										class="read-more" href="nfsc-nagpur-recruitment/"
 										aria-label="More on NFSC Nagpur Recruitment 2023 Dy Director, Instructor, Officer Post">Read
 										more</a></p>
 							</div>
@@ -2812,9 +2812,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2824,7 +2824,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nfsc-nagpur-recruitment/#respond">Leave a
+										href="nfsc-nagpur-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2835,7 +2835,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nepa-engineer-incharge-job/"
+										href="nepa-engineer-incharge-job/"
 										rel="bookmark">NEPA Recruitment 2023 Apply Asst, Engineer, Incharge 118 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2845,7 +2845,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2860,7 +2860,7 @@
 									Engineer, Junior Electrical Engineer, Assistant Civil Engineer, Assistant Instrument
 									&#8230; <a title="NEPA Recruitment 2023 Apply Asst, Engineer, Incharge 118 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nepa-engineer-incharge-job/"
+										href="nepa-engineer-incharge-job/"
 										aria-label="More on NEPA Recruitment 2023 Apply Asst, Engineer, Incharge 118 Post">Read
 										more</a></p>
 							</div>
@@ -2871,9 +2871,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2883,7 +2883,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nepa-engineer-incharge-job/#respond">Leave a
+										href="nepa-engineer-incharge-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2894,7 +2894,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-psc-engineer-job/" rel="bookmark">APSC
+										href="assam-psc-engineer-job/" rel="bookmark">APSC
 										Recruitment 2023 Apply Asst &#038; Junior Engineer 317 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-21T12:54:37+05:30"
@@ -2903,7 +2903,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2916,7 +2916,7 @@
 									(Civil), and Junior Engineer (Civil) Vacancies at 317 Posts. Those candidates who
 									are interested in APSC Recruitment 2023 apply online through &#8230; <a
 										title="APSC Recruitment 2023 Apply Asst &#038; Junior Engineer 317 Post"
-										class="read-more" href="https://www.sarkariresult.app/assam-psc-engineer-job/"
+										class="read-more" href="assam-psc-engineer-job/"
 										aria-label="More on APSC Recruitment 2023 Apply Asst &#038; Junior Engineer 317 Post">Read
 										more</a></p>
 							</div>
@@ -2927,9 +2927,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2939,7 +2939,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-psc-engineer-job/#respond">Leave a
+										href="assam-psc-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2950,7 +2950,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-guwahati-officer-engineer-job/"
+										href="iit-guwahati-officer-engineer-job/"
 										rel="bookmark">IIT Guwahati Recruitment 2023 Apply Now Officer, Engineer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2960,7 +2960,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2975,7 +2975,7 @@
 									interested &#8230; <a
 										title="IIT Guwahati Recruitment 2023 Apply Now Officer, Engineer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iit-guwahati-officer-engineer-job/"
+										href="iit-guwahati-officer-engineer-job/"
 										aria-label="More on IIT Guwahati Recruitment 2023 Apply Now Officer, Engineer Post">Read
 										more</a></p>
 							</div>
@@ -2986,10 +2986,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/iit-jobs/" rel="category tag">IIT Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="iit-jobs/" rel="category tag">IIT Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2999,7 +2999,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-guwahati-officer-engineer-job/#respond">Leave
+										href="iit-guwahati-officer-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3010,7 +3010,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rites-engineer-vacancy/"
+										href="rites-engineer-vacancy/"
 										rel="bookmark">RITES Engineer Recruitment 2023 Apply Online 54 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-18T23:56:07+05:30"
@@ -3019,7 +3019,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3033,7 +3033,7 @@
 									Posts. Candidates who are interested in the RITES Engineer Vacancy 2023 can apply
 									online through the &#8230; <a
 										title="RITES Engineer Recruitment 2023 Apply Online 54 Post" class="read-more"
-										href="https://www.sarkariresult.app/rites-engineer-vacancy/"
+										href="rites-engineer-vacancy/"
 										aria-label="More on RITES Engineer Recruitment 2023 Apply Online 54 Post">Read
 										more</a></p>
 							</div>
@@ -3044,9 +3044,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3056,7 +3056,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rites-engineer-vacancy/#respond">Leave a
+										href="rites-engineer-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3067,7 +3067,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiesl-trainee-engineer-job/"
+										href="aiesl-trainee-engineer-job/"
 										rel="bookmark">AIESL Recruitment 2023 Apply Now Trainee Engineer 72 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3077,7 +3077,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3091,7 +3091,7 @@
 									Candidates who are interested in AIESL Recruitment 2023 can apply online through
 									&#8230; <a title="AIESL Recruitment 2023 Apply Now Trainee Engineer 72 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiesl-trainee-engineer-job/"
+										href="aiesl-trainee-engineer-job/"
 										aria-label="More on AIESL Recruitment 2023 Apply Now Trainee Engineer 72 Post">Read
 										more</a></p>
 							</div>
@@ -3102,9 +3102,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3114,7 +3114,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiesl-trainee-engineer-job/#respond">Leave a
+										href="aiesl-trainee-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3125,7 +3125,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pgcil-engineer-trainee-job/"
+										href="pgcil-engineer-trainee-job/"
 										rel="bookmark">PGCIL Recruitment 2023 Apply Online Engineer Trainee 138 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3135,7 +3135,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3149,7 +3149,7 @@
 									online through the official website &#8230; <a
 										title="PGCIL Recruitment 2023 Apply Online Engineer Trainee 138 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pgcil-engineer-trainee-job/"
+										href="pgcil-engineer-trainee-job/"
 										aria-label="More on PGCIL Recruitment 2023 Apply Online Engineer Trainee 138 Post">Read
 										more</a></p>
 							</div>
@@ -3160,9 +3160,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3172,7 +3172,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pgcil-engineer-trainee-job/#respond">Leave a
+										href="pgcil-engineer-trainee-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3183,7 +3183,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/brahmaputra-board-udc-draftsman-job/"
+										href="brahmaputra-board-udc-draftsman-job/"
 										rel="bookmark">Brahmaputra Board Recruitment 2023 Apply UDC, Draftsman 62
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3193,7 +3193,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3208,7 +3208,7 @@
 									Board recruitment 2023 of &#8230; <a
 										title="Brahmaputra Board Recruitment 2023 Apply UDC, Draftsman 62 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/brahmaputra-board-udc-draftsman-job/"
+										href="brahmaputra-board-udc-draftsman-job/"
 										aria-label="More on Brahmaputra Board Recruitment 2023 Apply UDC, Draftsman 62 Post">Read
 										more</a></p>
 							</div>
@@ -3219,9 +3219,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3231,7 +3231,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/brahmaputra-board-udc-draftsman-job/#respond">Leave
+										href="brahmaputra-board-udc-draftsman-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3242,7 +3242,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhm-assam-engineer-social-worker-job/"
+										href="nhm-assam-engineer-social-worker-job/"
 										rel="bookmark">NHM Assam Recruitment 2023 Apply Engineer, Social Worker 153
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3252,7 +3252,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3267,7 +3267,7 @@
 									Consultant, Diagnostic, Consultant, State &#8230; <a
 										title="NHM Assam Recruitment 2023 Apply Engineer, Social Worker 153 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nhm-assam-engineer-social-worker-job/"
+										href="nhm-assam-engineer-social-worker-job/"
 										aria-label="More on NHM Assam Recruitment 2023 Apply Engineer, Social Worker 153 Post">Read
 										more</a></p>
 							</div>
@@ -3278,9 +3278,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3290,7 +3290,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhm-assam-engineer-social-worker-job/#respond">Leave
+										href="nhm-assam-engineer-social-worker-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3301,7 +3301,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/upsc-asst-engineer-officer-job/"
+										href="upsc-asst-engineer-officer-job/"
 										rel="bookmark">UPSC Recruitment 2023 Apply Now Asst, Engineer, Officer 69
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3311,7 +3311,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3326,7 +3326,7 @@
 									Engineer, Youth Officer Vacancies &#8230; <a
 										title="UPSC Recruitment 2023 Apply Now Asst, Engineer, Officer 69 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/upsc-asst-engineer-officer-job/"
+										href="upsc-asst-engineer-officer-job/"
 										aria-label="More on UPSC Recruitment 2023 Apply Now Asst, Engineer, Officer 69 Post">Read
 										more</a></p>
 							</div>
@@ -3337,11 +3337,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/upsc/" rel="category tag">UPSC</a></span>
+										href="upsc/" rel="category tag">UPSC</a></span>
 								<span class="comments-link"><span class="gp-icon icon-comments"><svg
 											viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
 											width="1em" height="1em">
@@ -3350,7 +3350,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/upsc-asst-engineer-officer-job/#respond">Leave
+										href="upsc-asst-engineer-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3361,7 +3361,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-cantt-recruitment/"
+										href="allahabad-cantt-recruitment/"
 										rel="bookmark">Allahabad Cantt Recruitment 2023 Assistant, Teacher, JE 12
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3371,7 +3371,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3385,7 +3385,7 @@
 									in Allahabad Cantt Vacancy 2023 apply online through the official &#8230; <a
 										title="Allahabad Cantt Recruitment 2023 Assistant, Teacher, JE 12 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-cantt-recruitment/"
+										href="allahabad-cantt-recruitment/"
 										aria-label="More on Allahabad Cantt Recruitment 2023 Assistant, Teacher, JE 12 Post">Read
 										more</a></p>
 							</div>
@@ -3396,11 +3396,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3409,7 +3409,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-cantt-recruitment/#respond">Leave
+										href="allahabad-cantt-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3420,7 +3420,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cdac-engineer-manager-job/"
+										href="cdac-engineer-manager-job/"
 										rel="bookmark">CDAC Recruitment 2023 Apply Online Engineer, Manager 140 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3430,7 +3430,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3444,7 +3444,7 @@
 									Vacancies at 140 Posts. Those candidates who are interested &#8230; <a
 										title="CDAC Recruitment 2023 Apply Online Engineer, Manager 140 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cdac-engineer-manager-job/"
+										href="cdac-engineer-manager-job/"
 										aria-label="More on CDAC Recruitment 2023 Apply Online Engineer, Manager 140 Post">Read
 										more</a></p>
 							</div>
@@ -3455,9 +3455,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3467,7 +3467,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cdac-engineer-manager-job/#respond">Leave a
+										href="cdac-engineer-manager-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3478,7 +3478,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-jal-board-junior-engineer-job/"
+										href="delhi-jal-board-junior-engineer-job/"
 										rel="bookmark">Delhi Jal Board Recruitment 2023 Apply Junior Engineer 47
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3488,7 +3488,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3501,7 +3501,7 @@
 									interested in Delhi Jal Board Junior Engineer Recruitment 2023 can download the DJB
 									&#8230; <a title="Delhi Jal Board Recruitment 2023 Apply Junior Engineer 47 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-jal-board-junior-engineer-job/"
+										href="delhi-jal-board-junior-engineer-job/"
 										aria-label="More on Delhi Jal Board Recruitment 2023 Apply Junior Engineer 47 Post">Read
 										more</a></p>
 							</div>
@@ -3512,9 +3512,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3524,7 +3524,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-jal-board-junior-engineer-job/#respond">Leave
+										href="delhi-jal-board-junior-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3535,7 +3535,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mpmkvvcl-asst-engineer-job/"
+										href="mpmkvvcl-asst-engineer-job/"
 										rel="bookmark">MPMKVVCL Recruitment 2023 Apply Online Assistant Engineer 75
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3545,7 +3545,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3559,7 +3559,7 @@
 									2023. Apply online through the official website MPMKVVCL Jobs &#8230; <a
 										title="MPMKVVCL Recruitment 2023 Apply Online Assistant Engineer 75 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mpmkvvcl-asst-engineer-job/"
+										href="mpmkvvcl-asst-engineer-job/"
 										aria-label="More on MPMKVVCL Recruitment 2023 Apply Online Assistant Engineer 75 Post">Read
 										more</a></p>
 							</div>
@@ -3570,9 +3570,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3582,7 +3582,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mpmkvvcl-asst-engineer-job/#respond">Leave a
+										href="mpmkvvcl-asst-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3593,7 +3593,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/thdc-engineer-trainee-job/"
+										href="thdc-engineer-trainee-job/"
 										rel="bookmark">THDC Recruitment 2023 Apply Online Engineer Trainee 90 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3602,7 +3602,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3616,7 +3616,7 @@
 									official website THDC Jobs THDC Jobs &#8230; <a
 										title="THDC Recruitment 2023 Apply Online Engineer Trainee 90 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/thdc-engineer-trainee-job/"
+										href="thdc-engineer-trainee-job/"
 										aria-label="More on THDC Recruitment 2023 Apply Online Engineer Trainee 90 Post">Read
 										more</a></p>
 							</div>
@@ -3627,9 +3627,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3639,7 +3639,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/thdc-engineer-trainee-job/#respond">Leave a
+										href="thdc-engineer-trainee-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3650,7 +3650,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iia-karnataka-engineer-trainee-job/"
+										href="iia-karnataka-engineer-trainee-job/"
 										rel="bookmark">IIA Karnataka Recruitment 2023 Apply Online Engineer Trainee
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3660,7 +3660,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3674,7 +3674,7 @@
 									Trainee Vacancy 2023 can apply online &#8230; <a
 										title="IIA Karnataka Recruitment 2023 Apply Online Engineer Trainee Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iia-karnataka-engineer-trainee-job/"
+										href="iia-karnataka-engineer-trainee-job/"
 										aria-label="More on IIA Karnataka Recruitment 2023 Apply Online Engineer Trainee Post">Read
 										more</a></p>
 							</div>
@@ -3685,9 +3685,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3697,7 +3697,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iia-karnataka-engineer-trainee-job/#respond">Leave
+										href="iia-karnataka-engineer-trainee-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3708,7 +3708,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pune-cantt-notification/"
+										href="pune-cantt-notification/"
 										rel="bookmark">Pune Cantt Recruitment 2023 JE, Clerk, Driver, Peon, Ayah 162
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3718,7 +3718,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3732,7 +3732,7 @@
 									Inspector, Junior Engineer, Lab Technician, Malies, Mazdoor, Safaikarmachari, Staff
 									Nurse, Auto Mechanic, D.Ed Teacher, Fire &#8230; <a
 										title="Pune Cantt Recruitment 2023 JE, Clerk, Driver, Peon, Ayah 162 Post"
-										class="read-more" href="https://www.sarkariresult.app/pune-cantt-notification/"
+										class="read-more" href="pune-cantt-notification/"
 										aria-label="More on Pune Cantt Recruitment 2023 JE, Clerk, Driver, Peon, Ayah 162 Post">Read
 										more</a></p>
 							</div>
@@ -3743,11 +3743,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3756,7 +3756,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pune-cantt-notification/#comments">1
+										href="pune-cantt-notification/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -3767,7 +3767,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mha-stenographer-recruitment-2023-ae-je-pa-accountant-28-post/"
+										href="mha-stenographer-recruitment-2023-ae-je-pa-accountant-28-post/"
 										rel="bookmark">MHA Stenographer Recruitment 2023 AE, JE, PA, Accountant 28
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3776,7 +3776,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3791,7 +3791,7 @@
 									Stenographer Recruitment 2023 of Group A, B, C (Under &#8230; <a
 										title="MHA Stenographer Recruitment 2023 AE, JE, PA, Accountant 28 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mha-stenographer-recruitment-2023-ae-je-pa-accountant-28-post/"
+										href="mha-stenographer-recruitment-2023-ae-je-pa-accountant-28-post/"
 										aria-label="More on MHA Stenographer Recruitment 2023 AE, JE, PA, Accountant 28 Post">Read
 										more</a></p>
 							</div>
@@ -3802,8 +3802,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3812,7 +3812,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mha-stenographer-recruitment-2023-ae-je-pa-accountant-28-post/#respond">Leave
+										href="mha-stenographer-recruitment-2023-ae-je-pa-accountant-28-post/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3823,7 +3823,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tfl-manager-engineer-officer-job/"
+										href="tfl-manager-engineer-officer-job/"
 										rel="bookmark">TFL Recruitment 2023 Apply Manager, Engineer, Officer 55
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -3833,7 +3833,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3847,7 +3847,7 @@
 									TFL Engineer Recruitment 2023 can apply online through the &#8230; <a
 										title="TFL Recruitment 2023 Apply Manager, Engineer, Officer 55 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/tfl-manager-engineer-officer-job/"
+										href="tfl-manager-engineer-officer-job/"
 										aria-label="More on TFL Recruitment 2023 Apply Manager, Engineer, Officer 55 Posts">Read
 										more</a></p>
 							</div>
@@ -3858,9 +3858,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3870,7 +3870,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tfl-manager-engineer-officer-job/#respond">Leave
+										href="tfl-manager-engineer-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3881,7 +3881,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railtel-engineer-vacancy/"
+										href="railtel-engineer-vacancy/"
 										rel="bookmark">RailTel Engineer Recruitment 2023 Application Form 66 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3891,7 +3891,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3904,7 +3904,7 @@
 									candidates who are interested in RailTel Vacancy 2023 apply online through the
 									RailTel official website RailTel Jobs from 7 March &#8230; <a
 										title="RailTel Engineer Recruitment 2023 Application Form 66 Posts"
-										class="read-more" href="https://www.sarkariresult.app/railtel-engineer-vacancy/"
+										class="read-more" href="railtel-engineer-vacancy/"
 										aria-label="More on RailTel Engineer Recruitment 2023 Application Form 66 Posts">Read
 										more</a></p>
 							</div>
@@ -3915,9 +3915,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3927,7 +3927,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railtel-engineer-vacancy/#respond">Leave a
+										href="railtel-engineer-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3938,7 +3938,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-electricity-dept-recruitment/"
+										href="chandigarh-electricity-dept-recruitment/"
 										rel="bookmark">Chandigarh JE Recruitment 2023 Apply Online Junior Engineer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3948,7 +3948,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3962,7 +3962,7 @@
 									through the official website Chandigarh Electricity Dept &#8230; <a
 										title="Chandigarh JE Recruitment 2023 Apply Online Junior Engineer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-electricity-dept-recruitment/"
+										href="chandigarh-electricity-dept-recruitment/"
 										aria-label="More on Chandigarh JE Recruitment 2023 Apply Online Junior Engineer Post">Read
 										more</a></p>
 							</div>
@@ -3973,9 +3973,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3985,7 +3985,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-electricity-dept-recruitment/#respond">Leave
+										href="chandigarh-electricity-dept-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3996,7 +3996,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pmc-jobs/" rel="bookmark">PMC Recruitment
+										href="pmc-jobs/" rel="bookmark">PMC Recruitment
 										2023 MO, JE, Inspector, Supervisor, Fireman Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-30T23:55:26+05:30"
@@ -4005,7 +4005,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4019,7 +4019,7 @@
 									320 posts. Short Information: Pune Municipal Corporation has released the latest
 									notification for the PMC recruitment &#8230; <a
 										title="PMC Recruitment 2023 MO, JE, Inspector, Supervisor, Fireman Post"
-										class="read-more" href="https://www.sarkariresult.app/pmc-jobs/"
+										class="read-more" href="pmc-jobs/"
 										aria-label="More on PMC Recruitment 2023 MO, JE, Inspector, Supervisor, Fireman Post">Read
 										more</a></p>
 							</div>
@@ -4030,9 +4030,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4041,7 +4041,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/pmc-jobs/#respond">Leave a
+										</svg></span><a href="pmc-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4052,7 +4052,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/neepco-apprentice-recruitment/"
+										href="neepco-apprentice-recruitment/"
 										rel="bookmark">NEEPCO Apprentice Recruitment 2023 Apply Now JE, Associate 83
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4062,7 +4062,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4076,7 +4076,7 @@
 									Associate Vacancy at 83 posts. Those candidates who are interested in NEEPCO &#8230;
 									<a title="NEEPCO Apprentice Recruitment 2023 Apply Now JE, Associate 83 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/neepco-apprentice-recruitment/"
+										href="neepco-apprentice-recruitment/"
 										aria-label="More on NEEPCO Apprentice Recruitment 2023 Apply Now JE, Associate 83 Post">Read
 										more</a></p>
 							</div>
@@ -4087,9 +4087,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4099,7 +4099,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/neepco-apprentice-recruitment/#respond">Leave
+										href="neepco-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4110,7 +4110,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railtel-consultant-engineer-job/"
+										href="railtel-consultant-engineer-job/"
 										rel="bookmark">RailTel Recruitment 2023 Apply Consultant Engineer 20 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4120,7 +4120,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4134,7 +4134,7 @@
 									official website RailTel Jobs from 7 march &#8230; <a
 										title="RailTel Recruitment 2023 Apply Consultant Engineer 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/railtel-consultant-engineer-job/"
+										href="railtel-consultant-engineer-job/"
 										aria-label="More on RailTel Recruitment 2023 Apply Consultant Engineer 20 Post">Read
 										more</a></p>
 							</div>
@@ -4145,9 +4145,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4157,7 +4157,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railtel-consultant-engineer-job/#respond">Leave
+										href="railtel-consultant-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4168,7 +4168,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-bhilai-non-teaching-recruitment/"
+										href="iit-bhilai-non-teaching-recruitment/"
 										rel="bookmark">IIT Bhilai Recruitment 2023 Online Application Non Teaching
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4178,7 +4178,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4194,7 +4194,7 @@
 									Security &#8230; <a
 										title="IIT Bhilai Recruitment 2023 Online Application Non Teaching Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iit-bhilai-non-teaching-recruitment/"
+										href="iit-bhilai-non-teaching-recruitment/"
 										aria-label="More on IIT Bhilai Recruitment 2023 Online Application Non Teaching Post">Read
 										more</a></p>
 							</div>
@@ -4205,9 +4205,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4217,7 +4217,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-bhilai-non-teaching-recruitment/#respond">Leave
+										href="iit-bhilai-non-teaching-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4228,7 +4228,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/thdc-online-form/" rel="bookmark">THDC
+										href="thdc-online-form/" rel="bookmark">THDC
 										Recruitment 2023 DEO, Engineer, Surveyor, Overman 26 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-23T23:55:00+05:30"
@@ -4237,7 +4237,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4250,7 +4250,7 @@
 									Engineer, Sr. Surveyor, Overman, and lab Chemist Vacancies at 26 posts. Those
 									candidates who are interested in &#8230; <a
 										title="THDC Recruitment 2023 DEO, Engineer, Surveyor, Overman 26 Posts"
-										class="read-more" href="https://www.sarkariresult.app/thdc-online-form/"
+										class="read-more" href="thdc-online-form/"
 										aria-label="More on THDC Recruitment 2023 DEO, Engineer, Surveyor, Overman 26 Posts">Read
 										more</a></p>
 							</div>
@@ -4261,9 +4261,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4273,7 +4273,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/thdc-online-form/#respond">Leave a
+										href="thdc-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4284,7 +4284,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/becil-driver-store-keeper-job/"
+										href="becil-driver-store-keeper-job/"
 										rel="bookmark">BECIL Recruitment 2023 Apply Driver, Store Keeper, Clerk 73
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4294,7 +4294,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4310,7 +4310,7 @@
 									Clerk (C)/Junior Administrative Assistant, Phlebotomist, &#8230; <a
 										title="BECIL Recruitment 2023 Apply Driver, Store Keeper, Clerk 73 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/becil-driver-store-keeper-job/"
+										href="becil-driver-store-keeper-job/"
 										aria-label="More on BECIL Recruitment 2023 Apply Driver, Store Keeper, Clerk 73 Post">Read
 										more</a></p>
 							</div>
@@ -4321,9 +4321,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4333,7 +4333,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/becil-driver-store-keeper-job/#respond">Leave
+										href="becil-driver-store-keeper-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4344,7 +4344,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uprvunl-je-jobs/" rel="bookmark">UPRVUNL JE
+										href="uprvunl-je-jobs/" rel="bookmark">UPRVUNL JE
 										Final Result 2023 Download Now Pharmacist Cut Off Marks, Merit List</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4352,7 +4352,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4365,7 +4365,7 @@
 									Selected List of Junior Engineer (Trainee) &amp; Pharmacist Vacancy at 31 posts.
 									Candidates who are interested in UPRVUNL &#8230; <a
 										title="UPRVUNL JE Final Result 2023 Download Now Pharmacist Cut Off Marks, Merit List"
-										class="read-more" href="https://www.sarkariresult.app/uprvunl-je-jobs/"
+										class="read-more" href="uprvunl-je-jobs/"
 										aria-label="More on UPRVUNL JE Final Result 2023 Download Now Pharmacist Cut Off Marks, Merit List">Read
 										more</a></p>
 							</div>
@@ -4376,9 +4376,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/sarkari-result/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4387,7 +4387,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uprvunl-je-jobs/#respond">Leave a
+										href="uprvunl-je-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4398,7 +4398,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iocl-non-executive-online-form/"
+										href="iocl-non-executive-online-form/"
 										rel="bookmark">IOCL Non Executive Recruitment 2023 Apply Asst, Engineer 513
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4408,7 +4408,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4423,7 +4423,7 @@
 									Material Assistant, Junior Technical &#8230; <a
 										title="IOCL Non Executive Recruitment 2023 Apply Asst, Engineer 513 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iocl-non-executive-online-form/"
+										href="iocl-non-executive-online-form/"
 										aria-label="More on IOCL Non Executive Recruitment 2023 Apply Asst, Engineer 513 Post">Read
 										more</a></p>
 							</div>
@@ -4434,9 +4434,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4446,7 +4446,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iocl-non-executive-online-form/#comments">4
+										href="iocl-non-executive-online-form/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4457,7 +4457,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-housing-board-recruitment/"
+										href="chandigarh-housing-board-recruitment/"
 										rel="bookmark">Chandigarh Housing Board Result 2023 Direct Link JE, Clerk &#038;
 										Other Post Merit List</a></h2>
 								<div class="entry-meta">
@@ -4467,7 +4467,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4482,7 +4482,7 @@
 									Horticulture), Junior Draftsman &#8230; <a
 										title="Chandigarh Housing Board Result 2023 Direct Link JE, Clerk &#038; Other Post Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-housing-board-recruitment/"
+										href="chandigarh-housing-board-recruitment/"
 										aria-label="More on Chandigarh Housing Board Result 2023 Direct Link JE, Clerk &#038; Other Post Merit List">Read
 										more</a></p>
 							</div>
@@ -4493,9 +4493,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/sarkari-result/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4504,7 +4504,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-housing-board-recruitment/#respond">Leave
+										href="chandigarh-housing-board-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4515,7 +4515,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-bangalore-project-engineer-job/"
+										href="bel-bangalore-project-engineer-job/"
 										rel="bookmark">BEL Bangalore Recruitment 2023 Apply Project Engineer 117
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4525,7 +4525,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4539,7 +4539,7 @@
 									Bangalore Project Engineer Recruitment 2023 can apply online through the &#8230; <a
 										title="BEL Bangalore Recruitment 2023 Apply Project Engineer 117 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-bangalore-project-engineer-job/"
+										href="bel-bangalore-project-engineer-job/"
 										aria-label="More on BEL Bangalore Recruitment 2023 Apply Project Engineer 117 Post">Read
 										more</a></p>
 							</div>
@@ -4550,9 +4550,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4562,7 +4562,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-bangalore-project-engineer-job/#respond">Leave
+										href="bel-bangalore-project-engineer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4573,7 +4573,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bvfcl-online-form/" rel="bookmark">BVFCL
+										href="bvfcl-online-form/" rel="bookmark">BVFCL
 										Recruitment 2023 DM, Engineer, Officer, Driver, Trainee Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-15T23:55:49+05:30"
@@ -4582,7 +4582,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4596,7 +4596,7 @@
 									released the latest notification for the BVFCL recruitment 2023 of Dy Manager,
 									Engineer, &#8230; <a
 										title="BVFCL Recruitment 2023 DM, Engineer, Officer, Driver, Trainee Post"
-										class="read-more" href="https://www.sarkariresult.app/bvfcl-online-form/"
+										class="read-more" href="bvfcl-online-form/"
 										aria-label="More on BVFCL Recruitment 2023 DM, Engineer, Officer, Driver, Trainee Post">Read
 										more</a></p>
 							</div>
@@ -4607,9 +4607,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4619,7 +4619,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bvfcl-online-form/#comments">1
+										href="bvfcl-online-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4630,7 +4630,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nrida-recruitment/" rel="bookmark">NRIDA
+										href="nrida-recruitment/" rel="bookmark">NRIDA
 										Recruitment 2023 Apply Deputy Director, Engineer 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-15T23:55:46+05:30"
@@ -4639,7 +4639,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4652,7 +4652,7 @@
 									Agency has released the latest notification for the NRIDA Recruitment 2023 of
 									Scientist F, B &amp; Multi Tasking Staff Vacancies at 19 Posts. Those candidates
 									&#8230; <a title="NRIDA Recruitment 2023 Apply Deputy Director, Engineer 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/nrida-recruitment/"
+										class="read-more" href="nrida-recruitment/"
 										aria-label="More on NRIDA Recruitment 2023 Apply Deputy Director, Engineer 11 Post">Read
 										more</a></p>
 							</div>
@@ -4663,9 +4663,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4675,7 +4675,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nrida-recruitment/#respond">Leave a
+										href="nrida-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4686,7 +4686,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nainital-cantt-recruitment/"
+										href="nainital-cantt-recruitment/"
 										rel="bookmark">Nainital Cantt Recruitment 2023 JE, Inspector, Asst, Teacher
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4696,7 +4696,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4711,7 +4711,7 @@
 									Vacancy &#8230; <a
 										title="Nainital Cantt Recruitment 2023 JE, Inspector, Asst, Teacher Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nainital-cantt-recruitment/"
+										href="nainital-cantt-recruitment/"
 										aria-label="More on Nainital Cantt Recruitment 2023 JE, Inspector, Asst, Teacher Post">Read
 										more</a></p>
 							</div>
@@ -4722,11 +4722,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4735,7 +4735,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nainital-cantt-recruitment/#respond">Leave a
+										href="nainital-cantt-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4746,7 +4746,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-ghaziabad-engineer-jobs/"
+										href="bel-ghaziabad-engineer-jobs/"
 										rel="bookmark">BEL Ghaziabad Recruitment 2023 Apply Online Engineer 38 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4756,7 +4756,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4771,7 +4771,7 @@
 									Recruitment 2023 can &#8230; <a
 										title="BEL Ghaziabad Recruitment 2023 Apply Online Engineer 38 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-ghaziabad-engineer-jobs/"
+										href="bel-ghaziabad-engineer-jobs/"
 										aria-label="More on BEL Ghaziabad Recruitment 2023 Apply Online Engineer 38 Post">Read
 										more</a></p>
 							</div>
@@ -4782,9 +4782,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4794,7 +4794,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-ghaziabad-engineer-jobs/#respond">Leave
+										href="bel-ghaziabad-engineer-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4805,7 +4805,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-apply-online/" rel="bookmark">BMRCL
+										href="bmrcl-apply-online/" rel="bookmark">BMRCL
 										Recruitment 2023 Apply Online Inspector, AEE, AE 10 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-14T23:55:12+05:30"
@@ -4814,7 +4814,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4828,7 +4828,7 @@
 									Fire Inspector, Dy Chief Engineer, Assistant Executive Engineer, Assistant Engineer
 									Vacancy at 10 Posts. Candidates who are &#8230; <a
 										title="BMRCL Recruitment 2023 Apply Online Inspector, AEE, AE 10 Post"
-										class="read-more" href="https://www.sarkariresult.app/bmrcl-apply-online/"
+										class="read-more" href="bmrcl-apply-online/"
 										aria-label="More on BMRCL Recruitment 2023 Apply Online Inspector, AEE, AE 10 Post">Read
 										more</a></p>
 							</div>
@@ -4839,9 +4839,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4851,7 +4851,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-apply-online/#respond">Leave a
+										href="bmrcl-apply-online/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4862,7 +4862,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cel-notification/" rel="bookmark">CEL
+										href="cel-notification/" rel="bookmark">CEL
 										Recruitment 2023 Apply Now Dy Engineer, Engineer Trainee Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-13T23:55:09+05:30"
@@ -4871,7 +4871,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4884,7 +4884,7 @@
 									Trainee Vacancy at 09 Posts. Those candidates who are interested in CEL Vacancy 2023
 									apply online through the official website CEL Jobs from 7 &#8230; <a
 										title="CEL Recruitment 2023 Apply Now Dy Engineer, Engineer Trainee Post"
-										class="read-more" href="https://www.sarkariresult.app/cel-notification/"
+										class="read-more" href="cel-notification/"
 										aria-label="More on CEL Recruitment 2023 Apply Now Dy Engineer, Engineer Trainee Post">Read
 										more</a></p>
 							</div>
@@ -4895,9 +4895,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4907,7 +4907,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cel-notification/#respond">Leave a
+										href="cel-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4918,7 +4918,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rites-engineer-recruitment-apply/"
+										href="rites-engineer-recruitment-apply/"
 										rel="bookmark">RITES Engineer Recruitment 2023 Apply Online Form 10 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4928,7 +4928,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4942,7 +4942,7 @@
 									February 2023 to 13 March &#8230; <a
 										title="RITES Engineer Recruitment 2023 Apply Online Form 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rites-engineer-recruitment-apply/"
+										href="rites-engineer-recruitment-apply/"
 										aria-label="More on RITES Engineer Recruitment 2023 Apply Online Form 10 Post">Read
 										more</a></p>
 							</div>
@@ -4953,9 +4953,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4965,7 +4965,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rites-engineer-recruitment-apply/#respond">Leave
+										href="rites-engineer-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4976,7 +4976,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hnbgu-non-teaching-vacancy/"
+										href="hnbgu-non-teaching-vacancy/"
 										rel="bookmark">HNBGU Recruitment 2023 Apply Online Teaching, Non-Teaching
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4986,7 +4986,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5001,7 +5001,7 @@
 									(Assistant Professor, Professor, Associate Professor), Non-Teaching &#8230; <a
 										title="HNBGU Recruitment 2023 Apply Online Teaching, Non-Teaching Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hnbgu-non-teaching-vacancy/"
+										href="hnbgu-non-teaching-vacancy/"
 										aria-label="More on HNBGU Recruitment 2023 Apply Online Teaching, Non-Teaching Post">Read
 										more</a></p>
 							</div>
@@ -5012,11 +5012,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5025,7 +5025,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hnbgu-non-teaching-vacancy/#respond">Leave a
+										href="hnbgu-non-teaching-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5036,7 +5036,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nwda-apply-jobs/" rel="bookmark">NWDA
+										href="nwda-apply-jobs/" rel="bookmark">NWDA
 										Recruitment 2023 Executive &#038; Superintending Engineer 21 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-14T14:17:49+05:30"
@@ -5045,7 +5045,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5059,7 +5059,7 @@
 									and Deputy Director/ Executive Engineer vacancies at 21 posts. Those candidates who
 									are interested &#8230; <a
 										title="NWDA Recruitment 2023 Executive &#038; Superintending Engineer 21 Posts"
-										class="read-more" href="https://www.sarkariresult.app/nwda-apply-jobs/"
+										class="read-more" href="nwda-apply-jobs/"
 										aria-label="More on NWDA Recruitment 2023 Executive &#038; Superintending Engineer 21 Posts">Read
 										more</a></p>
 							</div>
@@ -5070,9 +5070,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5082,7 +5082,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nwda-apply-jobs/#respond">Leave a
+										href="nwda-apply-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5093,7 +5093,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/becil-apply-online/" rel="bookmark">BECIL
+										href="becil-apply-online/" rel="bookmark">BECIL
 										MTS Recruitment 2023 Steno, Warden, LDC, Asst, JE 159 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-07T23:55:34+05:30"
@@ -5102,7 +5102,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5117,7 +5117,7 @@
 									Junior Accounts Officer, Junior Warden (Housekeeper), Storekeeper, Library &amp;
 									Information Assistant, Junior &#8230; <a
 										title="BECIL MTS Recruitment 2023 Steno, Warden, LDC, Asst, JE 159 Post"
-										class="read-more" href="https://www.sarkariresult.app/becil-apply-online/"
+										class="read-more" href="becil-apply-online/"
 										aria-label="More on BECIL MTS Recruitment 2023 Steno, Warden, LDC, Asst, JE 159 Post">Read
 										more</a></p>
 							</div>
@@ -5128,9 +5128,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5140,7 +5140,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/becil-apply-online/#respond">Leave a
+										href="becil-apply-online/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5151,7 +5151,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nielit-technical-assistant-vacancy/"
+										href="nielit-technical-assistant-vacancy/"
 										rel="bookmark">NIELIT Technical Asst Recruitment 2023 Apply Engineer 598
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5160,7 +5160,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5175,7 +5175,7 @@
 									who &#8230; <a
 										title="NIELIT Technical Asst Recruitment 2023 Apply Engineer 598 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nielit-technical-assistant-vacancy/"
+										href="nielit-technical-assistant-vacancy/"
 										aria-label="More on NIELIT Technical Asst Recruitment 2023 Apply Engineer 598 Post">Read
 										more</a></p>
 							</div>
@@ -5186,9 +5186,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5198,7 +5198,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nielit-technical-assistant-vacancy/#respond">Leave
+										href="nielit-technical-assistant-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5209,7 +5209,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bdl-notification/" rel="bookmark">BDL
+										href="bdl-notification/" rel="bookmark">BDL
 										Recruitment 2023 Project Engineer, Officer, Assistant 33 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-05T23:55:06+05:30"
@@ -5218,7 +5218,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5231,7 +5231,7 @@
 									2023-1 for the BDL recruitment 2023 of Project Engineer, Project Officer, Project
 									Diploma Assistant, and Project Trade Assistant Vacancies at 33 posts. &#8230; <a
 										title="BDL Recruitment 2023 Project Engineer, Officer, Assistant 33 Post"
-										class="read-more" href="https://www.sarkariresult.app/bdl-notification/"
+										class="read-more" href="bdl-notification/"
 										aria-label="More on BDL Recruitment 2023 Project Engineer, Officer, Assistant 33 Post">Read
 										more</a></p>
 							</div>
@@ -5242,11 +5242,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5255,7 +5255,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bdl-notification/#respond">Leave a
+										href="bdl-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5266,7 +5266,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wapcos-engineer-notification/"
+										href="wapcos-engineer-notification/"
 										rel="bookmark">WAPCOS Engineer Recruitment 2023 Walk In Interview 400 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5276,7 +5276,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5290,7 +5290,7 @@
 									2023, and 5 March &#8230; <a
 										title="WAPCOS Engineer Recruitment 2023 Walk In Interview 400 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wapcos-engineer-notification/"
+										href="wapcos-engineer-notification/"
 										aria-label="More on WAPCOS Engineer Recruitment 2023 Walk In Interview 400 Post">Read
 										more</a></p>
 							</div>
@@ -5301,9 +5301,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5313,7 +5313,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wapcos-engineer-notification/#respond">Leave
+										href="wapcos-engineer-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5324,7 +5324,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-maritime-university-recruitment/"
+										href="indian-maritime-university-recruitment/"
 										rel="bookmark">Indian Maritime University Recruitment 2023 Registrar, AE 14
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5334,7 +5334,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5349,7 +5349,7 @@
 									14 Posts. Candidates who are &#8230; <a
 										title="Indian Maritime University Recruitment 2023 Registrar, AE 14 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/indian-maritime-university-recruitment/"
+										href="indian-maritime-university-recruitment/"
 										aria-label="More on Indian Maritime University Recruitment 2023 Registrar, AE 14 Post">Read
 										more</a></p>
 							</div>
@@ -5360,11 +5360,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/university-jobs/"
+										href="university-jobs/"
 										rel="category tag">University Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5373,7 +5373,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-maritime-university-recruitment/#respond">Leave
+										href="indian-maritime-university-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5384,7 +5384,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ayodhya-cantt-je-recruitment/"
+										href="ayodhya-cantt-je-recruitment/"
 										rel="bookmark">Ayodhya Cantt Recruitment 2023 RMO, JE, Sanitary Inspector
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5394,7 +5394,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5408,7 +5408,7 @@
 									posts. Those candidates who are interested in Ayodhya Cantt &#8230; <a
 										title="Ayodhya Cantt Recruitment 2023 RMO, JE, Sanitary Inspector Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ayodhya-cantt-je-recruitment/"
+										href="ayodhya-cantt-je-recruitment/"
 										aria-label="More on Ayodhya Cantt Recruitment 2023 RMO, JE, Sanitary Inspector Post">Read
 										more</a></p>
 							</div>
@@ -5419,9 +5419,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5431,7 +5431,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ayodhya-cantt-je-recruitment/#respond">Leave
+										href="ayodhya-cantt-je-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5442,7 +5442,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sagar-nagar-nigam-recruitment/"
+										href="sagar-nagar-nigam-recruitment/"
 										rel="bookmark">Sagar Nagar Nigam Recruitment 2023 JE, Fireman, Asst, CA 16
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5452,7 +5452,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5467,7 +5467,7 @@
 									Assistant Vacancy at &#8230; <a
 										title="Sagar Nagar Nigam Recruitment 2023 JE, Fireman, Asst, CA 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sagar-nagar-nigam-recruitment/"
+										href="sagar-nagar-nigam-recruitment/"
 										aria-label="More on Sagar Nagar Nigam Recruitment 2023 JE, Fireman, Asst, CA 16 Post">Read
 										more</a></p>
 							</div>
@@ -5478,9 +5478,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5490,7 +5490,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sagar-nagar-nigam-recruitment/#respond">Leave
+										href="sagar-nagar-nigam-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5501,7 +5501,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/lpai-vacancy/" rel="bookmark">LPAI
+										href="lpai-vacancy/" rel="bookmark">LPAI
 										Recruitment 2023 Online Application Group A, B &#038; C 28 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-28T23:55:05+05:30"
@@ -5510,7 +5510,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5524,7 +5524,7 @@
 									recruitment 2023 of Under Secretary, Section Officer, Private Secretary, Assistant
 									Engineer, Assistant, &#8230; <a
 										title="LPAI Recruitment 2023 Online Application Group A, B &#038; C 28 Post"
-										class="read-more" href="https://www.sarkariresult.app/lpai-vacancy/"
+										class="read-more" href="lpai-vacancy/"
 										aria-label="More on LPAI Recruitment 2023 Online Application Group A, B &#038; C 28 Post">Read
 										more</a></p>
 							</div>
@@ -5535,9 +5535,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5546,7 +5546,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/lpai-vacancy/#respond">Leave
+										</svg></span><a href="lpai-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5557,7 +5557,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nit-warangal-group-a-b-c-apply-online/"
+										href="nit-warangal-group-a-b-c-apply-online/"
 										rel="bookmark">NIT Warangal Recruitment 2023 Apply Now Group A, B &#038; C 29
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5567,7 +5567,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5582,7 +5582,7 @@
 									&#8230; <a
 										title="NIT Warangal Recruitment 2023 Apply Now Group A, B &#038; C 29 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nit-warangal-group-a-b-c-apply-online/"
+										href="nit-warangal-group-a-b-c-apply-online/"
 										aria-label="More on NIT Warangal Recruitment 2023 Apply Now Group A, B &#038; C 29 Post">Read
 										more</a></p>
 							</div>
@@ -5593,9 +5593,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5605,7 +5605,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nit-warangal-group-a-b-c-apply-online/#respond">Leave
+										href="nit-warangal-group-a-b-c-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5616,7 +5616,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-jal-board-je-recruitment/"
+										href="delhi-jal-board-je-recruitment/"
 										rel="bookmark">Delhi Jal Board JE Recruitment 2023 Apply Junior Engineer 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5626,7 +5626,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5639,7 +5639,7 @@
 									Jal Board Jobs. Candidates who are interested in Delhi Jal Board Civil JE Vacancy
 									&#8230; <a title="Delhi Jal Board JE Recruitment 2023 Apply Junior Engineer 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-jal-board-je-recruitment/"
+										href="delhi-jal-board-je-recruitment/"
 										aria-label="More on Delhi Jal Board JE Recruitment 2023 Apply Junior Engineer 40 Post">Read
 										more</a></p>
 							</div>
@@ -5650,9 +5650,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5662,7 +5662,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-jal-board-je-recruitment/#respond">Leave
+										href="delhi-jal-board-je-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5673,7 +5673,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hcl-mt-recruitment/" rel="bookmark">HCL
+										href="hcl-mt-recruitment/" rel="bookmark">HCL
 										Recruitment 2023 Online Application MT, GET, Manager 24 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-28T23:55:06+05:30"
@@ -5682,7 +5682,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5695,7 +5695,7 @@
 									HCL recruitment 2023 of Senior Manager, Deputy Manager, Management Trainee (MT),
 									Graduate Engineer Trainee (GET) Vacancy at 24 posts. Those candidates &#8230; <a
 										title="HCL Recruitment 2023 Online Application MT, GET, Manager 24 Post"
-										class="read-more" href="https://www.sarkariresult.app/hcl-mt-recruitment/"
+										class="read-more" href="hcl-mt-recruitment/"
 										aria-label="More on HCL Recruitment 2023 Online Application MT, GET, Manager 24 Post">Read
 										more</a></p>
 							</div>
@@ -5706,9 +5706,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5718,7 +5718,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hcl-mt-recruitment/#respond">Leave a
+										href="hcl-mt-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5729,7 +5729,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sjvn-engineer-notification/"
+										href="sjvn-engineer-notification/"
 										rel="bookmark">SJVN Recruitment 2023 Apply Now 105 Field Engineer &#038; Officer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5739,7 +5739,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5753,7 +5753,7 @@
 									apply online the sjvn.nic.in rough &#8230; <a
 										title="SJVN Recruitment 2023 Apply Now 105 Field Engineer &#038; Officer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sjvn-engineer-notification/"
+										href="sjvn-engineer-notification/"
 										aria-label="More on SJVN Recruitment 2023 Apply Now 105 Field Engineer &#038; Officer Post">Read
 										more</a></p>
 							</div>
@@ -5764,9 +5764,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5776,7 +5776,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sjvn-engineer-notification/#respond">Leave a
+										href="sjvn-engineer-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5787,7 +5787,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-junior-engineer-je-2022/"
+										href="ssc-junior-engineer-je-2022/"
 										rel="bookmark">SSC JE Paper 2 Admit Card 2023 Download Online Junior Engineer
 										Tier II Exam Date</a></h2>
 								<div class="entry-meta">
@@ -5797,7 +5797,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5811,7 +5811,7 @@
 									II &#8230; <a
 										title="SSC JE Paper 2 Admit Card 2023 Download Online Junior Engineer Tier II Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/ssc-junior-engineer-je-2022/"
+										href="ssc-junior-engineer-je-2022/"
 										aria-label="More on SSC JE Paper 2 Admit Card 2023 Download Online Junior Engineer Tier II Exam Date">Read
 										more</a></p>
 							</div>
@@ -5822,11 +5822,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/ssc/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="ssc/"
 										rel="category tag">SSC</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5835,7 +5835,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ssc-junior-engineer-je-2022/#respond">Leave
+										href="ssc-junior-engineer-je-2022/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5846,7 +5846,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-project-engineer-notification/"
+										href="bel-project-engineer-notification/"
 										rel="bookmark">BEL Recruitment 2023 Apply Now Project &#038; Trainee Engineer 50
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5856,7 +5856,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5870,7 +5870,7 @@
 									interested in BEL Trainee Engineer Recruitment 2023 can apply online through &#8230;
 									<a title="BEL Recruitment 2023 Apply Now Project &#038; Trainee Engineer 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-project-engineer-notification/"
+										href="bel-project-engineer-notification/"
 										aria-label="More on BEL Recruitment 2023 Apply Now Project &#038; Trainee Engineer 50 Post">Read
 										more</a></p>
 							</div>
@@ -5881,9 +5881,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5893,7 +5893,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-project-engineer-notification/#respond">Leave
+										href="bel-project-engineer-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5904,7 +5904,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pachmarhi-cantt-recruitment/"
+										href="pachmarhi-cantt-recruitment/"
 										rel="bookmark">Pachmarhi Cantt Recruitment 2023 Clerk, Peon, Mali, Teacher
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5914,7 +5914,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5929,7 +5929,7 @@
 									Mali, Ayah Vacancy &#8230; <a
 										title="Pachmarhi Cantt Recruitment 2023 Clerk, Peon, Mali, Teacher Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pachmarhi-cantt-recruitment/"
+										href="pachmarhi-cantt-recruitment/"
 										aria-label="More on Pachmarhi Cantt Recruitment 2023 Clerk, Peon, Mali, Teacher Post">Read
 										more</a></p>
 							</div>
@@ -5940,11 +5940,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5953,7 +5953,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pachmarhi-cantt-recruitment/#respond">Leave
+										href="pachmarhi-cantt-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5964,7 +5964,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iiit-dharwad-online-form/"
+										href="iiit-dharwad-online-form/"
 										rel="bookmark">IIIT Dharwad Recruitment 2023 Apply Now Asst, JE, Technician
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5974,7 +5974,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5988,7 +5988,7 @@
 									for the IIIT Dharwad Junior Assistant recruitment 2023 of Assistant Registrar,
 									Junior Superintendent, Junior Assistant, Junior Engineer &#8230; <a
 										title="IIIT Dharwad Recruitment 2023 Apply Now Asst, JE, Technician Post"
-										class="read-more" href="https://www.sarkariresult.app/iiit-dharwad-online-form/"
+										class="read-more" href="iiit-dharwad-online-form/"
 										aria-label="More on IIIT Dharwad Recruitment 2023 Apply Now Asst, JE, Technician Post">Read
 										more</a></p>
 							</div>
@@ -5999,9 +5999,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6011,7 +6011,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iiit-dharwad-online-form/#respond">Leave a
+										href="iiit-dharwad-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6022,7 +6022,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dot-sub-divisional-engineer-jobs/"
+										href="dot-sub-divisional-engineer-jobs/"
 										rel="bookmark">DOT Recruitment 2023 Apply Now Sub Divisional Engineer 270
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6032,7 +6032,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6046,7 +6046,7 @@
 									Jobs 2023 apply online through the official website &#8230; <a
 										title="DOT Recruitment 2023 Apply Now Sub Divisional Engineer 270 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/dot-sub-divisional-engineer-jobs/"
+										href="dot-sub-divisional-engineer-jobs/"
 										aria-label="More on DOT Recruitment 2023 Apply Now Sub Divisional Engineer 270 Post">Read
 										more</a></p>
 							</div>
@@ -6057,9 +6057,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6069,7 +6069,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dot-sub-divisional-engineer-jobs/#respond">Leave
+										href="dot-sub-divisional-engineer-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6080,7 +6080,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iia-jta-jobs/" rel="bookmark">IIA
+										href="iia-jta-jobs/" rel="bookmark">IIA
 										Recruitment 2023 Apply Online JTA, JRA, Engineer 15 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-14T14:11:36+05:30"
@@ -6089,7 +6089,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6103,7 +6103,7 @@
 									Advt No. 216/2023 for the IIA recruitment 2023 of Engineer-B (Optics), Mechanic-A,
 									Electrician-A, Junior Technical Assistant (Electronics), (Optical), (Computer
 									&#8230; <a title="IIA Recruitment 2023 Apply Online JTA, JRA, Engineer 15 Post"
-										class="read-more" href="https://www.sarkariresult.app/iia-jta-jobs/"
+										class="read-more" href="iia-jta-jobs/"
 										aria-label="More on IIA Recruitment 2023 Apply Online JTA, JRA, Engineer 15 Post">Read
 										more</a></p>
 							</div>
@@ -6114,9 +6114,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6125,7 +6125,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/iia-jta-jobs/#respond">Leave
+										</svg></span><a href="iia-jta-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6136,7 +6136,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/deendayal-port-trust-apprentice-vacancy/"
+										href="deendayal-port-trust-apprentice-vacancy/"
 										rel="bookmark">Deendayal Port Trust Recruitment 2023 Apprentice, Dy CAO 109
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6146,7 +6146,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6161,7 +6161,7 @@
 									Apprentices for Degree &#8230; <a
 										title="Deendayal Port Trust Recruitment 2023 Apprentice, Dy CAO 109 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/deendayal-port-trust-apprentice-vacancy/"
+										href="deendayal-port-trust-apprentice-vacancy/"
 										aria-label="More on Deendayal Port Trust Recruitment 2023 Apprentice, Dy CAO 109 Post">Read
 										more</a></p>
 							</div>
@@ -6172,9 +6172,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6184,7 +6184,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/deendayal-port-trust-apprentice-vacancy/#respond">Leave
+										href="deendayal-port-trust-apprentice-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6195,7 +6195,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nit-trichy-non-teaching-recruitment/"
+										href="nit-trichy-non-teaching-recruitment/"
 										rel="bookmark">NIT Trichy Non-Teaching Recruitment 2023 Apply Online 77 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6204,7 +6204,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6219,7 +6219,7 @@
 									Officer (SMO), Deputy Librarian, Senior Student Activity &amp; Sports &#8230; <a
 										title="NIT Trichy Non-Teaching Recruitment 2023 Apply Online 77 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nit-trichy-non-teaching-recruitment/"
+										href="nit-trichy-non-teaching-recruitment/"
 										aria-label="More on NIT Trichy Non-Teaching Recruitment 2023 Apply Online 77 Post">Read
 										more</a></p>
 							</div>
@@ -6230,9 +6230,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6242,7 +6242,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nit-trichy-non-teaching-recruitment/#respond">Leave
+										href="nit-trichy-non-teaching-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6253,7 +6253,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mnnit-allahabad-non-teaching-recruitment/"
+										href="mnnit-allahabad-non-teaching-recruitment/"
 										rel="bookmark">MNNIT Allahabad Non Teaching Recruitment 2023 Apply Now 103
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6263,7 +6263,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6278,7 +6278,7 @@
 									MNNIT Allahabad Non Teaching Recruitment 2023 of Non-Teaching Vacancies. &#8230; <a
 										title="MNNIT Allahabad Non Teaching Recruitment 2023 Apply Now 103 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mnnit-allahabad-non-teaching-recruitment/"
+										href="mnnit-allahabad-non-teaching-recruitment/"
 										aria-label="More on MNNIT Allahabad Non Teaching Recruitment 2023 Apply Now 103 Post">Read
 										more</a></p>
 							</div>
@@ -6289,9 +6289,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6301,7 +6301,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mnnit-allahabad-non-teaching-recruitment/#comments">1
+										href="mnnit-allahabad-non-teaching-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6312,7 +6312,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tsspdcl-jlm-vacancy/" rel="bookmark">TSSPDCL
+										href="tsspdcl-jlm-vacancy/" rel="bookmark">TSSPDCL
 										Recruitment 2023 Apply Now JLM, AE, Electrical 1601 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-15T23:55:13+05:30"
@@ -6321,7 +6321,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6334,7 +6334,7 @@
 									(AE)/ Electrical, Junior Lineman (JLM) Vacancy at 1601 Posts. Candidates who are
 									interested in TSSPDCL JLM Recruitment 2023 can apply online through &#8230; <a
 										title="TSSPDCL Recruitment 2023 Apply Now JLM, AE, Electrical 1601 Post"
-										class="read-more" href="https://www.sarkariresult.app/tsspdcl-jlm-vacancy/"
+										class="read-more" href="tsspdcl-jlm-vacancy/"
 										aria-label="More on TSSPDCL Recruitment 2023 Apply Now JLM, AE, Electrical 1601 Post">Read
 										more</a></p>
 							</div>
@@ -6345,9 +6345,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6357,7 +6357,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tsspdcl-jlm-vacancy/#respond">Leave a
+										href="tsspdcl-jlm-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6368,7 +6368,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ftii-vacancy/" rel="bookmark">FTII
+										href="ftii-vacancy/" rel="bookmark">FTII
 										Recruitment 2023 Apply Online Teaching &#038; Non-Teaching 30 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-14T23:55:11+05:30"
@@ -6377,7 +6377,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6390,7 +6390,7 @@
 									Television Institute of India (FTII), Pune has released the latest notification
 									Advt. No. 01/ 2022 for the FTII Medical Officer Recruitment 2023 of Teaching &#8230;
 									<a title="FTII Recruitment 2023 Apply Online Teaching &#038; Non-Teaching 30 Post"
-										class="read-more" href="https://www.sarkariresult.app/ftii-vacancy/"
+										class="read-more" href="ftii-vacancy/"
 										aria-label="More on FTII Recruitment 2023 Apply Online Teaching &#038; Non-Teaching 30 Post">Read
 										more</a></p>
 							</div>
@@ -6401,9 +6401,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6412,7 +6412,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/ftii-vacancy/#respond">Leave
+										</svg></span><a href="ftii-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6423,7 +6423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/niepvd-je-recruitment/"
+										href="niepvd-je-recruitment/"
 										rel="bookmark">NIEPVD Recruitment 2023 Apply JE, LDC, Nurse, Translator, MO
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6433,7 +6433,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6446,7 +6446,7 @@
 									notification Advt. No. 5-2/2022-0008 for the NIEPVD Recruitment 2023 of Lady Medical
 									Officer, Accounts Officer, Hindi Translator, Junior Engineer, Lady &#8230; <a
 										title="NIEPVD Recruitment 2023 Apply JE, LDC, Nurse, Translator, MO Post"
-										class="read-more" href="https://www.sarkariresult.app/niepvd-je-recruitment/"
+										class="read-more" href="niepvd-je-recruitment/"
 										aria-label="More on NIEPVD Recruitment 2023 Apply JE, LDC, Nurse, Translator, MO Post">Read
 										more</a></p>
 							</div>
@@ -6457,9 +6457,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6469,7 +6469,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/niepvd-je-recruitment/#respond">Leave a
+										href="niepvd-je-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6480,7 +6480,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jalandhar-cantt-vacancy/"
+										href="jalandhar-cantt-vacancy/"
 										rel="bookmark">Jalandhar Cantt Recruitment 2023 AE, Staff Nurse, Inspector
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6490,7 +6490,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6504,7 +6504,7 @@
 									(Civil), Medical Officer, Staff Nurse, Sanitary Inspector, Electrician Vacancy at 08
 									posts. &#8230; <a
 										title="Jalandhar Cantt Recruitment 2023 AE, Staff Nurse, Inspector Post"
-										class="read-more" href="https://www.sarkariresult.app/jalandhar-cantt-vacancy/"
+										class="read-more" href="jalandhar-cantt-vacancy/"
 										aria-label="More on Jalandhar Cantt Recruitment 2023 AE, Staff Nurse, Inspector Post">Read
 										more</a></p>
 							</div>
@@ -6515,9 +6515,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6527,7 +6527,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jalandhar-cantt-vacancy/#respond">Leave a
+										href="jalandhar-cantt-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6538,7 +6538,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nit-kurukshetra-non-teaching-recruitment/"
+										href="nit-kurukshetra-non-teaching-recruitment/"
 										rel="bookmark">NIT Kurukshetra Recruitment 2023 Apply Online Non Teaching 63
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6548,7 +6548,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6563,7 +6563,7 @@
 									Information: National Institute of Technology Kurukshetra has released &#8230; <a
 										title="NIT Kurukshetra Recruitment 2023 Apply Online Non Teaching 63 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nit-kurukshetra-non-teaching-recruitment/"
+										href="nit-kurukshetra-non-teaching-recruitment/"
 										aria-label="More on NIT Kurukshetra Recruitment 2023 Apply Online Non Teaching 63 Post">Read
 										more</a></p>
 							</div>
@@ -6574,9 +6574,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6586,7 +6586,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nit-kurukshetra-non-teaching-recruitment/#respond">Leave
+										href="nit-kurukshetra-non-teaching-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6597,7 +6597,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/trai-recruitment/" rel="bookmark">TRAI
+										href="trai-recruitment/" rel="bookmark">TRAI
 										Recruitment 2023 Application Form Advisor Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-13T08:59:53+05:30"
@@ -6606,7 +6606,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6619,7 +6619,7 @@
 									TRAI Advisor Vacancy 2023 form through the TRAI Jobs official website TRAI
 									recruitment 2023 can apply online &#8230; <a
 										title="TRAI Recruitment 2023 Application Form Advisor Posts" class="read-more"
-										href="https://www.sarkariresult.app/trai-recruitment/"
+										href="trai-recruitment/"
 										aria-label="More on TRAI Recruitment 2023 Application Form Advisor Posts">Read
 										more</a></p>
 							</div>
@@ -6630,9 +6630,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6642,7 +6642,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/trai-recruitment/#respond">Leave a
+										href="trai-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6653,7 +6653,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jkpsc-ae-notification/" rel="bookmark">JKPSC
+										href="jkpsc-ae-notification/" rel="bookmark">JKPSC
 										AE Recruitment 2023 Apply Now 50 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-10T23:55:07+05:30"
@@ -6662,7 +6662,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6675,7 +6675,7 @@
 									Candidates who are interested in JKPSC Recruitment 2023 can apply through the
 									official website JKPSC Jobs from 29 December &#8230; <a
 										title="JKPSC AE Recruitment 2023 Apply Now 50 Posts" class="read-more"
-										href="https://www.sarkariresult.app/jkpsc-ae-notification/"
+										href="jkpsc-ae-notification/"
 										aria-label="More on JKPSC AE Recruitment 2023 Apply Now 50 Posts">Read more</a>
 								</p>
 							</div>
@@ -6686,9 +6686,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6698,7 +6698,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jkpsc-ae-notification/#respond">Leave a
+										href="jkpsc-ae-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6709,7 +6709,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/npcc-je-recruitment/" rel="bookmark">NPCC JE
+										href="npcc-je-recruitment/" rel="bookmark">NPCC JE
 										Recruitment 2023 Walk In Interview Assitant 10 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-08T23:55:39+05:30"
@@ -6718,7 +6718,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6731,7 +6731,7 @@
 									the NPCC JE recruitment 2023 of Site Engineer (Civil), Assistant (Office Support)-
 									Finance Vacancies at 12 posts. Those candidates who are interested in NPCC Vacancy
 									2023 &#8230; <a title="NPCC JE Recruitment 2023 Walk In Interview Assitant 10 Post"
-										class="read-more" href="https://www.sarkariresult.app/npcc-je-recruitment/"
+										class="read-more" href="npcc-je-recruitment/"
 										aria-label="More on NPCC JE Recruitment 2023 Walk In Interview Assitant 10 Post">Read
 										more</a></p>
 							</div>
@@ -6742,9 +6742,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6754,7 +6754,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/npcc-je-recruitment/#respond">Leave a
+										href="npcc-je-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6765,7 +6765,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-kaushal-rojgar-nigam/"
+										href="haryana-kaushal-rojgar-nigam/"
 										rel="bookmark">HKRN Recruitment 2023 JE, Halwa, Guard, Steno, Cameraman Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6775,7 +6775,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6791,7 +6791,7 @@
 									Workers (Store Man), Multi-Tasking Office Personnel &#8230; <a
 										title="HKRN Recruitment 2023 JE, Halwa, Guard, Steno, Cameraman Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-kaushal-rojgar-nigam/"
+										href="haryana-kaushal-rojgar-nigam/"
 										aria-label="More on HKRN Recruitment 2023 JE, Halwa, Guard, Steno, Cameraman Post">Read
 										more</a></p>
 							</div>
@@ -6802,9 +6802,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6814,7 +6814,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-kaushal-rojgar-nigam/#respond">Leave
+										href="haryana-kaushal-rojgar-nigam/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6825,7 +6825,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gail-officer-vacancy/" rel="bookmark">GAIL
+										href="gail-officer-vacancy/" rel="bookmark">GAIL
 										Officer Recruitment 2023 Apply Engineer, Manager 277 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-14T14:40:45+05:30"
@@ -6834,7 +6834,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6847,7 +6847,7 @@
 									2023 of Chief Manager, Senior Engineer, Senior Officer &amp; Officer Vacancy at 277
 									Posts. Candidates who are interested in &#8230; <a
 										title="GAIL Officer Recruitment 2023 Apply Engineer, Manager 277 Post"
-										class="read-more" href="https://www.sarkariresult.app/gail-officer-vacancy/"
+										class="read-more" href="gail-officer-vacancy/"
 										aria-label="More on GAIL Officer Recruitment 2023 Apply Engineer, Manager 277 Post">Read
 										more</a></p>
 							</div>
@@ -6858,9 +6858,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6870,7 +6870,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gail-officer-vacancy/#respond">Leave a
+										href="gail-officer-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6881,7 +6881,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/barrackpore-cantt-sae-recruitment/"
+										href="barrackpore-cantt-sae-recruitment/"
 										rel="bookmark">Barrackpore Cantt Recruitment 2023 Apply SAE, Reader, Labour
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6891,7 +6891,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6905,7 +6905,7 @@
 									candidates who are interested in Barrackpore Cantt &#8230; <a
 										title="Barrackpore Cantt Recruitment 2023 Apply SAE, Reader, Labour Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/barrackpore-cantt-sae-recruitment/"
+										href="barrackpore-cantt-sae-recruitment/"
 										aria-label="More on Barrackpore Cantt Recruitment 2023 Apply SAE, Reader, Labour Post">Read
 										more</a></p>
 							</div>
@@ -6916,9 +6916,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6928,7 +6928,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/barrackpore-cantt-sae-recruitment/#respond">Leave
+										href="barrackpore-cantt-sae-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6939,7 +6939,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mnlu-nagpur-jobs/" rel="bookmark">MNLU
+										href="mnlu-nagpur-jobs/" rel="bookmark">MNLU
 										Nagpur Recruitment 2023 Application Form Non-Teaching 42 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-01T15:01:47+05:30"
@@ -6948,7 +6948,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6963,7 +6963,7 @@
 									Recruitment 2023 of Non-Teaching (Deputy Finance and Accounts Officer, Junior
 									Engineer, &#8230; <a
 										title="MNLU Nagpur Recruitment 2023 Application Form Non-Teaching 42 Post"
-										class="read-more" href="https://www.sarkariresult.app/mnlu-nagpur-jobs/"
+										class="read-more" href="mnlu-nagpur-jobs/"
 										aria-label="More on MNLU Nagpur Recruitment 2023 Application Form Non-Teaching 42 Post">Read
 										more</a></p>
 							</div>
@@ -6974,11 +6974,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/university-jobs/"
+										href="university-jobs/"
 										rel="category tag">University Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6987,7 +6987,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mnlu-nagpur-jobs/#respond">Leave a
+										href="mnlu-nagpur-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6998,7 +6998,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/deolali-cantt-recruitment/"
+										href="deolali-cantt-recruitment/"
 										rel="bookmark">Deolali Cantt Recruitment 2023 Engineer, Carpainter, Asst 26
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7008,7 +7008,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7024,7 +7024,7 @@
 									322/Emp-Ex/E-1/2905 for &#8230; <a
 										title="Deolali Cantt Recruitment 2023 Engineer, Carpainter, Asst 26 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/deolali-cantt-recruitment/"
+										href="deolali-cantt-recruitment/"
 										aria-label="More on Deolali Cantt Recruitment 2023 Engineer, Carpainter, Asst 26 Post">Read
 										more</a></p>
 							</div>
@@ -7035,9 +7035,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7047,7 +7047,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/deolali-cantt-recruitment/#respond">Leave a
+										href="deolali-cantt-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7058,7 +7058,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hal-manager-vacancy/" rel="bookmark">HAL
+										href="hal-manager-vacancy/" rel="bookmark">HAL
 										Recruitment 2023 Apply Now Head, Manager, Engineer 30 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-01-31T23:55:13+05:30"
@@ -7067,7 +7067,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7080,7 +7080,7 @@
 									Recruitment 2023 of Head of Customer Service, Fleet Single Point of Contact,
 									Manager, Engineer Vacancy at 30 Posts. Candidates who &#8230; <a
 										title="HAL Recruitment 2023 Apply Now Head, Manager, Engineer 30 Post"
-										class="read-more" href="https://www.sarkariresult.app/hal-manager-vacancy/"
+										class="read-more" href="hal-manager-vacancy/"
 										aria-label="More on HAL Recruitment 2023 Apply Now Head, Manager, Engineer 30 Post">Read
 										more</a></p>
 							</div>
@@ -7091,9 +7091,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7103,7 +7103,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hal-manager-vacancy/#respond">Leave a
+										href="hal-manager-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7114,7 +7114,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/guwahati-municipal-corporation-recruitment/"
+										href="guwahati-municipal-corporation-recruitment/"
 										rel="bookmark">Guwahati Municipal Corporation Recruitment 2023 Apply JTO 16
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7124,7 +7124,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7139,7 +7139,7 @@
 									Recruitment &#8230; <a
 										title="Guwahati Municipal Corporation Recruitment 2023 Apply JTO 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/guwahati-municipal-corporation-recruitment/"
+										href="guwahati-municipal-corporation-recruitment/"
 										aria-label="More on Guwahati Municipal Corporation Recruitment 2023 Apply JTO 16 Post">Read
 										more</a></p>
 							</div>
@@ -7150,11 +7150,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7163,7 +7163,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/guwahati-municipal-corporation-recruitment/#respond">Leave
+										href="guwahati-municipal-corporation-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7174,7 +7174,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ongc-specialist-doctors-recruitment/"
+										href="ongc-specialist-doctors-recruitment/"
 										rel="bookmark">ONGC Recruitment 2022 Apply Online Specialist Doctors 17 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7183,7 +7183,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7198,7 +7198,7 @@
 									Administration), &#8230; <a
 										title="ONGC Recruitment 2022 Apply Online Specialist Doctors 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ongc-specialist-doctors-recruitment/"
+										href="ongc-specialist-doctors-recruitment/"
 										aria-label="More on ONGC Recruitment 2022 Apply Online Specialist Doctors 17 Post">Read
 										more</a></p>
 							</div>
@@ -7209,9 +7209,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7221,7 +7221,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ongc-specialist-doctors-recruitment/#respond">Leave
+										href="ongc-specialist-doctors-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7232,7 +7232,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kmds-recruitment/" rel="bookmark">KMDS
+										href="kmds-recruitment/" rel="bookmark">KMDS
 										Recruitment 2022 Apply Manager, Engineer, Executive 27 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7240,7 +7240,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7254,7 +7254,7 @@
 									2022 of Project Manager, Solution Architect, System Analyst, Supervisory Engineer,
 									Software Developer, UI Developer, &#8230; <a
 										title="KMDS Recruitment 2022 Apply Manager, Engineer, Executive 27 Post"
-										class="read-more" href="https://www.sarkariresult.app/kmds-recruitment/"
+										class="read-more" href="kmds-recruitment/"
 										aria-label="More on KMDS Recruitment 2022 Apply Manager, Engineer, Executive 27 Post">Read
 										more</a></p>
 							</div>
@@ -7265,9 +7265,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7277,7 +7277,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kmds-recruitment/#respond">Leave a
+										href="kmds-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7288,7 +7288,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bpsmv-recruitment/" rel="bookmark">BPSMV
+										href="bpsmv-recruitment/" rel="bookmark">BPSMV
 										Recruitment 2022 Application Form 10 Non-Teaching Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7296,7 +7296,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7310,7 +7310,7 @@
 									(Controller of Examinations, Librarian, Deputy Registrar, Assistant Registrar,
 									Superintendent, Junior Engineer) Vacancy at 10 &#8230; <a
 										title="BPSMV Recruitment 2022 Application Form 10 Non-Teaching Post"
-										class="read-more" href="https://www.sarkariresult.app/bpsmv-recruitment/"
+										class="read-more" href="bpsmv-recruitment/"
 										aria-label="More on BPSMV Recruitment 2022 Application Form 10 Non-Teaching Post">Read
 										more</a></p>
 							</div>
@@ -7321,11 +7321,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/university-jobs/"
+										href="university-jobs/"
 										rel="category tag">University Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7334,7 +7334,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bpsmv-recruitment/#respond">Leave a
+										href="bpsmv-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7345,7 +7345,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rites-engineer-online-form/"
+										href="rites-engineer-online-form/"
 										rel="bookmark">RITES Engineer Recruitment 2023 Online Application SHE 11
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7355,7 +7355,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7369,7 +7369,7 @@
 									Vacancies at 11 Posts. Candidates who are interested in RITES Vacancy &#8230; <a
 										title="RITES Engineer Recruitment 2023 Online Application SHE 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rites-engineer-online-form/"
+										href="rites-engineer-online-form/"
 										aria-label="More on RITES Engineer Recruitment 2023 Online Application SHE 11 Post">Read
 										more</a></p>
 							</div>
@@ -7380,9 +7380,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7392,7 +7392,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rites-engineer-online-form/#respond">Leave a
+										href="rites-engineer-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7403,7 +7403,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mppgcl-apprentice-apply-online/"
+										href="mppgcl-apprentice-apply-online/"
 										rel="bookmark">MPPGCL Recruitment 2023 Graduate &#038; Diploma Apprentice 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7412,7 +7412,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7427,7 +7427,7 @@
 									online &#8230; <a
 										title="MPPGCL Recruitment 2023 Graduate &#038; Diploma Apprentice 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mppgcl-apprentice-apply-online/"
+										href="mppgcl-apprentice-apply-online/"
 										aria-label="More on MPPGCL Recruitment 2023 Graduate &#038; Diploma Apprentice 40 Post">Read
 										more</a></p>
 							</div>
@@ -7438,9 +7438,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7450,7 +7450,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mppgcl-apprentice-apply-online/#respond">Leave
+										href="mppgcl-apprentice-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7461,7 +7461,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chakrata-cantt-recruitment/"
+										href="chakrata-cantt-recruitment/"
 										rel="bookmark">Chakrata Cantt Recruitment 2023 Apply JE, Clerk, Guard 10
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7470,7 +7470,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7484,7 +7484,7 @@
 									Forester, Forest Guard, Sanitary Inspector Vacancy at 10 Posts. Candidates who are
 									&#8230; <a title="Chakrata Cantt Recruitment 2023 Apply JE, Clerk, Guard 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chakrata-cantt-recruitment/"
+										href="chakrata-cantt-recruitment/"
 										aria-label="More on Chakrata Cantt Recruitment 2023 Apply JE, Clerk, Guard 10 Post">Read
 										more</a></p>
 							</div>
@@ -7495,9 +7495,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7507,7 +7507,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chakrata-cantt-recruitment/#respond">Leave a
+										href="chakrata-cantt-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7518,7 +7518,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/becil-tailor-vacancy/" rel="bookmark">BECIL
+										href="becil-tailor-vacancy/" rel="bookmark">BECIL
 										Recruitment 2023 Asst, Engineer, Attendant, Tailor 38 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7526,7 +7526,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7540,7 +7540,7 @@
 									the BECIL recruitment 2023 of the EVM Consultant, Network Support Engineer, HW
 									Support Engineer, &#8230; <a
 										title="BECIL Recruitment 2023 Asst, Engineer, Attendant, Tailor 38 Post"
-										class="read-more" href="https://www.sarkariresult.app/becil-tailor-vacancy/"
+										class="read-more" href="becil-tailor-vacancy/"
 										aria-label="More on BECIL Recruitment 2023 Asst, Engineer, Attendant, Tailor 38 Post">Read
 										more</a></p>
 							</div>
@@ -7551,9 +7551,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7563,7 +7563,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/becil-tailor-vacancy/#respond">Leave a
+										href="becil-tailor-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7574,7 +7574,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/garc-recruitment/" rel="bookmark">GARC
+										href="garc-recruitment/" rel="bookmark">GARC
 										Recruitment 2023 Apply AGM, GET, Manager, Engineer 35 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7582,7 +7582,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7596,7 +7596,7 @@
 									(AGM), Senior Manager, Deputy Manager, Assistant Manager, Senior Engineer, and
 									Graduate &#8230; <a
 										title="GARC Recruitment 2023 Apply AGM, GET, Manager, Engineer 35 Post"
-										class="read-more" href="https://www.sarkariresult.app/garc-recruitment/"
+										class="read-more" href="garc-recruitment/"
 										aria-label="More on GARC Recruitment 2023 Apply AGM, GET, Manager, Engineer 35 Post">Read
 										more</a></p>
 							</div>
@@ -7607,9 +7607,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7619,7 +7619,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/garc-recruitment/#respond">Leave a
+										href="garc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7630,7 +7630,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nca-recruitment/" rel="bookmark">NCA
+										href="nca-recruitment/" rel="bookmark">NCA
 										Recruitment 2023 Apply Director, Driver, Officer, AEE 18 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7638,7 +7638,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7652,7 +7652,7 @@
 									Assistant Engineer (Telemetry), Driver (Ordinary Grade) Vacancy at 20 Posts. Short
 									Information:  Narmada Control Authority has released the latest notification for the
 									&#8230; <a title="NCA Recruitment 2023 Apply Director, Driver, Officer, AEE 18 Post"
-										class="read-more" href="https://www.sarkariresult.app/nca-recruitment/"
+										class="read-more" href="nca-recruitment/"
 										aria-label="More on NCA Recruitment 2023 Apply Director, Driver, Officer, AEE 18 Post">Read
 										more</a></p>
 							</div>
@@ -7663,9 +7663,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7675,7 +7675,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nca-recruitment/#respond">Leave a
+										href="nca-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7686,7 +7686,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gsecl-vidyut-sahayak-recruitment/"
+										href="gsecl-vidyut-sahayak-recruitment/"
 										rel="bookmark">GSECL Vidyut Sahayak Recruitment 2023 Apply Online JE, JA 195
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7695,7 +7695,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7709,7 +7709,7 @@
 									195 posts. Those candidates who are interested in GSECL Recruitment 2023 &#8230; <a
 										title="GSECL Vidyut Sahayak Recruitment 2023 Apply Online JE, JA 195 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gsecl-vidyut-sahayak-recruitment/"
+										href="gsecl-vidyut-sahayak-recruitment/"
 										aria-label="More on GSECL Vidyut Sahayak Recruitment 2023 Apply Online JE, JA 195 Post">Read
 										more</a></p>
 							</div>
@@ -7720,9 +7720,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7732,7 +7732,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gsecl-vidyut-sahayak-recruitment/#respond">Leave
+										href="gsecl-vidyut-sahayak-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7743,7 +7743,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiesl-aircraft-maintenance-engineer-jobs/"
+										href="aiesl-aircraft-maintenance-engineer-jobs/"
 										rel="bookmark">AIESL Recruitment 2023 Apply Aircraft Maintenance Engineer 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7752,7 +7752,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7766,7 +7766,7 @@
 									walk-in interview on 4 January 2023 at 9:00 AM. &#8230; <a
 										title="AIESL Recruitment 2023 Apply Aircraft Maintenance Engineer 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiesl-aircraft-maintenance-engineer-jobs/"
+										href="aiesl-aircraft-maintenance-engineer-jobs/"
 										aria-label="More on AIESL Recruitment 2023 Apply Aircraft Maintenance Engineer 40 Post">Read
 										more</a></p>
 							</div>
@@ -7777,9 +7777,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7789,7 +7789,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiesl-aircraft-maintenance-engineer-jobs/#respond">Leave
+										href="aiesl-aircraft-maintenance-engineer-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7800,7 +7800,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhpc-trainee-engineer-officer-apply/"
+										href="nhpc-trainee-engineer-officer-apply/"
 										rel="bookmark">NHPC Recruitment 2023 Apply Trainee Engineer &#038; Officer 401
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7809,7 +7809,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7823,7 +7823,7 @@
 									Those candidates who are interested in NHPC Recruitment &#8230; <a
 										title="NHPC Recruitment 2023 Apply Trainee Engineer &#038; Officer 401 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nhpc-trainee-engineer-officer-apply/"
+										href="nhpc-trainee-engineer-officer-apply/"
 										aria-label="More on NHPC Recruitment 2023 Apply Trainee Engineer &#038; Officer 401 Post">Read
 										more</a></p>
 							</div>
@@ -7834,9 +7834,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7846,7 +7846,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhpc-trainee-engineer-officer-apply/#respond">Leave
+										href="nhpc-trainee-engineer-officer-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7857,7 +7857,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/"
+										href="krcl-technical-assistant-recruitment/"
 										rel="bookmark">KRCL Technical Assistant Recruitment 2023 Direct Interview 41
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7866,7 +7866,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7881,7 +7881,7 @@
 									Candidates &#8230; <a
 										title="KRCL Technical Assistant Recruitment 2023 Direct Interview 41 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/"
+										href="krcl-technical-assistant-recruitment/"
 										aria-label="More on KRCL Technical Assistant Recruitment 2023 Direct Interview 41 Post">Read
 										more</a></p>
 							</div>
@@ -7892,12 +7892,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7906,7 +7906,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/#respond">Leave
+										href="krcl-technical-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7917,7 +7917,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/npcc-jobs/" rel="bookmark">NPCC Site
+										href="npcc-jobs/" rel="bookmark">NPCC Site
 										Engineer Recruitment 2023 Walk In Interview</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7925,7 +7925,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7938,7 +7938,7 @@
 									2023 of Site Engineer Vacancies at 03 posts. Those candidates who are interested in
 									NPCC Vacancy 2023 can go to the NPCC Walk-In-Interview on 11 &#8230; <a
 										title="NPCC Site Engineer Recruitment 2023 Walk In Interview" class="read-more"
-										href="https://www.sarkariresult.app/npcc-jobs/"
+										href="npcc-jobs/"
 										aria-label="More on NPCC Site Engineer Recruitment 2023 Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -7949,9 +7949,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7960,7 +7960,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/npcc-jobs/#respond">Leave a
+										</svg></span><a href="npcc-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7971,7 +7971,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/becil-engineer-recruitment/"
+										href="becil-engineer-recruitment/"
 										rel="bookmark">BECIL Engineer Recruitment 2023 Apply Technician, Assistant
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7980,7 +7980,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7995,7 +7995,7 @@
 									Engineer (JE), Executive Assistant, and Junior &#8230; <a
 										title="BECIL Engineer Recruitment 2023 Apply Technician, Assistant Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/becil-engineer-recruitment/"
+										href="becil-engineer-recruitment/"
 										aria-label="More on BECIL Engineer Recruitment 2023 Apply Technician, Assistant Post">Read
 										more</a></p>
 							</div>
@@ -8006,9 +8006,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8018,7 +8018,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/becil-engineer-recruitment/#respond">Leave a
+										href="becil-engineer-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8029,7 +8029,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-project-engineer-apply-online/"
+										href="bel-project-engineer-apply-online/"
 										rel="bookmark">BEL Project Engineer Recruitment 2023 Trainee Engineer 48
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8038,7 +8038,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8052,7 +8052,7 @@
 									Mechanical, Chemical) Trainee Engineer, and Project Engineer for Project &#8230; <a
 										title="BEL Project Engineer Recruitment 2023 Trainee Engineer 48 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-project-engineer-apply-online/"
+										href="bel-project-engineer-apply-online/"
 										aria-label="More on BEL Project Engineer Recruitment 2023 Trainee Engineer 48 Post">Read
 										more</a></p>
 							</div>
@@ -8063,9 +8063,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8075,7 +8075,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-project-engineer-apply-online/#respond">Leave
+										href="bel-project-engineer-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8086,7 +8086,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iiit-kottayam-recruitment/"
+										href="iiit-kottayam-recruitment/"
 										rel="bookmark">IIIT Kottayam Recruitment 2023 Apply JE, Assistant, Driver
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8095,7 +8095,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8109,7 +8109,7 @@
 									MTS Vacancy at 19 Posts. Candidates who are interested in IIIT &#8230; <a
 										title="IIIT Kottayam Recruitment 2023 Apply JE, Assistant, Driver Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iiit-kottayam-recruitment/"
+										href="iiit-kottayam-recruitment/"
 										aria-label="More on IIIT Kottayam Recruitment 2023 Apply JE, Assistant, Driver Post">Read
 										more</a></p>
 							</div>
@@ -8120,9 +8120,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8132,7 +8132,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iiit-kottayam-recruitment/#respond">Leave a
+										href="iiit-kottayam-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8143,7 +8143,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hpcl-rajasthan-refinery/"
+										href="hpcl-rajasthan-refinery/"
 										rel="bookmark">HPCL Rajasthan Refinery Recruitment 2023 Apply Online 142
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -8152,7 +8152,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8166,7 +8166,7 @@
 									Engineer, Electrical Engineer, Instrumentation Engineer, Chemical, Human Resources,
 									Information System, Chartered Accountant (CA) Vacancy at &#8230; <a
 										title="HPCL Rajasthan Refinery Recruitment 2023 Apply Online 142 Posts"
-										class="read-more" href="https://www.sarkariresult.app/hpcl-rajasthan-refinery/"
+										class="read-more" href="hpcl-rajasthan-refinery/"
 										aria-label="More on HPCL Rajasthan Refinery Recruitment 2023 Apply Online 142 Posts">Read
 										more</a></p>
 							</div>
@@ -8177,9 +8177,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8189,7 +8189,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hpcl-rajasthan-refinery/#respond">Leave a
+										href="hpcl-rajasthan-refinery/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8200,7 +8200,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rites-manager-recruitment-2/"
+										href="rites-manager-recruitment-2/"
 										rel="bookmark">RITES Manager Recruitment 2023 Apply DGM, Engineer, AGM 10
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8209,7 +8209,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8223,7 +8223,7 @@
 									Jobs from 19 December &#8230; <a
 										title="RITES Manager Recruitment 2023 Apply DGM, Engineer, AGM 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rites-manager-recruitment-2/"
+										href="rites-manager-recruitment-2/"
 										aria-label="More on RITES Manager Recruitment 2023 Apply DGM, Engineer, AGM 10 Post">Read
 										more</a></p>
 							</div>
@@ -8234,9 +8234,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8246,7 +8246,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rites-manager-recruitment-2/#respond">Leave
+										href="rites-manager-recruitment-2/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8257,7 +8257,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sjvn-online-form/" rel="bookmark">SJVN
+										href="sjvn-online-form/" rel="bookmark">SJVN
 										Recruitment 2023 Apply Now Field Engineer &#038; Officer 80 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8265,7 +8265,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8278,7 +8278,7 @@
 									Vacancy at 80 posts. Those candidates who are interested in SJVN Recruitment 2023
 									apply online the sjvn.nic.in rough &#8230; <a
 										title="SJVN Recruitment 2023 Apply Now Field Engineer &#038; Officer 80 Post"
-										class="read-more" href="https://www.sarkariresult.app/sjvn-online-form/"
+										class="read-more" href="sjvn-online-form/"
 										aria-label="More on SJVN Recruitment 2023 Apply Now Field Engineer &#038; Officer 80 Post">Read
 										more</a></p>
 							</div>
@@ -8289,9 +8289,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8301,7 +8301,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sjvn-online-form/#comments">1
+										href="sjvn-online-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8312,7 +8312,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ecil-apply-online-form/" rel="bookmark">ECIL
+										href="ecil-apply-online-form/" rel="bookmark">ECIL
 										Apprentice Recruitment 2022 Online Application GEA 212 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8320,7 +8320,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8334,7 +8334,7 @@
 									Vacancy at 212 posts. Those candidates who are interested in ECIL Recruitment 2022
 									can apply &#8230; <a
 										title="ECIL Apprentice Recruitment 2022 Online Application GEA 212 Post"
-										class="read-more" href="https://www.sarkariresult.app/ecil-apply-online-form/"
+										class="read-more" href="ecil-apply-online-form/"
 										aria-label="More on ECIL Apprentice Recruitment 2022 Online Application GEA 212 Post">Read
 										more</a></p>
 							</div>
@@ -8345,9 +8345,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8357,7 +8357,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ecil-apply-online-form/#respond">Leave a
+										href="ecil-apply-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8368,7 +8368,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mrpl-ae-recruitment/" rel="bookmark">MRPL AE
+										href="mrpl-ae-recruitment/" rel="bookmark">MRPL AE
 										Recruitment 2023 Apply Asst Executive, Engineer 96 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8376,7 +8376,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8389,7 +8389,7 @@
 									of Assistant Engineer (AE) and Assistant Executive Vacancy at 96 posts. Candidates
 									who are interested in MRPL Jobs can apply &#8230; <a
 										title="MRPL AE Recruitment 2023 Apply Asst Executive, Engineer 96 Post"
-										class="read-more" href="https://www.sarkariresult.app/mrpl-ae-recruitment/"
+										class="read-more" href="mrpl-ae-recruitment/"
 										aria-label="More on MRPL AE Recruitment 2023 Apply Asst Executive, Engineer 96 Post">Read
 										more</a></p>
 							</div>
@@ -8400,9 +8400,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8412,7 +8412,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mrpl-ae-recruitment/#comments">1
+										href="mrpl-ae-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8423,7 +8423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mecon-limited-engineer-recruitment/"
+										href="mecon-limited-engineer-recruitment/"
 										rel="bookmark">MECON Limited Recruitment 2022 Engineer, Officer, Executive
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8432,7 +8432,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8446,7 +8446,7 @@
 									Engineer, Engineer, Jr Engineer, Senior Consultant, &#8230; <a
 										title="MECON Limited Recruitment 2022 Engineer, Officer, Executive Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mecon-limited-engineer-recruitment/"
+										href="mecon-limited-engineer-recruitment/"
 										aria-label="More on MECON Limited Recruitment 2022 Engineer, Officer, Executive Post">Read
 										more</a></p>
 							</div>
@@ -8457,9 +8457,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8469,7 +8469,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mecon-limited-engineer-recruitment/#respond">Leave
+										href="mecon-limited-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8480,7 +8480,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mecon-manager-recruitment/"
+										href="mecon-manager-recruitment/"
 										rel="bookmark">MECON Recruitment 2022 Apply Manager, Engineer, Officer 167
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8489,7 +8489,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8503,7 +8503,7 @@
 									MECON recruitment 2022 of Assistant Manager, Deputy Manager, Dy. &#8230; <a
 										title="MECON Recruitment 2022 Apply Manager, Engineer, Officer 167 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mecon-manager-recruitment/"
+										href="mecon-manager-recruitment/"
 										aria-label="More on MECON Recruitment 2022 Apply Manager, Engineer, Officer 167 Post">Read
 										more</a></p>
 							</div>
@@ -8514,9 +8514,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8526,7 +8526,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mecon-manager-recruitment/#respond">Leave a
+										href="mecon-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8537,7 +8537,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ntro-online-form/" rel="bookmark">NTRO
+										href="ntro-online-form/" rel="bookmark">NTRO
 										Recruitment 2022 Application Form Engineer, Assistant 29 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8545,7 +8545,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8558,7 +8558,7 @@
 									Analyst C, and Motor Transport Assistant vacancies at 29 posts. Candidates who are
 									interested in NTRO Assistant Recruitment 2022 can apply &#8230; <a
 										title="NTRO Recruitment 2022 Application Form Engineer, Assistant 29 Post"
-										class="read-more" href="https://www.sarkariresult.app/ntro-online-form/"
+										class="read-more" href="ntro-online-form/"
 										aria-label="More on NTRO Recruitment 2022 Application Form Engineer, Assistant 29 Post">Read
 										more</a></p>
 							</div>
@@ -8569,9 +8569,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8581,7 +8581,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ntro-online-form/#respond">Leave a
+										href="ntro-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8592,7 +8592,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-indore-vacancy/" rel="bookmark">IIT
+										href="iit-indore-vacancy/" rel="bookmark">IIT
 										Indore Recruitment 2022 Apply Online Non Teaching 27 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8600,7 +8600,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8614,7 +8614,7 @@
 									notification for the IIT Indore Non-Teaching recruitment 2022 of Non-Teaching
 									(Section Officer, Senior Engineer (Civil), &#8230; <a
 										title="IIT Indore Recruitment 2022 Apply Online Non Teaching 27 Post"
-										class="read-more" href="https://www.sarkariresult.app/iit-indore-vacancy/"
+										class="read-more" href="iit-indore-vacancy/"
 										aria-label="More on IIT Indore Recruitment 2022 Apply Online Non Teaching 27 Post">Read
 										more</a></p>
 							</div>
@@ -8625,10 +8625,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/iit-jobs/" rel="category tag">IIT Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="iit-jobs/" rel="category tag">IIT Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8638,7 +8638,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-indore-vacancy/#respond">Leave a
+										href="iit-indore-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8649,7 +8649,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-ghaziabad-vacancay/" rel="bookmark">BEL
+										href="bel-ghaziabad-vacancay/" rel="bookmark">BEL
 										Ghaziabad Recruitment 2022 Apply Diploma Apprentice 80 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8657,7 +8657,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8671,7 +8671,7 @@
 									Diploma Apprentice (Mechanical Engineering, Computer Engineering, Civil Engineering)
 									Vacancy at 80 posts. Candidates who are interested in BEL &#8230; <a
 										title="BEL Ghaziabad Recruitment 2022 Apply Diploma Apprentice 80 Post"
-										class="read-more" href="https://www.sarkariresult.app/bel-ghaziabad-vacancay/"
+										class="read-more" href="bel-ghaziabad-vacancay/"
 										aria-label="More on BEL Ghaziabad Recruitment 2022 Apply Diploma Apprentice 80 Post">Read
 										more</a></p>
 							</div>
@@ -8682,9 +8682,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8694,7 +8694,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-ghaziabad-vacancay/#respond">Leave a
+										href="bel-ghaziabad-vacancay/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8705,7 +8705,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/apsc-ae-vacancy/" rel="bookmark">APSC AE
+										href="apsc-ae-vacancy/" rel="bookmark">APSC AE
 										Recruitment 2023 Apply Online Assistant Engineer 63 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8713,7 +8713,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8726,7 +8726,7 @@
 									Assistant Engineer (Civil) (Water Resources Department) Vacancy at 63 Posts. Those
 									candidates who are interested in APSC Recruitment 2023 apply online through &#8230;
 									<a title="APSC AE Recruitment 2023 Apply Online Assistant Engineer 63 Post"
-										class="read-more" href="https://www.sarkariresult.app/apsc-ae-vacancy/"
+										class="read-more" href="apsc-ae-vacancy/"
 										aria-label="More on APSC AE Recruitment 2023 Apply Online Assistant Engineer 63 Post">Read
 										more</a></p>
 							</div>
@@ -8737,9 +8737,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8749,7 +8749,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/apsc-ae-vacancy/#respond">Leave a
+										href="apsc-ae-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8760,7 +8760,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wapcos-vacancy/" rel="bookmark">WAPCOS
+										href="wapcos-vacancy/" rel="bookmark">WAPCOS
 										Engineer Recruitment 2022 Apply Now 82 Supervisor Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8768,7 +8768,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8781,7 +8781,7 @@
 									Candidates who are interested in WAPCOS Recruitment 2022 can download the
 									application form through the wapcos.gov.in official website WAPCOS Jobs from &#8230;
 									<a title="WAPCOS Engineer Recruitment 2022 Apply Now 82 Supervisor Post"
-										class="read-more" href="https://www.sarkariresult.app/wapcos-vacancy/"
+										class="read-more" href="wapcos-vacancy/"
 										aria-label="More on WAPCOS Engineer Recruitment 2022 Apply Now 82 Supervisor Post">Read
 										more</a></p>
 							</div>
@@ -8792,9 +8792,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8803,7 +8803,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/wapcos-vacancy/#comments">1
+										</svg></span><a href="wapcos-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8814,7 +8814,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chennai-port-trust-notification/"
+										href="chennai-port-trust-notification/"
 										rel="bookmark">Chennai Port Trust Recruitment 2023 Apply Dy Chief Engineer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8823,7 +8823,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8837,7 +8837,7 @@
 									the official website chennaiport.gov.in Chennai Port Trust Jobs &#8230; <a
 										title="Chennai Port Trust Recruitment 2023 Apply Dy Chief Engineer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chennai-port-trust-notification/"
+										href="chennai-port-trust-notification/"
 										aria-label="More on Chennai Port Trust Recruitment 2023 Apply Dy Chief Engineer Post">Read
 										more</a></p>
 							</div>
@@ -8848,9 +8848,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8860,7 +8860,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chennai-port-trust-notification/#respond">Leave
+										href="chennai-port-trust-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8871,7 +8871,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dvc-get-recruitment/" rel="bookmark">DVC GET
+										href="dvc-get-recruitment/" rel="bookmark">DVC GET
 										Recruitment 2022 Apply Now Graduate Engineer Trainee Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8879,7 +8879,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8892,7 +8892,7 @@
 									candidates who are interested in DVC GET Recruitment 2022 apply online through the
 									official website DVC Jobs from 3 December 2022 to &#8230; <a
 										title="DVC GET Recruitment 2022 Apply Now Graduate Engineer Trainee Post"
-										class="read-more" href="https://www.sarkariresult.app/dvc-get-recruitment/"
+										class="read-more" href="dvc-get-recruitment/"
 										aria-label="More on DVC GET Recruitment 2022 Apply Now Graduate Engineer Trainee Post">Read
 										more</a></p>
 							</div>
@@ -8903,9 +8903,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8915,7 +8915,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dvc-get-recruitment/#respond">Leave a
+										href="dvc-get-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8926,7 +8926,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-ghaziabad-apply-online/"
+										href="bel-ghaziabad-apply-online/"
 										rel="bookmark">BEL Ghaziabad Recruitment 2022 Trainee &#038; Project Engineer
 										260 Post</a></h2>
 								<div class="entry-meta">
@@ -8935,7 +8935,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8949,7 +8949,7 @@
 									260 posts. Those candidates who are interested &#8230; <a
 										title="BEL Ghaziabad Recruitment 2022 Trainee &#038; Project Engineer 260 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-ghaziabad-apply-online/"
+										href="bel-ghaziabad-apply-online/"
 										aria-label="More on BEL Ghaziabad Recruitment 2022 Trainee &#038; Project Engineer 260 Post">Read
 										more</a></p>
 							</div>
@@ -8960,9 +8960,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8972,7 +8972,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-ghaziabad-apply-online/#respond">Leave a
+										href="bel-ghaziabad-apply-online/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8983,7 +8983,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mumbai-metro-recruitment/"
+										href="mumbai-metro-recruitment/"
 										rel="bookmark">MMRCL Recruitment 2023 Apply Manager, GM, DGM, Director 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8993,7 +8993,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9006,7 +9006,7 @@
 									Limited has released the latest notification recruitment Advertisement 2022 – 02
 									&amp; Recruitment Advertisement 2022 – 03 for the MMRCL &#8230; <a
 										title="MMRCL Recruitment 2023 Apply Manager, GM, DGM, Director 21 Post"
-										class="read-more" href="https://www.sarkariresult.app/mumbai-metro-recruitment/"
+										class="read-more" href="mumbai-metro-recruitment/"
 										aria-label="More on MMRCL Recruitment 2023 Apply Manager, GM, DGM, Director 21 Post">Read
 										more</a></p>
 							</div>
@@ -9017,11 +9017,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9030,7 +9030,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mumbai-metro-recruitment/#respond">Leave a
+										href="mumbai-metro-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9041,7 +9041,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mpsc-dy-engineer-recruitment/"
+										href="mpsc-dy-engineer-recruitment/"
 										rel="bookmark">MPSC Deputy Engineer Recruitment 2022 Online Application 10
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9050,7 +9050,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9064,7 +9064,7 @@
 									through the official website MPSC Jobs from 18 November &#8230; <a
 										title="MPSC Deputy Engineer Recruitment 2022 Online Application 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mpsc-dy-engineer-recruitment/"
+										href="mpsc-dy-engineer-recruitment/"
 										aria-label="More on MPSC Deputy Engineer Recruitment 2022 Online Application 10 Post">Read
 										more</a></p>
 							</div>
@@ -9075,9 +9075,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9087,7 +9087,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mpsc-dy-engineer-recruitment/#respond">Leave
+										href="mpsc-dy-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9098,7 +9098,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kolkata-port-trust-vacancy/"
+										href="kolkata-port-trust-vacancy/"
 										rel="bookmark">Kolkata Port Trust Recruitment 2023 Asst, Engineer, Officer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9108,7 +9108,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9123,7 +9123,7 @@
 									Vacancies at &#8230; <a
 										title="Kolkata Port Trust Recruitment 2023 Asst, Engineer, Officer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kolkata-port-trust-vacancy/"
+										href="kolkata-port-trust-vacancy/"
 										aria-label="More on Kolkata Port Trust Recruitment 2023 Asst, Engineer, Officer Post">Read
 										more</a></p>
 							</div>
@@ -9134,9 +9134,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9146,7 +9146,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kolkata-port-trust-vacancy/#respond">Leave a
+										href="kolkata-port-trust-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9157,7 +9157,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/vnit-nagpur-recruitment/"
+										href="vnit-nagpur-recruitment/"
 										rel="bookmark">VNIT Nagpur Non Teaching Recruitment 2022 Group B &#038; C 124
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9166,7 +9166,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9180,7 +9180,7 @@
 									Information:  Visvesvaraya National Institute of Technology, Nagpur has released the
 									latest notification for the VNIT Nagpur Non-Teaching recruitment &#8230; <a
 										title="VNIT Nagpur Non Teaching Recruitment 2022 Group B &#038; C 124 Post"
-										class="read-more" href="https://www.sarkariresult.app/vnit-nagpur-recruitment/"
+										class="read-more" href="vnit-nagpur-recruitment/"
 										aria-label="More on VNIT Nagpur Non Teaching Recruitment 2022 Group B &#038; C 124 Post">Read
 										more</a></p>
 							</div>
@@ -9191,9 +9191,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9203,7 +9203,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/vnit-nagpur-recruitment/#respond">Leave a
+										href="vnit-nagpur-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9214,7 +9214,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/isro-icrb-jobs/" rel="bookmark">ISRO ICRB
+										href="isro-icrb-jobs/" rel="bookmark">ISRO ICRB
 										Recruitment 2022 Apply Now Scientist/ Engineer 68 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9222,7 +9222,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9236,7 +9236,7 @@
 									ICRB Recruitment 2022 apply online through the official website ISRO ICRB Jobs from
 									29 &#8230; <a
 										title="ISRO ICRB Recruitment 2022 Apply Now Scientist/ Engineer 68 Post"
-										class="read-more" href="https://www.sarkariresult.app/isro-icrb-jobs/"
+										class="read-more" href="isro-icrb-jobs/"
 										aria-label="More on ISRO ICRB Recruitment 2022 Apply Now Scientist/ Engineer 68 Post">Read
 										more</a></p>
 							</div>
@@ -9247,9 +9247,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9259,7 +9259,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/isro-icrb-jobs/#respond">Leave a
+										href="isro-icrb-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9270,7 +9270,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cdot-project-engineer-recruitment/"
+										href="cdot-project-engineer-recruitment/"
 										rel="bookmark">CDOT Project Engineer Recruitment 2023 Online Application 162
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9280,7 +9280,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9294,7 +9294,7 @@
 									website CDOT Jobs from 29 November &#8230; <a
 										title="CDOT Project Engineer Recruitment 2023 Online Application 162 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cdot-project-engineer-recruitment/"
+										href="cdot-project-engineer-recruitment/"
 										aria-label="More on CDOT Project Engineer Recruitment 2023 Online Application 162 Post">Read
 										more</a></p>
 							</div>
@@ -9305,9 +9305,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9317,7 +9317,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cdot-project-engineer-recruitment/#respond">Leave
+										href="cdot-project-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9328,7 +9328,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-kotdwara-recruitment/"
+										href="bel-kotdwara-recruitment/"
 										rel="bookmark">BEL Kotdwara Recruitment 2022 Trainee &#038; Project Engineer 34
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9337,7 +9337,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9350,7 +9350,7 @@
 									Engineer Vacancies at 34 Posts. Candidates who are interested in BEL Kotdwara
 									Vacancy 2022 can apply online through the official website &#8230; <a
 										title="BEL Kotdwara Recruitment 2022 Trainee &#038; Project Engineer 34 Post"
-										class="read-more" href="https://www.sarkariresult.app/bel-kotdwara-recruitment/"
+										class="read-more" href="bel-kotdwara-recruitment/"
 										aria-label="More on BEL Kotdwara Recruitment 2022 Trainee &#038; Project Engineer 34 Post">Read
 										more</a></p>
 							</div>
@@ -9361,9 +9361,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9373,7 +9373,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-kotdwara-recruitment/#respond">Leave a
+										href="bel-kotdwara-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9384,7 +9384,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kseb-ae-recruitment/" rel="bookmark">KSEB AE
+										href="kseb-ae-recruitment/" rel="bookmark">KSEB AE
 										Recruitment 2022 Apply Online Assistant Engineer 06 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-11-23T16:18:23+05:30"
@@ -9393,7 +9393,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9406,7 +9406,7 @@
 									interested in KSEB Assistant Engineer Recruitment 2022 apply online through the
 									official website KSEB Jobs from 27 January &#8230; <a
 										title="KSEB AE Recruitment 2022 Apply Online Assistant Engineer 06 Post"
-										class="read-more" href="https://www.sarkariresult.app/kseb-ae-recruitment/"
+										class="read-more" href="kseb-ae-recruitment/"
 										aria-label="More on KSEB AE Recruitment 2022 Apply Online Assistant Engineer 06 Post">Read
 										more</a></p>
 							</div>
@@ -9417,9 +9417,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9429,7 +9429,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kseb-ae-recruitment/#respond">Leave a
+										href="kseb-ae-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9440,7 +9440,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cris-recruitment/" rel="bookmark">CRIS
+										href="cris-recruitment/" rel="bookmark">CRIS
 										Recruitment 2022 Apply Online Engineer, Executive 24 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9448,7 +9448,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9461,7 +9461,7 @@
 									candidates who are interested in CRIS Engineer Recruitment 2022 apply online through
 									the official website CRIS Jobs from 21 &#8230; <a
 										title="CRIS Recruitment 2022 Apply Online Engineer, Executive 24 Post"
-										class="read-more" href="https://www.sarkariresult.app/cris-recruitment/"
+										class="read-more" href="cris-recruitment/"
 										aria-label="More on CRIS Recruitment 2022 Apply Online Engineer, Executive 24 Post">Read
 										more</a></p>
 							</div>
@@ -9472,9 +9472,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9484,7 +9484,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cris-recruitment/#respond">Leave a
+										href="cris-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9495,7 +9495,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tpsc-je-recruitment/" rel="bookmark">TPSC JE
+										href="tpsc-je-recruitment/" rel="bookmark">TPSC JE
 										Recruitment 2022 Apply Online Junior Engineer 200 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9503,7 +9503,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9517,7 +9517,7 @@
 									recruitment 2022 of Junior Engineer (TES, Gr-V(A) Degree (Civil/ Electrical/
 									Mechanical) Group-B, &#8230; <a
 										title="TPSC JE Recruitment 2022 Apply Online Junior Engineer 200 Posts"
-										class="read-more" href="https://www.sarkariresult.app/tpsc-je-recruitment/"
+										class="read-more" href="tpsc-je-recruitment/"
 										aria-label="More on TPSC JE Recruitment 2022 Apply Online Junior Engineer 200 Posts">Read
 										more</a></p>
 							</div>
@@ -9528,9 +9528,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9540,7 +9540,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tpsc-je-recruitment/#respond">Leave a
+										href="tpsc-je-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9551,7 +9551,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wbpsc-je-recruitment/" rel="bookmark">WBPSC
+										href="wbpsc-je-recruitment/" rel="bookmark">WBPSC
 										JE Recruitment 2022 Online Application Junior Engineer Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9559,7 +9559,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9572,7 +9572,7 @@
 									(Civil/ Mechanical/ Electrical) Vacancy. Candidates who are interested in WBPSC
 									Vacancy 2022 can apply online through the official website WBPSC Jobs from &#8230;
 									<a title="WBPSC JE Recruitment 2022 Online Application Junior Engineer Post"
-										class="read-more" href="https://www.sarkariresult.app/wbpsc-je-recruitment/"
+										class="read-more" href="wbpsc-je-recruitment/"
 										aria-label="More on WBPSC JE Recruitment 2022 Online Application Junior Engineer Post">Read
 										more</a></p>
 							</div>
@@ -9583,11 +9583,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/wbpsc/" rel="category tag">WBPSC</a></span>
+										href="wbpsc/" rel="category tag">WBPSC</a></span>
 								<span class="comments-link"><span class="gp-icon icon-comments"><svg
 											viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
 											width="1em" height="1em">
@@ -9596,7 +9596,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wbpsc-je-recruitment/#respond">Leave a
+										href="wbpsc-je-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9607,7 +9607,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhm-mp-engineer-recruitment/"
+										href="nhm-mp-engineer-recruitment/"
 										rel="bookmark">NHM MP Recruitment 2022 Online Application 55 Dy Engineer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9616,7 +9616,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9630,7 +9630,7 @@
 									Recruitment 2022 apply online through the official website NHM &#8230; <a
 										title="NHM MP Recruitment 2022 Online Application 55 Dy Engineer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nhm-mp-engineer-recruitment/"
+										href="nhm-mp-engineer-recruitment/"
 										aria-label="More on NHM MP Recruitment 2022 Online Application 55 Dy Engineer Post">Read
 										more</a></p>
 							</div>
@@ -9641,9 +9641,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9653,7 +9653,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhm-mp-engineer-recruitment/#respond">Leave
+										href="nhm-mp-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9664,7 +9664,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-delhi-notification/" rel="bookmark">IIT
+										href="iit-delhi-notification/" rel="bookmark">IIT
 										Delhi Recruitment 2022 Engineer, Officer, Assistant 19 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9672,7 +9672,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9686,7 +9686,7 @@
 									Delhi recruitment 2022 of Superintending Engineer, Principal Technical Officer,
 									Chief Security Officer, &#8230; <a
 										title="IIT Delhi Recruitment 2022 Engineer, Officer, Assistant 19 Posts"
-										class="read-more" href="https://www.sarkariresult.app/iit-delhi-notification/"
+										class="read-more" href="iit-delhi-notification/"
 										aria-label="More on IIT Delhi Recruitment 2022 Engineer, Officer, Assistant 19 Posts">Read
 										more</a></p>
 							</div>
@@ -9697,10 +9697,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/iit-jobs/" rel="category tag">IIT Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="iit-jobs/" rel="category tag">IIT Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9710,7 +9710,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-delhi-notification/#respond">Leave a
+										href="iit-delhi-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9721,7 +9721,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/puducherry-transport-recruitment/"
+										href="puducherry-transport-recruitment/"
 										rel="bookmark">Puducherry Transport Recruitment 2022 Apply Asst, Engineer 39
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9731,7 +9731,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9746,7 +9746,7 @@
 									Vacancy 2022 apply &#8230; <a
 										title="Puducherry Transport Recruitment 2022 Apply Asst, Engineer 39 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/puducherry-transport-recruitment/"
+										href="puducherry-transport-recruitment/"
 										aria-label="More on Puducherry Transport Recruitment 2022 Apply Asst, Engineer 39 Post">Read
 										more</a></p>
 							</div>
@@ -9757,9 +9757,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9769,7 +9769,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/puducherry-transport-recruitment/#respond">Leave
+										href="puducherry-transport-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9780,7 +9780,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-madras-engineer-recruitment/"
+										href="iit-madras-engineer-recruitment/"
 										rel="bookmark">IIT Madras Recruitment 2022 Officer, SPO, PA, Technician 29
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9789,7 +9789,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9804,7 +9804,7 @@
 									Research fellow, Junior Executive, Office &#8230; <a
 										title="IIT Madras Recruitment 2022 Officer, SPO, PA, Technician 29 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/iit-madras-engineer-recruitment/"
+										href="iit-madras-engineer-recruitment/"
 										aria-label="More on IIT Madras Recruitment 2022 Officer, SPO, PA, Technician 29 Post">Read
 										more</a></p>
 							</div>
@@ -9815,9 +9815,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9827,7 +9827,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-madras-engineer-recruitment/#respond">Leave
+										href="iit-madras-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9838,7 +9838,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bhel-engineer-vacancy/" rel="bookmark">BHEL
+										href="bhel-engineer-vacancy/" rel="bookmark">BHEL
 										Engineer Recruitment 2022 Apply Online Supervisor 32 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9846,7 +9846,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9859,7 +9859,7 @@
 									are interested in BHEL Engineer Recruitment 2022 can apply through the official
 									website BHEL Jobs from 8 November 2022 to &#8230; <a
 										title="BHEL Engineer Recruitment 2022 Apply Online Supervisor 32 Post"
-										class="read-more" href="https://www.sarkariresult.app/bhel-engineer-vacancy/"
+										class="read-more" href="bhel-engineer-vacancy/"
 										aria-label="More on BHEL Engineer Recruitment 2022 Apply Online Supervisor 32 Post">Read
 										more</a></p>
 							</div>
@@ -9870,9 +9870,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9882,7 +9882,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bhel-engineer-vacancy/#respond">Leave a
+										href="bhel-engineer-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9893,7 +9893,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/niwe-vacancy/" rel="bookmark">NIWE
+										href="niwe-vacancy/" rel="bookmark">NIWE
 										Recruitment 2022 Apply Now Project Asst &#038; Engineer 16 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9901,7 +9901,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9914,7 +9914,7 @@
 									the NIWE recruitment 2022 of Program Coordinator, Project Assistant Technical,
 									Project Assistant Grade-I, II, Project Engineer Vacancy at 16 posts. Those &#8230;
 									<a title="NIWE Recruitment 2022 Apply Now Project Asst &#038; Engineer 16 Post"
-										class="read-more" href="https://www.sarkariresult.app/niwe-vacancy/"
+										class="read-more" href="niwe-vacancy/"
 										aria-label="More on NIWE Recruitment 2022 Apply Now Project Asst &#038; Engineer 16 Post">Read
 										more</a></p>
 							</div>
@@ -9925,9 +9925,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9936,7 +9936,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/niwe-vacancy/#respond">Leave
+										</svg></span><a href="niwe-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9947,7 +9947,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/becil-recruitment-2022-technical-asst-engineer-executive-posts/"
+										href="becil-recruitment-2022-technical-asst-engineer-executive-posts/"
 										rel="bookmark">BECIL Recruitment 2022 Technical Asst, Engineer, Executive
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -9956,7 +9956,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9971,7 +9971,7 @@
 									has released &#8230; <a
 										title="BECIL Recruitment 2022 Technical Asst, Engineer, Executive Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/becil-recruitment-2022-technical-asst-engineer-executive-posts/"
+										href="becil-recruitment-2022-technical-asst-engineer-executive-posts/"
 										aria-label="More on BECIL Recruitment 2022 Technical Asst, Engineer, Executive Posts">Read
 										more</a></p>
 							</div>
@@ -9982,9 +9982,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9994,7 +9994,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/becil-recruitment-2022-technical-asst-engineer-executive-posts/#respond">Leave
+										href="becil-recruitment-2022-technical-asst-engineer-executive-posts/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10005,7 +10005,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ntro-engineer-recruitment/"
+										href="ntro-engineer-recruitment/"
 										rel="bookmark">NTRO Recruitment 2022 Analyst, Administrator, Engineer 125
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10014,7 +10014,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10029,7 +10029,7 @@
 									Software &#8230; <a
 										title="NTRO Recruitment 2022 Analyst, Administrator, Engineer 125 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ntro-engineer-recruitment/"
+										href="ntro-engineer-recruitment/"
 										aria-label="More on NTRO Recruitment 2022 Analyst, Administrator, Engineer 125 Post">Read
 										more</a></p>
 							</div>
@@ -10040,9 +10040,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10052,7 +10052,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ntro-engineer-recruitment/#respond">Leave a
+										href="ntro-engineer-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10063,7 +10063,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gpsc-engineer-recruitment/"
+										href="gpsc-engineer-recruitment/"
 										rel="bookmark">GPSC Recruitment 2022 Apply Now DEE, Engineer, Class I &#038; II
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10072,7 +10072,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10086,7 +10086,7 @@
 									Engineer (Civil), Class-II Vacancy at 28 posts. Those candidates who are &#8230; <a
 										title="GPSC Recruitment 2022 Apply Now DEE, Engineer, Class I &#038; II Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gpsc-engineer-recruitment/"
+										href="gpsc-engineer-recruitment/"
 										aria-label="More on GPSC Recruitment 2022 Apply Now DEE, Engineer, Class I &#038; II Post">Read
 										more</a></p>
 							</div>
@@ -10097,9 +10097,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10109,7 +10109,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gpsc-engineer-recruitment/#respond">Leave a
+										href="gpsc-engineer-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10120,7 +10120,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iim-indore-recruitment/" rel="bookmark">IIM
+										href="iim-indore-recruitment/" rel="bookmark">IIM
 										Indore Recruitment 2022 Apply Online Non Teaching 22 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10128,7 +10128,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10142,7 +10142,7 @@
 									(Non-Teaching) Vacancy at 22 Posts. Those Candidates who are interested in IIM
 									Indore &#8230; <a
 										title="IIM Indore Recruitment 2022 Apply Online Non Teaching 22 Post"
-										class="read-more" href="https://www.sarkariresult.app/iim-indore-recruitment/"
+										class="read-more" href="iim-indore-recruitment/"
 										aria-label="More on IIM Indore Recruitment 2022 Apply Online Non Teaching 22 Post">Read
 										more</a></p>
 							</div>
@@ -10153,9 +10153,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10165,7 +10165,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iim-indore-recruitment/#respond">Leave a
+										href="iim-indore-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10176,7 +10176,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/itg-recruitment/" rel="bookmark">ITG
+										href="itg-recruitment/" rel="bookmark">ITG
 										Recruitment 2022 JE, BDO, Supervisor, MTS, Assistant 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-10-06T16:39:25+05:30"
@@ -10185,7 +10185,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10199,7 +10199,7 @@
 									released the latest notification Advt. No. ITG/Appointments/PMU/22-23/1623 for the
 									ITG recruitment 2022 of &#8230; <a
 										title="ITG Recruitment 2022 JE, BDO, Supervisor, MTS, Assistant 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/itg-recruitment/"
+										class="read-more" href="itg-recruitment/"
 										aria-label="More on ITG Recruitment 2022 JE, BDO, Supervisor, MTS, Assistant 14 Post">Read
 										more</a></p>
 							</div>
@@ -10210,9 +10210,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10222,7 +10222,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/itg-recruitment/#respond">Leave a
+										href="itg-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10233,7 +10233,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hsl-recruitment/" rel="bookmark">Hindustan
+										href="hsl-recruitment/" rel="bookmark">Hindustan
 										Shipyard Recruitment 2022 DM, Manager, Officer 55 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10241,7 +10241,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10254,7 +10254,7 @@
 									Limited has released the latest notification ADVT NO.HR/ ES(O)/ 0102/ 04/ 2022 for
 									the HSL recruitment 2022 of Senior Manager, Manager, Deputy &#8230; <a
 										title="Hindustan Shipyard Recruitment 2022 DM, Manager, Officer 55 Post"
-										class="read-more" href="https://www.sarkariresult.app/hsl-recruitment/"
+										class="read-more" href="hsl-recruitment/"
 										aria-label="More on Hindustan Shipyard Recruitment 2022 DM, Manager, Officer 55 Post">Read
 										more</a></p>
 							</div>
@@ -10265,9 +10265,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10277,7 +10277,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hsl-recruitment/#respond">Leave a
+										href="hsl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10288,7 +10288,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wapcos-engineer-apply-online/"
+										href="wapcos-engineer-apply-online/"
 										rel="bookmark">WAPCOS Recruitment 2022 Leader, Monitor, Engineer 81 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10297,7 +10297,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10311,7 +10311,7 @@
 									Recruitment of Experts Team Leader, Sr. QC Engineer/ Third &#8230; <a
 										title="WAPCOS Recruitment 2022 Leader, Monitor, Engineer 81 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wapcos-engineer-apply-online/"
+										href="wapcos-engineer-apply-online/"
 										aria-label="More on WAPCOS Recruitment 2022 Leader, Monitor, Engineer 81 Post">Read
 										more</a></p>
 							</div>
@@ -10322,9 +10322,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10334,7 +10334,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wapcos-engineer-apply-online/#respond">Leave
+										href="wapcos-engineer-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10345,7 +10345,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cdac-project-engineer-recruitment/"
+										href="cdac-project-engineer-recruitment/"
 										rel="bookmark">CDAC Recruitment 2022 Project Associate, Engineer, Manager
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10354,7 +10354,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10368,7 +10368,7 @@
 									recruitment 2022 for Project Associate, Project &#8230; <a
 										title="CDAC Recruitment 2022 Project Associate, Engineer, Manager Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cdac-project-engineer-recruitment/"
+										href="cdac-project-engineer-recruitment/"
 										aria-label="More on CDAC Recruitment 2022 Project Associate, Engineer, Manager Post">Read
 										more</a></p>
 							</div>
@@ -10379,9 +10379,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10391,7 +10391,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cdac-project-engineer-recruitment/#respond">Leave
+										href="cdac-project-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10402,7 +10402,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/msme-bhopal-recruitment/"
+										href="msme-bhopal-recruitment/"
 										rel="bookmark">MSME Bhopal Recruitment 2022 Apply Now Engineer, Officer 14
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -10411,7 +10411,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10425,7 +10425,7 @@
 									Short Information: The Directorate of Micro, Small, and Medium Enterprises Bhopal
 									has released the latest notification for the &#8230; <a
 										title="MSME Bhopal Recruitment 2022 Apply Now Engineer, Officer 14 Posts"
-										class="read-more" href="https://www.sarkariresult.app/msme-bhopal-recruitment/"
+										class="read-more" href="msme-bhopal-recruitment/"
 										aria-label="More on MSME Bhopal Recruitment 2022 Apply Now Engineer, Officer 14 Posts">Read
 										more</a></p>
 							</div>
@@ -10436,9 +10436,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10448,7 +10448,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/msme-bhopal-recruitment/#respond">Leave a
+										href="msme-bhopal-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10459,7 +10459,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/msme-bhiwadi-vacancy/" rel="bookmark">MSME
+										href="msme-bhiwadi-vacancy/" rel="bookmark">MSME
 										Bhiwadi Recruitment 2022 Engineer, Officer, Technician Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10467,7 +10467,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10481,7 +10481,7 @@
 									Short Information: The Directorate of Micro, Small, and Medium Enterprises Bhiwadi
 									has released the latest notification for the &#8230; <a
 										title="MSME Bhiwadi Recruitment 2022 Engineer, Officer, Technician Post"
-										class="read-more" href="https://www.sarkariresult.app/msme-bhiwadi-vacancy/"
+										class="read-more" href="msme-bhiwadi-vacancy/"
 										aria-label="More on MSME Bhiwadi Recruitment 2022 Engineer, Officer, Technician Post">Read
 										more</a></p>
 							</div>
@@ -10492,9 +10492,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10504,7 +10504,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/msme-bhiwadi-vacancy/#respond">Leave a
+										href="msme-bhiwadi-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10515,7 +10515,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/appsc-aee-recruitment/" rel="bookmark">APPSC
+										href="appsc-aee-recruitment/" rel="bookmark">APPSC
 										AEE Recruitment 2022 Assistant Executive Engineer 23 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-09-30T11:46:13+05:30"
@@ -10524,7 +10524,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10537,7 +10537,7 @@
 									of Assistant Executive Engineer (AEE) in Various Engineering Services Vacancy at 23
 									posts. Those candidates who are interested in &#8230; <a
 										title="APPSC AEE Recruitment 2022 Assistant Executive Engineer 23 Post"
-										class="read-more" href="https://www.sarkariresult.app/appsc-aee-recruitment/"
+										class="read-more" href="appsc-aee-recruitment/"
 										aria-label="More on APPSC AEE Recruitment 2022 Assistant Executive Engineer 23 Post">Read
 										more</a></p>
 							</div>
@@ -10548,9 +10548,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10560,7 +10560,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/appsc-aee-recruitment/#respond">Leave a
+										href="appsc-aee-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10571,7 +10571,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pgcil-engineer-trainee-recruitment/"
+										href="pgcil-engineer-trainee-recruitment/"
 										rel="bookmark">PGCIL Recruitment 2022 Online Application Engineer Trainee
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10580,7 +10580,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10595,7 +10595,7 @@
 									PGCIL &#8230; <a
 										title="PGCIL Recruitment 2022 Online Application Engineer Trainee Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pgcil-engineer-trainee-recruitment/"
+										href="pgcil-engineer-trainee-recruitment/"
 										aria-label="More on PGCIL Recruitment 2022 Online Application Engineer Trainee Post">Read
 										more</a></p>
 							</div>
@@ -10606,9 +10606,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10618,7 +10618,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pgcil-engineer-trainee-recruitment/#respond">Leave
+										href="pgcil-engineer-trainee-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10629,7 +10629,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-trainee-engineer-vacancy/"
+										href="bel-trainee-engineer-vacancy/"
 										rel="bookmark">BEL Recruitment 2022 Online Application Trainee Engineer
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -10638,7 +10638,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10652,7 +10652,7 @@
 									Jobs from 24 September 2022 to &#8230; <a
 										title="BEL Recruitment 2022 Online Application Trainee Engineer Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-trainee-engineer-vacancy/"
+										href="bel-trainee-engineer-vacancy/"
 										aria-label="More on BEL Recruitment 2022 Online Application Trainee Engineer Posts">Read
 										more</a></p>
 							</div>
@@ -10663,9 +10663,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10675,7 +10675,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-trainee-engineer-vacancy/#respond">Leave
+										href="bel-trainee-engineer-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10686,7 +10686,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bel-probationary-engineer-recruitment/"
+										href="bel-probationary-engineer-recruitment/"
 										rel="bookmark">BEL Recruitment 2022 Application Form Probationary Engineer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10695,7 +10695,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10709,7 +10709,7 @@
 									through the official website BEL Jobs from 23 September &#8230; <a
 										title="BEL Recruitment 2022 Application Form Probationary Engineer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bel-probationary-engineer-recruitment/"
+										href="bel-probationary-engineer-recruitment/"
 										aria-label="More on BEL Recruitment 2022 Application Form Probationary Engineer Post">Read
 										more</a></p>
 							</div>
@@ -10720,9 +10720,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10732,7 +10732,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bel-probationary-engineer-recruitment/#respond">Leave
+										href="bel-probationary-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10743,7 +10743,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maha-metro-jobs/" rel="bookmark">MAHA Metro
+										href="maha-metro-jobs/" rel="bookmark">MAHA Metro
 										Recruitment 2022 DGM, Manager, Engineer, Asst 23 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-09-22T16:12:47+05:30"
@@ -10752,7 +10752,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10766,7 +10766,7 @@
 									Metro Rail Corporation Limited has released the latest notification for the MAHA
 									Metro recruitment &#8230; <a
 										title="MAHA Metro Recruitment 2022 DGM, Manager, Engineer, Asst 23 Post"
-										class="read-more" href="https://www.sarkariresult.app/maha-metro-jobs/"
+										class="read-more" href="maha-metro-jobs/"
 										aria-label="More on MAHA Metro Recruitment 2022 DGM, Manager, Engineer, Asst 23 Post">Read
 										more</a></p>
 							</div>
@@ -10777,11 +10777,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10790,7 +10790,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maha-metro-jobs/#respond">Leave a
+										href="maha-metro-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10801,7 +10801,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gail-manager-recruitment/"
+										href="gail-manager-recruitment/"
 										rel="bookmark">GAIL Manager Recruitment 2022 Apply Engineer, Accountant 77
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10810,7 +10810,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10823,7 +10823,7 @@
 									Recruitment 2022 of Manager, Senior Engineer, Senior Officer, Senior Accountant,
 									Senior Superintendent, Senior Chemist, and Foreman Vacancy at 77 Posts. &#8230; <a
 										title="GAIL Manager Recruitment 2022 Apply Engineer, Accountant 77 Post"
-										class="read-more" href="https://www.sarkariresult.app/gail-manager-recruitment/"
+										class="read-more" href="gail-manager-recruitment/"
 										aria-label="More on GAIL Manager Recruitment 2022 Apply Engineer, Accountant 77 Post">Read
 										more</a></p>
 							</div>
@@ -10834,9 +10834,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10846,7 +10846,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gail-manager-recruitment/#respond">Leave a
+										href="gail-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10857,7 +10857,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rites-engineer-notification/"
+										href="rites-engineer-notification/"
 										rel="bookmark">RITES Recruitment 2022 Online Application Engineer 11 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10866,7 +10866,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10880,7 +10880,7 @@
 									from 16 September 2022 to 10 October &#8230; <a
 										title="RITES Recruitment 2022 Online Application Engineer 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rites-engineer-notification/"
+										href="rites-engineer-notification/"
 										aria-label="More on RITES Recruitment 2022 Online Application Engineer 11 Post">Read
 										more</a></p>
 							</div>
@@ -10891,9 +10891,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10903,7 +10903,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rites-engineer-notification/#respond">Leave
+										href="rites-engineer-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10914,7 +10914,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iit-gandhinagar-vacancy/" rel="bookmark">IIT
+										href="iit-gandhinagar-vacancy/" rel="bookmark">IIT
 										Gandhinagar Recruitment 2022 Apply Non Teaching Staff 19 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-09-19T15:18:49+05:30"
@@ -10923,7 +10923,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10937,7 +10937,7 @@
 									Technology Gandhinagar has issued the latest notification Advt No.
 									IITGN/AO/Rect/01/2022-23 for the IIT Gandhinagar recruitment 2022 of Non-Teaching
 									&#8230; <a title="IIT Gandhinagar Recruitment 2022 Apply Non Teaching Staff 19 Post"
-										class="read-more" href="https://www.sarkariresult.app/iit-gandhinagar-vacancy/"
+										class="read-more" href="iit-gandhinagar-vacancy/"
 										aria-label="More on IIT Gandhinagar Recruitment 2022 Apply Non Teaching Staff 19 Post">Read
 										more</a></p>
 							</div>
@@ -10948,10 +10948,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/iit-jobs/" rel="category tag">IIT Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="iit-jobs/" rel="category tag">IIT Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10961,7 +10961,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iit-gandhinagar-vacancy/#respond">Leave a
+										href="iit-gandhinagar-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10972,7 +10972,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/msme-kochi-recruitment/" rel="bookmark">MSME
+										href="msme-kochi-recruitment/" rel="bookmark">MSME
 										Kochi Recruitment 2022 Apply Manager, Engineer, Officer Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10980,7 +10980,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10993,7 +10993,7 @@
 									38/2022 for the MSME Kochi Manager recruitment 2022 of Manager (Mechanical), Sr.
 									Engineer (Training), Engineer (Training), Stores Officer Vacancy. Candidates wishing
 									&#8230; <a title="MSME Kochi Recruitment 2022 Apply Manager, Engineer, Officer Post"
-										class="read-more" href="https://www.sarkariresult.app/msme-kochi-recruitment/"
+										class="read-more" href="msme-kochi-recruitment/"
 										aria-label="More on MSME Kochi Recruitment 2022 Apply Manager, Engineer, Officer Post">Read
 										more</a></p>
 							</div>
@@ -11004,9 +11004,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11016,7 +11016,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/msme-kochi-recruitment/#respond">Leave a
+										href="msme-kochi-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11027,7 +11027,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dda-superintending-engineer-recruitment/"
+										href="dda-superintending-engineer-recruitment/"
 										rel="bookmark">DDA Superintending Engineer Recruitment 2022 Application Form</a>
 								</h2>
 								<div class="entry-meta">
@@ -11037,7 +11037,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11051,7 +11051,7 @@
 									Recruitment 2022 can apply online through the official website DDA &#8230; <a
 										title="DDA Superintending Engineer Recruitment 2022 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/dda-superintending-engineer-recruitment/"
+										href="dda-superintending-engineer-recruitment/"
 										aria-label="More on DDA Superintending Engineer Recruitment 2022 Application Form">Read
 										more</a></p>
 							</div>
@@ -11062,9 +11062,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11074,7 +11074,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dda-superintending-engineer-recruitment/#respond">Leave
+										href="dda-superintending-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11085,7 +11085,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pdil-vacancy/" rel="bookmark">PDIL Engineer
+										href="pdil-vacancy/" rel="bookmark">PDIL Engineer
 										Recruitment 2022 Online Application 10 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11093,7 +11093,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11106,7 +11106,7 @@
 									Gr-II (5) (Civil-Construction) Vacancy at 10 posts. Candidates who are interested in
 									PDIL Recruitment 2022 can apply online through the official website PDIL &#8230; <a
 										title="PDIL Engineer Recruitment 2022 Online Application 10 Post"
-										class="read-more" href="https://www.sarkariresult.app/pdil-vacancy/"
+										class="read-more" href="pdil-vacancy/"
 										aria-label="More on PDIL Engineer Recruitment 2022 Online Application 10 Post">Read
 										more</a></p>
 							</div>
@@ -11117,9 +11117,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11128,7 +11128,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/pdil-vacancy/#respond">Leave
+										</svg></span><a href="pdil-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11139,7 +11139,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tnhrce-vacancy/" rel="bookmark">TNHRCE
+										href="tnhrce-vacancy/" rel="bookmark">TNHRCE
 										Recruitment 2022 Asst, Typist, Driver, Engineer 23 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11147,7 +11147,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11161,7 +11161,7 @@
 									TNHRCE recruitment 2022 of Junior Assistant, Typist, Driver, Assistant Electrical
 									Engineer, Nataswaram, Assistant Priest, Assistant &#8230; <a
 										title="TNHRCE Recruitment 2022 Asst, Typist, Driver, Engineer 23 Post"
-										class="read-more" href="https://www.sarkariresult.app/tnhrce-vacancy/"
+										class="read-more" href="tnhrce-vacancy/"
 										aria-label="More on TNHRCE Recruitment 2022 Asst, Typist, Driver, Engineer 23 Post">Read
 										more</a></p>
 							</div>
@@ -11172,9 +11172,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11184,7 +11184,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tnhrce-vacancy/#respond">Leave a
+										href="tnhrce-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11195,7 +11195,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iiit-pune-recruitment/" rel="bookmark">IIIT
+										href="iiit-pune-recruitment/" rel="bookmark">IIIT
 										Pune Recruitment 2022 Walk In Interview Non Teaching 35 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11203,7 +11203,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11217,7 +11217,7 @@
 									the IIIT Pune recruitment 2022 of Non-Teaching (Finance Consultant/ AOSD, Admin
 									Consultant/ AOSD, &#8230; <a
 										title="IIIT Pune Recruitment 2022 Walk In Interview Non Teaching 35 Post"
-										class="read-more" href="https://www.sarkariresult.app/iiit-pune-recruitment/"
+										class="read-more" href="iiit-pune-recruitment/"
 										aria-label="More on IIIT Pune Recruitment 2022 Walk In Interview Non Teaching 35 Post">Read
 										more</a></p>
 							</div>
@@ -11228,11 +11228,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11241,7 +11241,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iiit-pune-recruitment/#respond">Leave a
+										href="iiit-pune-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11252,7 +11252,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rites-engineer-jobs/" rel="bookmark">RITES
+										href="rites-engineer-jobs/" rel="bookmark">RITES
 										Engineer Recruitment 2022 Apply Online Form 20 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11260,7 +11260,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11273,7 +11273,7 @@
 									candidates who are interested in RITES Engineer Recruitment 2022 apply online
 									through the official website RITES Jobs from 29 August 2022 to 19 &#8230; <a
 										title="RITES Engineer Recruitment 2022 Apply Online Form 20 Post"
-										class="read-more" href="https://www.sarkariresult.app/rites-engineer-jobs/"
+										class="read-more" href="rites-engineer-jobs/"
 										aria-label="More on RITES Engineer Recruitment 2022 Apply Online Form 20 Post">Read
 										more</a></p>
 							</div>
@@ -11284,9 +11284,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11296,7 +11296,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rites-engineer-jobs/#respond">Leave a
+										href="rites-engineer-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11307,7 +11307,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/111593-2/" rel="bookmark">KPSC Assistant
+										href="111593-2/" rel="bookmark">KPSC Assistant
 										Engineer Recruitment 2022 Apply Online AE 229 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11315,7 +11315,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11328,7 +11328,7 @@
 									filling up the 229 posts of Assistant Engineer (Mechanical) Vacancies. Candidates
 									who are interested in KPSC Recruitment 2022 can apply to the official website
 									&#8230; <a title="KPSC Assistant Engineer Recruitment 2022 Apply Online AE 229 Post"
-										class="read-more" href="https://www.sarkariresult.app/111593-2/"
+										class="read-more" href="111593-2/"
 										aria-label="More on KPSC Assistant Engineer Recruitment 2022 Apply Online AE 229 Post">Read
 										more</a></p>
 							</div>
@@ -11339,9 +11339,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11350,7 +11350,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/111593-2/#respond">Leave a
+										</svg></span><a href="111593-2/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11361,7 +11361,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksmcl-recruitment/" rel="bookmark">KSMCL
+										href="ksmcl-recruitment/" rel="bookmark">KSMCL
 										Recruitment 2022 Apply Now Helper, Nurse, Engineer 31 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11369,7 +11369,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11383,7 +11383,7 @@
 									Corporation Limited has released the latest notification No. KSMCL/ PER/ GEN/ MP
 									CONT/ 67-A/ 2022-23/ 1486 for the &#8230; <a
 										title="KSMCL Recruitment 2022 Apply Now Helper, Nurse, Engineer 31 Post"
-										class="read-more" href="https://www.sarkariresult.app/ksmcl-recruitment/"
+										class="read-more" href="ksmcl-recruitment/"
 										aria-label="More on KSMCL Recruitment 2022 Apply Now Helper, Nurse, Engineer 31 Post">Read
 										more</a></p>
 							</div>
@@ -11394,9 +11394,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11406,7 +11406,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksmcl-recruitment/#comments">1
+										href="ksmcl-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11417,7 +11417,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kiocl-vacancy/" rel="bookmark">KIOCL
+										href="kiocl-vacancy/" rel="bookmark">KIOCL
 										Recruitment 2022 Apply Now Graduate Engineer Trainee 35 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11425,7 +11425,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11438,7 +11438,7 @@
 									35 posts. Those candidates who are interested in KIOCL GET Recruitment 2022 apply
 									online to kioclltd.in through the official &#8230; <a
 										title="KIOCL Recruitment 2022 Apply Now Graduate Engineer Trainee 35 Post"
-										class="read-more" href="https://www.sarkariresult.app/kiocl-vacancy/"
+										class="read-more" href="kiocl-vacancy/"
 										aria-label="More on KIOCL Recruitment 2022 Apply Now Graduate Engineer Trainee 35 Post">Read
 										more</a></p>
 							</div>
@@ -11449,9 +11449,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11461,7 +11461,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kiocl-vacancy/#respond">Leave a
+										href="kiocl-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11473,13 +11473,13 @@
 									<path
 										d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z" />
 								</svg></span> <span class="prev" title="Previous"><a
-									href="https://www.sarkariresult.app/engineer/page/2/">Older posts</a></span>
+									href="engineer/page/2/">Older posts</a></span>
 						</div>
 						<div class="nav-links"><span aria-current="page" class="page-numbers current"><span
 									class="screen-reader-text">Page</span>1</span>
-							<a class="page-numbers" href="https://www.sarkariresult.app/engineer/page/2/"><span
+							<a class="page-numbers" href="engineer/page/2/"><span
 									class="screen-reader-text">Page</span>2</a>
-							<a class="next page-numbers" href="https://www.sarkariresult.app/engineer/page/2/">Next
+							<a class="next page-numbers" href="engineer/page/2/">Next
 								<span aria-hidden="true">&rarr;</span></a>
 						</div>
 					</nav>
@@ -11503,83 +11503,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -11747,7 +11747,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

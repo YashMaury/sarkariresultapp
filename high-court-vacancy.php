@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-stenographer-recruitment/"
+										href="rajasthan-high-court-stenographer-recruitment/"
 										rel="bookmark">Rajasthan High Court Stenographer Recruitment 2023 Apply Now 277
 										Post</a></h2>
 								<div class="entry-meta">
@@ -25,7 +25,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -39,7 +39,7 @@
 									who are interested in Rajasthan High Court Stenographer &#8230; <a
 										title="Rajasthan High Court Stenographer Recruitment 2023 Apply Now 277 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-stenographer-recruitment/"
+										href="rajasthan-high-court-stenographer-recruitment/"
 										aria-label="More on Rajasthan High Court Stenographer Recruitment 2023 Apply Now 277 Post">Read
 										more</a></p>
 							</div>
@@ -50,10 +50,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -63,7 +63,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-stenographer-recruitment/#respond">Leave
+										href="rajasthan-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -74,7 +74,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-stenographer-recruitment/"
+										href="patna-high-court-stenographer-recruitment/"
 										rel="bookmark">Patna High Court Stenographer Recruitment 2023 Apply Now 51
 										Post</a></h2>
 								<div class="entry-meta">
@@ -84,7 +84,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -97,7 +97,7 @@
 									in 1916 and is located in Patna, the capital city of Bihar. The court has &#8230; <a
 										title="Patna High Court Stenographer Recruitment 2023 Apply Now 51 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-stenographer-recruitment/"
+										href="patna-high-court-stenographer-recruitment/"
 										aria-label="More on Patna High Court Stenographer Recruitment 2023 Apply Now 51 Post">Read
 										more</a></p>
 							</div>
@@ -108,10 +108,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -121,7 +121,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-stenographer-recruitment/#respond">Leave
+										href="patna-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -132,7 +132,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-high-court-hjs-recruitment-2023/"
+										href="delhi-high-court-hjs-recruitment-2023/"
 										rel="bookmark">Delhi High Court HJS Recruitment 2023 Apply Now 16 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-07-15T17:31:48+05:30"
@@ -141,7 +141,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -155,7 +155,7 @@
 									Examination Vacancy 2023 can &#8230; <a
 										title="Delhi High Court HJS Recruitment 2023 Apply Now 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-high-court-hjs-recruitment-2023/"
+										href="delhi-high-court-hjs-recruitment-2023/"
 										aria-label="More on Delhi High Court HJS Recruitment 2023 Apply Now 16 Post">Read
 										more</a></p>
 							</div>
@@ -166,10 +166,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -179,7 +179,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-high-court-hjs-recruitment-2023/#respond">Leave
+										href="delhi-high-court-hjs-recruitment-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -190,7 +190,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-jpa-recruitment/"
+										href="rajasthan-high-court-jpa-recruitment/"
 										rel="bookmark">Rajasthan High Court JPA Recruitment 2023 Jr Personal Asst 59
 										Post</a></h2>
 								<div class="entry-meta">
@@ -199,7 +199,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -213,7 +213,7 @@
 									Court Vacancy 2023 can &#8230; <a
 										title="Rajasthan High Court JPA Recruitment 2023 Jr Personal Asst 59 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-jpa-recruitment/"
+										href="rajasthan-high-court-jpa-recruitment/"
 										aria-label="More on Rajasthan High Court JPA Recruitment 2023 Jr Personal Asst 59 Post">Read
 										more</a></p>
 							</div>
@@ -224,10 +224,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -237,7 +237,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-jpa-recruitment/#respond">Leave
+										href="rajasthan-high-court-jpa-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -248,7 +248,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-district-judge-recruitment/"
+										href="madras-high-court-district-judge-recruitment/"
 										rel="bookmark">Madras High Court Recruitment 2023 Apply District Judge 50
 										Post</a></h2>
 								<div class="entry-meta">
@@ -258,7 +258,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -272,7 +272,7 @@
 									Recruitment 2023 can &#8230; <a
 										title="Madras High Court Recruitment 2023 Apply District Judge 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-district-judge-recruitment/"
+										href="madras-high-court-district-judge-recruitment/"
 										aria-label="More on Madras High Court Recruitment 2023 Apply District Judge 50 Post">Read
 										more</a></p>
 							</div>
@@ -283,10 +283,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -296,7 +296,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-district-judge-recruitment/#respond">Leave
+										href="madras-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -307,7 +307,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-law-clerk-job/"
+										href="ap-high-court-law-clerk-job/"
 										rel="bookmark">AP High Court Recruitment 2023 Application Form Law Clerk 26
 										Post</a></h2>
 								<div class="entry-meta">
@@ -316,7 +316,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -329,7 +329,7 @@
 									in AP High Court Vacancy 2023 can apply online through the AP &#8230; <a
 										title="AP High Court Recruitment 2023 Application Form Law Clerk 26 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-law-clerk-job/"
+										href="ap-high-court-law-clerk-job/"
 										aria-label="More on AP High Court Recruitment 2023 Application Form Law Clerk 26 Post">Read
 										more</a></p>
 							</div>
@@ -340,10 +340,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -353,7 +353,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-law-clerk-job/#respond">Leave
+										href="ap-high-court-law-clerk-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -364,7 +364,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-group-d-recruitment/"
+										href="chhattisgarh-high-court-group-d-recruitment/"
 										rel="bookmark">Chhattisgarh High Court Group D Recruitment 2023 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -373,7 +373,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -387,7 +387,7 @@
 									Electrician, Plumber, Driver, Painter Staff, Pump Attendant) vacancies at &#8230; <a
 										title="Chhattisgarh High Court Group D Recruitment 2023 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-group-d-recruitment/"
+										href="chhattisgarh-high-court-group-d-recruitment/"
 										aria-label="More on Chhattisgarh High Court Group D Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -398,10 +398,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -411,7 +411,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-group-d-recruitment/#comments">3
+										href="chhattisgarh-high-court-group-d-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -422,7 +422,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-stenographer-job/"
+										href="chhattisgarh-high-court-stenographer-job/"
 										rel="bookmark">Chhattisgarh High Court Recruitment 2023 Apply Stenographer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -432,7 +432,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -446,7 +446,7 @@
 									apply online through the Chhattisgarh High Court Jobs &#8230; <a
 										title="Chhattisgarh High Court Recruitment 2023 Apply Stenographer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-stenographer-job/"
+										href="chhattisgarh-high-court-stenographer-job/"
 										aria-label="More on Chhattisgarh High Court Recruitment 2023 Apply Stenographer Post">Read
 										more</a></p>
 							</div>
@@ -457,10 +457,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -470,7 +470,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-stenographer-job/#respond">Leave
+										href="chhattisgarh-high-court-stenographer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -481,7 +481,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-judicial-service-job/"
+										href="gauhati-high-court-judicial-service-job/"
 										rel="bookmark">Gauhati High Court Recruitment 2023 Apply Judicial Service 13
 										Post</a></h2>
 								<div class="entry-meta">
@@ -491,7 +491,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -505,7 +505,7 @@
 									Gauhati High Court Jobs from &#8230; <a
 										title="Gauhati High Court Recruitment 2023 Apply Judicial Service 13 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-judicial-service-job/"
+										href="gauhati-high-court-judicial-service-job/"
 										aria-label="More on Gauhati High Court Recruitment 2023 Apply Judicial Service 13 Post">Read
 										more</a></p>
 							</div>
@@ -516,10 +516,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -529,7 +529,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-judicial-service-job/#respond">Leave
+										href="gauhati-high-court-judicial-service-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -540,7 +540,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-job/"
+										href="chhattisgarh-high-court-job/"
 										rel="bookmark">Chhattisgarh High Court Recruitment 2023 Apply Legal Asst 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -550,7 +550,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -564,7 +564,7 @@
 									apply online through the Chhattisgarh High &#8230; <a
 										title="Chhattisgarh High Court Recruitment 2023 Apply Legal Asst 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-job/"
+										href="chhattisgarh-high-court-job/"
 										aria-label="More on Chhattisgarh High Court Recruitment 2023 Apply Legal Asst 20 Post">Read
 										more</a></p>
 							</div>
@@ -575,10 +575,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -588,7 +588,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-job/#respond">Leave
+										href="chhattisgarh-high-court-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -599,7 +599,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/manipur-high-court-sweeper-job/"
+										href="manipur-high-court-sweeper-job/"
 										rel="bookmark">Manipur High Court Recruitment 2023 Apply Peon, Sweeper 118
 										Post</a></h2>
 								<div class="entry-meta">
@@ -608,7 +608,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -622,7 +622,7 @@
 									Jobs. Those candidates who are &#8230; <a
 										title="Manipur High Court Recruitment 2023 Apply Peon, Sweeper 118 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/manipur-high-court-sweeper-job/"
+										href="manipur-high-court-sweeper-job/"
 										aria-label="More on Manipur High Court Recruitment 2023 Apply Peon, Sweeper 118 Post">Read
 										more</a></p>
 							</div>
@@ -633,10 +633,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -646,7 +646,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/manipur-high-court-sweeper-job/#respond">Leave
+										href="manipur-high-court-sweeper-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -657,7 +657,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-post/"
+										href="allahabad-high-court-law-clerk-post/"
 										rel="bookmark">Allahabad High Court Law Clerk Recruitment 2023 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -666,7 +666,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -680,7 +680,7 @@
 									bombayhighcourt.nic.in through the Allahabad High Court Law Clerk &#8230; <a
 										title="Allahabad High Court Law Clerk Recruitment 2023 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-post/"
+										href="allahabad-high-court-law-clerk-post/"
 										aria-label="More on Allahabad High Court Law Clerk Recruitment 2023 Apply Online">Read
 										more</a></p>
 							</div>
@@ -691,10 +691,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -704,7 +704,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-post/#respond">Leave
+										href="allahabad-high-court-law-clerk-post/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -715,7 +715,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-apply-online/"
+										href="punjab-haryana-high-court-stenographer-apply-online/"
 										rel="bookmark">Punjab Haryana High Court Stenographer Recruitment 2023 Apply</a>
 								</h2>
 								<div class="entry-meta">
@@ -725,7 +725,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -739,7 +739,7 @@
 									Haryana High Court Recruitment 2023 apply online &#8230; <a
 										title="Punjab Haryana High Court Stenographer Recruitment 2023 Apply"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-apply-online/"
+										href="punjab-haryana-high-court-stenographer-apply-online/"
 										aria-label="More on Punjab Haryana High Court Stenographer Recruitment 2023 Apply">Read
 										more</a></p>
 							</div>
@@ -750,10 +750,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -763,7 +763,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-apply-online/#respond">Leave
+										href="punjab-haryana-high-court-stenographer-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -774,7 +774,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-high-court-pa-job/"
+										href="jharkhand-high-court-pa-job/"
 										rel="bookmark">Jharkhand High Court Recruitment 2023 Apply Personal Asst 42
 										Post</a></h2>
 								<div class="entry-meta">
@@ -783,7 +783,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -797,7 +797,7 @@
 									2023 can apply online through &#8230; <a
 										title="Jharkhand High Court Recruitment 2023 Apply Personal Asst 42 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-high-court-pa-job/"
+										href="jharkhand-high-court-pa-job/"
 										aria-label="More on Jharkhand High Court Recruitment 2023 Apply Personal Asst 42 Post">Read
 										more</a></p>
 							</div>
@@ -808,10 +808,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -821,7 +821,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-high-court-pa-job/#respond">Leave
+										href="jharkhand-high-court-pa-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -832,7 +832,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-cashier-job/"
+										href="gujarat-high-court-cashier-job/"
 										rel="bookmark">Gujarat High Court Recruitment 2023 Apply Asst, Cashier 78
 										Post</a></h2>
 								<div class="entry-meta">
@@ -841,7 +841,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -855,7 +855,7 @@
 									Gujarat High Court Jobs official &#8230; <a
 										title="Gujarat High Court Recruitment 2023 Apply Asst, Cashier 78 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-cashier-job/"
+										href="gujarat-high-court-cashier-job/"
 										aria-label="More on Gujarat High Court Recruitment 2023 Apply Asst, Cashier 78 Post">Read
 										more</a></p>
 							</div>
@@ -866,10 +866,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -879,7 +879,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-cashier-job/#respond">Leave
+										href="gujarat-high-court-cashier-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -890,7 +890,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-peon-recruitment/"
+										href="gujarat-high-court-peon-recruitment/"
 										rel="bookmark">Gujarat High Court Peon Recruitment 2023 Apply Class IV 1499
 										Post</a></h2>
 								<div class="entry-meta">
@@ -899,7 +899,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -914,7 +914,7 @@
 									[(Class-IV) including Chowkidar, &#8230; <a
 										title="Gujarat High Court Peon Recruitment 2023 Apply Class IV 1499 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-peon-recruitment/"
+										href="gujarat-high-court-peon-recruitment/"
 										aria-label="More on Gujarat High Court Peon Recruitment 2023 Apply Class IV 1499 Post">Read
 										more</a></p>
 							</div>
@@ -925,10 +925,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -938,7 +938,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-peon-recruitment/#respond">Leave
+										href="gujarat-high-court-peon-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -949,7 +949,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-operator-job/"
+										href="gauhati-high-court-operator-job/"
 										rel="bookmark">Gauhati High Court Recruitment 2023 Apply Asst, Translator
 										Post</a></h2>
 								<div class="entry-meta">
@@ -958,7 +958,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -972,7 +972,7 @@
 									Vacancies at 14 Posts. Candidates who are interested in Gauhati High Court &#8230;
 									<a title="Gauhati High Court Recruitment 2023 Apply Asst, Translator Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-operator-job/"
+										href="gauhati-high-court-operator-job/"
 										aria-label="More on Gauhati High Court Recruitment 2023 Apply Asst, Translator Post">Read
 										more</a></p>
 							</div>
@@ -983,10 +983,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -996,7 +996,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-operator-job/#respond">Leave
+										href="gauhati-high-court-operator-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1007,7 +1007,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-typist-job/"
+										href="telangana-high-court-typist-job/"
 										rel="bookmark">Telangana High Court Recruitment 2023 Copyist, Typist 319
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1016,7 +1016,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1030,7 +1030,7 @@
 									Jobs. Candidates who are interested in &#8230; <a
 										title="Telangana High Court Recruitment 2023 Copyist, Typist 319 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-typist-job/"
+										href="telangana-high-court-typist-job/"
 										aria-label="More on Telangana High Court Recruitment 2023 Copyist, Typist 319 Post">Read
 										more</a></p>
 							</div>
@@ -1041,10 +1041,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1054,7 +1054,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-typist-job/#respond">Leave
+										href="telangana-high-court-typist-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1065,7 +1065,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-assistant-recruitment/"
+										href="gujarat-high-court-assistant-recruitment/"
 										rel="bookmark">Gujarat High Court Assistant Recruitment 2023 Apply Now 1778
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1074,7 +1074,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1088,7 +1088,7 @@
 									through the Gujarat High Court Jobs official &#8230; <a
 										title="Gujarat High Court Assistant Recruitment 2023 Apply Now 1778 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-assistant-recruitment/"
+										href="gujarat-high-court-assistant-recruitment/"
 										aria-label="More on Gujarat High Court Assistant Recruitment 2023 Apply Now 1778 Post">Read
 										more</a></p>
 							</div>
@@ -1099,10 +1099,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1112,7 +1112,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-assistant-recruitment/#respond">Leave
+										href="gujarat-high-court-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1123,7 +1123,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-clerk-vacancy/"
+										href="rajasthan-high-court-clerk-vacancy/"
 										rel="bookmark">Rajasthan High Court Clerk Skill Test Admit Card 2023 Direct Link
 										JJA, Asst 2756 Post</a></h2>
 								<div class="entry-meta">
@@ -1132,7 +1132,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1146,7 +1146,7 @@
 									Candidates who are interested in Rajasthan &#8230; <a
 										title="Rajasthan High Court Clerk Skill Test Admit Card 2023 Direct Link JJA, Asst 2756 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-clerk-vacancy/"
+										href="rajasthan-high-court-clerk-vacancy/"
 										aria-label="More on Rajasthan High Court Clerk Skill Test Admit Card 2023 Direct Link JJA, Asst 2756 Post">Read
 										more</a></p>
 							</div>
@@ -1157,10 +1157,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1169,7 +1169,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-clerk-vacancy/#comments">1
+										href="rajasthan-high-court-clerk-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1180,7 +1180,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-high-court-junior-assistant-recruitment/"
+										href="jk-high-court-junior-assistant-recruitment/"
 										rel="bookmark">JK High Court Junior Assistant Recruitment 2023 Apply Now 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1190,7 +1190,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1204,7 +1204,7 @@
 									interested in JK High &#8230; <a
 										title="JK High Court Junior Assistant Recruitment 2023 Apply Now 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-high-court-junior-assistant-recruitment/"
+										href="jk-high-court-junior-assistant-recruitment/"
 										aria-label="More on JK High Court Junior Assistant Recruitment 2023 Apply Now 20 Post">Read
 										more</a></p>
 							</div>
@@ -1215,10 +1215,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1228,7 +1228,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-high-court-junior-assistant-recruitment/#respond">Leave
+										href="jk-high-court-junior-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1239,7 +1239,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-judge-job/"
+										href="gujarat-high-court-judge-job/"
 										rel="bookmark">Gujarat High Court Recruitment 2023 Apply Online Judge 82
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1249,7 +1249,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1263,7 +1263,7 @@
 									Court Recruitment 2023 apply &#8230; <a
 										title="Gujarat High Court Recruitment 2023 Apply Online Judge 82 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-judge-job/"
+										href="gujarat-high-court-judge-job/"
 										aria-label="More on Gujarat High Court Recruitment 2023 Apply Online Judge 82 Post">Read
 										more</a></p>
 							</div>
@@ -1274,10 +1274,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1287,7 +1287,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-judge-job/#respond">Leave
+										href="gujarat-high-court-judge-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1298,7 +1298,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-peon-job/"
+										href="odisha-high-court-peon-job/"
 										rel="bookmark">Odisha High Court Group D Recruitment 2023 Apply Peon 88 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1308,7 +1308,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1321,7 +1321,7 @@
 									Mali (Group D) Vacancy at 88 Posts in Orissa High Court Jobs. &#8230; <a
 										title="Odisha High Court Group D Recruitment 2023 Apply Peon 88 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-peon-job/"
+										href="odisha-high-court-peon-job/"
 										aria-label="More on Odisha High Court Group D Recruitment 2023 Apply Peon 88 Post">Read
 										more</a></p>
 							</div>
@@ -1332,10 +1332,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1345,7 +1345,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-peon-job/#respond">Leave a
+										href="odisha-high-court-peon-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1356,7 +1356,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-family-court-judges-job/"
+										href="bombay-high-court-family-court-judges-job/"
 										rel="bookmark">Bombay High Court Recruitment 2023 Apply Family Court Judges
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1366,7 +1366,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1380,7 +1380,7 @@
 									Recruitment 2023 can apply &#8230; <a
 										title="Bombay High Court Recruitment 2023 Apply Family Court Judges Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-family-court-judges-job/"
+										href="bombay-high-court-family-court-judges-job/"
 										aria-label="More on Bombay High Court Recruitment 2023 Apply Family Court Judges Post">Read
 										more</a></p>
 							</div>
@@ -1391,10 +1391,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1404,7 +1404,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-family-court-judges-job/#respond">Leave
+										href="bombay-high-court-family-court-judges-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1415,7 +1415,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-assistant-recruitment/"
+										href="patna-high-court-assistant-recruitment/"
 										rel="bookmark">Patna High Court Assistant Admit Card 2023 Link Activate for 550
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1424,7 +1424,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1438,7 +1438,7 @@
 									Assistant Vacancy at &#8230; <a
 										title="Patna High Court Assistant Admit Card 2023 Link Activate for 550 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-assistant-recruitment/"
+										href="patna-high-court-assistant-recruitment/"
 										aria-label="More on Patna High Court Assistant Admit Card 2023 Link Activate for 550 Post">Read
 										more</a></p>
 							</div>
@@ -1449,10 +1449,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1461,7 +1461,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-assistant-recruitment/#respond">Leave
+										href="patna-high-court-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1472,7 +1472,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-civil-judge-job/"
+										href="gujarat-high-court-civil-judge-job/"
 										rel="bookmark">Gujarat High Court Recruitment 2023 Apply Civil Judge 193
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1482,7 +1482,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1496,7 +1496,7 @@
 									through the Gujarat High &#8230; <a
 										title="Gujarat High Court Recruitment 2023 Apply Civil Judge 193 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-civil-judge-job/"
+										href="gujarat-high-court-civil-judge-job/"
 										aria-label="More on Gujarat High Court Recruitment 2023 Apply Civil Judge 193 Post">Read
 										more</a></p>
 							</div>
@@ -1507,10 +1507,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1520,7 +1520,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-civil-judge-job/#respond">Leave
+										href="gujarat-high-court-civil-judge-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1531,7 +1531,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-and-haryana-high-court-recruitment/"
+										href="punjab-and-haryana-high-court-recruitment/"
 										rel="bookmark">Punjab Haryana High Court Clerk Result 2023 Download Link Cut
 										Off, Merit List</a></h2>
 								<div class="entry-meta">
@@ -1540,7 +1540,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1554,7 +1554,7 @@
 									List 2023 &#8230; <a
 										title="Punjab Haryana High Court Clerk Result 2023 Download Link Cut Off, Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-and-haryana-high-court-recruitment/"
+										href="punjab-and-haryana-high-court-recruitment/"
 										aria-label="More on Punjab Haryana High Court Clerk Result 2023 Download Link Cut Off, Merit List">Read
 										more</a></p>
 							</div>
@@ -1565,10 +1565,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1577,7 +1577,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-and-haryana-high-court-recruitment/#respond">Leave
+										href="punjab-and-haryana-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1588,7 +1588,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-munsiff-magistrate-apply-online/"
+										href="kerala-high-court-munsiff-magistrate-apply-online/"
 										rel="bookmark">Kerala High Court Munsiff Magistrate Recruitment 2023 Apply 69
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1598,7 +1598,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1612,7 +1612,7 @@
 									online through the Kerala &#8230; <a
 										title="Kerala High Court Munsiff Magistrate Recruitment 2023 Apply 69 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-munsiff-magistrate-apply-online/"
+										href="kerala-high-court-munsiff-magistrate-apply-online/"
 										aria-label="More on Kerala High Court Munsiff Magistrate Recruitment 2023 Apply 69 Post">Read
 										more</a></p>
 							</div>
@@ -1623,10 +1623,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1636,7 +1636,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-munsiff-magistrate-apply-online/#respond">Leave
+										href="kerala-high-court-munsiff-magistrate-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1647,7 +1647,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-peon-apply-online/"
+										href="bombay-high-court-peon-apply-online/"
 										rel="bookmark">Bombay High Court Peon Recruitment 2023 Apply Now Hamal 133
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1657,7 +1657,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1670,7 +1670,7 @@
 									interested in Bombay High Court Recruitment 2023 can apply online through the Bombay
 									&#8230; <a title="Bombay High Court Peon Recruitment 2023 Apply Now Hamal 133 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-peon-apply-online/"
+										href="bombay-high-court-peon-apply-online/"
 										aria-label="More on Bombay High Court Peon Recruitment 2023 Apply Now Hamal 133 Post">Read
 										more</a></p>
 							</div>
@@ -1681,10 +1681,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1694,7 +1694,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-peon-apply-online/#comments">1
+										href="bombay-high-court-peon-apply-online/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1705,7 +1705,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-apply-online/"
+										href="ap-high-court-civil-judge-apply-online/"
 										rel="bookmark">AP High Court Civil Judge Recruitment 2023 Jr Division 30
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1715,7 +1715,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1728,7 +1728,7 @@
 									2023 -Reg Vacancy at 30 Posts in Andhra Pradesh. Those candidates who are &#8230; <a
 										title="AP High Court Civil Judge Recruitment 2023 Jr Division 30 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-apply-online/"
+										href="ap-high-court-civil-judge-apply-online/"
 										aria-label="More on AP High Court Civil Judge Recruitment 2023 Jr Division 30 Post">Read
 										more</a></p>
 							</div>
@@ -1739,10 +1739,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1752,7 +1752,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-apply-online/#respond">Leave
+										href="ap-high-court-civil-judge-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1763,7 +1763,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-civil-judge-jobs/"
+										href="madras-high-court-civil-judge-jobs/"
 										rel="bookmark">Madras High Court Recruitment 2023 Apply Online Civil Judge
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1773,7 +1773,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1786,7 +1786,7 @@
 									candidates who are interested in Madras High Court Recruitment 2023 apply online to
 									&#8230; <a title="Madras High Court Recruitment 2023 Apply Online Civil Judge Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-civil-judge-jobs/"
+										href="madras-high-court-civil-judge-jobs/"
 										aria-label="More on Madras High Court Recruitment 2023 Apply Online Civil Judge Post">Read
 										more</a></p>
 							</div>
@@ -1797,10 +1797,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1810,7 +1810,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-civil-judge-jobs/#respond">Leave
+										href="madras-high-court-civil-judge-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1821,7 +1821,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-job/"
+										href="allahabad-high-court-law-clerk-job/"
 										rel="bookmark">Allahabad High Court Recruitment 2023 Apply Law Clerk 32 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1831,7 +1831,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1845,7 +1845,7 @@
 									bombayhighcourt.nic.in through the Allahabad &#8230; <a
 										title="Allahabad High Court Recruitment 2023 Apply Law Clerk 32 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-job/"
+										href="allahabad-high-court-law-clerk-job/"
 										aria-label="More on Allahabad High Court Recruitment 2023 Apply Law Clerk 32 Post">Read
 										more</a></p>
 							</div>
@@ -1856,10 +1856,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1869,7 +1869,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-job/#comments">1
+										href="allahabad-high-court-law-clerk-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1880,7 +1880,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-high-court-pa-recruitment/"
+										href="delhi-high-court-pa-recruitment/"
 										rel="bookmark">Delhi High Court Recruitment 2023 Apply Online PA, SPA 127
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -1890,7 +1890,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1904,7 +1904,7 @@
 									Recruitment 2023 can Delhi &#8230; <a
 										title="Delhi High Court Recruitment 2023 Apply Online PA, SPA 127 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-high-court-pa-recruitment/"
+										href="delhi-high-court-pa-recruitment/"
 										aria-label="More on Delhi High Court Recruitment 2023 Apply Online PA, SPA 127 Posts">Read
 										more</a></p>
 							</div>
@@ -1915,10 +1915,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1928,7 +1928,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-high-court-pa-recruitment/#respond">Leave
+										href="delhi-high-court-pa-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1939,7 +1939,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-law-clerk-job/"
+										href="bombay-high-court-law-clerk-job/"
 										rel="bookmark">Bombay High Court Recruitment 2023 Apply Law Clerk 50 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1949,7 +1949,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1963,7 +1963,7 @@
 									Recruitment 2023 application Form to &#8230; <a
 										title="Bombay High Court Recruitment 2023 Apply Law Clerk 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-law-clerk-job/"
+										href="bombay-high-court-law-clerk-job/"
 										aria-label="More on Bombay High Court Recruitment 2023 Apply Law Clerk 50 Post">Read
 										more</a></p>
 							</div>
@@ -1974,10 +1974,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1987,7 +1987,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-law-clerk-job/#respond">Leave
+										href="bombay-high-court-law-clerk-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1998,7 +1998,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-aso-steno-apply-online/"
+										href="odisha-high-court-aso-steno-apply-online/"
 										rel="bookmark">Odisha High Court ASO Recruitment 2023 Apply Now Steno 234
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2008,7 +2008,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2022,7 +2022,7 @@
 									are interested in &#8230; <a
 										title="Odisha High Court ASO Recruitment 2023 Apply Now Steno 234 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-aso-steno-apply-online/"
+										href="odisha-high-court-aso-steno-apply-online/"
 										aria-label="More on Odisha High Court ASO Recruitment 2023 Apply Now Steno 234 Post">Read
 										more</a></p>
 							</div>
@@ -2033,10 +2033,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2046,7 +2046,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-aso-steno-apply-online/#respond">Leave
+										href="odisha-high-court-aso-steno-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2057,7 +2057,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-clerk-apply-online/"
+										href="punjab-haryana-high-court-clerk-apply-online/"
 										rel="bookmark">Punjab Haryana High Court Clerk Recruitment 2023 Apply Now 157
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2067,7 +2067,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2081,7 +2081,7 @@
 									online through &#8230; <a
 										title="Punjab Haryana High Court Clerk Recruitment 2023 Apply Now 157 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-clerk-apply-online/"
+										href="punjab-haryana-high-court-clerk-apply-online/"
 										aria-label="More on Punjab Haryana High Court Clerk Recruitment 2023 Apply Now 157 Post">Read
 										more</a></p>
 							</div>
@@ -2092,10 +2092,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2105,7 +2105,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-clerk-apply-online/#comments">1
+										href="punjab-haryana-high-court-clerk-apply-online/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2116,7 +2116,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-stenographer-apply-online/"
+										href="gauhati-high-court-stenographer-apply-online/"
 										rel="bookmark">Gauhati High Court Recruitment 2023 Apply Stenographer 130
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2126,7 +2126,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2140,7 +2140,7 @@
 									in Gauhati High Court Vacancy 2023 can apply online &#8230; <a
 										title="Gauhati High Court Recruitment 2023 Apply Stenographer 130 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-stenographer-apply-online/"
+										href="gauhati-high-court-stenographer-apply-online/"
 										aria-label="More on Gauhati High Court Recruitment 2023 Apply Stenographer 130 Post">Read
 										more</a></p>
 							</div>
@@ -2151,10 +2151,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2164,7 +2164,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-stenographer-apply-online/#respond">Leave
+										href="gauhati-high-court-stenographer-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2175,7 +2175,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-driver-job/"
+										href="karnataka-high-court-driver-job/"
 										rel="bookmark">Karnataka High Court Recruitment 2023 Apply Online Driver 39
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2185,7 +2185,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2199,7 +2199,7 @@
 									Recruitment 2023 can &#8230; <a
 										title="Karnataka High Court Recruitment 2023 Apply Online Driver 39 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-driver-job/"
+										href="karnataka-high-court-driver-job/"
 										aria-label="More on Karnataka High Court Recruitment 2023 Apply Online Driver 39 Post">Read
 										more</a></p>
 							</div>
@@ -2210,10 +2210,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2223,7 +2223,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-driver-job/#respond">Leave
+										href="karnataka-high-court-driver-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2234,7 +2234,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-system-assistant-apply-online/"
+										href="kerala-high-court-system-assistant-apply-online/"
 										rel="bookmark">Kerala High Court Assistant Recruitment 2023 Apply Now 90
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2244,7 +2244,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2258,7 +2258,7 @@
 									2023 can download the Kerala High &#8230; <a
 										title="Kerala High Court Assistant Recruitment 2023 Apply Now 90 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-system-assistant-apply-online/"
+										href="kerala-high-court-system-assistant-apply-online/"
 										aria-label="More on Kerala High Court Assistant Recruitment 2023 Apply Now 90 Post">Read
 										more</a></p>
 							</div>
@@ -2269,10 +2269,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2282,7 +2282,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-system-assistant-apply-online/#respond">Leave
+										href="kerala-high-court-system-assistant-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2293,7 +2293,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-ajs-grade-iii-33-post/"
+										href="gauhati-high-court-ajs-grade-iii-33-post/"
 										rel="bookmark">Gauhati High Court Recruitment 2023 Apply AJS Grade III 33
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2303,7 +2303,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2317,7 +2317,7 @@
 									who are interested &#8230; <a
 										title="Gauhati High Court Recruitment 2023 Apply AJS Grade III 33 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-ajs-grade-iii-33-post/"
+										href="gauhati-high-court-ajs-grade-iii-33-post/"
 										aria-label="More on Gauhati High Court Recruitment 2023 Apply AJS Grade III 33 Post">Read
 										more</a></p>
 							</div>
@@ -2328,10 +2328,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2341,7 +2341,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-ajs-grade-iii-33-post/#respond">Leave
+										href="gauhati-high-court-ajs-grade-iii-33-post/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2352,7 +2352,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-online-form/"
+										href="karnataka-high-court-online-form/"
 										rel="bookmark">Karnataka High Court Recruitment 2023 Apply Law Clerk Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2362,7 +2362,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2376,7 +2376,7 @@
 									Recruitment 2023 can apply online through the official website Karnataka &#8230; <a
 										title="Karnataka High Court Recruitment 2023 Apply Law Clerk Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-online-form/"
+										href="karnataka-high-court-online-form/"
 										aria-label="More on Karnataka High Court Recruitment 2023 Apply Law Clerk Post">Read
 										more</a></p>
 							</div>
@@ -2387,10 +2387,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2400,7 +2400,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-online-form/#respond">Leave
+										href="karnataka-high-court-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2411,7 +2411,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-personal-secretary-recruitment/"
+										href="ap-high-court-personal-secretary-recruitment/"
 										rel="bookmark">AP High Court Personal Secretary Recruitment 2023 Apply Now 39
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2421,7 +2421,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2435,7 +2435,7 @@
 									High Court Recruitment &#8230; <a
 										title="AP High Court Personal Secretary Recruitment 2023 Apply Now 39 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-personal-secretary-recruitment/"
+										href="ap-high-court-personal-secretary-recruitment/"
 										aria-label="More on AP High Court Personal Secretary Recruitment 2023 Apply Now 39 Post">Read
 										more</a></p>
 							</div>
@@ -2446,10 +2446,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2459,7 +2459,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-personal-secretary-recruitment/#respond">Leave
+										href="ap-high-court-personal-secretary-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2470,7 +2470,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-office-subordinate-recruitment/"
+										href="telangana-high-court-office-subordinate-recruitment/"
 										rel="bookmark">Telangana High Court Office Subordinate Recruitment 2023 Apply
 										Online 1226 Post</a></h2>
 								<div class="entry-meta">
@@ -2480,7 +2480,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2494,7 +2494,7 @@
 									Recruitment 2023 can apply online through the &#8230; <a
 										title="Telangana High Court Office Subordinate Recruitment 2023 Apply Online 1226 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-office-subordinate-recruitment/"
+										href="telangana-high-court-office-subordinate-recruitment/"
 										aria-label="More on Telangana High Court Office Subordinate Recruitment 2023 Apply Online 1226 Post">Read
 										more</a></p>
 							</div>
@@ -2505,10 +2505,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2518,7 +2518,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-office-subordinate-recruitment/#respond">Leave
+										href="telangana-high-court-office-subordinate-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2529,7 +2529,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-confidential-assistant-recruitment/"
+										href="kerala-high-court-confidential-assistant-recruitment/"
 										rel="bookmark">Kerala High Court Confidential Assistant Recruitment 2023 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -2539,7 +2539,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2553,7 +2553,7 @@
 									High Court Recruitment 2023 apply online through &#8230; <a
 										title="Kerala High Court Confidential Assistant Recruitment 2023 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-confidential-assistant-recruitment/"
+										href="kerala-high-court-confidential-assistant-recruitment/"
 										aria-label="More on Kerala High Court Confidential Assistant Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -2564,10 +2564,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2577,7 +2577,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-confidential-assistant-recruitment/#comments">2
+										href="kerala-high-court-confidential-assistant-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2588,7 +2588,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-chowkidar-recruitment/"
+										href="punjab-haryana-high-court-chowkidar-recruitment/"
 										rel="bookmark">Punjab Haryana High Court Chowkidar Recruitment 2023 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -2597,7 +2597,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2611,7 +2611,7 @@
 									interested in Punjab Haryana High Court Recruitment 2023 &#8230; <a
 										title="Punjab Haryana High Court Chowkidar Recruitment 2023 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-chowkidar-recruitment/"
+										href="punjab-haryana-high-court-chowkidar-recruitment/"
 										aria-label="More on Punjab Haryana High Court Chowkidar Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -2622,10 +2622,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2635,7 +2635,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-chowkidar-recruitment/#comments">1
+										href="punjab-haryana-high-court-chowkidar-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2646,7 +2646,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-legal-asst-recruitment/"
+										href="gujarat-high-court-legal-asst-recruitment/"
 										rel="bookmark">Gujarat High Court Legal Asst Recruitment 2022 Apply Now 28
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2655,7 +2655,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2669,7 +2669,7 @@
 									through the Gujarat &#8230; <a
 										title="Gujarat High Court Legal Asst Recruitment 2022 Apply Now 28 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-legal-asst-recruitment/"
+										href="gujarat-high-court-legal-asst-recruitment/"
 										aria-label="More on Gujarat High Court Legal Asst Recruitment 2022 Apply Now 28 Post">Read
 										more</a></p>
 							</div>
@@ -2680,10 +2680,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2693,7 +2693,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-legal-asst-recruitment/#respond">Leave
+										href="gujarat-high-court-legal-asst-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2704,7 +2704,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-jja-apply/" rel="bookmark">MP
+										href="mp-high-court-jja-apply/" rel="bookmark">MP
 										High Court JJA Recruitment 2022 Junior Judicial Asst 40 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -2712,7 +2712,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2725,7 +2725,7 @@
 									candidates who are interested in MP High Court Legal Assistant Recruitment 2022
 									apply through the official website MP High &#8230; <a
 										title="MP High Court JJA Recruitment 2022 Junior Judicial Asst 40 Post"
-										class="read-more" href="https://www.sarkariresult.app/mp-high-court-jja-apply/"
+										class="read-more" href="mp-high-court-jja-apply/"
 										aria-label="More on MP High Court JJA Recruitment 2022 Junior Judicial Asst 40 Post">Read
 										more</a></p>
 							</div>
@@ -2736,10 +2736,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2749,7 +2749,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-jja-apply/#respond">Leave a
+										href="mp-high-court-jja-apply/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2760,7 +2760,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-jobs/"
+										href="ap-high-court-civil-judge-jobs/"
 										rel="bookmark">AP High Court Civil Judge Recruitment 2022 Apply Now 31 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2769,7 +2769,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2783,7 +2783,7 @@
 									through the &#8230; <a
 										title="AP High Court Civil Judge Recruitment 2022 Apply Now 31 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-jobs/"
+										href="ap-high-court-civil-judge-jobs/"
 										aria-label="More on AP High Court Civil Judge Recruitment 2022 Apply Now 31 Post">Read
 										more</a></p>
 							</div>
@@ -2794,10 +2794,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2807,7 +2807,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-jobs/#comments">1
+										href="ap-high-court-civil-judge-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2818,7 +2818,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/high-court-orissa-online-form/"
+										href="high-court-orissa-online-form/"
 										rel="bookmark">Odisha High Court District Judge Recruitment 2022 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -2828,7 +2828,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2842,7 +2842,7 @@
 									through &#8230; <a
 										title="Odisha High Court District Judge Recruitment 2022 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/high-court-orissa-online-form/"
+										href="high-court-orissa-online-form/"
 										aria-label="More on Odisha High Court District Judge Recruitment 2022 Apply Now">Read
 										more</a></p>
 							</div>
@@ -2853,10 +2853,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2866,7 +2866,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/high-court-orissa-online-form/#respond">Leave
+										href="high-court-orissa-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2877,7 +2877,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/high-court-of-orissa-online-form/"
+										href="high-court-of-orissa-online-form/"
 										rel="bookmark">Odisha High Court Research Assistant Recruitment 2022 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -2886,7 +2886,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2900,7 +2900,7 @@
 									apply online through &#8230; <a
 										title="Odisha High Court Research Assistant Recruitment 2022 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/high-court-of-orissa-online-form/"
+										href="high-court-of-orissa-online-form/"
 										aria-label="More on Odisha High Court Research Assistant Recruitment 2022 Apply Now">Read
 										more</a></p>
 							</div>
@@ -2911,10 +2911,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2924,7 +2924,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/high-court-of-orissa-online-form/#respond">Leave
+										href="high-court-of-orissa-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2935,7 +2935,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-notification/"
+										href="allahabad-high-court-notification/"
 										rel="bookmark">Allahabad High Court Recruitment 2022 Steno, Peon, Asst Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2944,7 +2944,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2959,7 +2959,7 @@
 									Orderly/ Peon/ Office &#8230; <a
 										title="Allahabad High Court Recruitment 2022 Steno, Peon, Asst Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-notification/"
+										href="allahabad-high-court-notification/"
 										aria-label="More on Allahabad High Court Recruitment 2022 Steno, Peon, Asst Post">Read
 										more</a></p>
 							</div>
@@ -2970,10 +2970,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2983,7 +2983,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-notification/#comments">1
+										href="allahabad-high-court-notification/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2994,7 +2994,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-online-form/"
+										href="punjab-haryana-high-court-online-form/"
 										rel="bookmark">Punjab Haryana High Court Restorer Recruitment 2022 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -3004,7 +3004,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3018,7 +3018,7 @@
 									online to punjabharyanahigh.courtrecruitment.com through &#8230; <a
 										title="Punjab Haryana High Court Restorer Recruitment 2022 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-online-form/"
+										href="punjab-haryana-high-court-online-form/"
 										aria-label="More on Punjab Haryana High Court Restorer Recruitment 2022 Apply Now">Read
 										more</a></p>
 							</div>
@@ -3029,10 +3029,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3042,7 +3042,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-online-form/#respond">Leave
+										href="punjab-haryana-high-court-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3053,7 +3053,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-principal-counsellor-recruitment/"
+										href="kerala-high-court-principal-counsellor-recruitment/"
 										rel="bookmark">Kerala High Court Principal Counsellor Recruitment 2022 Apply 11
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3063,7 +3063,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3077,7 +3077,7 @@
 									Recruitment 2022 apply online through &#8230; <a
 										title="Kerala High Court Principal Counsellor Recruitment 2022 Apply 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-principal-counsellor-recruitment/"
+										href="kerala-high-court-principal-counsellor-recruitment/"
 										aria-label="More on Kerala High Court Principal Counsellor Recruitment 2022 Apply 11 Post">Read
 										more</a></p>
 							</div>
@@ -3088,10 +3088,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3101,7 +3101,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-principal-counsellor-recruitment/#respond">Leave
+										href="kerala-high-court-principal-counsellor-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3112,7 +3112,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-online-form/"
+										href="allahabad-high-court-online-form/"
 										rel="bookmark">Allahabad High Court Recruitment 2022 Apply Group C &#038; D 3932
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3121,7 +3121,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3136,7 +3136,7 @@
 									Allahabad High &#8230; <a
 										title="Allahabad High Court Recruitment 2022 Apply Group C &#038; D 3932 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-online-form/"
+										href="allahabad-high-court-online-form/"
 										aria-label="More on Allahabad High Court Recruitment 2022 Apply Group C &#038; D 3932 Post">Read
 										more</a></p>
 							</div>
@@ -3147,10 +3147,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3160,7 +3160,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-online-form/#respond">Leave
+										href="allahabad-high-court-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3171,7 +3171,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/andhra-pradesh-high-court-recruitment/"
+										href="andhra-pradesh-high-court-recruitment/"
 										rel="bookmark">AP High Court Recruitment 2022 Apply Online 3432 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-10-26T17:03:18+05:30"
@@ -3180,7 +3180,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3194,7 +3194,7 @@
 									latest notification for the AP High Court Recruitment 20222 of Court Masters &amp;
 									&#8230; <a title="AP High Court Recruitment 2022 Apply Online 3432 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/andhra-pradesh-high-court-recruitment/"
+										href="andhra-pradesh-high-court-recruitment/"
 										aria-label="More on AP High Court Recruitment 2022 Apply Online 3432 Post">Read
 										more</a></p>
 							</div>
@@ -3205,10 +3205,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3218,7 +3218,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/andhra-pradesh-high-court-recruitment/#respond">Leave
+										href="andhra-pradesh-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3229,7 +3229,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-driver-vacancy/"
+										href="punjab-haryana-high-court-driver-vacancy/"
 										rel="bookmark">Punjab Haryana High Court Driver Recruitment 2022 Apply Now 18
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3238,7 +3238,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3252,7 +3252,7 @@
 									online through &#8230; <a
 										title="Punjab Haryana High Court Driver Recruitment 2022 Apply Now 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-driver-vacancy/"
+										href="punjab-haryana-high-court-driver-vacancy/"
 										aria-label="More on Punjab Haryana High Court Driver Recruitment 2022 Apply Now 18 Post">Read
 										more</a></p>
 							</div>
@@ -3263,10 +3263,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3276,7 +3276,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-driver-vacancy/#respond">Leave
+										href="punjab-haryana-high-court-driver-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3287,7 +3287,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-translator-recruitment/"
+										href="patna-high-court-translator-recruitment/"
 										rel="bookmark">Patna High Court Translator Recruitment 2022 Apply Now 39
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3296,7 +3296,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3310,7 +3310,7 @@
 									website Patna High &#8230; <a
 										title="Patna High Court Translator Recruitment 2022 Apply Now 39 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-translator-recruitment/"
+										href="patna-high-court-translator-recruitment/"
 										aria-label="More on Patna High Court Translator Recruitment 2022 Apply Now 39 Post">Read
 										more</a></p>
 							</div>
@@ -3321,10 +3321,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3334,7 +3334,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-translator-recruitment/#respond">Leave
+										href="patna-high-court-translator-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3345,7 +3345,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-district-judge-apply-online/"
+										href="mp-high-court-district-judge-apply-online/"
 										rel="bookmark">MP High Court District Judge Recruitment 2022 Apply Now 65
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3354,7 +3354,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3367,7 +3367,7 @@
 									candidates who are interested in MP High Court Recruitment 2022 apply online through
 									&#8230; <a title="MP High Court District Judge Recruitment 2022 Apply Now 65 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-district-judge-apply-online/"
+										href="mp-high-court-district-judge-apply-online/"
 										aria-label="More on MP High Court District Judge Recruitment 2022 Apply Now 65 Post">Read
 										more</a></p>
 							</div>
@@ -3378,10 +3378,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3391,7 +3391,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-district-judge-apply-online/#respond">Leave
+										href="mp-high-court-district-judge-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3402,7 +3402,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-online-form/"
+										href="ap-high-court-online-form/"
 										rel="bookmark">AP High Court Recruitment 2022 Apply Personal Secretaries 76
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3411,7 +3411,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3425,7 +3425,7 @@
 									High Court Recruitment 2022 &#8230; <a
 										title="AP High Court Recruitment 2022 Apply Personal Secretaries 76 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-online-form/"
+										href="ap-high-court-online-form/"
 										aria-label="More on AP High Court Recruitment 2022 Apply Personal Secretaries 76 Post">Read
 										more</a></p>
 							</div>
@@ -3436,10 +3436,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3449,7 +3449,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-online-form/#respond">Leave a
+										href="ap-high-court-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3460,7 +3460,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-district-judge-recruitment/"
+										href="karnataka-high-court-district-judge-recruitment/"
 										rel="bookmark">Karnataka High Court District Judge Recruitment 2022 Apply 16
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3469,7 +3469,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3483,7 +3483,7 @@
 									apply online through &#8230; <a
 										title="Karnataka High Court District Judge Recruitment 2022 Apply 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-district-judge-recruitment/"
+										href="karnataka-high-court-district-judge-recruitment/"
 										aria-label="More on Karnataka High Court District Judge Recruitment 2022 Apply 16 Post">Read
 										more</a></p>
 							</div>
@@ -3494,10 +3494,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3507,7 +3507,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-district-judge-recruitment/#respond">Leave
+										href="karnataka-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3518,7 +3518,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-deo-recruitment/"
+										href="bombay-high-court-deo-recruitment/"
 										rel="bookmark">Bombay High Court DEO Recruitment 2022 Date Entry Operator 76
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3527,7 +3527,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3541,7 +3541,7 @@
 									Benches at Aurangabad and Nagpur at 76 Posts &#8230; <a
 										title="Bombay High Court DEO Recruitment 2022 Date Entry Operator 76 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-deo-recruitment/"
+										href="bombay-high-court-deo-recruitment/"
 										aria-label="More on Bombay High Court DEO Recruitment 2022 Date Entry Operator 76 Post">Read
 										more</a></p>
 							</div>
@@ -3552,10 +3552,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3565,7 +3565,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-deo-recruitment/#respond">Leave
+										href="bombay-high-court-deo-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3576,7 +3576,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-high-court-notification/"
+										href="delhi-high-court-notification/"
 										rel="bookmark">Delhi High Court Photocopy Machine Operator Recruitment 2022
 										Apply Now</a></h2>
 								<div class="entry-meta">
@@ -3586,7 +3586,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3600,7 +3600,7 @@
 									Delhi High &#8230; <a
 										title="Delhi High Court Photocopy Machine Operator Recruitment 2022 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-high-court-notification/"
+										href="delhi-high-court-notification/"
 										aria-label="More on Delhi High Court Photocopy Machine Operator Recruitment 2022 Apply Now">Read
 										more</a></p>
 							</div>
@@ -3611,10 +3611,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3624,7 +3624,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-high-court-notification/#comments">1
+										href="delhi-high-court-notification/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -3635,7 +3635,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-law-researcher-recruitment/"
+										href="odisha-high-court-law-researcher-recruitment/"
 										rel="bookmark">Odisha High Court Law Researcher Recruitment 2022 Application
 										Form</a></h2>
 								<div class="entry-meta">
@@ -3644,7 +3644,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3658,7 +3658,7 @@
 									online through &#8230; <a
 										title="Odisha High Court Law Researcher Recruitment 2022 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-law-researcher-recruitment/"
+										href="odisha-high-court-law-researcher-recruitment/"
 										aria-label="More on Odisha High Court Law Researcher Recruitment 2022 Application Form">Read
 										more</a></p>
 							</div>
@@ -3669,10 +3669,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3682,7 +3682,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-law-researcher-recruitment/#respond">Leave
+										href="odisha-high-court-law-researcher-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3693,7 +3693,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-legal-assistant-recruitment/"
+										href="mp-high-court-legal-assistant-recruitment/"
 										rel="bookmark">MP High Court Legal Assistant Recruitment 2022 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3701,7 +3701,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3715,7 +3715,7 @@
 									Assistant Recruitment 2022 apply through the &#8230; <a
 										title="MP High Court Legal Assistant Recruitment 2022 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-legal-assistant-recruitment/"
+										href="mp-high-court-legal-assistant-recruitment/"
 										aria-label="More on MP High Court Legal Assistant Recruitment 2022 Apply Now">Read
 										more</a></p>
 							</div>
@@ -3726,10 +3726,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3739,7 +3739,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-legal-assistant-recruitment/#respond">Leave
+										href="mp-high-court-legal-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3750,7 +3750,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-high-court-clerk-recruitment/"
+										href="chandigarh-high-court-clerk-recruitment/"
 										rel="bookmark">Chandigarh High Court Clerk Recruitment 2022 Apply Now 12
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3759,7 +3759,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3773,7 +3773,7 @@
 									sssc.gov.in through the &#8230; <a
 										title="Chandigarh High Court Clerk Recruitment 2022 Apply Now 12 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-high-court-clerk-recruitment/"
+										href="chandigarh-high-court-clerk-recruitment/"
 										aria-label="More on Chandigarh High Court Clerk Recruitment 2022 Apply Now 12 Post">Read
 										more</a></p>
 							</div>
@@ -3784,10 +3784,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3797,7 +3797,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-high-court-clerk-recruitment/#respond">Leave
+										href="chandigarh-high-court-clerk-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3808,7 +3808,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-high-court-vacancy/" rel="bookmark">JK
+										href="jk-high-court-vacancy/" rel="bookmark">JK
 										High Court Recruitment 2022 Steno, Assistant, Operator 30 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3816,7 +3816,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3829,7 +3829,7 @@
 									20222 of Stenographers, Junior Assistant, Developer, and Computer Operator vacancies
 									at 30 posts in JK High Court Jobs. Those &#8230; <a
 										title="JK High Court Recruitment 2022 Steno, Assistant, Operator 30 Post"
-										class="read-more" href="https://www.sarkariresult.app/jk-high-court-vacancy/"
+										class="read-more" href="jk-high-court-vacancy/"
 										aria-label="More on JK High Court Recruitment 2022 Steno, Assistant, Operator 30 Post">Read
 										more</a></p>
 							</div>
@@ -3840,10 +3840,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3853,7 +3853,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-high-court-vacancy/#respond">Leave a
+										href="jk-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3864,7 +3864,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-higher-judicial-service-exam-2022-notification/"
+										href="delhi-higher-judicial-service-exam-2022-notification/"
 										rel="bookmark">Delhi High Court Judicial Service Mains Result 2022 Release Merit
 										List</a></h2>
 								<div class="entry-meta">
@@ -3873,7 +3873,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3887,7 +3887,7 @@
 									2022 Result &#8230; <a
 										title="Delhi High Court Judicial Service Mains Result 2022 Release Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-higher-judicial-service-exam-2022-notification/"
+										href="delhi-higher-judicial-service-exam-2022-notification/"
 										aria-label="More on Delhi High Court Judicial Service Mains Result 2022 Release Merit List">Read
 										more</a></p>
 							</div>
@@ -3898,10 +3898,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3910,7 +3910,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-higher-judicial-service-exam-2022-notification/#respond">Leave
+										href="delhi-higher-judicial-service-exam-2022-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3921,7 +3921,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/manipur-high-court-vacancy/"
+										href="manipur-high-court-vacancy/"
 										rel="bookmark">Manipur High Court Recruitment 2022 Computer Assistant 10
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3931,7 +3931,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3945,7 +3945,7 @@
 									through the Manipur &#8230; <a
 										title="Manipur High Court Recruitment 2022 Computer Assistant 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/manipur-high-court-vacancy/"
+										href="manipur-high-court-vacancy/"
 										aria-label="More on Manipur High Court Recruitment 2022 Computer Assistant 10 Post">Read
 										more</a></p>
 							</div>
@@ -3956,10 +3956,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3969,7 +3969,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/manipur-high-court-vacancy/#respond">Leave a
+										href="manipur-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3980,7 +3980,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-chauffeur-recruitment/"
+										href="kerala-high-court-chauffeur-recruitment/"
 										rel="bookmark">Kerala High Court Recruitment 2022 Chauffeur, Translator 38
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3990,7 +3990,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4004,7 +4004,7 @@
 									Jobs. Those candidates who are interested in Kerala &#8230; <a
 										title="Kerala High Court Recruitment 2022 Chauffeur, Translator 38 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-chauffeur-recruitment/"
+										href="kerala-high-court-chauffeur-recruitment/"
 										aria-label="More on Kerala High Court Recruitment 2022 Chauffeur, Translator 38 Post">Read
 										more</a></p>
 							</div>
@@ -4015,10 +4015,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4028,7 +4028,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-chauffeur-recruitment/#comments">3
+										href="kerala-high-court-chauffeur-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4039,7 +4039,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-group-d-recruitment/"
+										href="karnataka-high-court-group-d-recruitment/"
 										rel="bookmark">Karnataka High Court Recruitment 2022 Apply 129 Group D Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4048,7 +4048,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4062,7 +4062,7 @@
 									Residual Parent Cadre Vacancy at 129 Posts &#8230; <a
 										title="Karnataka High Court Recruitment 2022 Apply 129 Group D Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-group-d-recruitment/"
+										href="karnataka-high-court-group-d-recruitment/"
 										aria-label="More on Karnataka High Court Recruitment 2022 Apply 129 Group D Post">Read
 										more</a></p>
 							</div>
@@ -4073,10 +4073,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4086,7 +4086,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-group-d-recruitment/#respond">Leave
+										href="karnataka-high-court-group-d-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4097,7 +4097,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-clerk-recruitment/"
+										href="punjab-haryana-high-court-clerk-recruitment/"
 										rel="bookmark">Punjab Haryana High Court Clerk Recruitment 2022 Apply 759
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4107,7 +4107,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4121,7 +4121,7 @@
 									apply online to punjabharyanahigh.courtrecruitment.com through &#8230; <a
 										title="Punjab Haryana High Court Clerk Recruitment 2022 Apply 759 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-clerk-recruitment/"
+										href="punjab-haryana-high-court-clerk-recruitment/"
 										aria-label="More on Punjab Haryana High Court Clerk Recruitment 2022 Apply 759 Post">Read
 										more</a></p>
 							</div>
@@ -4132,10 +4132,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4145,7 +4145,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-clerk-recruitment/#comments">1
+										href="punjab-haryana-high-court-clerk-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4156,7 +4156,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-typist-recruitment/"
+										href="telangana-high-court-typist-recruitment/"
 										rel="bookmark">Telangana High Court Typist Recruitment 2022 Apply 85 Copyist
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4165,7 +4165,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4179,7 +4179,7 @@
 									apply online to telanganahigh.courtrecruitment.com through &#8230; <a
 										title="Telangana High Court Typist Recruitment 2022 Apply 85 Copyist Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-typist-recruitment/"
+										href="telangana-high-court-typist-recruitment/"
 										aria-label="More on Telangana High Court Typist Recruitment 2022 Apply 85 Copyist Post">Read
 										more</a></p>
 							</div>
@@ -4190,10 +4190,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4203,7 +4203,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-typist-recruitment/#respond">Leave
+										href="telangana-high-court-typist-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4214,7 +4214,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-jobs/"
+										href="madras-high-court-jobs/"
 										rel="bookmark">Madras High Court Recruitment 2022 Process Server, Driver 1412
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4224,7 +4224,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4237,7 +4237,7 @@
 									High Court recruitment 2022 of Examiner, Reader, Senior Bailiff, Junior Bailiff,
 									Process Server, Process Writer, Xerox Operator, Lift Operator, Driver &#8230; <a
 										title="Madras High Court Recruitment 2022 Process Server, Driver 1412 Post"
-										class="read-more" href="https://www.sarkariresult.app/madras-high-court-jobs/"
+										class="read-more" href="madras-high-court-jobs/"
 										aria-label="More on Madras High Court Recruitment 2022 Process Server, Driver 1412 Post">Read
 										more</a></p>
 							</div>
@@ -4248,10 +4248,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4261,7 +4261,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-jobs/#respond">Leave a
+										href="madras-high-court-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4272,7 +4272,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-vacancy/"
+										href="telangana-high-court-vacancy/"
 										rel="bookmark">Telangana High Court Recruitment 2022 Personal Secretaries 65
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4282,7 +4282,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4296,7 +4296,7 @@
 									Telangana High Court Recruitment 2022 apply online &#8230; <a
 										title="Telangana High Court Recruitment 2022 Personal Secretaries 65 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-vacancy/"
+										href="telangana-high-court-vacancy/"
 										aria-label="More on Telangana High Court Recruitment 2022 Personal Secretaries 65 Post">Read
 										more</a></p>
 							</div>
@@ -4307,10 +4307,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4320,7 +4320,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-vacancy/#respond">Leave
+										href="telangana-high-court-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4331,7 +4331,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-library-assistant-recruitment/"
+										href="patna-high-court-library-assistant-recruitment/"
 										rel="bookmark">Patna High Court Library Assistant Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -4341,7 +4341,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4355,7 +4355,7 @@
 									official website Patna High Court &#8230; <a
 										title="Patna High Court Library Assistant Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-library-assistant-recruitment/"
+										href="patna-high-court-library-assistant-recruitment/"
 										aria-label="More on Patna High Court Library Assistant Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -4366,10 +4366,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4379,7 +4379,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-library-assistant-recruitment/#respond">Leave
+										href="patna-high-court-library-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4390,7 +4390,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-recruitment/"
+										href="ap-high-court-recruitment/"
 										rel="bookmark">AP High Court Recruitment 2022 Apply Personal Secretary Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4400,7 +4400,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4414,7 +4414,7 @@
 									online through the &#8230; <a
 										title="AP High Court Recruitment 2022 Apply Personal Secretary Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-recruitment/"
+										href="ap-high-court-recruitment/"
 										aria-label="More on AP High Court Recruitment 2022 Apply Personal Secretary Post">Read
 										more</a></p>
 							</div>
@@ -4425,10 +4425,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4438,7 +4438,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-recruitment/#respond">Leave a
+										href="ap-high-court-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4449,7 +4449,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-high-court-gr-iii-recruitment/"
+										href="tripura-high-court-gr-iii-recruitment/"
 										rel="bookmark">Tripura High Court Recruitment 2022 Apply Online Gr III 11
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4459,7 +4459,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4473,7 +4473,7 @@
 									interested &#8230; <a
 										title="Tripura High Court Recruitment 2022 Apply Online Gr III 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-high-court-gr-iii-recruitment/"
+										href="tripura-high-court-gr-iii-recruitment/"
 										aria-label="More on Tripura High Court Recruitment 2022 Apply Online Gr III 11 Post">Read
 										more</a></p>
 							</div>
@@ -4484,10 +4484,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4497,7 +4497,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-high-court-gr-iii-recruitment/#respond">Leave
+										href="tripura-high-court-gr-iii-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4508,7 +4508,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-vacancy/"
+										href="odisha-high-court-vacancy/"
 										rel="bookmark">Odisha High Court Recruitment 2022 Apply Stenographer 22 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4518,7 +4518,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4532,7 +4532,7 @@
 									online to orissahigh.courtrecruitment.com through the Odisha &#8230; <a
 										title="Odisha High Court Recruitment 2022 Apply Stenographer 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-vacancy/"
+										href="odisha-high-court-vacancy/"
 										aria-label="More on Odisha High Court Recruitment 2022 Apply Stenographer 22 Post">Read
 										more</a></p>
 							</div>
@@ -4543,10 +4543,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4556,7 +4556,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-vacancy/#respond">Leave a
+										href="odisha-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4567,7 +4567,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/meghalaya-high-court-jaa-recruitment/"
+										href="meghalaya-high-court-jaa-recruitment/"
 										rel="bookmark">Meghalaya High Court Recruitment 2022 JAA, Steno, Mali 13
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4577,7 +4577,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4592,7 +4592,7 @@
 									interested in &#8230; <a
 										title="Meghalaya High Court Recruitment 2022 JAA, Steno, Mali 13 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/meghalaya-high-court-jaa-recruitment/"
+										href="meghalaya-high-court-jaa-recruitment/"
 										aria-label="More on Meghalaya High Court Recruitment 2022 JAA, Steno, Mali 13 Post">Read
 										more</a></p>
 							</div>
@@ -4603,10 +4603,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4616,7 +4616,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/meghalaya-high-court-jaa-recruitment/#respond">Leave
+										href="meghalaya-high-court-jaa-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4627,7 +4627,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-job/"
+										href="gujarat-high-court-job/"
 										rel="bookmark">Gujarat High Court Private Secretary Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -4637,7 +4637,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4650,7 +4650,7 @@
 									interested in Gujarat High Court Private Secretary Recruitment 2022 apply online to
 									gujarathigh.courtrecruitment.com through the Gujarat &#8230; <a
 										title="Gujarat High Court Private Secretary Recruitment 2022 Apply Online"
-										class="read-more" href="https://www.sarkariresult.app/gujarat-high-court-job/"
+										class="read-more" href="gujarat-high-court-job/"
 										aria-label="More on Gujarat High Court Private Secretary Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -4661,10 +4661,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4674,7 +4674,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-job/#respond">Leave a
+										href="gujarat-high-court-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4685,7 +4685,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-sto-recruitment/"
+										href="gauhati-high-court-sto-recruitment/"
 										rel="bookmark">Gauhati High Court Recruitment 2022 Apply Online 15 STO Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4695,7 +4695,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4709,7 +4709,7 @@
 									Recruitment 2022 apply online &#8230; <a
 										title="Gauhati High Court Recruitment 2022 Apply Online 15 STO Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-sto-recruitment/"
+										href="gauhati-high-court-sto-recruitment/"
 										aria-label="More on Gauhati High Court Recruitment 2022 Apply Online 15 STO Post">Read
 										more</a></p>
 							</div>
@@ -4720,10 +4720,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4733,7 +4733,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-sto-recruitment/#respond">Leave
+										href="gauhati-high-court-sto-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4744,7 +4744,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-civil-judge-jobs/"
+										href="karnataka-high-court-civil-judge-jobs/"
 										rel="bookmark">Karnataka High Court Civil Judge Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -4753,7 +4753,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4767,7 +4767,7 @@
 									to karnatakahigh.courtrecruitment.com through the &#8230; <a
 										title="Karnataka High Court Civil Judge Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-civil-judge-jobs/"
+										href="karnataka-high-court-civil-judge-jobs/"
 										aria-label="More on Karnataka High Court Civil Judge Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -4778,10 +4778,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4791,7 +4791,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-civil-judge-jobs/#respond">Leave
+										href="karnataka-high-court-civil-judge-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4802,7 +4802,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-district-judge-recruitment/"
+										href="gujarat-high-court-district-judge-recruitment/"
 										rel="bookmark">Gujarat High Court District Judge Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -4812,7 +4812,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4826,7 +4826,7 @@
 									apply online to gujarathigh.courtrecruitment.com &#8230; <a
 										title="Gujarat High Court District Judge Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-district-judge-recruitment/"
+										href="gujarat-high-court-district-judge-recruitment/"
 										aria-label="More on Gujarat High Court District Judge Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -4837,10 +4837,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4850,7 +4850,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-district-judge-recruitment/#respond">Leave
+										href="gujarat-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4861,7 +4861,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-district-judge-vacancy/"
+										href="telangana-high-court-district-judge-vacancy/"
 										rel="bookmark">Telangana High Court Recruitment 2022 District Judge 13 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4871,7 +4871,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4885,7 +4885,7 @@
 									to telanganahigh.courtrecruitment.com through the &#8230; <a
 										title="Telangana High Court Recruitment 2022 District Judge 13 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-district-judge-vacancy/"
+										href="telangana-high-court-district-judge-vacancy/"
 										aria-label="More on Telangana High Court Recruitment 2022 District Judge 13 Posts">Read
 										more</a></p>
 							</div>
@@ -4896,10 +4896,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4909,7 +4909,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-district-judge-vacancy/#respond">Leave
+										href="telangana-high-court-district-judge-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4920,7 +4920,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-stenographer-jobs-apply/"
+										href="odisha-high-court-stenographer-jobs-apply/"
 										rel="bookmark">Odisha High Court Stenographer Recruitment 2022 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -4930,7 +4930,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4944,7 +4944,7 @@
 									online to orissahigh.courtrecruitment.com through the Odisha &#8230; <a
 										title="Odisha High Court Stenographer Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-stenographer-jobs-apply/"
+										href="odisha-high-court-stenographer-jobs-apply/"
 										aria-label="More on Odisha High Court Stenographer Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -4955,10 +4955,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4968,7 +4968,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-stenographer-jobs-apply/#respond">Leave
+										href="odisha-high-court-stenographer-jobs-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4979,7 +4979,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-high-court-vacancy/"
+										href="jharkhand-high-court-vacancy/"
 										rel="bookmark">Jharkhand High Court Recruitment 2022 District Judge Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4989,7 +4989,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5003,7 +5003,7 @@
 									to jharkhandhigh.courtrecruitment.com through the &#8230; <a
 										title="Jharkhand High Court Recruitment 2022 District Judge Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-high-court-vacancy/"
+										href="jharkhand-high-court-vacancy/"
 										aria-label="More on Jharkhand High Court Recruitment 2022 District Judge Posts">Read
 										more</a></p>
 							</div>
@@ -5014,10 +5014,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5027,7 +5027,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-high-court-vacancy/#respond">Leave
+										href="jharkhand-high-court-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5038,7 +5038,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/calcutta-high-court-stenographer-recruitment/"
+										href="calcutta-high-court-stenographer-recruitment/"
 										rel="bookmark">Calcutta High Court Stenographer Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -5048,7 +5048,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5062,7 +5062,7 @@
 									Recruitment 2022 apply online to &#8230; <a
 										title="Calcutta High Court Stenographer Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/calcutta-high-court-stenographer-recruitment/"
+										href="calcutta-high-court-stenographer-recruitment/"
 										aria-label="More on Calcutta High Court Stenographer Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -5073,10 +5073,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5086,7 +5086,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/calcutta-high-court-stenographer-recruitment/#respond">Leave
+										href="calcutta-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5097,7 +5097,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-driver-recruitment/"
+										href="bombay-high-court-driver-recruitment/"
 										rel="bookmark">Bombay High Court Driver Recruitment 2022 Apply Online 27
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5107,7 +5107,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5121,7 +5121,7 @@
 									online to &#8230; <a
 										title="Bombay High Court Driver Recruitment 2022 Apply Online 27 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-driver-recruitment/"
+										href="bombay-high-court-driver-recruitment/"
 										aria-label="More on Bombay High Court Driver Recruitment 2022 Apply Online 27 Post">Read
 										more</a></p>
 							</div>
@@ -5132,10 +5132,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5145,7 +5145,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-driver-recruitment/#comments">1
+										href="bombay-high-court-driver-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5156,7 +5156,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-job/"
+										href="karnataka-high-court-job/"
 										rel="bookmark">Karnataka High Court Recruitment 2022 Assistant Secretary 54
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5166,7 +5166,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5179,7 +5179,7 @@
 									Jobs. Those candidates who are interested in Karnataka High Court Recruitment 2022
 									apply online to karnatakahigh.courtrecruitment.com through the &#8230; <a
 										title="Karnataka High Court Recruitment 2022 Assistant Secretary 54 Post"
-										class="read-more" href="https://www.sarkariresult.app/karnataka-high-court-job/"
+										class="read-more" href="karnataka-high-court-job/"
 										aria-label="More on Karnataka High Court Recruitment 2022 Assistant Secretary 54 Post">Read
 										more</a></p>
 							</div>
@@ -5190,10 +5190,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5203,7 +5203,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-job/#respond">Leave a
+										href="karnataka-high-court-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5214,7 +5214,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-ja-recruitment/"
+										href="telangana-high-court-ja-recruitment/"
 										rel="bookmark">Telangana High Court Recruitment 2022 JA, Steno, Typist 592
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5224,7 +5224,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5239,7 +5239,7 @@
 									Assistant, Process &#8230; <a
 										title="Telangana High Court Recruitment 2022 JA, Steno, Typist 592 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-ja-recruitment/"
+										href="telangana-high-court-ja-recruitment/"
 										aria-label="More on Telangana High Court Recruitment 2022 JA, Steno, Typist 592 Post">Read
 										more</a></p>
 							</div>
@@ -5250,10 +5250,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5263,7 +5263,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-ja-recruitment/#respond">Leave
+										href="telangana-high-court-ja-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5274,7 +5274,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-group-c-recruitment/"
+										href="patna-high-court-group-c-recruitment/"
 										rel="bookmark">Patna High Court Group C Recruitment 2022 Apply Online 159
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5284,7 +5284,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5298,7 +5298,7 @@
 									Court Recruitment 2022 apply &#8230; <a
 										title="Patna High Court Group C Recruitment 2022 Apply Online 159 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-group-c-recruitment/"
+										href="patna-high-court-group-c-recruitment/"
 										aria-label="More on Patna High Court Group C Recruitment 2022 Apply Online 159 Post">Read
 										more</a></p>
 							</div>
@@ -5309,10 +5309,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5322,7 +5322,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-group-c-recruitment/#respond">Leave
+										href="patna-high-court-group-c-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5333,7 +5333,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-civil-judge-recruitment/"
+										href="gujarat-high-court-civil-judge-recruitment/"
 										rel="bookmark">Gujarat High Court Recruitment 2022 Apply Civil Judge 219
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5343,7 +5343,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5357,7 +5357,7 @@
 									gujarathigh.courtrecruitment.com &#8230; <a
 										title="Gujarat High Court Recruitment 2022 Apply Civil Judge 219 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-civil-judge-recruitment/"
+										href="gujarat-high-court-civil-judge-recruitment/"
 										aria-label="More on Gujarat High Court Recruitment 2022 Apply Civil Judge 219 Post">Read
 										more</a></p>
 							</div>
@@ -5368,10 +5368,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5381,7 +5381,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-civil-judge-recruitment/#respond">Leave
+										href="gujarat-high-court-civil-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5392,7 +5392,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-munsiff-magistrate-recruitment/"
+										href="kerala-high-court-munsiff-magistrate-recruitment/"
 										rel="bookmark">Kerala High Court Munsiff Magistrate Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -5402,7 +5402,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5416,7 +5416,7 @@
 									Court Munsiff Magistrate Recruitment &#8230; <a
 										title="Kerala High Court Munsiff Magistrate Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-munsiff-magistrate-recruitment/"
+										href="kerala-high-court-munsiff-magistrate-recruitment/"
 										aria-label="More on Kerala High Court Munsiff Magistrate Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -5427,10 +5427,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5440,7 +5440,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-munsiff-magistrate-recruitment/#respond">Leave
+										href="kerala-high-court-munsiff-magistrate-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5451,7 +5451,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/orissa-high-court-district-judge-recruitment/"
+										href="orissa-high-court-district-judge-recruitment/"
 										rel="bookmark">Orissa High Court Recruitment 2022 Apply District Judge 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5461,7 +5461,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5475,7 +5475,7 @@
 									apply online to orissahigh.courtrecruitment.com &#8230; <a
 										title="Orissa High Court Recruitment 2022 Apply District Judge 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/orissa-high-court-district-judge-recruitment/"
+										href="orissa-high-court-district-judge-recruitment/"
 										aria-label="More on Orissa High Court Recruitment 2022 Apply District Judge 19 Post">Read
 										more</a></p>
 							</div>
@@ -5486,10 +5486,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5499,7 +5499,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/orissa-high-court-district-judge-recruitment/#respond">Leave
+										href="orissa-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5510,7 +5510,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-civil-judge-recruitment/"
+										href="mp-high-court-civil-judge-recruitment/"
 										rel="bookmark">MP High Court Civil Judge Recruitment 2022 Apply 123 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5520,7 +5520,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5533,7 +5533,7 @@
 									are interested in MP High Court Civil Judge Bharti 2022 apply online to &#8230; <a
 										title="MP High Court Civil Judge Recruitment 2022 Apply 123 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-civil-judge-recruitment/"
+										href="mp-high-court-civil-judge-recruitment/"
 										aria-label="More on MP High Court Civil Judge Recruitment 2022 Apply 123 Posts">Read
 										more</a></p>
 							</div>
@@ -5544,10 +5544,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5557,7 +5557,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-civil-judge-recruitment/#respond">Leave
+										href="mp-high-court-civil-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5568,7 +5568,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-vacancy/"
+										href="punjab-haryana-high-court-stenographer-vacancy/"
 										rel="bookmark">Punjab Haryana High Court Stenographer Recruitment 2022</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-01-15T23:55:02+05:30"
@@ -5577,7 +5577,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5591,7 +5591,7 @@
 									Court Recruitment 2022 apply online the highcourtchd.gov.in &#8230; <a
 										title="Punjab Haryana High Court Stenographer Recruitment 2022"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-vacancy/"
+										href="punjab-haryana-high-court-stenographer-vacancy/"
 										aria-label="More on Punjab Haryana High Court Stenographer Recruitment 2022">Read
 										more</a></p>
 							</div>
@@ -5602,10 +5602,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5615,7 +5615,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-vacancy/#respond">Leave
+										href="punjab-haryana-high-court-stenographer-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5626,7 +5626,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-steno-typist-recruitment/"
+										href="punjab-haryana-high-court-steno-typist-recruitment/"
 										rel="bookmark">Punjab Haryana High Court Steno Typist Recruitment 2022 Apply</a>
 								</h2>
 								<div class="entry-meta">
@@ -5636,7 +5636,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5650,7 +5650,7 @@
 									highcourtchd.gov.in rough &#8230; <a
 										title="Punjab Haryana High Court Steno Typist Recruitment 2022 Apply"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-steno-typist-recruitment/"
+										href="punjab-haryana-high-court-steno-typist-recruitment/"
 										aria-label="More on Punjab Haryana High Court Steno Typist Recruitment 2022 Apply">Read
 										more</a></p>
 							</div>
@@ -5661,10 +5661,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5674,7 +5674,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-steno-typist-recruitment/#respond">Leave
+										href="punjab-haryana-high-court-steno-typist-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5685,7 +5685,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-recruitment-apply/"
+										href="bombay-high-court-recruitment-apply/"
 										rel="bookmark">Bombay High Court Recruitment 2022 Apply Online Clerk 247
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -5695,7 +5695,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5709,7 +5709,7 @@
 									bombayhigh.courtrecruitment.com through the Bombay &#8230; <a
 										title="Bombay High Court Recruitment 2022 Apply Online Clerk 247 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-recruitment-apply/"
+										href="bombay-high-court-recruitment-apply/"
 										aria-label="More on Bombay High Court Recruitment 2022 Apply Online Clerk 247 Posts">Read
 										more</a></p>
 							</div>
@@ -5720,10 +5720,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5733,7 +5733,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-recruitment-apply/#respond">Leave
+										href="bombay-high-court-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5744,7 +5744,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-vacancy/" rel="bookmark">MP
+										href="mp-high-court-vacancy/" rel="bookmark">MP
 										High Court Recruitment 2021 Steno &#038; Assistant 1255 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-12-30T23:55:24+05:30"
@@ -5753,7 +5753,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5766,7 +5766,7 @@
 									Grade III Vacancy at 1255 posts in MP High Court Jobs. Those candidates who are
 									interested in &#8230; <a
 										title="MP High Court Recruitment 2021 Steno &#038; Assistant 1255 Posts"
-										class="read-more" href="https://www.sarkariresult.app/mp-high-court-vacancy/"
+										class="read-more" href="mp-high-court-vacancy/"
 										aria-label="More on MP High Court Recruitment 2021 Steno &#038; Assistant 1255 Posts">Read
 										more</a></p>
 							</div>
@@ -5777,10 +5777,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5790,7 +5790,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-vacancy/#respond">Leave a
+										href="mp-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5801,7 +5801,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-job-vacancy/"
+										href="karnataka-high-court-job-vacancy/"
 										rel="bookmark">Karnataka High Court Recruitment 2021 District Judge Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5811,7 +5811,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5825,7 +5825,7 @@
 									apply online to &#8230; <a
 										title="Karnataka High Court Recruitment 2021 District Judge Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-job-vacancy/"
+										href="karnataka-high-court-job-vacancy/"
 										aria-label="More on Karnataka High Court Recruitment 2021 District Judge Posts">Read
 										more</a></p>
 							</div>
@@ -5836,10 +5836,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5849,7 +5849,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-job-vacancy/#respond">Leave
+										href="karnataka-high-court-job-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5860,7 +5860,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-recruitment/"
+										href="punjab-haryana-high-court-stenographer-recruitment/"
 										rel="bookmark">Punjab Haryana High Court Steno Result 2021 Online Check Merit
 										List</a></h2>
 								<div class="entry-meta">
@@ -5869,7 +5869,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5884,7 +5884,7 @@
 									2021 from here. &#8230; <a
 										title="Punjab Haryana High Court Steno Result 2021 Online Check Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-recruitment/"
+										href="punjab-haryana-high-court-stenographer-recruitment/"
 										aria-label="More on Punjab Haryana High Court Steno Result 2021 Online Check Merit List">Read
 										more</a></p>
 							</div>
@@ -5895,10 +5895,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5908,7 +5908,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-stenographer-recruitment/#respond">Leave
+										href="punjab-haryana-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5919,7 +5919,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-district-judge-recruitment-apply/"
+										href="patna-high-court-district-judge-recruitment-apply/"
 										rel="bookmark">Patna High Court District Judge Recruitment 2022 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -5929,7 +5929,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5943,7 +5943,7 @@
 									patnahigh.courtrecruitment.com of the Patna High Court Jobs &#8230; <a
 										title="Patna High Court District Judge Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-district-judge-recruitment-apply/"
+										href="patna-high-court-district-judge-recruitment-apply/"
 										aria-label="More on Patna High Court District Judge Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -5954,10 +5954,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5967,7 +5967,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-district-judge-recruitment-apply/#respond">Leave
+										href="patna-high-court-district-judge-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5978,7 +5978,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-typist-recruitment/"
+										href="karnataka-high-court-typist-recruitment/"
 										rel="bookmark">Karnataka High Court Typist Recruitment 2021 Apply Now 150
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5988,7 +5988,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6002,7 +6002,7 @@
 									karnatakahigh.courtrecruitment.com through the &#8230; <a
 										title="Karnataka High Court Typist Recruitment 2021 Apply Now 150 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-typist-recruitment/"
+										href="karnataka-high-court-typist-recruitment/"
 										aria-label="More on Karnataka High Court Typist Recruitment 2021 Apply Now 150 Post">Read
 										more</a></p>
 							</div>
@@ -6013,10 +6013,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6026,7 +6026,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-typist-recruitment/#respond">Leave
+										href="karnataka-high-court-typist-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6037,7 +6037,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-class-iv-recruitment/"
+										href="mp-high-court-class-iv-recruitment/"
 										rel="bookmark">MP High Court Class IV Recruitment 2021 Apply Online 708 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6047,7 +6047,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6060,7 +6060,7 @@
 									Class IV (Driver, Mentor / Watchman / Water Carrier, Mali &amp; Sweeper) Vacancy at
 									708 &#8230; <a title="MP High Court Class IV Recruitment 2021 Apply Online 708 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-class-iv-recruitment/"
+										href="mp-high-court-class-iv-recruitment/"
 										aria-label="More on MP High Court Class IV Recruitment 2021 Apply Online 708 Post">Read
 										more</a></p>
 							</div>
@@ -6071,10 +6071,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6084,7 +6084,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-class-iv-recruitment/#respond">Leave
+										href="mp-high-court-class-iv-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6095,7 +6095,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-law-clerk-recruitment/"
+										href="ap-high-court-law-clerk-recruitment/"
 										rel="bookmark">AP High Court Law Clerk Recruitment 2021 Apply Online 20
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6105,7 +6105,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6118,7 +6118,7 @@
 									candidates to apply online for the posts of AP High Court Jobs through &#8230; <a
 										title="AP High Court Law Clerk Recruitment 2021 Apply Online 20 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-law-clerk-recruitment/"
+										href="ap-high-court-law-clerk-recruitment/"
 										aria-label="More on AP High Court Law Clerk Recruitment 2021 Apply Online 20 Posts">Read
 										more</a></p>
 							</div>
@@ -6129,10 +6129,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6142,7 +6142,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-law-clerk-recruitment/#comments">1
+										href="ap-high-court-law-clerk-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6153,7 +6153,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-high-court-pa-recruitment/"
+										href="tripura-high-court-pa-recruitment/"
 										rel="bookmark">Tripura High Court Recruitment 2021 Personal Assistant 14
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6163,7 +6163,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6177,7 +6177,7 @@
 									recruitment 2021 of Personal Assistant &#8230; <a
 										title="Tripura High Court Recruitment 2021 Personal Assistant 14 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-high-court-pa-recruitment/"
+										href="tripura-high-court-pa-recruitment/"
 										aria-label="More on Tripura High Court Recruitment 2021 Personal Assistant 14 Posts">Read
 										more</a></p>
 							</div>
@@ -6188,10 +6188,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6201,7 +6201,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-high-court-pa-recruitment/#respond">Leave
+										href="tripura-high-court-pa-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6212,7 +6212,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-high-court-clerk-recruitment/"
+										href="hp-high-court-clerk-recruitment/"
 										rel="bookmark">HP High Court Clerk Recruitment 2021 Apply Class-II &#038; III 23
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6222,7 +6222,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6236,7 +6236,7 @@
 									Those candidates who are &#8230; <a
 										title="HP High Court Clerk Recruitment 2021 Apply Class-II &#038; III 23 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-high-court-clerk-recruitment/"
+										href="hp-high-court-clerk-recruitment/"
 										aria-label="More on HP High Court Clerk Recruitment 2021 Apply Class-II &#038; III 23 Post">Read
 										more</a></p>
 							</div>
@@ -6247,10 +6247,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6260,7 +6260,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-high-court-clerk-recruitment/#comments">1
+										href="hp-high-court-clerk-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6271,7 +6271,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-vacancy/"
+										href="gauhati-high-court-vacancy/"
 										rel="bookmark">Gauhati High Court Recruitment 2021 Apply LDA, Copyist 227
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6281,7 +6281,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6295,7 +6295,7 @@
 									High Court Jobs Vacancy at 227 posts &#8230; <a
 										title="Gauhati High Court Recruitment 2021 Apply LDA, Copyist 227 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-vacancy/"
+										href="gauhati-high-court-vacancy/"
 										aria-label="More on Gauhati High Court Recruitment 2021 Apply LDA, Copyist 227 Post">Read
 										more</a></p>
 							</div>
@@ -6306,10 +6306,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6319,7 +6319,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-vacancy/#respond">Leave a
+										href="gauhati-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6330,7 +6330,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sikkim-high-court-group-c-d-recruitment/"
+										href="sikkim-high-court-group-c-d-recruitment/"
 										rel="bookmark">Sikkim High Court Group C &#038; D Recruitment 2021 Application
 										Form</a></h2>
 								<div class="entry-meta">
@@ -6340,7 +6340,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6354,7 +6354,7 @@
 									Chowkidar, Sevak/ Cook, Attendant/Residential &#8230; <a
 										title="Sikkim High Court Group C &#038; D Recruitment 2021 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/sikkim-high-court-group-c-d-recruitment/"
+										href="sikkim-high-court-group-c-d-recruitment/"
 										aria-label="More on Sikkim High Court Group C &#038; D Recruitment 2021 Application Form">Read
 										more</a></p>
 							</div>
@@ -6365,10 +6365,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6378,7 +6378,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sikkim-high-court-group-c-d-recruitment/#respond">Leave
+										href="sikkim-high-court-group-c-d-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6389,7 +6389,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-aps-recruitment/"
+										href="allahabad-high-court-aps-recruitment/"
 										rel="bookmark">Allahabad High Court APS Recruitment 2021 Apply Online 68
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6399,7 +6399,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6413,7 +6413,7 @@
 									online the allahabadhigh.courtrecruitment.com rough the official website &#8230; <a
 										title="Allahabad High Court APS Recruitment 2021 Apply Online 68 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-aps-recruitment/"
+										href="allahabad-high-court-aps-recruitment/"
 										aria-label="More on Allahabad High Court APS Recruitment 2021 Apply Online 68 Post">Read
 										more</a></p>
 							</div>
@@ -6424,10 +6424,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6437,7 +6437,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-aps-recruitment/#respond">Leave
+										href="allahabad-high-court-aps-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6448,7 +6448,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-assistant-recruitment/"
+										href="ap-high-court-assistant-recruitment/"
 										rel="bookmark">AP High Court Assistant Recruitment 2021 Apply Online 174
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6458,7 +6458,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6472,7 +6472,7 @@
 									for the posts of AP High Court &#8230; <a
 										title="AP High Court Assistant Recruitment 2021 Apply Online 174 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-assistant-recruitment/"
+										href="ap-high-court-assistant-recruitment/"
 										aria-label="More on AP High Court Assistant Recruitment 2021 Apply Online 174 Post">Read
 										more</a></p>
 							</div>
@@ -6483,10 +6483,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6496,7 +6496,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-assistant-recruitment/#respond">Leave
+										href="ap-high-court-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6507,7 +6507,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-law-clerk-jobs/"
+										href="gauhati-high-court-law-clerk-jobs/"
 										rel="bookmark">Gauhati High Court Law Clerk Recruitment 2021 Apply Now 12
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6517,7 +6517,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6531,7 +6531,7 @@
 									website Gauhati High Court Jobs &#8230; <a
 										title="Gauhati High Court Law Clerk Recruitment 2021 Apply Now 12 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-law-clerk-jobs/"
+										href="gauhati-high-court-law-clerk-jobs/"
 										aria-label="More on Gauhati High Court Law Clerk Recruitment 2021 Apply Now 12 Post">Read
 										more</a></p>
 							</div>
@@ -6542,10 +6542,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6555,7 +6555,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-law-clerk-jobs/#respond">Leave
+										href="gauhati-high-court-law-clerk-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6566,7 +6566,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-sda-recruitment/"
+										href="karnataka-high-court-sda-recruitment/"
 										rel="bookmark">Karnataka High Court SDA Recruitment 2021 Apply Online 142
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6575,7 +6575,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6589,7 +6589,7 @@
 									official website Karnataka High Court &#8230; <a
 										title="Karnataka High Court SDA Recruitment 2021 Apply Online 142 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-sda-recruitment/"
+										href="karnataka-high-court-sda-recruitment/"
 										aria-label="More on Karnataka High Court SDA Recruitment 2021 Apply Online 142 Post">Read
 										more</a></p>
 							</div>
@@ -6600,10 +6600,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6613,7 +6613,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-sda-recruitment/#respond">Leave
+										href="karnataka-high-court-sda-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6624,7 +6624,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-system-assistant-recruitment/"
+										href="gujarat-high-court-system-assistant-recruitment/"
 										rel="bookmark">Gujarat High Court System Assistant Recruitment 2021 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -6633,7 +6633,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6647,7 +6647,7 @@
 									to apply online for the posts of Gujarat High Court &#8230; <a
 										title="Gujarat High Court System Assistant Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-system-assistant-recruitment/"
+										href="gujarat-high-court-system-assistant-recruitment/"
 										aria-label="More on Gujarat High Court System Assistant Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -6658,10 +6658,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6671,7 +6671,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-system-assistant-recruitment/#respond">Leave
+										href="gujarat-high-court-system-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6682,7 +6682,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-stenographer-recruitment/"
+										href="odisha-high-court-stenographer-recruitment/"
 										rel="bookmark">Odisha High Court Stenographer Recruitment 2021 Apply Online 29
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6691,7 +6691,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6705,7 +6705,7 @@
 									Portal of the Odisha High Court from 3 August &#8230; <a
 										title="Odisha High Court Stenographer Recruitment 2021 Apply Online 29 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-stenographer-recruitment/"
+										href="odisha-high-court-stenographer-recruitment/"
 										aria-label="More on Odisha High Court Stenographer Recruitment 2021 Apply Online 29 Post">Read
 										more</a></p>
 							</div>
@@ -6716,10 +6716,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6729,7 +6729,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-stenographer-recruitment/#respond">Leave
+										href="odisha-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6740,7 +6740,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-office-asst-recruitment/"
+										href="madras-high-court-office-asst-recruitment/"
 										rel="bookmark">Madras High Court Office Asst Admit Card 2021 Link MHC Hall
 										Ticket</a></h2>
 								<div class="entry-meta">
@@ -6749,7 +6749,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6763,7 +6763,7 @@
 									have provided a direct link to &#8230; <a
 										title="Madras High Court Office Asst Admit Card 2021 Link MHC Hall Ticket"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-office-asst-recruitment/"
+										href="madras-high-court-office-asst-recruitment/"
 										aria-label="More on Madras High Court Office Asst Admit Card 2021 Link MHC Hall Ticket">Read
 										more</a></p>
 							</div>
@@ -6774,10 +6774,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6786,7 +6786,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-office-asst-recruitment/#comments">1
+										href="madras-high-court-office-asst-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6797,7 +6797,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-computer-assistant-recruitment/"
+										href="allahabad-high-court-computer-assistant-recruitment/"
 										rel="bookmark">Allahabad High Court Computer Assistant Recruitment 2021
 										Apply</a></h2>
 								<div class="entry-meta">
@@ -6807,7 +6807,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6821,7 +6821,7 @@
 									the allahabadhigh.courtrecruitment.com rough the official website Allahabad &#8230;
 									<a title="Allahabad High Court Computer Assistant Recruitment 2021 Apply"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-computer-assistant-recruitment/"
+										href="allahabad-high-court-computer-assistant-recruitment/"
 										aria-label="More on Allahabad High Court Computer Assistant Recruitment 2021 Apply">Read
 										more</a></p>
 							</div>
@@ -6832,10 +6832,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6845,7 +6845,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-computer-assistant-recruitment/#respond">Leave
+										href="allahabad-high-court-computer-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6856,7 +6856,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-high-court-vacancy/"
+										href="delhi-high-court-vacancy/"
 										rel="bookmark">Delhi High Court JJA Admit Card 2021 Release Restorer Mains Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -6865,7 +6865,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6878,7 +6878,7 @@
 									(DEPARTMENTAL) EXAM &#8211; 2020. Applied candidates can download Delhi High Court
 									JJA Mains Admit Card 2021 as Delhi High &#8230; <a
 										title="Delhi High Court JJA Admit Card 2021 Release Restorer Mains Exam Date"
-										class="read-more" href="https://www.sarkariresult.app/delhi-high-court-vacancy/"
+										class="read-more" href="delhi-high-court-vacancy/"
 										aria-label="More on Delhi High Court JJA Admit Card 2021 Release Restorer Mains Exam Date">Read
 										more</a></p>
 							</div>
@@ -6889,10 +6889,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6901,7 +6901,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-high-court-vacancy/#respond">Leave a
+										href="delhi-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6912,7 +6912,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-aro-recruitment/"
+										href="allahabad-high-court-aro-recruitment/"
 										rel="bookmark">Allahabad High Court ARO Recruitment 2021 Apply RO 396 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6921,7 +6921,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6935,7 +6935,7 @@
 									Officer Recruitment Examination Vacancy at 396 posts. Those candidates who &#8230;
 									<a title="Allahabad High Court ARO Recruitment 2021 Apply RO 396 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-aro-recruitment/"
+										href="allahabad-high-court-aro-recruitment/"
 										aria-label="More on Allahabad High Court ARO Recruitment 2021 Apply RO 396 Posts">Read
 										more</a></p>
 							</div>
@@ -6946,10 +6946,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6959,7 +6959,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-aro-recruitment/#respond">Leave
+										href="allahabad-high-court-aro-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6970,7 +6970,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court/" rel="bookmark">Gujarat
+										href="gujarat-high-court/" rel="bookmark">Gujarat
 										High Court Recruitment 2021 DSO, Translator 68 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6978,7 +6978,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6991,7 +6991,7 @@
 									Vacancy. Gujarat High Court invites applications from eligible candidates to apply
 									online for the posts of Gujarat High Court Jobs &#8230; <a
 										title="Gujarat High Court Recruitment 2021 DSO, Translator 68 Post"
-										class="read-more" href="https://www.sarkariresult.app/gujarat-high-court/"
+										class="read-more" href="gujarat-high-court/"
 										aria-label="More on Gujarat High Court Recruitment 2021 DSO, Translator 68 Post">Read
 										more</a></p>
 							</div>
@@ -7002,10 +7002,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7015,7 +7015,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court/#respond">Leave a
+										href="gujarat-high-court/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7026,7 +7026,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-recruitment/"
+										href="allahabad-high-court-law-clerk-recruitment/"
 										rel="bookmark">Allahabad High Court Law Clerk Recruitment 2021 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -7035,7 +7035,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7049,7 +7049,7 @@
 									allahabadhigh.courtrecruitment.com rough the official website Allahabad &#8230; <a
 										title="Allahabad High Court Law Clerk Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-recruitment/"
+										href="allahabad-high-court-law-clerk-recruitment/"
 										aria-label="More on Allahabad High Court Law Clerk Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -7060,10 +7060,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7073,7 +7073,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-recruitment/#respond">Leave
+										href="allahabad-high-court-law-clerk-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7084,7 +7084,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-civil-judge-recruitment/"
+										href="rajasthan-high-court-civil-judge-recruitment/"
 										rel="bookmark">Rajasthan High Court Civil Judge Recruitment 2021 Apply 120
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7093,7 +7093,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7107,7 +7107,7 @@
 									High Court Jobs through the &#8230; <a
 										title="Rajasthan High Court Civil Judge Recruitment 2021 Apply 120 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-civil-judge-recruitment/"
+										href="rajasthan-high-court-civil-judge-recruitment/"
 										aria-label="More on Rajasthan High Court Civil Judge Recruitment 2021 Apply 120 Post">Read
 										more</a></p>
 							</div>
@@ -7118,10 +7118,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7131,7 +7131,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-civil-judge-recruitment/#respond">Leave
+										href="rajasthan-high-court-civil-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7142,7 +7142,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-jobs/"
+										href="kerala-high-court-jobs/"
 										rel="bookmark">Kerala High Court Recruitment 2021 Care Taker, Assistant Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7152,7 +7152,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7165,7 +7165,7 @@
 									Indian Citizens for appointment to the Care Taker, Confidential Assistant (Grade
 									II)-NCA-SC, Lift Operator 03 post in the High Court &#8230; <a
 										title="Kerala High Court Recruitment 2021 Care Taker, Assistant Post"
-										class="read-more" href="https://www.sarkariresult.app/kerala-high-court-jobs/"
+										class="read-more" href="kerala-high-court-jobs/"
 										aria-label="More on Kerala High Court Recruitment 2021 Care Taker, Assistant Post">Read
 										more</a></p>
 							</div>
@@ -7176,10 +7176,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7189,7 +7189,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-jobs/#respond">Leave a
+										href="kerala-high-court-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7200,7 +7200,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-cj-recruitment/"
+										href="ap-high-court-cj-recruitment/"
 										rel="bookmark">AP High Court CJ Recruitment 2021 Apply Civil Judge 68 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7209,7 +7209,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7222,7 +7222,7 @@
 									invites applications from eligible candidates to apply online for the posts of AP
 									High &#8230; <a title="AP High Court CJ Recruitment 2021 Apply Civil Judge 68 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-cj-recruitment/"
+										href="ap-high-court-cj-recruitment/"
 										aria-label="More on AP High Court CJ Recruitment 2021 Apply Civil Judge 68 Posts">Read
 										more</a></p>
 							</div>
@@ -7233,10 +7233,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7246,7 +7246,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-cj-recruitment/#respond">Leave
+										href="ap-high-court-cj-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7257,7 +7257,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-driver-recruitment/"
+										href="punjab-haryana-high-court-driver-recruitment/"
 										rel="bookmark">Punjab Haryana High Court Driver Recruitment 2021 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -7266,7 +7266,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7280,7 +7280,7 @@
 									High Court Recruitment can apply online through &#8230; <a
 										title="Punjab Haryana High Court Driver Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-driver-recruitment/"
+										href="punjab-haryana-high-court-driver-recruitment/"
 										aria-label="More on Punjab Haryana High Court Driver Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -7291,10 +7291,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7304,7 +7304,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-haryana-high-court-driver-recruitment/#respond">Leave
+										href="punjab-haryana-high-court-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7315,7 +7315,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-legal-assistant-recruitment/"
+										href="gujarat-high-court-legal-assistant-recruitment/"
 										rel="bookmark">Gujarat High Court Legal Assistant Recruitment 2021 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -7325,7 +7325,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7339,7 +7339,7 @@
 									through the gujarathigh.courtrecruitment.com Recruitment Portal of the Gujarat High
 									&#8230; <a title="Gujarat High Court Legal Assistant Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-legal-assistant-recruitment/"
+										href="gujarat-high-court-legal-assistant-recruitment/"
 										aria-label="More on Gujarat High Court Legal Assistant Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -7350,10 +7350,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7363,7 +7363,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-legal-assistant-recruitment/#respond">Leave
+										href="gujarat-high-court-legal-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7374,7 +7374,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-law-officer-recruitment/"
+										href="madras-high-court-law-officer-recruitment/"
 										rel="bookmark">Madras High Court Law Officer Recruitment 2021 Apply 202 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7383,7 +7383,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7397,7 +7397,7 @@
 									High Court Jobs &#8230; <a
 										title="Madras High Court Law Officer Recruitment 2021 Apply 202 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-law-officer-recruitment/"
+										href="madras-high-court-law-officer-recruitment/"
 										aria-label="More on Madras High Court Law Officer Recruitment 2021 Apply 202 Post">Read
 										more</a></p>
 							</div>
@@ -7408,10 +7408,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7421,7 +7421,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-law-officer-recruitment/#respond">Leave
+										href="madras-high-court-law-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7432,7 +7432,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-jja-recruitment/"
+										href="mp-high-court-jja-recruitment/"
 										rel="bookmark">MP High Court JJA Recruitment 2021 Steno, Horticulturist 61
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7441,7 +7441,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7455,7 +7455,7 @@
 									Court)-2021 post in the High Court of MP. The &#8230; <a
 										title="MP High Court JJA Recruitment 2021 Steno, Horticulturist 61 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-jja-recruitment/"
+										href="mp-high-court-jja-recruitment/"
 										aria-label="More on MP High Court JJA Recruitment 2021 Steno, Horticulturist 61 Post">Read
 										more</a></p>
 							</div>
@@ -7466,10 +7466,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7479,7 +7479,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-jja-recruitment/#respond">Leave
+										href="mp-high-court-jja-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7490,7 +7490,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-recruitment/"
+										href="chhattisgarh-high-court-recruitment/"
 										rel="bookmark">Chhattisgarh High Court Recruitment 2021 Driver, Cook 89 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7499,7 +7499,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7512,7 +7512,7 @@
 									Driver, Cook, Lift Man, Employee paid from the contingency fund Vacancy at 89 Posts.
 									CG &#8230; <a title="Chhattisgarh High Court Recruitment 2021 Driver, Cook 89 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-recruitment/"
+										href="chhattisgarh-high-court-recruitment/"
 										aria-label="More on Chhattisgarh High Court Recruitment 2021 Driver, Cook 89 Post">Read
 										more</a></p>
 							</div>
@@ -7523,10 +7523,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7536,7 +7536,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-high-court-recruitment/#respond">Leave
+										href="chhattisgarh-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7547,7 +7547,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court/" rel="bookmark">AP High Court
+										href="ap-high-court/" rel="bookmark">AP High Court
 										Recruitment 2021 Registrar, Secretaries 25 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-07-07T10:12:39+05:30"
@@ -7556,7 +7556,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7569,7 +7569,7 @@
 									Masters, Personal Secretaries (PS) to the Honourable Judges and Registrars Vacancy
 									at 25 Posts. AP &#8230; <a
 										title="AP High Court Recruitment 2021 Registrar, Secretaries 25 Post"
-										class="read-more" href="https://www.sarkariresult.app/ap-high-court/"
+										class="read-more" href="ap-high-court/"
 										aria-label="More on AP High Court Recruitment 2021 Registrar, Secretaries 25 Post">Read
 										more</a></p>
 							</div>
@@ -7580,10 +7580,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7593,7 +7593,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court/#respond">Leave a
+										href="ap-high-court/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7604,7 +7604,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-assistant-recruitment/"
+										href="kerala-high-court-assistant-recruitment/"
 										rel="bookmark">Kerala High Court Assistant Recruitment 2021 Apply Online 55
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7614,7 +7614,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7628,7 +7628,7 @@
 									Portal of the Kerala High Court from 8 June &#8230; <a
 										title="Kerala High Court Assistant Recruitment 2021 Apply Online 55 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-assistant-recruitment/"
+										href="kerala-high-court-assistant-recruitment/"
 										aria-label="More on Kerala High Court Assistant Recruitment 2021 Apply Online 55 Post">Read
 										more</a></p>
 							</div>
@@ -7639,10 +7639,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7652,7 +7652,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-assistant-recruitment/#respond">Leave
+										href="kerala-high-court-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7663,7 +7663,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-private-secretary-recruitment/"
+										href="gujarat-high-court-private-secretary-recruitment/"
 										rel="bookmark">Gujarat High Court Private Secretary Recruitment 2021 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -7672,7 +7672,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7686,7 +7686,7 @@
 									can apply online through the &#8230; <a
 										title="Gujarat High Court Private Secretary Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-private-secretary-recruitment/"
+										href="gujarat-high-court-private-secretary-recruitment/"
 										aria-label="More on Gujarat High Court Private Secretary Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -7697,10 +7697,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7710,7 +7710,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-private-secretary-recruitment/#respond">Leave
+										href="gujarat-high-court-private-secretary-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7721,7 +7721,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-district-judge-recruitment/"
+										href="mp-high-court-district-judge-recruitment/"
 										rel="bookmark">MP High Court District Judge Recruitment 2021 Apply 25 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7730,7 +7730,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7743,7 +7743,7 @@
 									candidates who are interested in MP High Court Jobs 2021 can apply online &#8230; <a
 										title="MP High Court District Judge Recruitment 2021 Apply 25 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-district-judge-recruitment/"
+										href="mp-high-court-district-judge-recruitment/"
 										aria-label="More on MP High Court District Judge Recruitment 2021 Apply 25 Posts">Read
 										more</a></p>
 							</div>
@@ -7754,10 +7754,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7767,7 +7767,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-district-judge-recruitment/#respond">Leave
+										href="mp-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7778,7 +7778,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-dlao-recruitment/"
+										href="mp-high-court-dlao-recruitment/"
 										rel="bookmark">MP High Court DLAO Recruitment 2021 Apply Online 14 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7787,7 +7787,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7800,7 +7800,7 @@
 									the High Court of MP. All candidates who are interested in MP High Court &#8230; <a
 										title="MP High Court DLAO Recruitment 2021 Apply Online 14 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-dlao-recruitment/"
+										href="mp-high-court-dlao-recruitment/"
 										aria-label="More on MP High Court DLAO Recruitment 2021 Apply Online 14 Posts">Read
 										more</a></p>
 							</div>
@@ -7811,10 +7811,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7824,7 +7824,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-dlao-recruitment/#comments">1
+										href="mp-high-court-dlao-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7835,7 +7835,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-ajs-recruitment/"
+										href="gauhati-high-court-ajs-recruitment/"
 										rel="bookmark">Gauhati High Court AJS Recruitment 2021 Apply Grade III 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7844,7 +7844,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7858,7 +7858,7 @@
 									online through &#8230; <a
 										title="Gauhati High Court AJS Recruitment 2021 Apply Grade III 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-ajs-recruitment/"
+										href="gauhati-high-court-ajs-recruitment/"
 										aria-label="More on Gauhati High Court AJS Recruitment 2021 Apply Grade III 22 Post">Read
 										more</a></p>
 							</div>
@@ -7869,10 +7869,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7882,7 +7882,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-ajs-recruitment/#respond">Leave
+										href="gauhati-high-court-ajs-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7893,7 +7893,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-jobs/"
+										href="bombay-high-court-jobs/"
 										rel="bookmark">Bombay High Court System Officer Recruitment 2021 Apply 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7903,7 +7903,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7916,7 +7916,7 @@
 									Technical Manpower (Senior System Officer, System Officer) Vacancy at 40 Posts.
 									Those candidates who are interested in Bombay High &#8230; <a
 										title="Bombay High Court System Officer Recruitment 2021 Apply 40 Post"
-										class="read-more" href="https://www.sarkariresult.app/bombay-high-court-jobs/"
+										class="read-more" href="bombay-high-court-jobs/"
 										aria-label="More on Bombay High Court System Officer Recruitment 2021 Apply 40 Post">Read
 										more</a></p>
 							</div>
@@ -7927,10 +7927,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7940,7 +7940,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-jobs/#comments">2
+										href="bombay-high-court-jobs/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7951,7 +7951,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-law-clerks-recruitment/"
+										href="karnataka-high-court-law-clerks-recruitment/"
 										rel="bookmark">Karnataka High Court Law Clerks Recruitment 2021 Apply 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7960,7 +7960,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7974,7 +7974,7 @@
 									the official website &#8230; <a
 										title="Karnataka High Court Law Clerks Recruitment 2021 Apply 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-law-clerks-recruitment/"
+										href="karnataka-high-court-law-clerks-recruitment/"
 										aria-label="More on Karnataka High Court Law Clerks Recruitment 2021 Apply 19 Post">Read
 										more</a></p>
 							</div>
@@ -7985,10 +7985,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7998,7 +7998,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-law-clerks-recruitment/#respond">Leave
+										href="karnataka-high-court-law-clerks-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8009,7 +8009,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-vacancy-apply/"
+										href="madras-high-court-vacancy-apply/"
 										rel="bookmark">Madras High Court Recruitment 2021 Asst, Watchman, Sweeper 3557
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8018,7 +8018,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8033,7 +8033,7 @@
 									Sanitary Worker, Scavenger, Scavenger /Sweeper, &#8230; <a
 										title="Madras High Court Recruitment 2021 Asst, Watchman, Sweeper 3557 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-vacancy-apply/"
+										href="madras-high-court-vacancy-apply/"
 										aria-label="More on Madras High Court Recruitment 2021 Asst, Watchman, Sweeper 3557 Post">Read
 										more</a></p>
 							</div>
@@ -8044,10 +8044,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8057,7 +8057,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-vacancy-apply/#respond">Leave
+										href="madras-high-court-vacancy-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8068,7 +8068,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/"
+										href="railway-blw-apprentice-recruitment/"
 										rel="bookmark">Railway BLW Apprentice Result 2021 Check Merit List, Cut Off</a>
 								</h2>
 								<div class="entry-meta">
@@ -8078,7 +8078,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8092,7 +8092,7 @@
 									Locomotive Works Recruitment 2021 can download Railway BLW &#8230; <a
 										title="Railway BLW Apprentice Result 2021 Check Merit List, Cut Off"
 										class="read-more"
-										href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/"
+										href="railway-blw-apprentice-recruitment/"
 										aria-label="More on Railway BLW Apprentice Result 2021 Check Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -8103,12 +8103,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8117,7 +8117,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/#comments">1
+										href="railway-blw-apprentice-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8128,7 +8128,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-presiding-officer-recruitment/"
+										href="allahabad-high-court-presiding-officer-recruitment/"
 										rel="bookmark">Allahabad High Court Presiding Officer Recruitment 2021 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -8137,7 +8137,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8152,7 +8152,7 @@
 									by 9 April 2021. &#8230; <a
 										title="Allahabad High Court Presiding Officer Recruitment 2021 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-presiding-officer-recruitment/"
+										href="allahabad-high-court-presiding-officer-recruitment/"
 										aria-label="More on Allahabad High Court Presiding Officer Recruitment 2021 Apply Now">Read
 										more</a></p>
 							</div>
@@ -8163,10 +8163,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8176,7 +8176,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-presiding-officer-recruitment/#respond">Leave
+										href="allahabad-high-court-presiding-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8187,7 +8187,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court/" rel="bookmark">Gauhati
+										href="gauhati-high-court/" rel="bookmark">Gauhati
 										High Court Recruitment 2021 Asst, Steno, LDA 110 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8195,7 +8195,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8208,7 +8208,7 @@
 									Stenographer II, III, LDA, Copyist, Computer Assistant Vacancy at 110 Posts. Those
 									candidates who are interested in Gauhati High Court  Vacancy &#8230; <a
 										title="Gauhati High Court Recruitment 2021 Asst, Steno, LDA 110 Post"
-										class="read-more" href="https://www.sarkariresult.app/gauhati-high-court/"
+										class="read-more" href="gauhati-high-court/"
 										aria-label="More on Gauhati High Court Recruitment 2021 Asst, Steno, LDA 110 Post">Read
 										more</a></p>
 							</div>
@@ -8219,10 +8219,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8232,7 +8232,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court/#respond">Leave a
+										href="gauhati-high-court/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8243,7 +8243,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-civil-judge-recruitment/"
+										href="karnataka-high-court-civil-judge-recruitment/"
 										rel="bookmark">Karnataka High Court Civil Judge Recruitment 2021 Apply 94
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8252,7 +8252,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8266,7 +8266,7 @@
 									official website Karnataka High Court &#8230; <a
 										title="Karnataka High Court Civil Judge Recruitment 2021 Apply 94 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-civil-judge-recruitment/"
+										href="karnataka-high-court-civil-judge-recruitment/"
 										aria-label="More on Karnataka High Court Civil Judge Recruitment 2021 Apply 94 Post">Read
 										more</a></p>
 							</div>
@@ -8277,10 +8277,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8290,7 +8290,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-civil-judge-recruitment/#respond">Leave
+										href="karnataka-high-court-civil-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8301,7 +8301,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/manipur-high-court-attendant-recruitment/"
+										href="manipur-high-court-attendant-recruitment/"
 										rel="bookmark">Manipur High Court Attendant Recruitment 2021 Walk In
 										Interview</a></h2>
 								<div class="entry-meta">
@@ -8310,7 +8310,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8324,7 +8324,7 @@
 									walk-in-interview &#8230; <a
 										title="Manipur High Court Attendant Recruitment 2021 Walk In Interview"
 										class="read-more"
-										href="https://www.sarkariresult.app/manipur-high-court-attendant-recruitment/"
+										href="manipur-high-court-attendant-recruitment/"
 										aria-label="More on Manipur High Court Attendant Recruitment 2021 Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -8335,10 +8335,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8348,7 +8348,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/manipur-high-court-attendant-recruitment/#respond">Leave
+										href="manipur-high-court-attendant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8359,7 +8359,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-high-court-drw-recruitment/"
+										href="tripura-high-court-drw-recruitment/"
 										rel="bookmark">Tripura High Court Recruitment 2021 Daily Rated Worker 14
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -8369,7 +8369,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8383,7 +8383,7 @@
 									Recruitment can apply &#8230; <a
 										title="Tripura High Court Recruitment 2021 Daily Rated Worker 14 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-high-court-drw-recruitment/"
+										href="tripura-high-court-drw-recruitment/"
 										aria-label="More on Tripura High Court Recruitment 2021 Daily Rated Worker 14 Posts">Read
 										more</a></p>
 							</div>
@@ -8394,10 +8394,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8407,7 +8407,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-high-court-drw-recruitment/#respond">Leave
+										href="tripura-high-court-drw-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8418,7 +8418,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/manipur-high-court-driver-recruitment/"
+										href="manipur-high-court-driver-recruitment/"
 										rel="bookmark">Manipur High Court Driver Recruitment 2021 Apply Now 04 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8428,7 +8428,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8441,7 +8441,7 @@
 									who are interested in Manipur High Court Jobs 2021 can go to the walk in &#8230; <a
 										title="Manipur High Court Driver Recruitment 2021 Apply Now 04 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/manipur-high-court-driver-recruitment/"
+										href="manipur-high-court-driver-recruitment/"
 										aria-label="More on Manipur High Court Driver Recruitment 2021 Apply Now 04 Post">Read
 										more</a></p>
 							</div>
@@ -8452,10 +8452,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8465,7 +8465,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/manipur-high-court-driver-recruitment/#respond">Leave
+										href="manipur-high-court-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8476,7 +8476,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-aso-recruitment/"
+										href="odisha-high-court-aso-recruitment/"
 										rel="bookmark">Odisha High Court ASO Recruitment 2021 Section Officer 202
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8485,7 +8485,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8499,7 +8499,7 @@
 									in &#8230; <a
 										title="Odisha High Court ASO Recruitment 2021 Section Officer 202 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-aso-recruitment/"
+										href="odisha-high-court-aso-recruitment/"
 										aria-label="More on Odisha High Court ASO Recruitment 2021 Section Officer 202 Post">Read
 										more</a></p>
 							</div>
@@ -8510,10 +8510,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8523,7 +8523,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-aso-recruitment/#respond">Leave
+										href="odisha-high-court-aso-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8534,7 +8534,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-programmer-recruitment/"
+										href="gujarat-high-court-programmer-recruitment/"
 										rel="bookmark">Gujarat High Court Programmer Recruitment 2021 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -8543,7 +8543,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8557,7 +8557,7 @@
 									Application from eligible candidates for filling &#8230; <a
 										title="Gujarat High Court Programmer Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-programmer-recruitment/"
+										href="gujarat-high-court-programmer-recruitment/"
 										aria-label="More on Gujarat High Court Programmer Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -8568,10 +8568,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8581,7 +8581,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-programmer-recruitment/#respond">Leave
+										href="gujarat-high-court-programmer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8592,7 +8592,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-law-clerk-recruitment/"
+										href="mp-high-court-law-clerk-recruitment/"
 										rel="bookmark">MP High Court Law Clerk Recruitment 2021 Apply Online 32 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8601,7 +8601,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8615,7 +8615,7 @@
 									candidates who are interested in MP High &#8230; <a
 										title="MP High Court Law Clerk Recruitment 2021 Apply Online 32 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-law-clerk-recruitment/"
+										href="mp-high-court-law-clerk-recruitment/"
 										aria-label="More on MP High Court Law Clerk Recruitment 2021 Apply Online 32 Post">Read
 										more</a></p>
 							</div>
@@ -8626,10 +8626,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8639,7 +8639,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-law-clerk-recruitment/#respond">Leave
+										href="mp-high-court-law-clerk-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8650,7 +8650,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-high-court-grade-iii-recruitment/"
+										href="tripura-high-court-grade-iii-recruitment/"
 										rel="bookmark">Tripura High Court Grade III Recruitment 2021 Apply Online 06
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8659,7 +8659,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8673,7 +8673,7 @@
 									interested in Tripura High Court &#8230; <a
 										title="Tripura High Court Grade III Recruitment 2021 Apply Online 06 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-high-court-grade-iii-recruitment/"
+										href="tripura-high-court-grade-iii-recruitment/"
 										aria-label="More on Tripura High Court Grade III Recruitment 2021 Apply Online 06 Post">Read
 										more</a></p>
 							</div>
@@ -8684,10 +8684,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8697,7 +8697,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-high-court-grade-iii-recruitment/#comments">1
+										href="tripura-high-court-grade-iii-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8708,7 +8708,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-high-court-recruitment/"
+										href="odisha-high-court-recruitment/"
 										rel="bookmark">Odisha High Court Recruitment 2021 Apply District Judge 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8718,7 +8718,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8732,7 +8732,7 @@
 									Odisha High &#8230; <a
 										title="Odisha High Court Recruitment 2021 Apply District Judge 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-high-court-recruitment/"
+										href="odisha-high-court-recruitment/"
 										aria-label="More on Odisha High Court Recruitment 2021 Apply District Judge 21 Post">Read
 										more</a></p>
 							</div>
@@ -8743,10 +8743,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8756,7 +8756,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-high-court-recruitment/#respond">Leave
+										href="odisha-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8767,7 +8767,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/manipur-high-court-recruitment/"
+										href="manipur-high-court-recruitment/"
 										rel="bookmark">Manipur High Court Recruitment 2021 Apply Chowkidar 15 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8776,7 +8776,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8790,7 +8790,7 @@
 									Attendant 15 posts in the High Court of Manipur. All &#8230; <a
 										title="Manipur High Court Recruitment 2021 Apply Chowkidar 15 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/manipur-high-court-recruitment/"
+										href="manipur-high-court-recruitment/"
 										aria-label="More on Manipur High Court Recruitment 2021 Apply Chowkidar 15 Posts">Read
 										more</a></p>
 							</div>
@@ -8801,10 +8801,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8814,7 +8814,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/manipur-high-court-recruitment/#respond">Leave
+										href="manipur-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8825,7 +8825,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-asst-programmer-jobs/"
+										href="madras-high-court-asst-programmer-jobs/"
 										rel="bookmark">Madras High Court Asst Programmer Recruitment 2021 Apply 46
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8834,7 +8834,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8848,7 +8848,7 @@
 									candidates who are interested in Madras High Court &#8230; <a
 										title="Madras High Court Asst Programmer Recruitment 2021 Apply 46 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-asst-programmer-jobs/"
+										href="madras-high-court-asst-programmer-jobs/"
 										aria-label="More on Madras High Court Asst Programmer Recruitment 2021 Apply 46 Post">Read
 										more</a></p>
 							</div>
@@ -8859,10 +8859,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8872,7 +8872,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-asst-programmer-jobs/#respond">Leave
+										href="madras-high-court-asst-programmer-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8883,7 +8883,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-district-judge-recruitment/"
+										href="rajasthan-high-court-district-judge-recruitment/"
 										rel="bookmark">Rajasthan High Court District Judge Recruitment 2021 Apply 85
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8892,7 +8892,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8907,7 +8907,7 @@
 									Vacancy at 85 posts &#8230; <a
 										title="Rajasthan High Court District Judge Recruitment 2021 Apply 85 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-district-judge-recruitment/"
+										href="rajasthan-high-court-district-judge-recruitment/"
 										aria-label="More on Rajasthan High Court District Judge Recruitment 2021 Apply 85 Post">Read
 										more</a></p>
 							</div>
@@ -8918,10 +8918,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8931,7 +8931,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-district-judge-recruitment/#respond">Leave
+										href="rajasthan-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8942,7 +8942,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-vacancy/"
+										href="gujarat-high-court-vacancy/"
 										rel="bookmark">Gujarat High Court Recruitment 2021 Computer Operator 19 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8951,7 +8951,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8966,7 +8966,7 @@
 									Vacancy at &#8230; <a
 										title="Gujarat High Court Recruitment 2021 Computer Operator 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-vacancy/"
+										href="gujarat-high-court-vacancy/"
 										aria-label="More on Gujarat High Court Recruitment 2021 Computer Operator 19 Post">Read
 										more</a></p>
 							</div>
@@ -8977,10 +8977,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8990,7 +8990,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-vacancy/#respond">Leave a
+										href="gujarat-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9001,7 +9001,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-high-court-clerk-recruitment/"
+										href="uttarakhand-high-court-clerk-recruitment/"
 										rel="bookmark">Uttarakhand High Court Clerk Recruitment 2021 Apply 10 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9011,7 +9011,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9025,7 +9025,7 @@
 									interested in Uttarakhand High Court Recruitment 2021 &#8230; <a
 										title="Uttarakhand High Court Clerk Recruitment 2021 Apply 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-high-court-clerk-recruitment/"
+										href="uttarakhand-high-court-clerk-recruitment/"
 										aria-label="More on Uttarakhand High Court Clerk Recruitment 2021 Apply 10 Post">Read
 										more</a></p>
 							</div>
@@ -9036,10 +9036,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9049,7 +9049,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-high-court-clerk-recruitment/#respond">Leave
+										href="uttarakhand-high-court-clerk-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9060,7 +9060,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-hjs-recruitment/"
+										href="allahabad-high-court-hjs-recruitment/"
 										rel="bookmark">Allahabad High Court HJS Recruitment 2021 Apply Online 98
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9070,7 +9070,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9084,7 +9084,7 @@
 									shall apply online through the Recruitment Portal www.allahabadrecruitment.nic.in
 									&#8230; <a title="Allahabad High Court HJS Recruitment 2021 Apply Online 98 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-hjs-recruitment/"
+										href="allahabad-high-court-hjs-recruitment/"
 										aria-label="More on Allahabad High Court HJS Recruitment 2021 Apply Online 98 Post">Read
 										more</a></p>
 							</div>
@@ -9095,10 +9095,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9108,7 +9108,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-hjs-recruitment/#respond">Leave
+										href="allahabad-high-court-hjs-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9119,7 +9119,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-driver-recruitment/"
+										href="rajasthan-high-court-driver-recruitment/"
 										rel="bookmark">Rajasthan High Court Driver Admit Card 2021 Check Screening Test
 										Date</a></h2>
 								<div class="entry-meta">
@@ -9128,7 +9128,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9142,7 +9142,7 @@
 									direct &#8230; <a
 										title="Rajasthan High Court Driver Admit Card 2021 Check Screening Test Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-driver-recruitment/"
+										href="rajasthan-high-court-driver-recruitment/"
 										aria-label="More on Rajasthan High Court Driver Admit Card 2021 Check Screening Test Date">Read
 										more</a></p>
 							</div>
@@ -9153,10 +9153,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9165,7 +9165,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-driver-recruitment/#comments">3
+										href="rajasthan-high-court-driver-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9176,7 +9176,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/calcutta-high-court-deo-recruitment/"
+										href="calcutta-high-court-deo-recruitment/"
 										rel="bookmark">Calcutta High Court DEO Recruitment 2021 Apply Online 159
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -9185,7 +9185,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9199,7 +9199,7 @@
 									official website calcuttahighcourt.gov.in for Calcutta &#8230; <a
 										title="Calcutta High Court DEO Recruitment 2021 Apply Online 159 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/calcutta-high-court-deo-recruitment/"
+										href="calcutta-high-court-deo-recruitment/"
 										aria-label="More on Calcutta High Court DEO Recruitment 2021 Apply Online 159 Posts">Read
 										more</a></p>
 							</div>
@@ -9210,10 +9210,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9223,7 +9223,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/calcutta-high-court-deo-recruitment/#respond">Leave
+										href="calcutta-high-court-deo-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9234,7 +9234,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/madras-high-court-recruitment-2/"
+										href="madras-high-court-recruitment-2/"
 										rel="bookmark">Madras High Court Recruitment 2021 Clerk, Personal Asst 77
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9244,7 +9244,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9259,7 +9259,7 @@
 									madrashigh.courtrecruitment.com &#8230; <a
 										title="Madras High Court Recruitment 2021 Clerk, Personal Asst 77 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/madras-high-court-recruitment-2/"
+										href="madras-high-court-recruitment-2/"
 										aria-label="More on Madras High Court Recruitment 2021 Clerk, Personal Asst 77 Post">Read
 										more</a></p>
 							</div>
@@ -9270,10 +9270,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9283,7 +9283,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/madras-high-court-recruitment-2/#respond">Leave
+										href="madras-high-court-recruitment-2/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9294,7 +9294,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-legal-assistant-recruitment/"
+										href="patna-high-court-legal-assistant-recruitment/"
 										rel="bookmark">Patna High Court Legal Assistant Recruitment 2021 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -9303,7 +9303,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9317,7 +9317,7 @@
 									patnahigh.courtrecruitment.com of the Patna High Court Jobs &#8230; <a
 										title="Patna High Court Legal Assistant Recruitment 2021 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-legal-assistant-recruitment/"
+										href="patna-high-court-legal-assistant-recruitment/"
 										aria-label="More on Patna High Court Legal Assistant Recruitment 2021 Apply Now">Read
 										more</a></p>
 							</div>
@@ -9328,10 +9328,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9341,7 +9341,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-legal-assistant-recruitment/#respond">Leave
+										href="patna-high-court-legal-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9352,7 +9352,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/meghalaya-high-court-stenographer-recruitment/"
+										href="meghalaya-high-court-stenographer-recruitment/"
 										rel="bookmark">Meghalaya High Court Stenographer Recruitment 2021 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -9361,7 +9361,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9375,7 +9375,7 @@
 									Portal meghalayahigh.courtrecruitment.com of the Meghalaya High Court Recruitment
 									&#8230; <a title="Meghalaya High Court Stenographer Recruitment 2021 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/meghalaya-high-court-stenographer-recruitment/"
+										href="meghalaya-high-court-stenographer-recruitment/"
 										aria-label="More on Meghalaya High Court Stenographer Recruitment 2021 Apply Now">Read
 										more</a></p>
 							</div>
@@ -9386,10 +9386,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9399,7 +9399,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/meghalaya-high-court-stenographer-recruitment/#respond">Leave
+										href="meghalaya-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9410,7 +9410,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-sweeper-recruitment/"
+										href="kerala-high-court-sweeper-recruitment/"
 										rel="bookmark">Kerala High Court Sweeper Recruitment 2021 Apply Online 45
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9420,7 +9420,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9434,7 +9434,7 @@
 									the Recruitment Portal www.hckrecruitment.nic.in of the Kerala &#8230; <a
 										title="Kerala High Court Sweeper Recruitment 2021 Apply Online 45 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-sweeper-recruitment/"
+										href="kerala-high-court-sweeper-recruitment/"
 										aria-label="More on Kerala High Court Sweeper Recruitment 2021 Apply Online 45 Post">Read
 										more</a></p>
 							</div>
@@ -9445,10 +9445,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9458,7 +9458,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-sweeper-recruitment/#respond">Leave
+										href="kerala-high-court-sweeper-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9469,7 +9469,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-recruitment/"
+										href="ap-high-court-civil-judge-recruitment/"
 										rel="bookmark">AP High Court Civil Judge Recruitment 2021 Apply Online 68
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9478,7 +9478,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9492,7 +9492,7 @@
 									posts of &#8230; <a
 										title="AP High Court Civil Judge Recruitment 2021 Apply Online 68 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-recruitment/"
+										href="ap-high-court-civil-judge-recruitment/"
 										aria-label="More on AP High Court Civil Judge Recruitment 2021 Apply Online 68 Post">Read
 										more</a></p>
 							</div>
@@ -9503,10 +9503,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9516,7 +9516,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-high-court-civil-judge-recruitment/#respond">Leave
+										href="ap-high-court-civil-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9527,7 +9527,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-computer-assistant-recruitment/"
+										href="kerala-high-court-computer-assistant-recruitment/"
 										rel="bookmark">Kerala High Court Recruitment 2021 Apply Computer Asst 10
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9537,7 +9537,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9551,7 +9551,7 @@
 									eligible candidates to apply online for the posts &#8230; <a
 										title="Kerala High Court Recruitment 2021 Apply Computer Asst 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-computer-assistant-recruitment/"
+										href="kerala-high-court-computer-assistant-recruitment/"
 										aria-label="More on Kerala High Court Recruitment 2021 Apply Computer Asst 10 Post">Read
 										more</a></p>
 							</div>
@@ -9562,10 +9562,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9575,7 +9575,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-computer-assistant-recruitment/#respond">Leave
+										href="kerala-high-court-computer-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9586,7 +9586,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-jobs/"
+										href="gauhati-high-court-jobs/"
 										rel="bookmark">Gauhati High Court Recruitment 2020 Account Asst, Typist Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9596,7 +9596,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9609,7 +9609,7 @@
 									02 Posts. Gauhati High Court Junior Account Assistant invites applications from
 									eligible candidates to apply online for the posts &#8230; <a
 										title="Gauhati High Court Recruitment 2020 Account Asst, Typist Post"
-										class="read-more" href="https://www.sarkariresult.app/gauhati-high-court-jobs/"
+										class="read-more" href="gauhati-high-court-jobs/"
 										aria-label="More on Gauhati High Court Recruitment 2020 Account Asst, Typist Post">Read
 										more</a></p>
 							</div>
@@ -9620,10 +9620,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9633,7 +9633,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-jobs/#comments">1
+										href="gauhati-high-court-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9644,7 +9644,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-high-court-arbitrator-recruitment/"
+										href="delhi-high-court-arbitrator-recruitment/"
 										rel="bookmark">Delhi High Court Arbitrator Recruitment 2020 Application Form</a>
 								</h2>
 								<div class="entry-meta">
@@ -9654,7 +9654,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9669,7 +9669,7 @@
 									has invited &#8230; <a
 										title="Delhi High Court Arbitrator Recruitment 2020 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-high-court-arbitrator-recruitment/"
+										href="delhi-high-court-arbitrator-recruitment/"
 										aria-label="More on Delhi High Court Arbitrator Recruitment 2020 Application Form">Read
 										more</a></p>
 							</div>
@@ -9680,10 +9680,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9693,7 +9693,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-high-court-arbitrator-recruitment/#respond">Leave
+										href="delhi-high-court-arbitrator-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9704,7 +9704,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-high-court-stenographer-recruitment/"
+										href="hp-high-court-stenographer-recruitment/"
 										rel="bookmark">HP High Court Stenographer Recruitment 2020 Apply Online</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9712,7 +9712,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9726,7 +9726,7 @@
 									Recruitment 2020 apply offline through the official website hphighcourt.nic.in
 									&#8230; <a title="HP High Court Stenographer Recruitment 2020 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-high-court-stenographer-recruitment/"
+										href="hp-high-court-stenographer-recruitment/"
 										aria-label="More on HP High Court Stenographer Recruitment 2020 Apply Online">Read
 										more</a></p>
 							</div>
@@ -9737,10 +9737,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9750,7 +9750,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-high-court-stenographer-recruitment/#respond">Leave
+										href="hp-high-court-stenographer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9761,7 +9761,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-clerk-admit-card/"
+										href="bombay-high-court-clerk-admit-card/"
 										rel="bookmark">Bombay High Court Clerk Admit Card 2020 Check Viva Voce Date</a>
 								</h2>
 								<div class="entry-meta">
@@ -9770,7 +9770,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9783,7 +9783,7 @@
 									Clerk Viva-Voce Date from the link given below. Now, the Bombay &#8230; <a
 										title="Bombay High Court Clerk Admit Card 2020 Check Viva Voce Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-clerk-admit-card/"
+										href="bombay-high-court-clerk-admit-card/"
 										aria-label="More on Bombay High Court Clerk Admit Card 2020 Check Viva Voce Date">Read
 										more</a></p>
 							</div>
@@ -9794,10 +9794,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9806,7 +9806,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-clerk-admit-card/#respond">Leave
+										href="bombay-high-court-clerk-admit-card/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9817,7 +9817,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-jobs/"
+										href="allahabad-high-court-law-clerk-jobs/"
 										rel="bookmark">Allahabad High Court Law Clerk Interview Letter 2020 Download
 										Now</a></h2>
 								<div class="entry-meta">
@@ -9827,7 +9827,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9841,7 +9841,7 @@
 									download Allahabad High &#8230; <a
 										title="Allahabad High Court Law Clerk Interview Letter 2020 Download Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-jobs/"
+										href="allahabad-high-court-law-clerk-jobs/"
 										aria-label="More on Allahabad High Court Law Clerk Interview Letter 2020 Download Now">Read
 										more</a></p>
 							</div>
@@ -9852,10 +9852,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9864,7 +9864,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-law-clerk-jobs/#respond">Leave
+										href="allahabad-high-court-law-clerk-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9875,7 +9875,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-high-court-recruitment/"
+										href="telangana-high-court-recruitment/"
 										rel="bookmark">Telangana High Court Recruitment 2020 Apply District Judge
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -9884,7 +9884,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9898,7 +9898,7 @@
 									through the official website &#8230; <a
 										title="Telangana High Court Recruitment 2020 Apply District Judge Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-high-court-recruitment/"
+										href="telangana-high-court-recruitment/"
 										aria-label="More on Telangana High Court Recruitment 2020 Apply District Judge Posts">Read
 										more</a></p>
 							</div>
@@ -9909,10 +9909,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9922,7 +9922,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-high-court-recruitment/#respond">Leave
+										href="telangana-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9933,7 +9933,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-vacancy/"
+										href="karnataka-high-court-vacancy/"
 										rel="bookmark">Karnataka High Court District Judge Recruitment 2020 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -9943,7 +9943,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9957,7 +9957,7 @@
 									online through the official &#8230; <a
 										title="Karnataka High Court District Judge Recruitment 2020 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-vacancy/"
+										href="karnataka-high-court-vacancy/"
 										aria-label="More on Karnataka High Court District Judge Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -9968,10 +9968,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9981,7 +9981,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-vacancy/#respond">Leave
+										href="karnataka-high-court-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9992,7 +9992,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-high-court-clerk-recruitment/"
+										href="karnataka-high-court-clerk-recruitment/"
 										rel="bookmark">Karnataka High Court Clerk Recruitment 2020 Apply Now 33 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10002,7 +10002,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10017,7 +10017,7 @@
 									karnatakahigh.courtrecruitment.com &#8230; <a
 										title="Karnataka High Court Clerk Recruitment 2020 Apply Now 33 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-high-court-clerk-recruitment/"
+										href="karnataka-high-court-clerk-recruitment/"
 										aria-label="More on Karnataka High Court Clerk Recruitment 2020 Apply Now 33 Post">Read
 										more</a></p>
 							</div>
@@ -10028,10 +10028,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10041,7 +10041,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-high-court-clerk-recruitment/#respond">Leave
+										href="karnataka-high-court-clerk-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10052,7 +10052,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-high-court-recruitment/"
+										href="hp-high-court-recruitment/"
 										rel="bookmark">HP High Court Recruitment 2020 Apply Now Safai Karamchari
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10062,7 +10062,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10076,7 +10076,7 @@
 									through the &#8230; <a
 										title="HP High Court Recruitment 2020 Apply Now Safai Karamchari Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-high-court-recruitment/"
+										href="hp-high-court-recruitment/"
 										aria-label="More on HP High Court Recruitment 2020 Apply Now Safai Karamchari Post">Read
 										more</a></p>
 							</div>
@@ -10087,10 +10087,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10100,7 +10100,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-high-court-recruitment/#comments">5
+										href="hp-high-court-recruitment/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10111,7 +10111,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/calcutta-high-court-lda-recruitment/"
+										href="calcutta-high-court-lda-recruitment/"
 										rel="bookmark">Calcutta High Court LDA Recruitment 2020 Apply Online 11 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10120,7 +10120,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10134,7 +10134,7 @@
 									calcuttahighcourt.gov.in for Calcutta High &#8230; <a
 										title="Calcutta High Court LDA Recruitment 2020 Apply Online 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/calcutta-high-court-lda-recruitment/"
+										href="calcutta-high-court-lda-recruitment/"
 										aria-label="More on Calcutta High Court LDA Recruitment 2020 Apply Online 11 Post">Read
 										more</a></p>
 							</div>
@@ -10145,10 +10145,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10158,7 +10158,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/calcutta-high-court-lda-recruitment/#respond">Leave
+										href="calcutta-high-court-lda-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10169,7 +10169,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bombay-high-court-recruitment/"
+										href="bombay-high-court-recruitment/"
 										rel="bookmark">Bombay High Court Recruitment 2020 System Officer 111 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -10178,7 +10178,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10192,7 +10192,7 @@
 									the official &#8230; <a
 										title="Bombay High Court Recruitment 2020 System Officer 111 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bombay-high-court-recruitment/"
+										href="bombay-high-court-recruitment/"
 										aria-label="More on Bombay High Court Recruitment 2020 System Officer 111 Posts">Read
 										more</a></p>
 							</div>
@@ -10203,10 +10203,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10216,7 +10216,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bombay-high-court-recruitment/#respond">Leave
+										href="bombay-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10227,7 +10227,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/calcutta-high-court-recruitment/"
+										href="calcutta-high-court-recruitment/"
 										rel="bookmark">Calcutta High Court Recruitment 2020 Assistant Registrar Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10237,7 +10237,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10251,7 +10251,7 @@
 									wishing to Calcutta High Court Jobs apply online through the official &#8230; <a
 										title="Calcutta High Court Recruitment 2020 Assistant Registrar Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/calcutta-high-court-recruitment/"
+										href="calcutta-high-court-recruitment/"
 										aria-label="More on Calcutta High Court Recruitment 2020 Assistant Registrar Post">Read
 										more</a></p>
 							</div>
@@ -10262,10 +10262,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10275,7 +10275,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/calcutta-high-court-recruitment/#respond">Leave
+										href="calcutta-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10286,7 +10286,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-district-judge-recruitment/"
+										href="patna-high-court-district-judge-recruitment/"
 										rel="bookmark">Patna High Court District Judge Recruitment 2020 Re-Open 27
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10295,7 +10295,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10309,7 +10309,7 @@
 									to Patna High Court Junior &#8230; <a
 										title="Patna High Court District Judge Recruitment 2020 Re-Open 27 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/patna-high-court-district-judge-recruitment/"
+										href="patna-high-court-district-judge-recruitment/"
 										aria-label="More on Patna High Court District Judge Recruitment 2020 Re-Open 27 Post">Read
 										more</a></p>
 							</div>
@@ -10320,10 +10320,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10333,7 +10333,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-district-judge-recruitment/#respond">Leave
+										href="patna-high-court-district-judge-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10344,7 +10344,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-high-court-recruitment/"
+										href="tripura-high-court-recruitment/"
 										rel="bookmark">Tripura High Court Recruitment 2020 Apply JJA Group C 13 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10353,7 +10353,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10367,7 +10367,7 @@
 									Tripura High Court Junior Administrative Assistant (Group &#8230; <a
 										title="Tripura High Court Recruitment 2020 Apply JJA Group C 13 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-high-court-recruitment/"
+										href="tripura-high-court-recruitment/"
 										aria-label="More on Tripura High Court Recruitment 2020 Apply JJA Group C 13 Post">Read
 										more</a></p>
 							</div>
@@ -10378,10 +10378,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10391,7 +10391,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-high-court-recruitment/#respond">Leave
+										href="tripura-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10402,7 +10402,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-high-court-recruitment/"
+										href="jk-high-court-recruitment/"
 										rel="bookmark">JK High Court Recruitment 2020 Apply Online Driver, Steno 28
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10412,7 +10412,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10427,7 +10427,7 @@
 									to applications &#8230; <a
 										title="JK High Court Recruitment 2020 Apply Online Driver, Steno 28 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-high-court-recruitment/"
+										href="jk-high-court-recruitment/"
 										aria-label="More on JK High Court Recruitment 2020 Apply Online Driver, Steno 28 Post">Read
 										more</a></p>
 							</div>
@@ -10438,10 +10438,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10451,7 +10451,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-high-court-recruitment/#comments">1
+										href="jk-high-court-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10462,7 +10462,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-job/"
+										href="allahabad-high-court-job/"
 										rel="bookmark">Allahabad High Court Recruitment 2020 Apply Peon, Steno Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10471,7 +10471,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10484,7 +10484,7 @@
 									recruitment of Peshkar, Peon &amp; Steno Vacancy at 06 Posts. Candidates wishing to
 									apply through the offline &#8230; <a
 										title="Allahabad High Court Recruitment 2020 Apply Peon, Steno Post"
-										class="read-more" href="https://www.sarkariresult.app/allahabad-high-court-job/"
+										class="read-more" href="allahabad-high-court-job/"
 										aria-label="More on Allahabad High Court Recruitment 2020 Apply Peon, Steno Post">Read
 										more</a></p>
 							</div>
@@ -10495,10 +10495,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10508,7 +10508,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-job/#comments">1
+										href="allahabad-high-court-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10519,7 +10519,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-attendant-recruitment/"
+										href="kerala-high-court-attendant-recruitment/"
 										rel="bookmark">Kerala High Court Attendant Recruitment 2020 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10527,7 +10527,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10540,7 +10540,7 @@
 									apply through the official website highcourtofkerala.nic.in recruitment 2020 for
 									Kerala High Court Jobs Vacancy at 10 posts &#8230; <a
 										title="Kerala High Court Attendant Recruitment 2020 Apply Now" class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-attendant-recruitment/"
+										href="kerala-high-court-attendant-recruitment/"
 										aria-label="More on Kerala High Court Attendant Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -10551,10 +10551,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10564,7 +10564,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-attendant-recruitment/#respond">Leave
+										href="kerala-high-court-attendant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10575,7 +10575,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-helper-recruitment/"
+										href="kerala-high-court-helper-recruitment/"
 										rel="bookmark">Kerala High Court Helper Admit Card 2020 Check Judicial Test
 										Schedule</a></h2>
 								<div class="entry-meta">
@@ -10585,7 +10585,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10599,7 +10599,7 @@
 									21 &#8230; <a
 										title="Kerala High Court Helper Admit Card 2020 Check Judicial Test Schedule"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-helper-recruitment/"
+										href="kerala-high-court-helper-recruitment/"
 										aria-label="More on Kerala High Court Helper Admit Card 2020 Check Judicial Test Schedule">Read
 										more</a></p>
 							</div>
@@ -10610,10 +10610,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10622,7 +10622,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-helper-recruitment/#respond">Leave
+										href="kerala-high-court-helper-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10633,7 +10633,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-sjm-jobs/"
+										href="allahabad-high-court-sjm-jobs/"
 										rel="bookmark">Allahabad High Court Recruitment 2020 Application Form SJM
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10642,7 +10642,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10656,7 +10656,7 @@
 									Magistrate Vacancy at 04 Posts. Candidates wishing to apply &#8230; <a
 										title="Allahabad High Court Recruitment 2020 Application Form SJM Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-sjm-jobs/"
+										href="allahabad-high-court-sjm-jobs/"
 										aria-label="More on Allahabad High Court Recruitment 2020 Application Form SJM Post">Read
 										more</a></p>
 							</div>
@@ -10667,10 +10667,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10680,7 +10680,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-sjm-jobs/#comments">1
+										href="allahabad-high-court-sjm-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10691,7 +10691,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/agcghc-recruitment/" rel="bookmark">AGCGHC
+										href="agcghc-recruitment/" rel="bookmark">AGCGHC
 										Recruitment 2020 Apply Asst Librarian, Typist 15 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10699,7 +10699,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10712,7 +10712,7 @@
 									Typist Vacancy at 15 posts. Candidates wishing to apply through the official website
 									AGCGHC advocategeneralcg.com recruitment 2020 for AGCGHC Jobs Vacancy at &#8230; <a
 										title="AGCGHC Recruitment 2020 Apply Asst Librarian, Typist 15 Post"
-										class="read-more" href="https://www.sarkariresult.app/agcghc-recruitment/"
+										class="read-more" href="agcghc-recruitment/"
 										aria-label="More on AGCGHC Recruitment 2020 Apply Asst Librarian, Typist 15 Post">Read
 										more</a></p>
 							</div>
@@ -10723,10 +10723,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10736,7 +10736,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/agcghc-recruitment/#respond">Leave a
+										href="agcghc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10747,7 +10747,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-jobs-vacancy/"
+										href="mp-high-court-jobs-vacancy/"
 										rel="bookmark">MP High Court Civil Judge Recruitment 2020 Apply CJ 252 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10757,7 +10757,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10771,7 +10771,7 @@
 									Court Civil Judge Jobs Vacancy &#8230; <a
 										title="MP High Court Civil Judge Recruitment 2020 Apply CJ 252 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-jobs-vacancy/"
+										href="mp-high-court-jobs-vacancy/"
 										aria-label="More on MP High Court Civil Judge Recruitment 2020 Apply CJ 252 Post">Read
 										more</a></p>
 							</div>
@@ -10782,10 +10782,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
-										Court Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="high-court-vacancy/" rel="category tag">High
+										Court Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10795,7 +10795,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-jobs-vacancy/#respond">Leave a
+										href="mp-high-court-jobs-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10806,7 +10806,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gauhati-high-court-driver-recruitment/"
+										href="gauhati-high-court-driver-recruitment/"
 										rel="bookmark">Gauhati High Court Driver Recruitment 2020 Apply Chauffeur
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10816,7 +10816,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10830,7 +10830,7 @@
 									2020 &#8211; Apply Online Chauffeur/Driver &#8230; <a
 										title="Gauhati High Court Driver Recruitment 2020 Apply Chauffeur Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gauhati-high-court-driver-recruitment/"
+										href="gauhati-high-court-driver-recruitment/"
 										aria-label="More on Gauhati High Court Driver Recruitment 2020 Apply Chauffeur Post">Read
 										more</a></p>
 							</div>
@@ -10841,10 +10841,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10854,7 +10854,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gauhati-high-court-driver-recruitment/#respond">Leave
+										href="gauhati-high-court-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10865,7 +10865,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court-group-d-final-result/"
+										href="allahabad-high-court-group-d-final-result/"
 										rel="bookmark">Allahabad High Court Group D Final Result 2020 Check Merit
 										List</a></h2>
 								<div class="entry-meta">
@@ -10874,7 +10874,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10887,7 +10887,7 @@
 									various Post IV Group D recruitment in the High Court of Allahabad, candidates who
 									&#8230; <a title="Allahabad High Court Group D Final Result 2020 Check Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/allahabad-high-court-group-d-final-result/"
+										href="allahabad-high-court-group-d-final-result/"
 										aria-label="More on Allahabad High Court Group D Final Result 2020 Check Merit List">Read
 										more</a></p>
 							</div>
@@ -10898,10 +10898,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10910,7 +10910,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court-group-d-final-result/#respond">Leave
+										href="allahabad-high-court-group-d-final-result/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10921,7 +10921,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-high-court-vacancy/"
+										href="kerala-high-court-vacancy/"
 										rel="bookmark">Kerala High Court Munsiff Magistrate Recruitment 2020 Apply</a>
 								</h2>
 								<div class="entry-meta">
@@ -10930,7 +10930,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10943,7 +10943,7 @@
 									High Court posts of Munsiff Magistrate can apply by 4 August 2020. Kerala High Court
 									Jobs &#8230; <a title="Kerala High Court Munsiff Magistrate Recruitment 2020 Apply"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-high-court-vacancy/"
+										href="kerala-high-court-vacancy/"
 										aria-label="More on Kerala High Court Munsiff Magistrate Recruitment 2020 Apply">Read
 										more</a></p>
 							</div>
@@ -10954,10 +10954,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10967,7 +10967,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-high-court-vacancy/#comments">1
+										href="kerala-high-court-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10978,7 +10978,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-hc-ro-ca-sep19/"
+										href="allahabad-hc-ro-ca-sep19/"
 										rel="bookmark">Allahabad High Court ARO, CA Typing Test Postponed 2020 Check</a>
 								</h2>
 								<div class="entry-meta">
@@ -10987,7 +10987,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11000,7 +11000,7 @@
 									Allahabad High Court has released the Notice for Typing Test Postponed of Review
 									Officer &#8230; <a
 										title="Allahabad High Court ARO, CA Typing Test Postponed 2020 Check"
-										class="read-more" href="https://www.sarkariresult.app/allahabad-hc-ro-ca-sep19/"
+										class="read-more" href="allahabad-hc-ro-ca-sep19/"
 										aria-label="More on Allahabad High Court ARO, CA Typing Test Postponed 2020 Check">Read
 										more</a></p>
 							</div>
@@ -11011,10 +11011,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11023,7 +11023,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-hc-ro-ca-sep19/#respond">Leave a
+										href="allahabad-hc-ro-ca-sep19/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11034,7 +11034,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court-recruitment/"
+										href="mp-high-court-recruitment/"
 										rel="bookmark">MP High Court Group D Recruitment 2020 MPHC Group D Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11042,7 +11042,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11056,7 +11056,7 @@
 									to apply for MPHC &#8230; <a
 										title="MP High Court Group D Recruitment 2020 MPHC Group D Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-high-court-recruitment/"
+										href="mp-high-court-recruitment/"
 										aria-label="More on MP High Court Group D Recruitment 2020 MPHC Group D Post">Read
 										more</a></p>
 							</div>
@@ -11067,10 +11067,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11080,7 +11080,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court-recruitment/#respond">Leave a
+										href="mp-high-court-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11091,7 +11091,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-job/"
+										href="rajasthan-high-court-job/"
 										rel="bookmark">Rajasthan High Court Recruitment 2020 Legal Researcher Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -11100,7 +11100,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11113,7 +11113,7 @@
 									apply by 27/06/2020. Rajasthan High Court Jobs Notification 2020 @Application Form
 									Legal Researcher 14 Posts Those Candidates &#8230; <a
 										title="Rajasthan High Court Recruitment 2020 Legal Researcher Post"
-										class="read-more" href="https://www.sarkariresult.app/rajasthan-high-court-job/"
+										class="read-more" href="rajasthan-high-court-job/"
 										aria-label="More on Rajasthan High Court Recruitment 2020 Legal Researcher Post">Read
 										more</a></p>
 							</div>
@@ -11124,10 +11124,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11137,7 +11137,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-job/#respond">Leave a
+										href="rajasthan-high-court-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11148,7 +11148,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/allahabad-high-court/"
+										href="allahabad-high-court/"
 										rel="bookmark">Allahabad High Court Magistrate Recruitment 2020 Application</a>
 								</h2>
 								<div class="entry-meta">
@@ -11157,7 +11157,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11170,7 +11170,7 @@
 									Magistrate, Special Metropolitan Magistrate Vacancy at 17 Posts. Candidates wishing
 									to apply for Magistrate posts of Allahabad High Court can apply by &#8230; <a
 										title="Allahabad High Court Magistrate Recruitment 2020 Application"
-										class="read-more" href="https://www.sarkariresult.app/allahabad-high-court/"
+										class="read-more" href="allahabad-high-court/"
 										aria-label="More on Allahabad High Court Magistrate Recruitment 2020 Application">Read
 										more</a></p>
 							</div>
@@ -11181,10 +11181,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11194,7 +11194,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/allahabad-high-court/#respond">Leave a
+										href="allahabad-high-court/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11205,7 +11205,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-vacancy/"
+										href="rajasthan-high-court-vacancy/"
 										rel="bookmark">Rajasthan High Court Clerk Recruitment 2020 Apply Online</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11213,7 +11213,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11227,7 +11227,7 @@
 									wishing to apply for the posts of JJA, JA, &#8230; <a
 										title="Rajasthan High Court Clerk Recruitment 2020 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-vacancy/"
+										href="rajasthan-high-court-vacancy/"
 										aria-label="More on Rajasthan High Court Clerk Recruitment 2020 Apply Online">Read
 										more</a></p>
 							</div>
@@ -11238,10 +11238,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11251,7 +11251,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-vacancy/#respond">Leave
+										href="rajasthan-high-court-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11262,7 +11262,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-jobs/" rel="bookmark">Patna
+										href="patna-high-court-jobs/" rel="bookmark">Patna
 										High Court District Judge Recruitment 2020 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11270,7 +11270,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11283,7 +11283,7 @@
 									High Court District can apply by 21 March 2020. Patna High Court District Judge
 									Recruitment 2020 &#8211; Apply Online 27 Posts &#8230; <a
 										title="Patna High Court District Judge Recruitment 2020 Apply Now"
-										class="read-more" href="https://www.sarkariresult.app/patna-high-court-jobs/"
+										class="read-more" href="patna-high-court-jobs/"
 										aria-label="More on Patna High Court District Judge Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -11294,10 +11294,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11307,7 +11307,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-jobs/#respond">Leave a
+										href="patna-high-court-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11318,7 +11318,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-hc-recruitment/"
+										href="rajasthan-hc-recruitment/"
 										rel="bookmark">Rajasthan High Court Translator Admit Card 2020 Exam Date</a>
 								</h2>
 								<div class="entry-meta">
@@ -11327,7 +11327,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11340,7 +11340,7 @@
 									Rajasthan HC Jaipur Jobs Those Candidates can download admit card. Rajasthan High
 									Court Admit Card 2020 &#8211; Check &#8230; <a
 										title="Rajasthan High Court Translator Admit Card 2020 Exam Date"
-										class="read-more" href="https://www.sarkariresult.app/rajasthan-hc-recruitment/"
+										class="read-more" href="rajasthan-hc-recruitment/"
 										aria-label="More on Rajasthan High Court Translator Admit Card 2020 Exam Date">Read
 										more</a></p>
 							</div>
@@ -11351,10 +11351,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/high-court-vacancy/" rel="category tag">High
+										href="high-court-vacancy/" rel="category tag">High
 										Court Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11363,7 +11363,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-hc-recruitment/#respond">Leave a
+										href="rajasthan-hc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11374,7 +11374,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/patna-high-court-vacancy/"
+										href="patna-high-court-vacancy/"
 										rel="bookmark">Patna High Court District Judge Recruitment 2020 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -11383,7 +11383,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11395,7 +11395,7 @@
 									District Judge Vacancy at 27 Posts. In The High Court of Judicature at Patna Jobs
 									Interested candidates can apply by 21 March 2020. Patna High Court Jobs 2020 &#8230;
 									<a title="Patna High Court District Judge Recruitment 2020 Apply Now"
-										class="read-more" href="https://www.sarkariresult.app/patna-high-court-vacancy/"
+										class="read-more" href="patna-high-court-vacancy/"
 										aria-label="More on Patna High Court District Judge Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -11406,10 +11406,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11419,7 +11419,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/patna-high-court-vacancy/#respond">Leave a
+										href="patna-high-court-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11430,7 +11430,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-high-court/" rel="bookmark">MP High Court
+										href="mp-high-court/" rel="bookmark">MP High Court
 										Recruitment 2020 Computer Operator 19 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11438,7 +11438,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11451,7 +11451,7 @@
 									High Court Interested candidates can apply by 16 March 2020. MP High Court Jobs 2020
 									&#8211; Online Apply &#8230; <a
 										title="MP High Court Recruitment 2020 Computer Operator 19 Post"
-										class="read-more" href="https://www.sarkariresult.app/mp-high-court/"
+										class="read-more" href="mp-high-court/"
 										aria-label="More on MP High Court Recruitment 2020 Computer Operator 19 Post">Read
 										more</a></p>
 							</div>
@@ -11462,10 +11462,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11475,7 +11475,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-high-court/#respond">Leave a
+										href="mp-high-court/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11486,7 +11486,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-jobs/"
+										href="rajasthan-high-court-jobs/"
 										rel="bookmark">Rajasthan High Court Stenographer Recruitment 2020 Apply</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11494,7 +11494,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11508,7 +11508,7 @@
 									can apply by 28 February 2020. Rajasthan High Court Jobs &#8230; <a
 										title="Rajasthan High Court Stenographer Recruitment 2020 Apply"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-high-court-jobs/"
+										href="rajasthan-high-court-jobs/"
 										aria-label="More on Rajasthan High Court Stenographer Recruitment 2020 Apply">Read
 										more</a></p>
 							</div>
@@ -11519,10 +11519,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11532,7 +11532,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court-jobs/#respond">Leave a
+										href="rajasthan-high-court-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11543,7 +11543,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-high-court/"
+										href="rajasthan-high-court/"
 										rel="bookmark">Rajasthan High Court Recruitment 2020 Apply Online 50 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -11552,7 +11552,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11565,7 +11565,7 @@
 									Researcher Vacancy can apply by 5 February 2020. Rajasthan High Court Legal
 									Researcher Jobs 2020 @Apply Online 50 &#8230; <a
 										title="Rajasthan High Court Recruitment 2020 Apply Online 50 Post"
-										class="read-more" href="https://www.sarkariresult.app/rajasthan-high-court/"
+										class="read-more" href="rajasthan-high-court/"
 										aria-label="More on Rajasthan High Court Recruitment 2020 Apply Online 50 Post">Read
 										more</a></p>
 							</div>
@@ -11576,10 +11576,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11589,7 +11589,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-high-court/#respond">Leave a
+										href="rajasthan-high-court/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11600,7 +11600,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-high-court-recruitment/"
+										href="gujarat-high-court-recruitment/"
 										rel="bookmark">Gujarat High Court Legal Asst Result 2020, Merit List Out</a>
 								</h2>
 								<div class="entry-meta">
@@ -11609,7 +11609,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11622,7 +11622,7 @@
 									Result 2020 &#8211; Download Legal Asst Merit List, Cut Off Marks Those Candidates
 									Are &#8230; <a title="Gujarat High Court Legal Asst Result 2020, Merit List Out"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-high-court-recruitment/"
+										href="gujarat-high-court-recruitment/"
 										aria-label="More on Gujarat High Court Legal Asst Result 2020, Merit List Out">Read
 										more</a></p>
 							</div>
@@ -11633,10 +11633,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11645,7 +11645,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-high-court-recruitment/#respond">Leave
+										href="gujarat-high-court-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11657,16 +11657,16 @@
 									<path
 										d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z" />
 								</svg></span> <span class="prev" title="Previous"><a
-									href="https://www.sarkariresult.app/high-court-vacancy/page/2/">Older
+									href="high-court-vacancy/page/2/">Older
 									posts</a></span>
 						</div>
 						<div class="nav-links"><span aria-current="page" class="page-numbers current"><span
 									class="screen-reader-text">Page</span>1</span>
 							<a class="page-numbers"
-								href="https://www.sarkariresult.app/high-court-vacancy/page/2/"><span
+								href="high-court-vacancy/page/2/"><span
 									class="screen-reader-text">Page</span>2</a>
 							<a class="next page-numbers"
-								href="https://www.sarkariresult.app/high-court-vacancy/page/2/">Next <span
+								href="high-court-vacancy/page/2/">Next <span
 									aria-hidden="true">&rarr;</span></a>
 						</div>
 					</nav>
@@ -11690,83 +11690,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -11934,7 +11934,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>
