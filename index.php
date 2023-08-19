@@ -13,20 +13,7 @@
 							</header>
 							<div class="entry-content" itemprop="text">
 								<p>
-									<center><strong><a title="Whatsapp Group Link"
-												href="https://chat.whatsapp.com/FgAUgOFuSn16fEq1m2L3yt"
-												rel="noopener noreferrer nofollow"><span
-													style="color: #ab183d;">Whatsapp Group Link</span></a></strong> ¦¦
-										<strong><a href="https://www.facebook.com/sarkariresultapp/"
-												rel="noopener noreferrer nofollow"><span style="color: #ab183d;">Sarkari
-													Result on Facebook</span></a></strong> ¦¦ <strong><a
-												href="https://feedburner.google.com/fb/a/mailverify?uri=SarkariResultApp"
-												rel="noopener noreferrer nofollow"><span style="color: #ab183d;">Sarkari
-													Result Jobs By Email</span></a></strong> ¦¦ <strong><a
-												href="https://play.google.com/store/apps/details?id=com.sarkariresultapp"
-												rel="noopener noreferrer nofollow"><span style="color: #ab183d;">Sarkari
-													Result Mobile App</span></a></strong>
-									</center>
+									<br>
 									<marquee scrollamount="4" behavior="alternate" height="22px"
 										onmouseover="this.stop();" onmouseout="this.start();">
 										<ul class="su-posts su-posts-list-loop">
@@ -88,7 +75,7 @@
 										</ul>
 									</marquee><br />
 								</p>
-								<div style="text-align: center;"><a class="twitter-follow-button"
+								<!-- <div style="text-align: center;"><a class="twitter-follow-button"
 										href="https://twitter.com/Sarkari_Result1?ref_src=twsrc%5Etfw" data-size="large"
 										data-show-count="false" rel="nofollow noopener">Follow @Sarkari_Result1</a>
 									<script data-minify="1" async src="assets/js/widgets.js" charset="utf-8"></script>
@@ -105,7 +92,7 @@
 													src="https://www.sarkariresult.app/wp-content/uploads/wp.png"
 													alt="Join WhatsApp Group"
 													style="width:27px;height:27px" /></noscript> Join WhatsApp
-											Group</span></a></div>
+											Group</span></a></div> -->
 								<p>
 								<div class="su-row">
 									<div class="su-column su-column-size-1-4">
