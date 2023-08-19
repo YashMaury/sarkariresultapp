@@ -19,7 +19,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -28,7 +28,7 @@
 							<div class="entry-content" itemprop="text">
 								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Sarkari Result
 									Bihar Board 10th Admit Card 2023 Live Update: BSEB Matric Admit Card 2023 Release:
-									<a href="https://www.sarkariresult.app/admit-card/">Bihar Board 10th Admit Card 2023
+									<a href="admit-card/">Bihar Board 10th Admit Card 2023
 										Download Link</a>: Check BSEB Class 10th Admit Card 2023
 									biharboardonline.bihar.gov.in Bihar Board 10th Admit Card 2023 kab Aayega Latest
 									News Bihar Board Matric Admit Card PDF BSEB Admit Card 2023 10th Link</p>
@@ -42,11 +42,11 @@
 									are present in the exam should go to the BSEB official website
 									www.biharboardonline.bihar.gov.in and check the Bihar Board Class 10th Admit Card
 									2023. The wait for BSEB Class 10 Admit Cards 2023, as well as <a
-										href="https://www.sarkariresult.app/admit-card/">BSEB 10th Admit Card 2023 kab
+										href="admit-card/">BSEB 10th Admit Card 2023 kab
 										aayega</a> will end Today Today (8 January) 2023)  and students will be able to
 									Check BSEB 10th Exam Admit Card 2023.</p>
 								<p>BSEB Board will announce the Matric Admit Card of <a
-										href="https://www.sarkariresult.app/admit-card/">BSEB Class 10 Admit Card
+										href="admit-card/">BSEB Class 10 Admit Card
 										2023</a> and Bihar 10th Class Admit Card 2023 those students who attend the exam
 									can see the BSEB Bihar Board Admit Card 2023 Class 10th and They can download easily
 									Bihar 10th Admit Card 2023. We are providing students with BSEB Class 10th 2023
@@ -54,7 +54,7 @@
 									Board 10th Admit Card 2023 to check their online Roll number, and Roll Code.</p>
 								<p>BSEB 10th Admit Card 2023 Sarkari Result, Bihar Board matric Admit Card direct link.
 									Bihar Board 10th Admit Card 2023 Exam Date and <a
-										href="https://www.sarkariresult.app/admit-card/">BSEB Exam Admit Card 2023 10th
+										href="admit-card/">BSEB Exam Admit Card 2023 10th
 										Class</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -75,13 +75,13 @@
 								website BSEB Matric Admit Card 2023 Exam Date. Here we have also provided a 10th Admit
 								Card 2023 Bihar Board kab aayega direct link for BSEB 10th Admit Card 2023 so that
 								students can easily reach the same as well as<a
-									href="https://www.sarkariresult.app/admit-card/"> 10th Admit Card 2023</a> by Bihar
+									href="admit-card/"> 10th Admit Card 2023</a> by Bihar
 								Board 10th Admit Card 2023 Arts, Commerce, Science, clicking on the same link BSEB Admit
 								Card 10th 2023.</p>
 								<h2>BSEB Class 10th Admit Card 2023 Release Bihar Board Matric Admit Card Check</h2>
 								<p>Sarkari Result Bihar Board 10th Admit Card 2023 Date All Students Check your BSEB
 									10th Class Admit Card 2023 and BSEB Class 10 2023 Admit Card Live Updates Here
-									Sarkari Result <a href="https://www.sarkariresult.app/admit-card/">10th 2023 Bihar
+									Sarkari Result <a href="admit-card/">10th 2023 Bihar
 										Board</a> here also check the BSEB Admit Card 2023 Date published on the BSEB
 									10th Admit Card 2023 kab aayega Click Here Today. BSEB 10 Class Admit Card 2023
 									Check Now BSEB 10th Admit Card 2023 available here when published
@@ -90,7 +90,7 @@
 									www.biharboardonline.com Class 10th/Matric Admit Card 2023
 									biharboardonline.bihar.gov.in 10th Notification for Bihar Board 10th Admit Card
 									Check from here Bihar Bihar Board 10th Admit Card 2023 Arts, Commerce, Science BSEB
-									Bihar Board Class <a href="https://www.sarkariresult.app/admit-card/">10th Matric
+									Bihar Board Class <a href="admit-card/">10th Matric
 										Exam Admit Card 2023</a> Bihar Board 10th Admit Card 2023 Kab Aayega Date:–</p>
 								<h3 style="text-align: center;">BSEB Bihar 10th Admit Card 2023 Download<br />
 									Check Bihar Board Class 10th Admit Card 2023<br />
@@ -146,7 +146,7 @@
 									<li><strong>Step 3: </strong>Enter your valid admit card details along with other
 										personal information.</li>
 									<li><strong>Step 4: </strong>Click Submit to get your <a
-											href="https://www.sarkariresult.app/" target="_blank"
+											href="" target="_blank"
 											rel="noopener noreferrer">BSEB Class 10th Admit Card 2023 details</a></li>
 									<li><strong>Step 5: </strong>Download your BSEB 10th Admit Card 2023.</li>
 									<li><strong>Step 6</strong>: Download Bihar 10th Class Admit Card 2023.</li>
@@ -176,8 +176,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -189,7 +189,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/niepid-ldc-stenographer-clerk-job/"
+												href="niepid-ldc-stenographer-clerk-job/"
 												rel="prev">NIEPID Recruitment 2023 Apply LDC, Stenographer, Clerk 39
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -201,7 +201,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/ssc-chsl-2023-notification-out/"
+												href="ssc-chsl-2023-notification-out/"
 												rel="next">SSC CHSL 2023 Notification Online Form Date, Registration
 												Link, 1600 Vacancies</a></span></div>
 								</nav>
@@ -234,7 +234,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53087">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53087">
 														<time datetime="2023-01-12T08:24:59+05:30"
 															itemprop="datePublished">
 															12 Jan 2023 at 08:24 </time>
@@ -273,7 +273,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53089">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53089">
 														<time datetime="2023-01-12T09:10:27+05:30"
 															itemprop="datePublished">
 															12 Jan 2023 at 09:10 </time>
@@ -312,7 +312,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53115">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53115">
 														<time datetime="2023-01-13T09:47:22+05:30"
 															itemprop="datePublished">
 															13 Jan 2023 at 09:47 </time>
@@ -351,7 +351,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53156">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53156">
 														<time datetime="2023-01-15T08:22:21+05:30"
 															itemprop="datePublished">
 															15 Jan 2023 at 08:22 </time>
@@ -390,7 +390,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53200">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53200">
 														<time datetime="2023-01-17T10:54:35+05:30"
 															itemprop="datePublished">
 															17 Jan 2023 at 10:54 </time>
@@ -429,7 +429,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53238">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53238">
 														<time datetime="2023-01-18T12:05:17+05:30"
 															itemprop="datePublished">
 															18 Jan 2023 at 12:05 </time>
@@ -468,7 +468,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-53311">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-53311">
 														<time datetime="2023-01-20T11:20:07+05:30"
 															itemprop="datePublished">
 															20 Jan 2023 at 11:20 </time>
@@ -507,7 +507,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-55994">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-55994">
 														<time datetime="2023-03-28T17:49:42+05:30"
 															itemprop="datePublished">
 															28 Mar 2023 at 17:49 </time>
@@ -546,7 +546,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/bihar-board-10th-admit-card-2023-download-link/#comment-56026">
+														href="bihar-board-10th-admit-card-2023-download-link/#comment-56026">
 														<time datetime="2023-03-29T13:14:50+05:30"
 															itemprop="datePublished">
 															29 Mar 2023 at 13:14 </time>
@@ -623,83 +623,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -884,7 +884,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

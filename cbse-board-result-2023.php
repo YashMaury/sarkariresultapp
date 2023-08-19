@@ -20,7 +20,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -29,12 +29,12 @@
 							<div class="entry-content" itemprop="text">
 								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Sarkari Result
 									CBSE Board 10th, 12th Result 2023 Out: CBSE Class 10, <a
-										href="https://www.sarkariresult.app/cbse-board-12th-result-2023/">12 Exam Result
+										href="cbse-board-12th-result-2023/">12 Exam Result
 										Live Update</a>: CBSE Result 2023 Class 10, 12 Check: CBSE Xth, XII Result 2023
 									Download CBSE Board Result 2023 Link <a
-										href="https://www.sarkariresult.app/results/">CBSE 10th, 12th DigiLocker Account
+										href="results/">CBSE 10th, 12th DigiLocker Account
 										Activation</a> Latest News: <a
-										href="https://www.sarkariresult.app/cbse-board-10th-result-2023/">CBSE Result
+										href="cbse-board-10th-result-2023/">CBSE Result
 										2023 Class 10 PDF</a> Download: CBSE Class 12 Result 2023 Name Wise<br />
 									<span style="color: #000000;"><strong>Short Information: </strong></span>CBSE Board
 									Result 2023 Latest Update: Exam Result of Xth, XII/ 10th, 12th has been released on
@@ -45,22 +45,22 @@
 									(10th) and 15/02/2023 to 05/04/2023 (12th). CBSE Class 10th Result 2023 has been
 									declared today through the official website cbse.gov.in. Out of a total of 3883710,
 									2186940 students of class 10 and 1696770 students of class 12 appeared in the
-									examination, check <a href="https://www.sarkariresult.app/results/">CBSE Board
+									examination, check <a href="results/">CBSE Board
 										Result online</a> at cbse.nic.in by entering your roll number and required
 									information and download the latest updates of CBSE 10th Result 2023. Sarkari Result
 									CBSE Result 2023 Class 10th, 12th link has been activated. Sarkari Result <a
-										href="https://www.sarkariresult.app/cbse-board-12th-result-2023/">CBSE 10th,
+										href="cbse-board-12th-result-2023/">CBSE 10th,
 										12th Exam Result 2023</a> link has been activated. All the students now have
 									more details for the CBSE Result 2023 Class 10th, 12th as well as <a
-										href="https://www.sarkariresult.app/cbse-board-10th-result-2023/">CBSE Board
+										href="cbse-board-10th-result-2023/">CBSE Board
 										10th Result 2023 Name Wise</a> given below CBSE Board Class 10 and Class 12
 									Result 2023.
 								</p>
 								<h2>CBSE 10th, 12th Result 2023 DigiLocker Account Activation Download cbse.nic.in 10,
 									12 Class Result 2023 Roll No &amp; Name Wise</h2>
 								<p>Sarkari Result CBSE Board 10th, 12th Result 2023 Date All Students Check your <a
-										href="https://www.sarkariresult.app/results/">CBSE 10th Class Result 2023
-										Release</a> and<a href="https://www.sarkariresult.app/results/"> CBSE Class 12
+										href="results/">CBSE 10th Class Result 2023
+										Release</a> and<a href="results/"> CBSE Class 12
 										2023 Result</a> Here Sarkari Result CBSE Result 2023. here also check the CBSE
 									10th 2023 Result Latest Updates published on the CBSE 10th Exam Result 2023 Click
 									Here Today. CBSE 10th Result 2023 Name Wise Check Now Sarkari Result CBSE 10th 12th
@@ -68,7 +68,7 @@
 									10th Result 2023 CBSE Online check official website cbse.nic.in CBSE Class X, XII
 									2023 Result | cbse.gov.in 10th, 12th Notification, for CBSE Class 10th Result 2023
 									Check from here <a
-										href="https://www.sarkariresult.app/cbse-board-12th-result-2023/">CBSE 12th
+										href="cbse-board-12th-result-2023/">CBSE 12th
 										Result 2023</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -93,17 +93,17 @@
 								<ul>
 									<li>Time Table Issued: <strong>2/02/2023.</strong></li>
 									<li>Revised Time Table Issued: <strong>29/12/2022.</strong></li>
-									<li>10th <a href="https://www.sarkariresult.app/cbse-board-time-table-2023/">(High
+									<li>10th <a href="cbse-board-time-table-2023/">(High
 											School) Exam Date Sheet</a>: <strong>15/02/2023 to 21/03/2023.</strong></li>
 									<li>12th <a
-											href="https://www.sarkariresult.app/cbse-board-time-table-2023/">(Intermediate)
+											href="cbse-board-time-table-2023/">(Intermediate)
 											Exam Date Sheet</a> Between: <strong>15/02/2023 to 05/04/2023.</strong></li>
 									<li>CBSE Digilocker Account Activate Through Security Pin :
 										<strong>10/05/2023</strong></li>
-									<li>Class <a href="https://www.sarkariresult.app/cbse-board-12th-result-2023/">12th
+									<li>Class <a href="cbse-board-12th-result-2023/">12th
 											Result</a> Declared Date:<strong> 12 May 2023 at 11:00 AM (Today).</strong>
 									</li>
-									<li>Class <a href="https://www.sarkariresult.app/cbse-board-10th-result-2023/">10th
+									<li>Class <a href="cbse-board-10th-result-2023/">10th
 											Result</a> Declare Date: <strong>12 May 2023 at 2:00 PM (Toady).</strong>
 									</li>
 								</ul>
@@ -444,7 +444,7 @@
 											12th Result 2023</strong></span></p>
 								<ul>
 									<li>Step 1: Visit the Official site CBSE Board Result 2023.</li>
-									<li>Step 2: Click on the <a href="https://www.sarkariresult.app/results/">CBSE
+									<li>Step 2: Click on the <a href="results/">CBSE
 											Result direct link</a> cbse.gov.in available on the home page.</li>
 									<li>Step 3: A new page will open where candidates can click on the CBSE Board 10th,
 										12th Result 2023 links.</li>
@@ -464,7 +464,7 @@
 									</div>
 									<li>Step 4: For Result for CBSE Class 10th and 12th Enter the required details and
 										click on submit.</li>
-									<li>Step 5: Your <a href="https://www.sarkariresult.app/results/">Secondary School
+									<li>Step 5: Your <a href="results/">Secondary School
 											Examination (Class X) 2023 Result</a> will be displayed on the screen.<br />
 										Step 7: Check the CBSE Class 10, 12 Results 2023 and download the CBSE 10th
 										Result 2023 and CBSE 12th Result 2023 page.</li>
@@ -479,23 +479,23 @@
 								<ul>
 									<li style="margin-left: 23px;"><b>CBSE Class 10th Result Declared </b>on <span
 											style="color: #ff0000;">Today (12/05/2023):</span> <a
-											href="https://www.sarkariresult.app/cbse-board-10th-result-2023/">Click
+											href="cbse-board-10th-result-2023/">Click
 											Here</a></li>
 								</ul>
 								<ul>
 									<li style="margin-left: 23px;"><b>CBSE Class 10th Class Topper List: </b><a
-											href="https://www.sarkariresult.app/cbse-board-10th-result-2023/">Click
+											href="cbse-board-10th-result-2023/">Click
 											Here</a></li>
 								</ul>
 								<ul>
 									<li style="margin-left: 23px;"><b>CBSE 12th Class Result Declared </b>on <span
 											style="color: #ff0000;">Today (12/05/2023)</span> <a
-											href="https://www.sarkariresult.app/cbse-board-12th-result-2023/">Click
+											href="cbse-board-12th-result-2023/">Click
 											Here</a></li>
 								</ul>
 								<ul>
 									<li style="margin-left: 23px;"><b>CBSE 12th Class Topper List: </b><a
-											href="https://www.sarkariresult.app/cbse-board-12th-result-2023/">Click
+											href="cbse-board-12th-result-2023/">Click
 											Here</a></li>
 								</ul>
 								<ul>
@@ -533,10 +533,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/10th-12th-result/"
+										href="10th-12th-result/"
 										rel="category tag">10th/12th Result</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/sarkari-result/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="sarkari-result/"
 										rel="category tag">Results</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -548,7 +548,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/esic-kerala-doctor-job/"
+												href="esic-kerala-doctor-job/"
 												rel="prev">ESIC Kerala Recruitment 2023 Walk In Interview Doctor 24
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -560,7 +560,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/cbse-board-10th-result-2023/"
+												href="cbse-board-10th-result-2023/"
 												rel="next">CBSE Board 10th Result 2023 Check Online CBSE Class 10 Result
 												Topper List</a></span></div>
 								</nav>
@@ -627,83 +627,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -888,7 +888,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

@@ -20,7 +20,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -58,1245 +58,1245 @@
 												<td>
 													<ul class="su-posts su-posts-list-loop">
 														<li id="su-post-163330" class="su-post"><a
-																href="https://www.sarkariresult.app/khordha-court-recruitment/">Khordha
+																href="khordha-court-recruitment/">Khordha
 																Court Recruitment 2023 Apply Now Group C 39 Post</a>
 															<span style="color:#ab183d">Last Date: 1 September 2023
 															</span>
 														</li>
 														<li id="su-post-163122" class="su-post"><a
-																href="https://www.sarkariresult.app/gurdaspur-court-stenographer-recruitment/">Gurdaspur
+																href="gurdaspur-court-stenographer-recruitment/">Gurdaspur
 																Court Stenographer Recruitment 2023 Apply Form 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 August 2023
 															</span>
 														</li>
 														<li id="su-post-160746" class="su-post"><a
-																href="https://www.sarkariresult.app/bilaspur-court-driver-recruitment/">Bilaspur
+																href="bilaspur-court-driver-recruitment/">Bilaspur
 																Court Recruitment 2023 Waterman, Driver, Sweeper 16
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 July 2023 </span>
 														</li>
 														<li id="su-post-159973" class="su-post"><a
-																href="https://www.sarkariresult.app/raigarh-court-peon-driver-job/">District
+																href="raigarh-court-peon-driver-job/">District
 																Court Raigarh Recruitment 2023 Apply Peon, Driver
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 June 2023 </span>
 														</li>
 														<li id="su-post-159758" class="su-post"><a
-																href="https://www.sarkariresult.app/namakkal-court-peon-recruitment/">Namakkal
+																href="namakkal-court-peon-recruitment/">Namakkal
 																Court Recruitment 2023 Asst, Peon, Receptionist Post</a>
 															<span style="color:#ab183d">Last Date: 16 June 2023 </span>
 														</li>
 														<li id="su-post-158940" class="su-post"><a
-																href="https://www.sarkariresult.app/palwal-court-driver-jobs-apply-now/">Palwal
+																href="palwal-court-driver-jobs-apply-now/">Palwal
 																Court Recruitment 2023 Application Form Driver 02
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 June 2023 </span>
 														</li>
 														<li id="su-post-158931" class="su-post"><a
-																href="https://www.sarkariresult.app/jhajjar-court-lift-operator-job/">Jhajjar
+																href="jhajjar-court-lift-operator-job/">Jhajjar
 																Court Recruitment 2023 Apply Lift Operator 07 Post</a>
 															<span style="color:#ab183d">Last Date: 6 June 2023 </span>
 														</li>
 														<li id="su-post-123293" class="su-post"><a
-																href="https://www.sarkariresult.app/biswanath-court-peon-recruitment/">Biswanath
+																href="biswanath-court-peon-recruitment/">Biswanath
 																Court Peon Recruitment 2023 Driver, Chowkidar 07
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 February 2023
 															</span>
 														</li>
 														<li id="su-post-157751" class="su-post"><a
-																href="https://www.sarkariresult.app/mysore-court-peon-recruitment/">Mysore
+																href="mysore-court-peon-recruitment/">Mysore
 																Court Recruitment 2023 Peon, Stenographer, Typist 59
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 July 2023 </span>
 														</li>
 														<li id="su-post-147535" class="su-post"><a
-																href="https://www.sarkariresult.app/eastkhasi-hills-district-court-recruitment/">East
+																href="eastkhasi-hills-district-court-recruitment/">East
 																Khasi Hills Court Recruitment 2023 Peon, Driver, Mali 18
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 April 2023.
 															</span>
 														</li>
 														<li id="su-post-139729" class="su-post"><a
-																href="https://www.sarkariresult.app/balrampur-ramanujganj-balrampur-court/">Balrampur
+																href="balrampur-ramanujganj-balrampur-court/">Balrampur
 																Court Recruitment 2023 Waterman, Sweeper 14 Post</a>
 															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-139640" class="su-post"><a
-																href="https://www.sarkariresult.app/faridabad-court/">Faridabad
+																href="faridabad-court/">Faridabad
 																Court Interview List 2023 Release Lift Operator 11
 																Post</a>
 															</span></li>
 														<li id="su-post-138355" class="su-post"><a
-																href="https://www.sarkariresult.app/barnala-court-peon-recruitment/">Barnala
+																href="barnala-court-peon-recruitment/">Barnala
 																Court Peon Recruitment 2023 Application Form 03
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 10 March 2023 </span>
 														</li>
 														<li id="su-post-136052" class="su-post"><a
-																href="https://www.sarkariresult.app/tarn-taran-court-notification/">Tarn
+																href="tarn-taran-court-notification/">Tarn
 																Taran Court Recruitment 2023 Peon, Process Server 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 March 2023 </span>
 														</li>
 														<li id="su-post-131035" class="su-post"><a
-																href="https://www.sarkariresult.app/belagavi-court-application-form/">Belagavi
+																href="belagavi-court-application-form/">Belagavi
 																Court Recruitment 2023 Process Server, Peon Posts</a>
 															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-133431" class="su-post"><a
-																href="https://www.sarkariresult.app/panipat-court-vacancy/">Panipat
+																href="panipat-court-vacancy/">Panipat
 																Court Recruitment 2023 Peon, Chowkidar, Waterman 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-135248" class="su-post"><a
-																href="https://www.sarkariresult.app/chandigarh-court-peon-recruitment/">Chandigarh
+																href="chandigarh-court-peon-recruitment/">Chandigarh
 																Court Recruitment 2023 Peon, Process Server 02 Post</a>
 															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-126460" class="su-post"><a
-																href="https://www.sarkariresult.app/hazaribag-court-recruitment/">Hazaribag
+																href="hazaribag-court-recruitment/">Hazaribag
 																Court Recruitment 2023 Peon, Driver, Sweeper 102
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-126622" class="su-post"><a
-																href="https://www.sarkariresult.app/west-singhbhum-court-recruitment/">West
+																href="west-singhbhum-court-recruitment/">West
 																Singhbhum District Court Recruitment 2023 Apply Driver
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-126509" class="su-post"><a
-																href="https://www.sarkariresult.app/dumka-court-recruitment/">Dumka
+																href="dumka-court-recruitment/">Dumka
 																Court Recruitment 2023 Apply Peon, Sweeper, Driver 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 February 2023
 															</span>
 														</li>
 														<li id="su-post-126818" class="su-post"><a
-																href="https://www.sarkariresult.app/east-singhbhum-court-recruitment/">East
+																href="east-singhbhum-court-recruitment/">East
 																Singhbhum Court Recruitment 2023 Apply Peon, Driver 46
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 February 2023
 															</span>
 														</li>
 														<li id="su-post-126336" class="su-post"><a
-																href="https://www.sarkariresult.app/ambala-court-process-server-jobs/">Ambala
+																href="ambala-court-process-server-jobs/">Ambala
 																Court Process Server Recruitment 2023 Apply Form</a>
 															<span style="color:#ab183d">Last Date: 15 February 2023
 															</span>
 														</li>
 														<li id="su-post-129922" class="su-post"><a
-																href="https://www.sarkariresult.app/surat-court-jobs/">Surat
+																href="surat-court-jobs/">Surat
 																Court Recruitment 2023 Application Form Stenographer
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 February 2023
 															</span>
 														</li>
 														<li id="su-post-126319" class="su-post"><a
-																href="https://www.sarkariresult.app/bhiwani-court-peon-recruitment/">Bhiwani
+																href="bhiwani-court-peon-recruitment/">Bhiwani
 																Court Recruitment 2023 Apply Peon, Process Server 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 February 2023
 															</span>
 														</li>
 														<li id="su-post-130020" class="su-post"><a
-																href="https://www.sarkariresult.app/kapurthala-court-notification/">Kapurthala
+																href="kapurthala-court-notification/">Kapurthala
 																Court Recruitment 2023 Process Server, Peon 08 Post</a>
 															<span style="color:#ab183d">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-127362" class="su-post"><a
-																href="https://www.sarkariresult.app/rewari-court-peon-recruitment/">Rewari
+																href="rewari-court-peon-recruitment/">Rewari
 																Court Peon Recruitment 2023 Apply Process Server 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-126800" class="su-post"><a
-																href="https://www.sarkariresult.app/gumla-court-vacancy/">Gumla
+																href="gumla-court-vacancy/">Gumla
 																Court Recruitment 2023 Application Form Peon, Drive 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-126528" class="su-post"><a
-																href="https://www.sarkariresult.app/dumka-court-vacancy/">Bareilly
+																href="dumka-court-vacancy/">Bareilly
 																Court Recruitment 2023 Assistant, Stenographer 62
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-128349" class="su-post"><a
-																href="https://www.sarkariresult.app/jashpur-court-notification/">Jashpur
+																href="jashpur-court-notification/">Jashpur
 																Court Recruitment 2023 Steno, Typist, Writer 15 Post</a>
 															<span style="color:#ab183d">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-128795" class="su-post"><a
-																href="https://www.sarkariresult.app/sangrur-court-peon-vacancy/">Sangrur
+																href="sangrur-court-peon-vacancy/">Sangrur
 																Court Recruitment 2023 Apply Peon, Process Server 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-124623" class="su-post"><a
-																href="https://www.sarkariresult.app/pratapgarh-court-recruitment/">Pratapgarh
+																href="pratapgarh-court-recruitment/">Pratapgarh
 																Court Recruitment 2023 Sweeper cum Farrash 06 Post</a>
 															<span style="color:#ab183d">Last Date: 25 January 2023
 															</span>
 														</li>
 														<li id="su-post-124343" class="su-post"><a
-																href="https://www.sarkariresult.app/bathinda-court-process-server-recruitment/">Bathinda
+																href="bathinda-court-process-server-recruitment/">Bathinda
 																Court Process Server Recruitment 2023 Apply Peon
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 January 2023
 															</span>
 														</li>
 														<li id="su-post-124292" class="su-post"><a
-																href="https://www.sarkariresult.app/yamunanagar-court-peon-vacancy/">Yamunanagar
+																href="yamunanagar-court-peon-vacancy/">Yamunanagar
 																Court Peon Recruitment 2023 Process Server, Sweeper
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-123291" class="su-post"><a
-																href="https://www.sarkariresult.app/bajali-court-clerk-recruitment/">Bajali
+																href="bajali-court-clerk-recruitment/">Bajali
 																Court Clerk Recruitment 2023 Apply Process Server 05
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 January 2023
 															</span>
 														</li>
 														<li id="su-post-123285" class="su-post"><a
-																href="https://www.sarkariresult.app/sirsa-court-peon-recruitment/">Sirsa
+																href="sirsa-court-peon-recruitment/">Sirsa
 																Court Recruitment 2023 Apply Peon, Process Server 10
 																Post</a>
 															</span></li>
 														<li id="su-post-122285" class="su-post"><a
-																href="https://www.sarkariresult.app/bajali-court-peon-recruitment/">Bajali
+																href="bajali-court-peon-recruitment/">Bajali
 																Court Peon Recruitment 2023 Application Form Chowkidar
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 January 2023
 															</span>
 														</li>
 														<li id="su-post-119565" class="su-post"><a
-																href="https://www.sarkariresult.app/rupnagar-court-process-server-recruitment/">Rupnagar
+																href="rupnagar-court-process-server-recruitment/">Rupnagar
 																Court Process Server Recruitment 2022 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-119218" class="su-post"><a
-																href="https://www.sarkariresult.app/gurugram-court-clerk-job/">Gurugram
+																href="gurugram-court-clerk-job/">Gurugram
 																Court Clerk Recruitment 2022 Application Form 13
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-119069" class="su-post"><a
-																href="https://www.sarkariresult.app/tarn-taran-district-court-online-form/">Tarn
+																href="tarn-taran-district-court-online-form/">Tarn
 																Taran Court Recruitment 2022 Application Form 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-118559" class="su-post"><a
-																href="https://www.sarkariresult.app/patiala-court-lift-operator-bharti/">Patiala
+																href="patiala-court-lift-operator-bharti/">Patiala
 																Court Recruitment 2022 Apply Now Lift Operator 02
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 December 2022
 															</span>
 														</li>
 														<li id="su-post-118259" class="su-post"><a
-																href="https://www.sarkariresult.app/barnala-court-clerk-vacancy/">Barnala
+																href="barnala-court-clerk-vacancy/">Barnala
 																Court Clerk Recruitment 2022 Application Form 05
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-117428" class="su-post"><a
-																href="https://www.sarkariresult.app/kannauj-court-recruitment/">Kannauj
+																href="kannauj-court-recruitment/">Kannauj
 																Court Recruitment 2022 Apply Now Stenographer Post</a>
 															<span style="color:#ab183d">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-117080" class="su-post"><a
-																href="https://www.sarkariresult.app/medak-court-recruitment/">Medak
+																href="medak-court-recruitment/">Medak
 																Court Recruitment 2022 Driver, Asst, Stenogarpher 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 November 2022
 															</span>
 														</li>
 														<li id="su-post-116951" class="su-post"><a
-																href="https://www.sarkariresult.app/hojai-court-recruitment/">Hojai
+																href="hojai-court-recruitment/">Hojai
 																Court Recruitment 2022 Peon, Driver, Steno, TA 07
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116920" class="su-post"><a
-																href="https://www.sarkariresult.app/manipuri-district-court-vacancy/">Manipuri
+																href="manipuri-district-court-vacancy/">Manipuri
 																Court Recruitment 2022 Clerk &#038; Stenographer 37
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116923" class="su-post"><a
-																href="https://www.sarkariresult.app/jharsuguda-court-recruitment/">Jharsuguda
+																href="jharsuguda-court-recruitment/">Jharsuguda
 																Court Recruitment 2022 Application Form Driver Post</a>
 															<span style="color:#ab183d">Last Date: 5 December 2022
 															</span>
 														</li>
 														<li id="su-post-116611" class="su-post"><a
-																href="https://www.sarkariresult.app/biswanath-court-vacancy/">Biswanath
+																href="biswanath-court-vacancy/">Biswanath
 																Court Recruitment 2022 Driver, Peon, Chowkidar 04
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 November 2022
 															</span>
 														</li>
 														<li id="su-post-114431" class="su-post"><a
-																href="https://www.sarkariresult.app/jashpur-court-recruitment/">Jashpur
+																href="jashpur-court-recruitment/">Jashpur
 																Court Recruitment 2022 Steno,Typist, Accountant 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 October 2022
 															</span>
 														</li>
 														<li id="su-post-114395" class="su-post"><a
-																href="https://www.sarkariresult.app/fazilka-court-peon-vacancy/">Fazilka
+																href="fazilka-court-peon-vacancy/">Fazilka
 																Court Peon Recruitment 2022 Apply Now Class-IV 04
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 October 2022
 															</span>
 														</li>
 														<li id="su-post-113067" class="su-post"><a
-																href="https://www.sarkariresult.app/bajali-court-recruitment/">Bajali
+																href="bajali-court-recruitment/">Bajali
 																Court Recruitment 2022 Application Form Driver 02
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 October 2022
 															</span>
 														</li>
 														<li id="su-post-113062" class="su-post"><a
-																href="https://www.sarkariresult.app/mansa-court-clerk-recruitment/">Mansa
+																href="mansa-court-clerk-recruitment/">Mansa
 																Court Clerk Recruitment 2022 Application Form 09
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 October 2022
 															</span>
 														</li>
 														<li id="su-post-112672" class="su-post"><a
-																href="https://www.sarkariresult.app/chikkamagaluru-court-peon-recruitment/">Chikkamagaluru
+																href="chikkamagaluru-court-peon-recruitment/">Chikkamagaluru
 																Court Recruitment 2022 Application Form Peon Post</a>
 															<span style="color:#ab183d">Last Date: 15 September 2022
 															</span>
 														</li>
 														<li id="su-post-112414" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-civil-court-advt-01-04-2022/">Bihar
+																href="bihar-civil-court-advt-01-04-2022/">Bihar
 																Civil Court Recruitment 2022 Apply 7692 Clerk, Peon
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 October 2022
 															</span>
 														</li>
 														<li id="su-post-111985" class="su-post"><a
-																href="https://www.sarkariresult.app/amritsar-court-peon-recruitment/">Amritsar
+																href="amritsar-court-peon-recruitment/">Amritsar
 																Court Peon Recruitment 2022 Application Form</a>
 															<span style="color:#ab183d">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111484" class="su-post"><a
-																href="https://www.sarkariresult.app/south-sikkim-court-recruitment/">South
+																href="south-sikkim-court-recruitment/">South
 																Sikkim Court Recruitment 2022 Apply Group C &#038; D 34
 																Post</a>
 															<span style="color:#ab183d">Last Date: 19 September 2022
 															</span>
 														</li>
 														<li id="su-post-111462" class="su-post"><a
-																href="https://www.sarkariresult.app/gangtok-court-recruitment/">Gangtok
+																href="gangtok-court-recruitment/">Gangtok
 																Court Recruitment 2022 Apply Now 29 Group C &#038; D
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111422" class="su-post"><a
-																href="https://www.sarkariresult.app/nagapattinam-court-recruitment/">Nagapattinam
+																href="nagapattinam-court-recruitment/">Nagapattinam
 																Court Recruitment 2022 Typist, Steno Typist 22 Post</a>
 															<span style="color:#ab183d">Last Date: 9 September 2022
 															</span>
 														</li>
 														<li id="su-post-109650" class="su-post"><a
-																href="https://www.sarkariresult.app/mansa-court-lift-operator-recruitment/">Mansa
+																href="mansa-court-lift-operator-recruitment/">Mansa
 																Court Recruitment 2022 Application Form Lift Operator
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 August 2022
 															</span>
 														</li>
 														<li id="su-post-110667" class="su-post"><a
-																href="https://www.sarkariresult.app/barnala-court-clerk-recruitment/">Barnala
+																href="barnala-court-clerk-recruitment/">Barnala
 																Court Clerk Recruitment 2022 Application Form 12
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 3 September 2022
 															</span>
 														</li>
 														<li id="su-post-110400" class="su-post"><a
-																href="https://www.sarkariresult.app/ramnagar-court-peon-recruitment/">Ramnagar
+																href="ramnagar-court-peon-recruitment/">Ramnagar
 																Court Recruitment 2022 Process Server, Peon 27 Post</a>
 															<span style="color:#ab183d">Last Date: 20 September 2022
 															</span>
 														</li>
 														<li id="su-post-109420" class="su-post"><a
-																href="https://www.sarkariresult.app/gurdaspur-court-vacancy/">Gurdaspur
+																href="gurdaspur-court-vacancy/">Gurdaspur
 																Court Recruitment 2022 Clerk, Lift Operator 32 Post</a>
 															</span></li>
 														<li id="su-post-109158" class="su-post"><a
-																href="https://www.sarkariresult.app/kalahandi-court-vacancy/">Kalahandi
+																href="kalahandi-court-vacancy/">Kalahandi
 																Court Recruitment 2022 Clerk, Steno, Typist 27 Post</a>
 															<span style="color:#ab183d">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-109153" class="su-post"><a
-																href="https://www.sarkariresult.app/cuttack-court-recruitment-apply/">Cuttack
+																href="cuttack-court-recruitment-apply/">Cuttack
 																Court Recruitment 2022 Apply 29 Clerk, Steno, Typist
 																Post</a>
 															<span style="color:#ab183d">Last Date: 29 August 2022
 															</span>
 														</li>
 														<li id="su-post-109141" class="su-post"><a
-																href="https://www.sarkariresult.app/angul-court-recruitment-apply/">Angul
+																href="angul-court-recruitment-apply/">Angul
 																Court Recruitment 2022 Apply Clerk, Steno, Typist 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 September 2022
 															</span>
 														</li>
 														<li id="su-post-108925" class="su-post"><a
-																href="https://www.sarkariresult.app/balasore-court-vacancy/">Balasore
+																href="balasore-court-vacancy/">Balasore
 																Court Recruitment 2022 Clerk, Steno, Typist 34 Post</a>
 															<span style="color:#ab183d">Last Date: 27 August 2022
 															</span>
 														</li>
 														<li id="su-post-108912" class="su-post"><a
-																href="https://www.sarkariresult.app/kendrapara-court-recruitment/">Kendrapara
+																href="kendrapara-court-recruitment/">Kendrapara
 																Court Recruitment 2022 Clerk, Typist, Steno 24 Post</a>
 															<span style="color:#ab183d">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-108645" class="su-post"><a
-																href="https://www.sarkariresult.app/koraput-court/">Koraput
+																href="koraput-court/">Koraput
 																Court Recruitment 2022 Apply 16 Clerk, Steno, Typist
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 August 2022
 															</span>
 														</li>
 														<li id="su-post-108614" class="su-post"><a
-																href="https://www.sarkariresult.app/mayurbhanj-court-vacancy/">Mayurbhanj
+																href="mayurbhanj-court-vacancy/">Mayurbhanj
 																Court Recruitment 2022 Clerk, Steno, Typist 36 Post</a>
 															<span style="color:#ab183d">Last Date: 26 Augst 2022 </span>
 														</li>
 														<li id="su-post-108596" class="su-post"><a
-																href="https://www.sarkariresult.app/ganjam-court-clerk-recruitment/">Ganjam
+																href="ganjam-court-clerk-recruitment/">Ganjam
 																Court Clerk Recruitment 2022 Apply 54 Steno, Typist
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 August 2022
 															</span>
 														</li>
 														<li id="su-post-107622" class="su-post"><a
-																href="https://www.sarkariresult.app/dhenkanal-court-clerk-recruitment/">Dhenkanal
+																href="dhenkanal-court-clerk-recruitment/">Dhenkanal
 																Court Recruitment 2022 Apply Now Clerk, Steno 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 19 August 2022
 															</span>
 														</li>
 														<li id="su-post-104521" class="su-post"><a
-																href="https://www.sarkariresult.app/amravati-court-recruitment/">Amravati
+																href="amravati-court-recruitment/">Amravati
 																Court Recruitment 2022 Application Form 10 Sweeper
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-105895" class="su-post"><a
-																href="https://www.sarkariresult.app/chandigarh-court-stenographer-recruitment/">Chandigarh
+																href="chandigarh-court-stenographer-recruitment/">Chandigarh
 																Court Stenographer Recruitment 2022 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 22 July 2022 </span>
 														</li>
 														<li id="su-post-71694" class="su-post"><a
-																href="https://www.sarkariresult.app/kanker-court-vacancy/">Kanker
+																href="kanker-court-vacancy/">Kanker
 																Court Recruitment 2022 Apply Now Peon, Driver 02
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-106518" class="su-post"><a
-																href="https://www.sarkariresult.app/dlsa-theni-recruitment/">DLSA
+																href="dlsa-theni-recruitment/">DLSA
 																Theni Recruitment 2022 Peon, Clerk, DEO, Assistant 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-104101" class="su-post"><a
-																href="https://www.sarkariresult.app/south-goa-court-recruitment/">South
+																href="south-goa-court-recruitment/">South
 																Goa Court Recruitment 2022 Peon, Driver, Clerk 113
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-106831" class="su-post"><a
-																href="https://www.sarkariresult.app/puri-court-vacancy/">Puri
+																href="puri-court-vacancy/">Puri
 																Court Recruitment 2022 Apply Steno, Clerk, Typist 28
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 August 2022 </span>
 														</li>
 														<li id="su-post-102660" class="su-post"><a
-																href="https://www.sarkariresult.app/kondagaon-court-sweeper-recruitment/">Kondagaon
+																href="kondagaon-court-sweeper-recruitment/">Kondagaon
 																Court Sweeper Recruitment 2022 Apply Now 12 Post</a>
 															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-106471" class="su-post"><a
-																href="https://www.sarkariresult.app/bathinda-court-peon-vacancy/">Bathinda
+																href="bathinda-court-peon-vacancy/">Bathinda
 																Court Peon Recruitment 2022 Application Form 05 Post</a>
 															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-100169" class="su-post"><a
-																href="https://www.sarkariresult.app/kolar-court-peon-recruitment/">Kolar
+																href="kolar-court-peon-recruitment/">Kolar
 																Court Recruitment 2022 Apply Online Peon, Steno 32
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 July 2022 </span>
 														</li>
 														<li id="su-post-100323" class="su-post"><a
-																href="https://www.sarkariresult.app/vijayapura-court-recruitment/">Vijayapura
+																href="vijayapura-court-recruitment/">Vijayapura
 																Court Recruitment 2022 Peon, Process Server 32 Post</a>
 															<span style="color:#ab183d">Last Date: 24 July 2022 </span>
 														</li>
 														<li id="su-post-105519" class="su-post"><a
-																href="https://www.sarkariresult.app/hathras-court-recruitment/">Hathras
+																href="hathras-court-recruitment/">Hathras
 																Court Recruitment 2022 Application Form Sweeper
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 27 July 2022 </span>
 														</li>
 														<li id="su-post-102020" class="su-post"><a
-																href="https://www.sarkariresult.app/nayagarh-court-clerk-recruitment/">Nayagarh
+																href="nayagarh-court-clerk-recruitment/">Nayagarh
 																Court Recruitment 2022 Clerk, Typist, Steno 11 Post</a>
 															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-71988" class="su-post"><a
-																href="https://www.sarkariresult.app/ajmer-court-vacancy/">Ajmer
+																href="ajmer-court-vacancy/">Ajmer
 																Court Recruitment 2022 Application Form Grade IV 13
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-98194" class="su-post"><a
-																href="https://www.sarkariresult.app/bidar-district-court-jobs/">Bidar
+																href="bidar-district-court-jobs/">Bidar
 																Court Recruitment 2022 Typist, Process Server, Peon
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 July 2022 </span>
 														</li>
 														<li id="su-post-86618" class="su-post"><a
-																href="https://www.sarkariresult.app/nabarangpur-court-vacancy/">Nabarangpur
+																href="nabarangpur-court-vacancy/">Nabarangpur
 																Court Recruitment 2022 Typist, Clerk, Steno 21 Post</a>
 															<span style="color:#ab183d">Last Date: 22 June 2022 </span>
 														</li>
 														<li id="su-post-86189" class="su-post"><a
-																href="https://www.sarkariresult.app/keonjhar-court-vacancy/">Keonjhar
+																href="keonjhar-court-vacancy/">Keonjhar
 																Court Recruitment 2022 Clerk, Typist, Steno 18 Post</a>
 															<span style="color:#ab183d">Last Date: 13 June 2022 </span>
 														</li>
 														<li id="su-post-86896" class="su-post"><a
-																href="https://www.sarkariresult.app/jhargram-court-vacancy/">Jhargram
+																href="jhargram-court-vacancy/">Jhargram
 																Court Recruitment 202 LDC, Sweeper, Peon 55 Post</a>
 															<span style="color:#ab183d">Last Date: 10 June 2022 </span>
 														</li>
 														<li id="su-post-76079" class="su-post"><a
-																href="https://www.sarkariresult.app/jalaun-court-vacancy/">Jalaun
+																href="jalaun-court-vacancy/">Jalaun
 																Court Recruitment 2022 Apply Judicial Magistrate 17
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 June 2022 </span>
 														</li>
 														<li id="su-post-72677" class="su-post"><a
-																href="https://www.sarkariresult.app/farrukhabad-court-vacancy/">Farrukhabad
+																href="farrukhabad-court-vacancy/">Farrukhabad
 																Court Recruitment 2022 Judicial Magistrate Post</a>
 															<span style="color:#ab183d">Last Date: 6 June 2022 </span>
 														</li>
 														<li id="su-post-89031" class="su-post"><a
-																href="https://www.sarkariresult.app/jalandhar-court-clerk-recruitment/">Jalandhar
+																href="jalandhar-court-clerk-recruitment/">Jalandhar
 																Court Clerk Recruitment 2022 Application Form 44
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 June 2022 </span>
 														</li>
 														<li id="su-post-77566" class="su-post"><a
-																href="https://www.sarkariresult.app/ballari-court-peon-recruitment/">Ballari
+																href="ballari-court-peon-recruitment/">Ballari
 																Court Peon Recruitment 2022 Apply Online 33 Posts</a>
 															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-72038" class="su-post"><a
-																href="https://www.sarkariresult.app/ghazipur-court-vacancy/">Ghazipur
+																href="ghazipur-court-vacancy/">Ghazipur
 																Court Recruitment 2022 Apply Judicial Magistrate
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 May 2022 </span>
 														</li>
 														<li id="su-post-76522" class="su-post"><a
-																href="https://www.sarkariresult.app/hassan-district-court-jobs/">Hassan
+																href="hassan-district-court-jobs/">Hassan
 																Court Recruitment 2022 Steno, Typist, Copyist 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 May 2022 </span>
 														</li>
 														<li id="su-post-81066" class="su-post"><a
-																href="https://www.sarkariresult.app/ludhiana-court-peon-recruitment/">Ludhiana
+																href="ludhiana-court-peon-recruitment/">Ludhiana
 																Court Peon Recruitment 2022 Process Server 37 Posts</a>
 															<span style="color:#ab183d">Last Date: 21 May 2022 </span>
 														</li>
 														<li id="su-post-76873" class="su-post"><a
-																href="https://www.sarkariresult.app/bangalore-court-vacancy/">Bengaluru
+																href="bangalore-court-vacancy/">Bengaluru
 																Court Recruitment 2022 Steno, Typist, Peon 133 Posts</a>
 															<span style="color:#ab183d">Last Date: 20 May 2022 </span>
 														</li>
 														<li id="su-post-83877" class="su-post"><a
-																href="https://www.sarkariresult.app/chandigarh-court-recruitment/">Chandigarh
+																href="chandigarh-court-recruitment/">Chandigarh
 																Court Recruitment 2022 Application Form Clerk 07
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 May 2022 </span>
 														</li>
 														<li id="su-post-72096" class="su-post"><a
-																href="https://www.sarkariresult.app/baghpat-court-recruitment/">Baghpat
+																href="baghpat-court-recruitment/">Baghpat
 																Court Recruitment 2022 Apply Peon, Steno, Reader
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 May 2022 </span>
 														</li>
 														<li id="su-post-72005" class="su-post"><a
-																href="https://www.sarkariresult.app/barnala-district-court-jobs/">Barnala
+																href="barnala-district-court-jobs/">Barnala
 																Court Recruitment 2022 Operator, Clerk, Steno 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 May 2022 </span>
 														</li>
 														<li id="su-post-78999" class="su-post"><a
-																href="https://www.sarkariresult.app/birbhum-district-court-recruitment/">Birbhum
+																href="birbhum-district-court-recruitment/">Birbhum
 																Court Recruitment 2022 LDC, Process Server, Peon 93
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 May 2022 </span>
 														</li>
 														<li id="su-post-76076" class="su-post"><a
-																href="https://www.sarkariresult.app/yamunanagar-court-lift-operator-recruitment/">Yamunanagar
+																href="yamunanagar-court-lift-operator-recruitment/">Yamunanagar
 																Court Lift Operator Recruitment 2022 Application
 																Form</a>
 															</span></li>
 														<li id="su-post-69519" class="su-post"><a
-																href="https://www.sarkariresult.app/udupi-court-peon-recruitment/">Udupi
+																href="udupi-court-peon-recruitment/">Udupi
 																Court Recruitment 2022 Apply Online Peon 17 Posts</a>
 															<span style="color:#ab183d">Last Date: 5 May 2022 </span>
 														</li>
 														<li id="su-post-71644" class="su-post"><a
-																href="https://www.sarkariresult.app/kondagaon-court-recruitment/">Kondagaon
+																href="kondagaon-court-recruitment/">Kondagaon
 																Court Recruitment 2022 Apply Now Assistant 07 Post</a>
 															<span style="color:#ab183d">Last Date: 5 May 2022 </span>
 														</li>
 														<li id="su-post-68896" class="su-post"><a
-																href="https://www.sarkariresult.app/bemetara-court-recruitment/">Bemetara
+																href="bemetara-court-recruitment/">Bemetara
 																Court Recruitment 2022 Writer, Asst Grade III 30
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-71616" class="su-post"><a
-																href="https://www.sarkariresult.app/korba-court-recruitment/">Korba
+																href="korba-court-recruitment/">Korba
 																Court Recruitment 2022 Apply Stenographer, Asst 02
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-69542" class="su-post"><a
-																href="https://www.sarkariresult.app/gadag-court-peon-recruitment/">Gadag
+																href="gadag-court-peon-recruitment/">Gadag
 																Court Recruitment 2022 Peon, Process Server, Steno 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-72034" class="su-post"><a
-																href="https://www.sarkariresult.app/lalitpur-court-recruitment/">Lalitpur
+																href="lalitpur-court-recruitment/">Lalitpur
 																Court Recruitment 2022 Apply Now Judicial Member 16
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-68985" class="su-post"><a
-																href="https://www.sarkariresult.app/koppal-district-court-jobs/">Koppal
+																href="koppal-district-court-jobs/">Koppal
 																Court Recruitment 2022 Apply Peon, Steno, Typist
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 April 2022 </span>
 														</li>
 														<li id="su-post-66169" class="su-post"><a
-																href="https://www.sarkariresult.app/bagalkot-court-vacancy/">Bagalkot
+																href="bagalkot-court-vacancy/">Bagalkot
 																Court Recruitment 2022 Steno, Process Server, Peon
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 April 2022 </span>
 														</li>
 														<li id="su-post-72719" class="su-post"><a
-																href="https://www.sarkariresult.app/pilibhit-court-recruitment/">Pilibhit
+																href="pilibhit-court-recruitment/">Pilibhit
 																Court Recruitment 2022 Apply Peon, Reader, Steno
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 April 2022 </span>
 														</li>
 														<li id="su-post-74380" class="su-post"><a
-																href="https://www.sarkariresult.app/davangere-court-recruitment/">Davangere
+																href="davangere-court-recruitment/">Davangere
 																Court Recruitment 2022 Apply Now Peon, Typist 31
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 May 2022 </span>
 														</li>
 														<li id="su-post-65271" class="su-post"><a
-																href="https://www.sarkariresult.app/kabirdham-court-recruitment/">Kabirdham
+																href="kabirdham-court-recruitment/">Kabirdham
 																Court Recruitment 2022 Apply Now Assistant Posts</a>
 															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-69577" class="su-post"><a
-																href="https://www.sarkariresult.app/moga-court-clerk-vacancy/">Moga
+																href="moga-court-clerk-vacancy/">Moga
 																Court Recruitment 2022 Clerk, Stenographer Gr II 24
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 April 2022 </span>
 														</li>
 														<li id="su-post-65610" class="su-post"><a
-																href="https://www.sarkariresult.app/bilaspur-court-assistant-recruitment/">Bilaspur
+																href="bilaspur-court-assistant-recruitment/">Bilaspur
 																Court Assistant Recruitment 2022 Steno, Driver 07
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 April 2022 </span>
 														</li>
 														<li id="su-post-67730" class="su-post"><a
-																href="https://www.sarkariresult.app/dwarka-family-court-recruitment/">Dwarka
+																href="dwarka-family-court-recruitment/">Dwarka
 																Family Court Recruitment 2022 Application Form JJA
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 April 2022 </span>
 														</li>
 														<li id="su-post-65606" class="su-post"><a
-																href="https://www.sarkariresult.app/balod-district-court-recruitment/">Balod
+																href="balod-district-court-recruitment/">Balod
 																Court Recruitment 2022 Apply Now Grade III &#038; IV
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 April 2022 </span>
 														</li>
 														<li id="su-post-62225" class="su-post"><a
-																href="https://www.sarkariresult.app/north-garo-hills-court-vacancy/">North
+																href="north-garo-hills-court-vacancy/">North
 																Garo Hills Court Recruitment 2022 Peon, LDC, Driver 23
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-67030" class="su-post"><a
-																href="https://www.sarkariresult.app/ganjam-district-court-jobs/">Ganjam
+																href="ganjam-district-court-jobs/">Ganjam
 																Court Recruitment 2022 Application Form Group D 26
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 March 2022 </span>
 														</li>
 														<li id="su-post-64221" class="su-post"><a
-																href="https://www.sarkariresult.app/south-west-khasi-hills-court-recruitment/">South
+																href="south-west-khasi-hills-court-recruitment/">South
 																West Khasi Hills Court Recruitment 2022 Apply Grade IV
 																23 Post</a>
 															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-62963" class="su-post"><a
-																href="https://www.sarkariresult.app/sas-nagar-court-peon-recruitment/">SAS
+																href="sas-nagar-court-peon-recruitment/">SAS
 																Nagar Court Recruitment 2022 Process Server, Peon 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-62916" class="su-post"><a
-																href="https://www.sarkariresult.app/tarn-taran-court-chowkidar-recruitment/">Tarn
+																href="tarn-taran-court-chowkidar-recruitment/">Tarn
 																Taran Court Chowkidar Recruitment 2022 Application
 																Form</a>
 															</span></li>
 														<li id="su-post-58618" class="su-post"><a
-																href="https://www.sarkariresult.app/shimoga-court-recruitment/">Shimoga
+																href="shimoga-court-recruitment/">Shimoga
 																Court Recruitment 2022 Apply Online Peon 27 Posts</a>
 															<span style="color:#ab183d">Last Date: 24 March 2022 </span>
 														</li>
 														<li id="su-post-58521" class="su-post"><a
-																href="https://www.sarkariresult.app/pathankot-court-clerk-recruitment/">Pathankot
+																href="pathankot-court-clerk-recruitment/">Pathankot
 																Court Clerk Recruitment 2022 Application Form 08
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 March 2022 </span>
 														</li>
 														<li id="su-post-58157" class="su-post"><a
-																href="https://www.sarkariresult.app/yamunanagar-court-peon-recruitment/">Yamunanagar
+																href="yamunanagar-court-peon-recruitment/">Yamunanagar
 																Court Recruitment 2022 Application Form Peon 03 Post</a>
 															<span style="color:#ab183d">Last Date: 14 March 2022 </span>
 														</li>
 														<li id="su-post-58539" class="su-post"><a
-																href="https://www.sarkariresult.app/jalandhar-court-peon-jobs/">Jalandhar
+																href="jalandhar-court-peon-jobs/">Jalandhar
 																Court Peon Recruitment 2022 Apply Process Server
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 March 2022 </span>
 														</li>
 														<li id="su-post-57522" class="su-post"><a
-																href="https://www.sarkariresult.app/faridkot-court-peon-job/">Faridkot
+																href="faridkot-court-peon-job/">Faridkot
 																Court Peon Recruitment 2022 Process Server 13 Posts</a>
 															<span style="color:#ab183d">Last Date: 2 March 2022 </span>
 														</li>
 														<li id="su-post-54656" class="su-post"><a
-																href="https://www.sarkariresult.app/south-salmara-mankachar-court-vacancy/">South
+																href="south-salmara-mankachar-court-vacancy/">South
 																Salmara Mankachar Court Recruitment 2022 Apply CAO
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 February 2022
 															</span>
 														</li>
 														<li id="su-post-47885" class="su-post"><a
-																href="https://www.sarkariresult.app/bilaspur-court-recruitment/">Bilaspur
+																href="bilaspur-court-recruitment/">Bilaspur
 																Court Recruitment 2022 Stenographer, Assistant 31
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 February 2022
 															</span>
 														</li>
 														<li id="su-post-51815" class="su-post"><a
-																href="https://www.sarkariresult.app/ferozepur-court-vacancy/">Ferozepur
+																href="ferozepur-court-vacancy/">Ferozepur
 																Court Recruitment 2022 Peon, Process Server 18 Posts</a>
 															<span style="color:#ab183d">Last Date: 14 February 2022
 															</span>
 														</li>
 														<li id="su-post-47899" class="su-post"><a
-																href="https://www.sarkariresult.app/balod-court-recruitment/">Balod
+																href="balod-court-recruitment/">Balod
 																Court Recruitment 2022 Assistant, Steno, Operator 33
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 February 2022
 															</span>
 														</li>
 														<li id="su-post-49782" class="su-post"><a
-																href="https://www.sarkariresult.app/jind-court-recruitment/">Jind
+																href="jind-court-recruitment/">Jind
 																Court Recruitment 2022 Apply Peon, Process Server 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 February 2022
 															</span>
 														</li>
 														<li id="su-post-49785" class="su-post"><a
-																href="https://www.sarkariresult.app/mewat-court-process-server-recruitment/">Mewat
+																href="mewat-court-process-server-recruitment/">Mewat
 																Court Recruitment 2022 Apply Now Process Server 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 February 2022
 															</span>
 														</li>
 														<li id="su-post-45350" class="su-post"><a
-																href="https://www.sarkariresult.app/raipur-court-recruitment-apply/">Raipur
+																href="raipur-court-recruitment-apply/">Raipur
 																Court Recruitment 2022 Steno, Peon, Assistant 90
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 January 2022 
 															</span>
 														</li>
 														<li id="su-post-42968" class="su-post"><a
-																href="https://www.sarkariresult.app/namchi-court-recruitment/">Namchi
+																href="namchi-court-recruitment/">Namchi
 																Court Recruitment 2022 Peon, Sweeper, Mali, Steno
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 January 2022
 															</span>
 														</li>
 														<li id="su-post-44248" class="su-post"><a
-																href="https://www.sarkariresult.app/sonipat-court-peon-recruitment/">Sonipat
+																href="sonipat-court-peon-recruitment/">Sonipat
 																Court Peon Interview Schedule 2022 Download Name Wise
 																List</a>
 															</span></li>
 														<li id="su-post-48107" class="su-post"><a
-																href="https://www.sarkariresult.app/mansa-court-vacancy/">Mansa
+																href="mansa-court-vacancy/">Mansa
 																Court Recruitment 2022 Application Form Safai Sewak 02
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 January 2022
 															</span>
 														</li>
 														<li id="su-post-47715" class="su-post"><a
-																href="https://www.sarkariresult.app/durg-court-recruitment/">Durg
+																href="durg-court-recruitment/">Durg
 																Court Recruitment 2022 Peon, Assistant, Stenographer 40
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 January 2022
 															</span>
 														</li>
 														<li id="su-post-45960" class="su-post"><a
-																href="https://www.sarkariresult.app/kanker-court-recruitment/">Kanker
+																href="kanker-court-recruitment/">Kanker
 																Court Recruitment 2022 Steno Typist, Assistant 08
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 January 2022
 															</span>
 														</li>
 														<li id="su-post-44810" class="su-post"><a
-																href="https://www.sarkariresult.app/bathinda-court-peon-recruitment/">Bathinda
+																href="bathinda-court-peon-recruitment/">Bathinda
 																Court Peon Recruitment 2022 Apply Process Server 31
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 January 2022
 															</span>
 														</li>
 														<li id="su-post-43205" class="su-post"><a
-																href="https://www.sarkariresult.app/nawanshahr-court-clerk-recruitment/">Nawanshahr
+																href="nawanshahr-court-clerk-recruitment/">Nawanshahr
 																Court Clerk Recruitment 2021 Application Form 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 December 2021
 															</span>
 														</li>
 														<li id="su-post-38263" class="su-post"><a
-																href="https://www.sarkariresult.app/shivamogga-court-recruitment/">Shivamogga
+																href="shivamogga-court-recruitment/">Shivamogga
 																Court Recruitment 2021 Apply Process Server 07 Post</a>
 															<span style="color:#ab183d">Last Date: 30 December 2021
 															</span>
 														</li>
 														<li id="su-post-39689" class="su-post"><a
-																href="https://www.sarkariresult.app/perambalur-court-steno-typist-recruitment/">Perambalur
+																href="perambalur-court-steno-typist-recruitment/">Perambalur
 																Court Steno-Typist Recruitment 2021 Apply Now 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 December 2021
 															</span>
 														</li>
 														<li id="su-post-33621" class="su-post"><a
-																href="https://www.sarkariresult.app/hisar-court-sweeper-recruitment/">Hisar
+																href="hisar-court-sweeper-recruitment/">Hisar
 																Court Sweeper Recruitment 2021 Application Form</a>
 															<span style="color:#ab183d">Last Date: 12 November 2021
 															</span>
 														</li>
 														<li id="su-post-38053" class="su-post"><a
-																href="https://www.sarkariresult.app/fazilka-court-clerk-recruitment/">Fazilka
+																href="fazilka-court-clerk-recruitment/">Fazilka
 																Court Clerk Recruitment 2021 Application Form 32
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 2 December 2021
 															</span>
 														</li>
 														<li id="su-post-36079" class="su-post"><a
-																href="https://www.sarkariresult.app/karnal-court-sweeper-recruitment/">Karnal
+																href="karnal-court-sweeper-recruitment/">Karnal
 																Court Sweeper Recruitment 2021 Application Form 11
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 22 November 2021
 															</span>
 														</li>
 														<li id="su-post-30498" class="su-post"><a
-																href="https://www.sarkariresult.app/nawanshahr-court-stenographer-recruitment/">Nawanshahr
+																href="nawanshahr-court-stenographer-recruitment/">Nawanshahr
 																Court Stenographer Recruitment 2021 Application Form</a>
 															<span style="color:#ab183d">Last Date: 28 October 2021
 															</span>
 														</li>
 														<li id="su-post-36068" class="su-post"><a
-																href="https://www.sarkariresult.app/barnala-court-lift-operator-recruitment/">Barnala
+																href="barnala-court-lift-operator-recruitment/">Barnala
 																Court Lift Operator Recruitment 2021 Apply Now 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 November 2021
 															</span>
 														</li>
 														<li id="su-post-36293" class="su-post"><a
-																href="https://www.sarkariresult.app/ferozepur-court-peon-vacancy/">Ferozepur
+																href="ferozepur-court-peon-vacancy/">Ferozepur
 																Court Peon Recruitment 2021 Apply Chowkidar Post</a>
 															<span style="color:#ab183d">Last Date: 25 November 2021
 															</span>
 														</li>
 														<li id="su-post-35431" class="su-post"><a
-																href="https://www.sarkariresult.app/sangrur-court-clerk-recruitment/">Sangrur
+																href="sangrur-court-clerk-recruitment/">Sangrur
 																Court Clerk Recruitment 2021 Application Form 36
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 22 November 2021
 															</span>
 														</li>
 														<li id="su-post-34936" class="su-post"><a
-																href="https://www.sarkariresult.app/narnaul-court-process-server-recruitment/">Narnaul
+																href="narnaul-court-process-server-recruitment/">Narnaul
 																Court Process Server Recruitment 2021 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 15 November 2021
 															</span>
 														</li>
 														<li id="su-post-34200" class="su-post"><a
-																href="https://www.sarkariresult.app/tarn-taran-court-clerk-recruitment/">Tarn
+																href="tarn-taran-court-clerk-recruitment/">Tarn
 																Taran Court Clerk Recruitment 2021 Application Form 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 November 2021
 															</span>
 														</li>
 														<li id="su-post-29843" class="su-post"><a
-																href="https://www.sarkariresult.app/malkangiri-court-recruitment/">Malkangiri
+																href="malkangiri-court-recruitment/">Malkangiri
 																Court Recruitment 2021 Clerk, Typist, Steno 19 Post</a>
 															<span style="color:#ab183d">Last Date: 8 November 2021
 															</span>
 														</li>
 														<li id="su-post-31894" class="su-post"><a
-																href="https://www.sarkariresult.app/ferozepur-district-court-recruitment/">Ferozepur
+																href="ferozepur-district-court-recruitment/">Ferozepur
 																Court Recruitment 2021 Clerk, Driver, Steno 48 Post</a>
 															<span style="color:#ab183d">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-28280" class="su-post"><a
-																href="https://www.sarkariresult.app/kalahandi-court-recruitment/">Kalahandi
+																href="kalahandi-court-recruitment/">Kalahandi
 																Court Recruitment 2021 Clerk, Typist, Steno 24 Post</a>
 															<span style="color:#ab183d">Last Date: 30 October 2021
 															</span>
 														</li>
 														<li id="su-post-33050" class="su-post"><a
-																href="https://www.sarkariresult.app/diphu-court-recruitment/">Diphu
+																href="diphu-court-recruitment/">Diphu
 																Court Recruitment 2021 Apply Upper Division Asst 07
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 October 2021
 															</span>
 														</li>
 														<li id="su-post-30672" class="su-post"><a
-																href="https://www.sarkariresult.app/karbi-anglong-court-recruitment/">Karbi
+																href="karbi-anglong-court-recruitment/">Karbi
 																Anglong Court Recruitment 2021 Application Form UDC 07
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 October 2021
 															</span>
 														</li>
 														<li id="su-post-31208" class="su-post"><a
-																href="https://www.sarkariresult.app/palwal-court-stenographer-recruitment/">Palwal
+																href="palwal-court-stenographer-recruitment/">Palwal
 																Court Stenographer Recruitment 2021 Apply Now 09
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 October 2021
 															</span>
 														</li>
 														<li id="su-post-27238" class="su-post"><a
-																href="https://www.sarkariresult.app/mayurbhanj-court-recruitment/">Mayurbhanj
+																href="mayurbhanj-court-recruitment/">Mayurbhanj
 																Court Recruitment 2021 Clerk, Steno, Typist 26 Post</a>
 															<span style="color:#ab183d">Last Date: 27 October 2021
 															</span>
 														</li>
 														<li id="su-post-30886" class="su-post"><a
-																href="https://www.sarkariresult.app/fazilka-court-stenographer-recruitment/">Fazilka
+																href="fazilka-court-stenographer-recruitment/">Fazilka
 																Court Stenographer Recruitment 2021 Apply Driver 13
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 October 2021
 															</span>
 														</li>
 														<li id="su-post-29167" class="su-post"><a
-																href="https://www.sarkariresult.app/sangrur-court-recruitment/">Sangrur
+																href="sangrur-court-recruitment/">Sangrur
 																Court Recruitment 2021 Peon, Steno, Sweeper 22 Posts</a>
 															<span style="color:#ab183d">Last Date: 26 October 2021
 															</span>
 														</li>
 														<li id="su-post-33023" class="su-post"><a
-																href="https://www.sarkariresult.app/dhenkanal-court-vacancy-2/">Dhenkanal
+																href="dhenkanal-court-vacancy-2/">Dhenkanal
 																Court Recruitment 2021 Apply Clerk, Steno, Typist
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 November 2021
 															</span>
 														</li>
 														<li id="su-post-30906" class="su-post"><a
-																href="https://www.sarkariresult.app/faridkot-court-peon-jobs-apply/">Faridkot
+																href="faridkot-court-peon-jobs-apply/">Faridkot
 																Court Peon Recruitment 2021 Process Server 09 Posts</a>
 															<span style="color:#ab183d">Last Date: 25 October 2021
 															</span>
 														</li>
 														<li id="su-post-29026" class="su-post"><a
-																href="https://www.sarkariresult.app/yamunanagar-court-recruitment/">Yamunanagar
+																href="yamunanagar-court-recruitment/">Yamunanagar
 																Court Recruitment 2021 Stenographer Grade III Post</a>
 															<span style="color:#ab183d">Last Date: 25 October 2021
 															</span>
 														</li>
 														<li id="su-post-26526" class="su-post"><a
-																href="https://www.sarkariresult.app/koraput-court-recruitment/">Koraput
+																href="koraput-court-recruitment/">Koraput
 																Court Recruitment 2021 Clerk, Typist, Steno 28 Post</a>
 															<span style="color:#ab183d">Last Date: 21 October 2021
 															</span>
 														</li>
 														<li id="su-post-25938" class="su-post"><a
-																href="https://www.sarkariresult.app/khammam-court-recruitment/">Khammam
+																href="khammam-court-recruitment/">Khammam
 																Court Recruitment 2021 Apply Assistant, Attendant
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 October 2021
 															</span>
 														</li>
 														<li id="su-post-29036" class="su-post"><a
-																href="https://www.sarkariresult.app/amritsar-court-clerk-recruitment/">Amritsar
+																href="amritsar-court-clerk-recruitment/">Amritsar
 																Court Clerk Recruitment 2021 Application Form 23
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 21 October 2021
 															</span>
 														</li>
 														<li id="su-post-27211" class="su-post"><a
-																href="https://www.sarkariresult.app/pudukkottai-court-steno-typist-recruitment/">Pudukkottai
+																href="pudukkottai-court-steno-typist-recruitment/">Pudukkottai
 																Court Steno Typist Recruitment 2021 Application Form</a>
 															<span style="color:#ab183d">Last Date: 18 October 2021
 															</span>
 														</li>
 														<li id="su-post-27187" class="su-post"><a
-																href="https://www.sarkariresult.app/fazilka-court-lift-operator-recruitment/">Fazilka
+																href="fazilka-court-lift-operator-recruitment/">Fazilka
 																Court Lift Operator Recruitment 2021 Apply Mali 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 October 2021
 															</span>
 														</li>
 														<li id="su-post-24416" class="su-post"><a
-																href="https://www.sarkariresult.app/bidar-court-recruitment/">Bidar
+																href="bidar-court-recruitment/">Bidar
 																Court Recruitment 2021 Stenographer &#038; Typist 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 October 2021
 															</span>
 														</li>
 														<li id="su-post-24312" class="su-post"><a
-																href="https://www.sarkariresult.app/rupnagar-court-peon-recruitment/">Rupnagar
+																href="rupnagar-court-peon-recruitment/">Rupnagar
 																Court Peon Recruitment 2021 Apply Process Server 16
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 October 2021
 															</span>
 														</li>
 														<li id="su-post-25811" class="su-post"><a
-																href="https://www.sarkariresult.app/ludhiana-court-lift-operator-recruitment/">Ludhiana
+																href="ludhiana-court-lift-operator-recruitment/">Ludhiana
 																Court Lift Operator Recruitment 2021 Apply 03 Posts</a>
 															<span style="color:#ab183d">Last Date: 6 October 2021
 															</span>
 														</li>
 														<li id="su-post-23554" class="su-post"><a
-																href="https://www.sarkariresult.app/jalandhar-court-peon-recruitment/">Jalandhar
+																href="jalandhar-court-peon-recruitment/">Jalandhar
 																Court Peon Recruitment 2021 Process Server 20 Post</a>
 															<span style="color:#ab183d">Last Date: 21 September 2021
 															</span>
 														</li>
 														<li id="su-post-24172" class="su-post"><a
-																href="https://www.sarkariresult.app/moga-court-peon-recruitment/">Moga
+																href="moga-court-peon-recruitment/">Moga
 																Court Peon Recruitment 2021 Apply Process Server
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 September 2021
 															</span>
 														</li>
 														<li id="su-post-23413" class="su-post"><a
-																href="https://www.sarkariresult.app/kendrapara-court-clerk-recruitment/">Kendrapara
+																href="kendrapara-court-clerk-recruitment/">Kendrapara
 																Court Recruitment 2021 Clerk, Steno, Typist 11 Post</a>
 															<span style="color:#ab183d">Last Date: 1 October 2021
 															</span>
 														</li>
 														<li id="su-post-23384" class="su-post"><a
-																href="https://www.sarkariresult.app/ludhiana-court-clerk-recruitment/">Ludhiana
+																href="ludhiana-court-clerk-recruitment/">Ludhiana
 																Court Clerk Recruitment 2021 Application Form 32
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 September 2021
 															</span>
 														</li>
 														<li id="su-post-23282" class="su-post"><a
-																href="https://www.sarkariresult.app/gurdaspur-court/">Gurdaspur
+																href="gurdaspur-court/">Gurdaspur
 																Court Recruitment 2021 Stenographer Grade III 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 September 2021
 															</span>
 														</li>
 														<li id="su-post-22853" class="su-post"><a
-																href="https://www.sarkariresult.app/hq-northern-command-group-c-recruitment/">HQ
+																href="hq-northern-command-group-c-recruitment/">HQ
 																Northern Command Group C Recruitment 2021 Application
 																Form</a>
 															<span style="color:#ab183d">Last Date: 21 Days </span>
 														</li>
 														<li id="su-post-22673" class="su-post"><a
-																href="https://www.sarkariresult.app/sirsa-district-court/">Sirsa
+																href="sirsa-district-court/">Sirsa
 																Court Recruitment 2021 Apply Stenographer Grade III 05
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 September 2021
 															</span>
 														</li>
 														<li id="su-post-22625" class="su-post"><a
-																href="https://www.sarkariresult.app/sonepur-district-court/">Sonepur
+																href="sonepur-district-court/">Sonepur
 																Court Recruitment 2021 Clerk, Typist, Steno 13 Posts</a>
 															<span style="color:#ab183d">Last Date: 21 September 2021
 															</span>
 														</li>
 														<li id="su-post-22376" class="su-post"><a
-																href="https://www.sarkariresult.app/sonipat-court-vacancy/">Sonipat
+																href="sonipat-court-vacancy/">Sonipat
 																Court Recruitment 2021 Apply Now Stenographer Post</a>
 															<span style="color:#ab183d">Last Date: 6 September 2021
 															</span>
 														</li>
 														<li id="su-post-22100" class="su-post"><a
-																href="https://www.sarkariresult.app/sirsa-district-court-recruitment/">Sirsa
+																href="sirsa-district-court-recruitment/">Sirsa
 																Court Recruitment 2021 Peon, Sweeper, Chowkidar
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 31 August 2021
 															</span>
 														</li>
 														<li id="su-post-21831" class="su-post"><a
-																href="https://www.sarkariresult.app/rayagada-court-recruitment/">Rayagada
+																href="rayagada-court-recruitment/">Rayagada
 																Court Recruitment 2021 Clerk, Steno, Typist 25 Post</a>
 															<span style="color:#ab183d">Last Date: 13 September 2021
 															</span>
 														</li>
 														<li id="su-post-21789" class="su-post"><a
-																href="https://www.sarkariresult.app/jagatsinghpur-court/">Jagatsinghpur
+																href="jagatsinghpur-court/">Jagatsinghpur
 																Court Recruitment 2021 Clerk, Typist, Steno 22 Post</a>
 															<span style="color:#ab183d">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-21680" class="su-post"><a
-																href="https://www.sarkariresult.app/north-goa-court/">North
+																href="north-goa-court/">North
 																Goa Court Recruitment 2021 LDC, Peon, Driver, Steno 40
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-21624" class="su-post"><a
-																href="https://www.sarkariresult.app/jalandhar-district-court-recruitment/">Jalandhar
+																href="jalandhar-district-court-recruitment/">Jalandhar
 																Court Recruitment 2021 Apply Lift Operator 05 Post</a>
 															<span style="color:#ab183d">Last Date: 26 August 2021
 															</span>
 														</li>
 														<li id="su-post-21562" class="su-post"><a
-																href="https://www.sarkariresult.app/faridkot-court-vacancy/">Faridkot
+																href="faridkot-court-vacancy/">Faridkot
 																Court Recruitment 2021 Apply Peon/Chowkidar 05 Posts</a>
 															<span style="color:#ab183d">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-21390" class="su-post"><a
-																href="https://www.sarkariresult.app/faridabad-court-vacancy/">Faridabad
+																href="faridabad-court-vacancy/">Faridabad
 																Court Recruitment 2021 Apply Sweeper, Driver 06 Post</a>
 															<span style="color:#ab183d">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-21310" class="su-post"><a
-																href="https://www.sarkariresult.app/nawanshahr-court-recruitment/">Nawanshahr
+																href="nawanshahr-court-recruitment/">Nawanshahr
 																Court Recruitment 2021 Peon, Process Server 12 Post</a>
 															<span style="color:#ab183d">Last Date: 17 August 2021
 															</span>
 														</li>
 														<li id="su-post-21305" class="su-post"><a
-																href="https://www.sarkariresult.app/amritsar-court-vacancy/">Amritsar
+																href="amritsar-court-vacancy/">Amritsar
 																Court Recruitment 2021 Stenographer Grade III 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-21172" class="su-post"><a
-																href="https://www.sarkariresult.app/jajpur-court/">Jajpur
+																href="jajpur-court/">Jajpur
 																Court Recruitment 2021 Clerk, Steno, Driver, Typist 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 September 2021
 															</span>
 														</li>
 														<li id="su-post-13857" class="su-post"><a
-																href="https://www.sarkariresult.app/tis-hazari-court-recruitment/">Delhi
+																href="tis-hazari-court-recruitment/">Delhi
 																Distric Court Admit Card 2021 Check Peon, Process Server
 																Exam Date</a>
 															</span></li>
 														<li id="su-post-21025" class="su-post"><a
-																href="https://www.sarkariresult.app/nagaon-district-court/">Nagaon
+																href="nagaon-district-court/">Nagaon
 																Court Recruitment 2021 Apply Peon, Chowkidar 08 Post</a>
 															<span style="color:#ab183d">Last Date: 15 Days </span>
 														</li>
 														<li id="su-post-20907" class="su-post"><a
-																href="https://www.sarkariresult.app/balasore-court/">Balasore
+																href="balasore-court/">Balasore
 																Court Recruitment 2021 Clerk, Typist, Steno 41 Post</a>
 															<span style="color:#ab183d">Last Date: 27 August 2021
 															</span>
 														</li>
 														<li id="su-post-20707" class="su-post"><a
-																href="https://www.sarkariresult.app/sri-muktsar-sahib-court-vacancy/">Sri
+																href="sri-muktsar-sahib-court-vacancy/">Sri
 																Muktsar Sahib Court Recruitment 2021 Steno, Clerk 18
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 August 2021
 															</span>
 														</li>
 														<li id="su-post-20728" class="su-post"><a
-																href="https://www.sarkariresult.app/angul-court-vacancy/">Angul
+																href="angul-court-vacancy/">Angul
 																Court Recruitment 2021 Clerk, Stenographer, Typist 37
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 August 2021
 															</span>
 														</li>
 														<li id="su-post-20436" class="su-post"><a
-																href="https://www.sarkariresult.app/keonjhar-court-recruitment/">Keonjhar
+																href="keonjhar-court-recruitment/">Keonjhar
 																Court Recruitment 2021 Clerk, Driver, Steno 21 Post</a>
 															<span style="color:#ab183d">Last Date: 16 August 2021
 															</span>
 														</li>
 														<li id="su-post-20423" class="su-post"><a
-																href="https://www.sarkariresult.app/fazilka-court-peon-recruitment/">Fazilka
+																href="fazilka-court-peon-recruitment/">Fazilka
 																Court Peon Recruitment 2021 Apply Process Servers 41
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 August 2021 </span>
 														</li>
 														<li id="su-post-20342" class="su-post"><a
-																href="https://www.sarkariresult.app/ganjam-court/">Ganjam
+																href="ganjam-court/">Ganjam
 																Court Recruitment 2021 Steno, Clerk, Typist 121 Post</a>
 															<span style="color:#ab183d">Last Date: 19 August 2021
 															</span>
 														</li>
 														<li id="su-post-20194" class="su-post"><a
-																href="https://www.sarkariresult.app/puri-court-recruitment/">Puri
+																href="puri-court-recruitment/">Puri
 																Court Recruitment 2021 Clerk, Stenographer 18 Posts</a>
 															<span style="color:#ab183d">Last Date: 20 August 2021
 															</span>
 														</li>
 														<li id="su-post-20090" class="su-post"><a
-																href="https://www.sarkariresult.app/rupnagar-court-recruitment/">Rupnagar
+																href="rupnagar-court-recruitment/">Rupnagar
 																Court Recruitment 2021 Clerk, Stenographer 38 Posts</a>
 															<span style="color:#ab183d">Last Date: 13 August 2021
 															</span>
 														</li>
 														<li id="su-post-19870" class="su-post"><a
-																href="https://www.sarkariresult.app/faridkot-court-clerk-recruitment/">Faridkot
+																href="faridkot-court-clerk-recruitment/">Faridkot
 																Court Clerk Recruitment 2021 Stenographer 19 Posts</a>
 															<span style="color:#ab183d">Last Date: 23 July 2021 </span>
 														</li>
@@ -1305,7 +1305,7 @@
 															style="color: #0000ff;"><strong
 																style="float: right; padding: 0px 6px;"><a
 																	style="color: #0000ee; text-decoration: underline;"
-																	href="https://www.sarkariresult.app/district-court-jobs/"
+																	href="district-court-jobs/"
 																	target="_blank" rel="noopener noreferrer">More
 																	»</a></strong></span></span>
 												</td>
@@ -1322,9 +1322,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/district-court-recruitment/"
+										href="district-court-recruitment/"
 										rel="category tag">District Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -1336,7 +1336,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/bu-jhansi-admission/" rel="prev">BU
+												href="bu-jhansi-admission/" rel="prev">BU
 												Jhansi Admission Apply Online Form 2020 For All Course</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -1347,7 +1347,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/aiims-recruitment/" rel="next">AIIMS
+												href="aiims-recruitment/" rel="next">AIIMS
 												Recruitment (August 2023) Check Latest Notifications</a></span></div>
 								</nav>
 							</footer>
@@ -1379,7 +1379,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-5225">
+														href="district-court-jobs/#comment-5225">
 														<time datetime="2020-06-06T12:50:17+05:30"
 															itemprop="datePublished">
 															6 Jun 2020 at 12:50 </time>
@@ -1418,7 +1418,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-5226">
+														href="district-court-jobs/#comment-5226">
 														<time datetime="2020-06-06T12:51:19+05:30"
 															itemprop="datePublished">
 															6 Jun 2020 at 12:51 </time>
@@ -1457,7 +1457,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-5227">
+														href="district-court-jobs/#comment-5227">
 														<time datetime="2020-06-06T18:03:58+05:30"
 															itemprop="datePublished">
 															6 Jun 2020 at 18:03 </time>
@@ -1496,7 +1496,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-5228">
+														href="district-court-jobs/#comment-5228">
 														<time datetime="2020-06-11T11:11:40+05:30"
 															itemprop="datePublished">
 															11 Jun 2020 at 11:11 </time>
@@ -1535,7 +1535,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-5229">
+														href="district-court-jobs/#comment-5229">
 														<time datetime="2020-06-11T20:07:08+05:30"
 															itemprop="datePublished">
 															11 Jun 2020 at 20:07 </time>
@@ -1574,7 +1574,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-5230">
+														href="district-court-jobs/#comment-5230">
 														<time datetime="2020-06-12T21:21:03+05:30"
 															itemprop="datePublished">
 															12 Jun 2020 at 21:21 </time>
@@ -1613,7 +1613,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-8387">
+														href="district-court-jobs/#comment-8387">
 														<time datetime="2020-10-20T20:22:01+05:30"
 															itemprop="datePublished">
 															20 Oct 2020 at 20:22 </time>
@@ -1652,7 +1652,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-10561">
+														href="district-court-jobs/#comment-10561">
 														<time datetime="2020-12-17T15:41:10+05:30"
 															itemprop="datePublished">
 															17 Dec 2020 at 15:41 </time>
@@ -1691,7 +1691,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/district-court-jobs/#comment-15945">
+														href="district-court-jobs/#comment-15945">
 														<time datetime="2021-03-22T16:47:49+05:30"
 															itemprop="datePublished">
 															22 Mar 2021 at 16:47 </time>
@@ -1768,84 +1768,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (18 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/esic-bihta-junior-resident-job/">ESIC Bihta
+								<a href="esic-bihta-junior-resident-job/">ESIC Bihta
 									Recruitment 2023 Direct Interview Jr Resident 18 Post</a>
 							</li>
 							<li>
 								<a
-									href="https://www.sarkariresult.app/isec-walk-in-interview-for-listers-mappers-post/">ISEC
+									href="isec-walk-in-interview-for-listers-mappers-post/">ISEC
 									Recruitment 2023 Walk In Interview for Listers, Mappers Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (18
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (18
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(18 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(18 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 						</ul>
@@ -2030,7 +2030,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+			href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

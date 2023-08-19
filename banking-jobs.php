@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/"
+										href="karnataka-bank-po-acs-notification/"
 										rel="bookmark">Karnataka Bank Recruitment 2023 Apply Online PO, ACS, Officer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -25,7 +25,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -40,7 +40,7 @@
 									Recruitment &#8230; <a
 										title="Karnataka Bank Recruitment 2023 Apply Online PO, ACS, Officer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/"
+										href="karnataka-bank-po-acs-notification/"
 										aria-label="More on Karnataka Bank Recruitment 2023 Apply Online PO, ACS, Officer Post">Read
 										more</a></p>
 							</div>
@@ -51,10 +51,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -64,7 +64,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/#respond">Leave
+										href="karnataka-bank-po-acs-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -75,7 +75,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cosmos-bank-notification/"
+										href="cosmos-bank-notification/"
 										rel="bookmark">Cosmos Bank Recruitment 2023 Apply Officer, Asst Manager 220
 										Post</a></h2>
 								<div class="entry-meta">
@@ -84,7 +84,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -97,7 +97,7 @@
 									Leader &#8211; Marketing 220 posts. Applicants&#8217; wait is over today they can
 									apply online for Cosmos Bank Manager Recruitment from &#8230; <a
 										title="Cosmos Bank Recruitment 2023 Apply Officer, Asst Manager 220 Post"
-										class="read-more" href="https://www.sarkariresult.app/cosmos-bank-notification/"
+										class="read-more" href="cosmos-bank-notification/"
 										aria-label="More on Cosmos Bank Recruitment 2023 Apply Officer, Asst Manager 220 Post">Read
 										more</a></p>
 							</div>
@@ -108,10 +108,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -121,7 +121,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cosmos-bank-notification/#respond">Leave a
+										href="cosmos-bank-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -132,7 +132,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nainital-bank-notification/"
+										href="nainital-bank-notification/"
 										rel="bookmark">Nainital Bank MT Recruitment 2023 Apply Now Clerk 110 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -141,7 +141,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -155,7 +155,7 @@
 									notification and apply online according to their &#8230; <a
 										title="Nainital Bank MT Recruitment 2023 Apply Now Clerk 110 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nainital-bank-notification/"
+										href="nainital-bank-notification/"
 										aria-label="More on Nainital Bank MT Recruitment 2023 Apply Now Clerk 110 Post">Read
 										more</a></p>
 							</div>
@@ -166,10 +166,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -179,7 +179,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nainital-bank-notification/#respond">Leave a
+										href="nainital-bank-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -190,7 +190,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-notification/" rel="bookmark">IBPS PO
+										href="ibps-notification/" rel="bookmark">IBPS PO
 										Recruitment 2023 Notification PO/MT XIII 3049 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -198,7 +198,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -211,7 +211,7 @@
 									21 August 2023. The official notification contains information about the selection
 									process, salary, and more. This is a good career opportunity for &#8230; <a
 										title="IBPS PO Recruitment 2023 Notification PO/MT XIII 3049 Post"
-										class="read-more" href="https://www.sarkariresult.app/ibps-notification/"
+										class="read-more" href="ibps-notification/"
 										aria-label="More on IBPS PO Recruitment 2023 Notification PO/MT XIII 3049 Post">Read
 										more</a></p>
 							</div>
@@ -222,10 +222,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -235,7 +235,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-notification/#respond">Leave a
+										href="ibps-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -246,7 +246,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-so-2023-notification/"
+										href="ibps-so-2023-notification/"
 										rel="bookmark">IBPS SO 2023 Notification Apply For 1402 Posts, Eligibility, Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -255,7 +255,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -269,7 +269,7 @@
 									Adhikari, Law Officer and &#8230; <a
 										title="IBPS SO 2023 Notification Apply For 1402 Posts, Eligibility, Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/ibps-so-2023-notification/"
+										href="ibps-so-2023-notification/"
 										aria-label="More on IBPS SO 2023 Notification Apply For 1402 Posts, Eligibility, Exam Date">Read
 										more</a></p>
 							</div>
@@ -280,10 +280,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -293,7 +293,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-so-2023-notification/#respond">Leave a
+										href="ibps-so-2023-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -304,7 +304,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-officer-job/"
+										href="bank-of-maharashtra-officer-job/"
 										rel="bookmark">Bank of Maharashtra Recruitment 2023 Apply Officer 400 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -313,7 +313,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -327,7 +327,7 @@
 									Bank of &#8230; <a
 										title="Bank of Maharashtra Recruitment 2023 Apply Officer 400 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-maharashtra-officer-job/"
+										href="bank-of-maharashtra-officer-job/"
 										aria-label="More on Bank of Maharashtra Recruitment 2023 Apply Officer 400 Post">Read
 										more</a></p>
 							</div>
@@ -338,10 +338,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -351,7 +351,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-officer-job/#respond">Leave
+										href="bank-of-maharashtra-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -362,7 +362,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-sind-bank-specialist-officer-job/"
+										href="punjab-sind-bank-specialist-officer-job/"
 										rel="bookmark">Punjab &#038; Sind Bank Recruitment 2023 Apply Online 183
 										Post</a></h2>
 								<div class="entry-meta">
@@ -371,7 +371,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -386,7 +386,7 @@
 									has released the latest notification &#8230; <a
 										title="Punjab &#038; Sind Bank Recruitment 2023 Apply Online 183 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-sind-bank-specialist-officer-job/"
+										href="punjab-sind-bank-specialist-officer-job/"
 										aria-label="More on Punjab &#038; Sind Bank Recruitment 2023 Apply Online 183 Post">Read
 										more</a></p>
 							</div>
@@ -397,10 +397,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -410,7 +410,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-sind-bank-specialist-officer-job/#respond">Leave
+										href="punjab-sind-bank-specialist-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -421,7 +421,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/muc-bank-clerical-trainee-job/"
+										href="muc-bank-clerical-trainee-job/"
 										rel="bookmark">MUC Bank Recruitment 2023 Apply Online Clerical Trainee 50
 										Post</a></h2>
 								<div class="entry-meta">
@@ -430,7 +430,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -444,7 +444,7 @@
 									Bank Jobs from 3 &#8230; <a
 										title="MUC Bank Recruitment 2023 Apply Online Clerical Trainee 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/muc-bank-clerical-trainee-job/"
+										href="muc-bank-clerical-trainee-job/"
 										aria-label="More on MUC Bank Recruitment 2023 Apply Online Clerical Trainee 50 Post">Read
 										more</a></p>
 							</div>
@@ -455,10 +455,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -468,7 +468,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/muc-bank-clerical-trainee-job/#respond">Leave
+										href="muc-bank-clerical-trainee-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -479,7 +479,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-recruitment/"
+										href="central-bank-of-india-manager-recruitment/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Apply Manager 1000
 										Post</a></h2>
 								<div class="entry-meta">
@@ -489,7 +489,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -503,7 +503,7 @@
 									are interested in Central Bank &#8230; <a
 										title="Central Bank of India Recruitment 2023 Apply Manager 1000 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-recruitment/"
+										href="central-bank-of-india-manager-recruitment/"
 										aria-label="More on Central Bank of India Recruitment 2023 Apply Manager 1000 Post">Read
 										more</a></p>
 							</div>
@@ -514,10 +514,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -527,7 +527,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-recruitment/#respond">Leave
+										href="central-bank-of-india-manager-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -538,7 +538,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-clerk-notification-2023-pdf/"
+										href="ibps-clerk-notification-2023-pdf/"
 										rel="bookmark">IBPS Clerk Notification 2023 PDF Out, Eligibility, Apply Online,
 										Vacancy Details</a></h2>
 								<div class="entry-meta">
@@ -548,7 +548,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -562,7 +562,7 @@
 									CLERKS-XIII) Vacancy at 4045 Posts. Those &#8230; <a
 										title="IBPS Clerk Notification 2023 PDF Out, Eligibility, Apply Online, Vacancy Details"
 										class="read-more"
-										href="https://www.sarkariresult.app/ibps-clerk-notification-2023-pdf/"
+										href="ibps-clerk-notification-2023-pdf/"
 										aria-label="More on IBPS Clerk Notification 2023 PDF Out, Eligibility, Apply Online, Vacancy Details">Read
 										more</a></p>
 							</div>
@@ -573,10 +573,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -586,7 +586,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-clerk-notification-2023-pdf/#respond">Leave
+										href="ibps-clerk-notification-2023-pdf/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -597,7 +597,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/idbi-executive-apply-online-for-1036-post/"
+										href="idbi-executive-apply-online-for-1036-post/"
 										rel="bookmark">IDBI Executive Admit Card 2023 Download for 1036 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -605,7 +605,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -618,7 +618,7 @@
 									1036 Posts. Those candidates who are interested in the IDBI Recruitment 2023 can
 									apply &#8230; <a title="IDBI Executive Admit Card 2023 Download for 1036 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/idbi-executive-apply-online-for-1036-post/"
+										href="idbi-executive-apply-online-for-1036-post/"
 										aria-label="More on IDBI Executive Admit Card 2023 Download for 1036 Post">Read
 										more</a></p>
 							</div>
@@ -629,10 +629,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/banking-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="banking-jobs/"
 										rel="category tag">Bank Jobs</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -641,7 +641,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/idbi-executive-apply-online-for-1036-post/#respond">Leave
+										href="idbi-executive-apply-online-for-1036-post/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -652,7 +652,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-scientist-engineer-job/"
+										href="rbi-scientist-engineer-job/"
 										rel="bookmark">RBI Recruitment 2023 Apply Online Scientist, Engineer 66 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -661,7 +661,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -676,7 +676,7 @@
 									(Macro-economic modeling), Data Analyst (Applied Mathematics), &#8230; <a
 										title="RBI Recruitment 2023 Apply Online Scientist, Engineer 66 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rbi-scientist-engineer-job/"
+										href="rbi-scientist-engineer-job/"
 										aria-label="More on RBI Recruitment 2023 Apply Online Scientist, Engineer 66 Post">Read
 										more</a></p>
 							</div>
@@ -687,10 +687,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -700,7 +700,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-scientist-engineer-job/#respond">Leave a
+										href="rbi-scientist-engineer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -711,7 +711,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-agm-chief-manager-apply-now/"
+										href="sbi-agm-chief-manager-apply-now/"
 										rel="bookmark">SBI SCO Recruitment 2023 Apply AGM, Chief Manager 18 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -720,7 +720,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -734,7 +734,7 @@
 									candidates who are interested in SBI AGM &#8230; <a
 										title="SBI SCO Recruitment 2023 Apply AGM, Chief Manager 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-agm-chief-manager-apply-now/"
+										href="sbi-agm-chief-manager-apply-now/"
 										aria-label="More on SBI SCO Recruitment 2023 Apply AGM, Chief Manager 18 Post">Read
 										more</a></p>
 							</div>
@@ -745,10 +745,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -758,7 +758,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-agm-chief-manager-apply-now/#respond">Leave
+										href="sbi-agm-chief-manager-apply-now/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -769,7 +769,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-jr-engineer-civil-electrical-online-form/"
+										href="rbi-jr-engineer-civil-electrical-online-form/"
 										rel="bookmark">RBI JE Recruitment 2023 Jr Engineer (Civil/Electrical) 35
 										Post</a></h2>
 								<div class="entry-meta">
@@ -779,7 +779,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -793,7 +793,7 @@
 									through the official website RBI Jobs from 9 &#8230; <a
 										title="RBI JE Recruitment 2023 Jr Engineer (Civil/Electrical) 35 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rbi-jr-engineer-civil-electrical-online-form/"
+										href="rbi-jr-engineer-civil-electrical-online-form/"
 										aria-label="More on RBI JE Recruitment 2023 Jr Engineer (Civil/Electrical) 35 Post">Read
 										more</a></p>
 							</div>
@@ -804,10 +804,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -817,7 +817,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-jr-engineer-civil-electrical-online-form/#respond">Leave
+										href="rbi-jr-engineer-civil-electrical-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -828,7 +828,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/idbi-bank-so-notification/"
+										href="idbi-bank-so-notification/"
 										rel="bookmark">IDBI Bank SO Recruitment 2023 Apply Specialist Officer 136
 										Post</a></h2>
 								<div class="entry-meta">
@@ -837,7 +837,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -851,7 +851,7 @@
 									General Manager, and Deputy General Manager Vacancies at &#8230; <a
 										title="IDBI Bank SO Recruitment 2023 Apply Specialist Officer 136 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/idbi-bank-so-notification/"
+										href="idbi-bank-so-notification/"
 										aria-label="More on IDBI Bank SO Recruitment 2023 Apply Specialist Officer 136 Post">Read
 										more</a></p>
 							</div>
@@ -862,10 +862,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -875,7 +875,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/idbi-bank-so-notification/#respond">Leave a
+										href="idbi-bank-so-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -886,7 +886,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-rrb-2023-notification/"
+										href="ibps-rrb-2023-notification/"
 										rel="bookmark">IBPS RRB 2023 Notification for 8594 Post, Eligibility, Apply
 										Online, Vacancy Details</a></h2>
 								<div class="entry-meta">
@@ -896,7 +896,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -910,7 +910,7 @@
 									Scale-I (Assistant Manager), Officer Scale-II &#8230; <a
 										title="IBPS RRB 2023 Notification for 8594 Post, Eligibility, Apply Online, Vacancy Details"
 										class="read-more"
-										href="https://www.sarkariresult.app/ibps-rrb-2023-notification/"
+										href="ibps-rrb-2023-notification/"
 										aria-label="More on IBPS RRB 2023 Notification for 8594 Post, Eligibility, Apply Online, Vacancy Details">Read
 										more</a></p>
 							</div>
@@ -921,10 +921,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -934,7 +934,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-rrb-2023-notification/#respond">Leave a
+										href="ibps-rrb-2023-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -945,7 +945,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/citizencredit-bank-apprentice-job/"
+										href="citizencredit-bank-apprentice-job/"
 										rel="bookmark">Citizencredit Bank Recruitment 2023 Apply Apprentice 30 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -955,7 +955,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -969,7 +969,7 @@
 									Citizencredit Bank Jobs from 26 May 2023 to &#8230; <a
 										title="Citizencredit Bank Recruitment 2023 Apply Apprentice 30 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/citizencredit-bank-apprentice-job/"
+										href="citizencredit-bank-apprentice-job/"
 										aria-label="More on Citizencredit Bank Recruitment 2023 Apply Apprentice 30 Post">Read
 										more</a></p>
 							</div>
@@ -980,10 +980,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -993,7 +993,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/citizencredit-bank-apprentice-job/#comments">1
+										href="citizencredit-bank-apprentice-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1004,7 +1004,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nnsb-clerical-grade-job/"
+										href="nnsb-clerical-grade-job/"
 										rel="bookmark">NNSB Recruitment 2023 Application Form Clerical Grade 50 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1014,7 +1014,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1026,7 +1026,7 @@
 									2023 of the Clerical Grade Vacancy at 50 Posts. Candidates who are interested in the
 									NNSB Vacancy 2023 Application Form to through the official website NNSB Jobs from 26
 									May &#8230; <a title="NNSB Recruitment 2023 Application Form Clerical Grade 50 Post"
-										class="read-more" href="https://www.sarkariresult.app/nnsb-clerical-grade-job/"
+										class="read-more" href="nnsb-clerical-grade-job/"
 										aria-label="More on NNSB Recruitment 2023 Application Form Clerical Grade 50 Post">Read
 										more</a></p>
 							</div>
@@ -1037,10 +1037,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1050,7 +1050,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nnsb-clerical-grade-job/#respond">Leave a
+										href="nnsb-clerical-grade-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1061,7 +1061,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-delhi-officer-manager-job/"
+										href="pnb-delhi-officer-manager-job/"
 										rel="bookmark">PNB Delhi Recruitment 2023 Apply Now Officer, Manager 240
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1071,7 +1071,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1085,7 +1085,7 @@
 									official website pnbindia.in PNB &#8230; <a
 										title="PNB Delhi Recruitment 2023 Apply Now Officer, Manager 240 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-delhi-officer-manager-job/"
+										href="pnb-delhi-officer-manager-job/"
 										aria-label="More on PNB Delhi Recruitment 2023 Apply Now Officer, Manager 240 Post">Read
 										more</a></p>
 							</div>
@@ -1096,10 +1096,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1109,7 +1109,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-delhi-officer-manager-job/#respond">Leave
+										href="pnb-delhi-officer-manager-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1120,7 +1120,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-specialist-cadre-officer-job/"
+										href="sbi-specialist-cadre-officer-job/"
 										rel="bookmark">SBI Recruitment 2023 Apply Specialist Cadre Officer 57 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1130,7 +1130,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1144,7 +1144,7 @@
 									Those candidates who are interested in SBI Application &#8230; <a
 										title="SBI Recruitment 2023 Apply Specialist Cadre Officer 57 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-specialist-cadre-officer-job/"
+										href="sbi-specialist-cadre-officer-job/"
 										aria-label="More on SBI Recruitment 2023 Apply Specialist Cadre Officer 57 Post">Read
 										more</a></p>
 							</div>
@@ -1155,10 +1155,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1168,7 +1168,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-specialist-cadre-officer-job/#respond">Leave
+										href="sbi-specialist-cadre-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1179,7 +1179,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-bank-specialist-job/"
+										href="indian-bank-specialist-job/"
 										rel="bookmark">Indian Bank Recruitment 2023 Apply Now Specialist 18 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1189,7 +1189,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1203,7 +1203,7 @@
 									Indian Bank Vacancy 2023 Application Form to through &#8230; <a
 										title="Indian Bank Recruitment 2023 Apply Now Specialist 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/indian-bank-specialist-job/"
+										href="indian-bank-specialist-job/"
 										aria-label="More on Indian Bank Recruitment 2023 Apply Now Specialist 18 Post">Read
 										more</a></p>
 							</div>
@@ -1214,10 +1214,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1227,7 +1227,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-bank-specialist-job/#comments">1
+										href="indian-bank-specialist-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1238,7 +1238,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ecgc-po-2023-notification-release/"
+										href="ecgc-po-2023-notification-release/"
 										rel="bookmark">ECGC PO 2023 Notification Release, Syllabus, Exam Date, Online
 										Form</a></h2>
 								<div class="entry-meta">
@@ -1247,7 +1247,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1261,7 +1261,7 @@
 									Probationary Officer (PO) Vacancy. &#8230; <a
 										title="ECGC PO 2023 Notification Release, Syllabus, Exam Date, Online Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/ecgc-po-2023-notification-release/"
+										href="ecgc-po-2023-notification-release/"
 										aria-label="More on ECGC PO 2023 Notification Release, Syllabus, Exam Date, Online Form">Read
 										more</a></p>
 							</div>
@@ -1272,10 +1272,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1285,7 +1285,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ecgc-po-2023-notification-release/#respond">Leave
+										href="ecgc-po-2023-notification-release/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1296,7 +1296,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bandhan-bank-deo-job/"
+										href="bandhan-bank-deo-job/"
 										rel="bookmark">Bandhan Bank Recruitment 2023 Apply Data Entry Operator 159
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1305,7 +1305,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1318,7 +1318,7 @@
 									online in the Bandhan Bank Recruitment 2023 through the Bandhan Bank Jobs official
 									website from 1 &#8230; <a
 										title="Bandhan Bank Recruitment 2023 Apply Data Entry Operator 159 Post"
-										class="read-more" href="https://www.sarkariresult.app/bandhan-bank-deo-job/"
+										class="read-more" href="bandhan-bank-deo-job/"
 										aria-label="More on Bandhan Bank Recruitment 2023 Apply Data Entry Operator 159 Post">Read
 										more</a></p>
 							</div>
@@ -1329,10 +1329,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1342,7 +1342,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bandhan-bank-deo-job/#comments">6
+										href="bandhan-bank-deo-job/#comments">6
 										Comments</a></span>
 							</footer>
 						</div>
@@ -1353,7 +1353,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-grade-b-recruitment-notification-2023/"
+										href="rbi-grade-b-recruitment-notification-2023/"
 										rel="bookmark">RBI Grade B Recruitment 2023 Notification PDF, Apply Online,
 										Eligibility, 291 Post</a></h2>
 								<div class="entry-meta">
@@ -1362,7 +1362,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1376,7 +1376,7 @@
 									Jobs from &#8230; <a
 										title="RBI Grade B Recruitment 2023 Notification PDF, Apply Online, Eligibility, 291 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rbi-grade-b-recruitment-notification-2023/"
+										href="rbi-grade-b-recruitment-notification-2023/"
 										aria-label="More on RBI Grade B Recruitment 2023 Notification PDF, Apply Online, Eligibility, 291 Post">Read
 										more</a></p>
 							</div>
@@ -1387,10 +1387,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1400,7 +1400,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-grade-b-recruitment-notification-2023/#respond">Leave
+										href="rbi-grade-b-recruitment-notification-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1411,7 +1411,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-so-online-application-2023/"
+										href="sbi-so-online-application-2023/"
 										rel="bookmark">SBI SO Recruitment 2023 Manager, Dy &#038; Assistant Manager 217
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1420,7 +1420,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1434,7 +1434,7 @@
 									Those candidates who are interested in SBI &#8230; <a
 										title="SBI SO Recruitment 2023 Manager, Dy &#038; Assistant Manager 217 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-so-online-application-2023/"
+										href="sbi-so-online-application-2023/"
 										aria-label="More on SBI SO Recruitment 2023 Manager, Dy &#038; Assistant Manager 217 Post">Read
 										more</a></p>
 							</div>
@@ -1445,10 +1445,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1458,7 +1458,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-so-online-application-2023/#respond">Leave
+										href="sbi-so-online-application-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1469,7 +1469,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bob-analyst-manager-job/"
+										href="bob-analyst-manager-job/"
 										rel="bookmark">Bank of Baroda Recruitment 2023 Apply Analyst, Manager 157
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1478,7 +1478,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1491,7 +1491,7 @@
 									2023 of Credit Analyst, Relationship Manager, Forex Acquisition, and Relationship
 									Manager (Scale II to IV) Vacancies at 157 posts in Bank &#8230; <a
 										title="Bank of Baroda Recruitment 2023 Apply Analyst, Manager 157 Post"
-										class="read-more" href="https://www.sarkariresult.app/bob-analyst-manager-job/"
+										class="read-more" href="bob-analyst-manager-job/"
 										aria-label="More on Bank of Baroda Recruitment 2023 Apply Analyst, Manager 157 Post">Read
 										more</a></p>
 							</div>
@@ -1502,10 +1502,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1515,7 +1515,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bob-analyst-manager-job/#respond">Leave a
+										href="bob-analyst-manager-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1526,7 +1526,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhb-project-finance-officer-recruitment/"
+										href="nhb-project-finance-officer-recruitment/"
 										rel="bookmark">NHB Project Finance Officer Recruitment 2023 Apply Online 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1536,7 +1536,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1550,7 +1550,7 @@
 									candidates who are interested in the NHB Vacancy 2023 &#8230; <a
 										title="NHB Project Finance Officer Recruitment 2023 Apply Online 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/nhb-project-finance-officer-recruitment/"
+										href="nhb-project-finance-officer-recruitment/"
 										aria-label="More on NHB Project Finance Officer Recruitment 2023 Apply Online 40 Post">Read
 										more</a></p>
 							</div>
@@ -1561,10 +1561,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1574,7 +1574,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhb-project-finance-officer-recruitment/#respond">Leave
+										href="nhb-project-finance-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1585,7 +1585,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indbank-dealer-job/" rel="bookmark">Indbank
+										href="indbank-dealer-job/" rel="bookmark">Indbank
 										Recruitment 2023 Application Form Dealer 12 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-21T12:50:01+05:30"
@@ -1594,7 +1594,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1607,7 +1607,7 @@
 									Candidates who want to apply online in the Indbank Dealer Vacancy 2023 form through
 									the Indbank Jobs official &#8230; <a
 										title="Indbank Recruitment 2023 Application Form Dealer 12 Post"
-										class="read-more" href="https://www.sarkariresult.app/indbank-dealer-job/"
+										class="read-more" href="indbank-dealer-job/"
 										aria-label="More on Indbank Recruitment 2023 Application Form Dealer 12 Post">Read
 										more</a></p>
 							</div>
@@ -1618,10 +1618,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1631,7 +1631,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indbank-dealer-job/#comments">1
+										href="indbank-dealer-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1642,7 +1642,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-officer-grade-job/"
+										href="m-p-rajya-sahakari-bank-officer-grade-job/"
 										rel="bookmark">M.P Rajya Sahakari Bank Recruitment 2023 Apply Officer Grade
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1652,7 +1652,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1666,7 +1666,7 @@
 									Mahesh Bank Officer Grade Vacancy 2023 &#8230; <a
 										title="M.P Rajya Sahakari Bank Recruitment 2023 Apply Officer Grade Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-officer-grade-job/"
+										href="m-p-rajya-sahakari-bank-officer-grade-job/"
 										aria-label="More on M.P Rajya Sahakari Bank Recruitment 2023 Apply Officer Grade Post">Read
 										more</a></p>
 							</div>
@@ -1677,10 +1677,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1690,7 +1690,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-officer-grade-job/#respond">Leave
+										href="m-p-rajya-sahakari-bank-officer-grade-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1701,7 +1701,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-driver-apply-online/" rel="bookmark">RBI
+										href="rbi-driver-apply-online/" rel="bookmark">RBI
 										Driver Recruitment 2023 Apply Online Form 05 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-16T23:55:42+05:30"
@@ -1710,7 +1710,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1722,7 +1722,7 @@
 									Driver Vacancy at 05 Posts. Candidates who are interested in RBI Vacancy 2023 can
 									apply online for RBI Jobs from 27 March 2023 to 16 April 2023. Applications &#8230;
 									<a title="RBI Driver Recruitment 2023 Apply Online Form 05 Post" class="read-more"
-										href="https://www.sarkariresult.app/rbi-driver-apply-online/"
+										href="rbi-driver-apply-online/"
 										aria-label="More on RBI Driver Recruitment 2023 Apply Online Form 05 Post">Read
 										more</a></p>
 							</div>
@@ -1733,10 +1733,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1746,7 +1746,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-driver-apply-online/#respond">Leave a
+										href="rbi-driver-apply-online/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1757,7 +1757,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sidbi-specialist-job/" rel="bookmark">SIDBI
+										href="sidbi-specialist-job/" rel="bookmark">SIDBI
 										Recruitment 2023 Application Form Specialist 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-14T23:56:15+05:30"
@@ -1766,7 +1766,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1780,7 +1780,7 @@
 									Information: Small Industries Development Bank of India has released the latest
 									notification for &#8230; <a
 										title="SIDBI Recruitment 2023 Application Form Specialist 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/sidbi-specialist-job/"
+										class="read-more" href="sidbi-specialist-job/"
 										aria-label="More on SIDBI Recruitment 2023 Application Form Specialist 14 Post">Read
 										more</a></p>
 							</div>
@@ -1791,10 +1791,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1804,7 +1804,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sidbi-specialist-job/#respond">Leave a
+										href="sidbi-specialist-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1815,7 +1815,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/union-bank-stipendiary-players-job/"
+										href="union-bank-stipendiary-players-job/"
 										rel="bookmark">Union Bank Recruitment 2023 Apply Now Stipendiary Players
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1825,7 +1825,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1839,7 +1839,7 @@
 									13 April &#8230; <a
 										title="Union Bank Recruitment 2023 Apply Now Stipendiary Players Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/union-bank-stipendiary-players-job/"
+										href="union-bank-stipendiary-players-job/"
 										aria-label="More on Union Bank Recruitment 2023 Apply Now Stipendiary Players Post">Read
 										more</a></p>
 							</div>
@@ -1850,10 +1850,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1863,7 +1863,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/union-bank-stipendiary-players-job/#respond">Leave
+										href="union-bank-stipendiary-players-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1874,7 +1874,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/idbi-assistant-manager-recruitment/"
+										href="idbi-assistant-manager-recruitment/"
 										rel="bookmark">IDBI Assistant Manager Admit Card 2023 Download Grade A 600 Post
 										Call Letter</a></h2>
 								<div class="entry-meta">
@@ -1884,7 +1884,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1898,7 +1898,7 @@
 									official &#8230; <a
 										title="IDBI Assistant Manager Admit Card 2023 Download Grade A 600 Post Call Letter"
 										class="read-more"
-										href="https://www.sarkariresult.app/idbi-assistant-manager-recruitment/"
+										href="idbi-assistant-manager-recruitment/"
 										aria-label="More on IDBI Assistant Manager Admit Card 2023 Download Grade A 600 Post Call Letter">Read
 										more</a></p>
 							</div>
@@ -1909,10 +1909,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/banking-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="banking-jobs/"
 										rel="category tag">Bank Jobs</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1921,7 +1921,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/idbi-assistant-manager-recruitment/#respond">Leave
+										href="idbi-assistant-manager-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1932,7 +1932,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-bc-supervisor-job/"
+										href="central-bank-of-india-bc-supervisor-job/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Apply BC Supervisor
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1942,7 +1942,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1956,7 +1956,7 @@
 									form through the Central &#8230; <a
 										title="Central Bank of India Recruitment 2023 Apply BC Supervisor Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-bc-supervisor-job/"
+										href="central-bank-of-india-bc-supervisor-job/"
 										aria-label="More on Central Bank of India Recruitment 2023 Apply BC Supervisor Post">Read
 										more</a></p>
 							</div>
@@ -1967,10 +1967,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1980,7 +1980,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-bc-supervisor-job/#comments">1
+										href="central-bank-of-india-bc-supervisor-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1991,7 +1991,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/canbank-manager-vice-president-job/"
+										href="canbank-manager-vice-president-job/"
 										rel="bookmark">Canbank Recruitment 2023 Apply Now Manager, Vice President
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2001,7 +2001,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2015,7 +2015,7 @@
 									who are interested in Canbank Project Manager Vacancy 2023 can apply &#8230; <a
 										title="Canbank Recruitment 2023 Apply Now Manager, Vice President Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/canbank-manager-vice-president-job/"
+										href="canbank-manager-vice-president-job/"
 										aria-label="More on Canbank Recruitment 2023 Apply Now Manager, Vice President Post">Read
 										more</a></p>
 							</div>
@@ -2026,10 +2026,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2039,7 +2039,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/canbank-manager-vice-president-job/#comments">1
+										href="canbank-manager-vice-president-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2050,7 +2050,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-recruitment/"
+										href="m-p-rajya-sahakari-bank-recruitment/"
 										rel="bookmark">M.P Rajya Sahakari Bank Recruitment 2023 Apply Online 638
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2060,7 +2060,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2076,7 +2076,7 @@
 									Financial Analyst &#8230; <a
 										title="M.P Rajya Sahakari Bank Recruitment 2023 Apply Online 638 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-recruitment/"
+										href="m-p-rajya-sahakari-bank-recruitment/"
 										aria-label="More on M.P Rajya Sahakari Bank Recruitment 2023 Apply Online 638 Post">Read
 										more</a></p>
 							</div>
@@ -2087,10 +2087,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2100,7 +2100,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-recruitment/#respond">Leave
+										href="m-p-rajya-sahakari-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2111,7 +2111,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/saraswat-bank/" rel="bookmark">Saraswat Bank
+										href="saraswat-bank/" rel="bookmark">Saraswat Bank
 										Recruitment 2023 Apply Now Junior Officer 150 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-08T23:55:42+05:30"
@@ -2120,7 +2120,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2133,7 +2133,7 @@
 									&#8211; Marketing &amp; Operations (Clerical Cadre) for its branches in Mumbai
 									(MMRDA) and Pune Vacancy at 150 Posts. Candidates who &#8230; <a
 										title="Saraswat Bank Recruitment 2023 Apply Now Junior Officer 150 Post"
-										class="read-more" href="https://www.sarkariresult.app/saraswat-bank/"
+										class="read-more" href="saraswat-bank/"
 										aria-label="More on Saraswat Bank Recruitment 2023 Apply Now Junior Officer 150 Post">Read
 										more</a></p>
 							</div>
@@ -2144,10 +2144,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2157,7 +2157,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/saraswat-bank/#respond">Leave a
+										href="saraswat-bank/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2168,7 +2168,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-po-recruitment-apply-online/"
+										href="ibps-po-recruitment-apply-online/"
 										rel="bookmark">IBPS CRP-XII PO/ MT Mains &#038; Interview Result 2023 Link Merit
 										List, Cut Off</a></h2>
 								<div class="entry-meta">
@@ -2177,7 +2177,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2191,7 +2191,7 @@
 									Common Recruitment Process (CRP-XII PO/MT) Probationary Officer/ Management &#8230;
 									<a title="IBPS CRP-XII PO/ MT Mains &#038; Interview Result 2023 Link Merit List, Cut Off"
 										class="read-more"
-										href="https://www.sarkariresult.app/ibps-po-recruitment-apply-online/"
+										href="ibps-po-recruitment-apply-online/"
 										aria-label="More on IBPS CRP-XII PO/ MT Mains &#038; Interview Result 2023 Link Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -2202,10 +2202,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2214,7 +2214,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-po-recruitment-apply-online/#comments">1
+										href="ibps-po-recruitment-apply-online/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2225,7 +2225,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-apprentice-job/"
+										href="central-bank-of-india-apprentice-job/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Apply Apprentice 5000
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2235,7 +2235,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2249,7 +2249,7 @@
 									centralbankofindia.co.in &#8230; <a
 										title="Central Bank of India Recruitment 2023 Apply Apprentice 5000 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-apprentice-job/"
+										href="central-bank-of-india-apprentice-job/"
 										aria-label="More on Central Bank of India Recruitment 2023 Apply Apprentice 5000 Post">Read
 										more</a></p>
 							</div>
@@ -2260,10 +2260,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2273,7 +2273,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-apprentice-job/#respond">Leave
+										href="central-bank-of-india-apprentice-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2284,7 +2284,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-retired-bank-officer-job/"
+										href="sbi-retired-bank-officer-job/"
 										rel="bookmark">SBI Retired Bank Officer Recruitment 2023 Apply Online 868
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2294,7 +2294,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2308,7 +2308,7 @@
 									candidates who are interested in SBI Retired Bank Officer Vacancy 2023 &#8230; <a
 										title="SBI Retired Bank Officer Recruitment 2023 Apply Online 868 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-retired-bank-officer-job/"
+										href="sbi-retired-bank-officer-job/"
 										aria-label="More on SBI Retired Bank Officer Recruitment 2023 Apply Online 868 Post">Read
 										more</a></p>
 							</div>
@@ -2319,10 +2319,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2332,7 +2332,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-retired-bank-officer-job/#respond">Leave
+										href="sbi-retired-bank-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2343,7 +2343,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-rewari-recruitmen/" rel="bookmark">PNB
+										href="pnb-rewari-recruitmen/" rel="bookmark">PNB
 										Rewari Recruitment 2023 Punjab National Bank Rewari Peon Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-31T23:55:03+05:30"
@@ -2352,7 +2352,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2365,7 +2365,7 @@
 									Rewari Recruitment 2023 through the official website pnbindia.in PNB Rewari Jobs
 									2023 from 9 March 2023 &#8230; <a
 										title="PNB Rewari Recruitment 2023 Punjab National Bank Rewari Peon Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-rewari-recruitmen/"
+										class="read-more" href="pnb-rewari-recruitmen/"
 										aria-label="More on PNB Rewari Recruitment 2023 Punjab National Bank Rewari Peon Post">Read
 										more</a></p>
 							</div>
@@ -2376,10 +2376,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2389,7 +2389,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-rewari-recruitmen/#respond">Leave a
+										href="pnb-rewari-recruitmen/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2400,7 +2400,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-bank-apply-form/"
+										href="indian-bank-apply-form/"
 										rel="bookmark">Indian Bank Recruitment 2023 Faculty, Office Asst, Attender
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2410,7 +2410,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2423,7 +2423,7 @@
 									Vacancy at 03 Posts. Candidates who are interested in the Indian Bank Vacancy 2023
 									Application Form to through the official website &#8230; <a
 										title="Indian Bank Recruitment 2023 Faculty, Office Asst, Attender Post"
-										class="read-more" href="https://www.sarkariresult.app/indian-bank-apply-form/"
+										class="read-more" href="indian-bank-apply-form/"
 										aria-label="More on Indian Bank Recruitment 2023 Faculty, Office Asst, Attender Post">Read
 										more</a></p>
 							</div>
@@ -2434,12 +2434,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2448,7 +2448,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-bank-apply-form/#comments">1
+										href="indian-bank-apply-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2459,7 +2459,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-retired-bank-staff-job/"
+										href="sbi-retired-bank-staff-job/"
 										rel="bookmark">SBI Retired Bank Staff Recruitment 2023 Apply Online 1031
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2469,7 +2469,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2483,7 +2483,7 @@
 									Supervisor, Channel Manager Facilitator, Support Officer) Vacancies at 1031 &#8230;
 									<a title="SBI Retired Bank Staff Recruitment 2023 Apply Online 1031 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-retired-bank-staff-job/"
+										href="sbi-retired-bank-staff-job/"
 										aria-label="More on SBI Retired Bank Staff Recruitment 2023 Apply Online 1031 Post">Read
 										more</a></p>
 							</div>
@@ -2494,10 +2494,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2507,7 +2507,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-retired-bank-staff-job/#comments">3
+										href="sbi-retired-bank-staff-job/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2518,7 +2518,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sidbi-assistant-manager-job/"
+										href="sidbi-assistant-manager-job/"
 										rel="bookmark">SIDBI Assistant Manager Result 2023 Out AM Merit List, Cut
 										Off</a></h2>
 								<div class="entry-meta">
@@ -2527,7 +2527,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2541,7 +2541,7 @@
 									SIDBI Assistant Manager Result &#8230; <a
 										title="SIDBI Assistant Manager Result 2023 Out AM Merit List, Cut Off"
 										class="read-more"
-										href="https://www.sarkariresult.app/sidbi-assistant-manager-job/"
+										href="sidbi-assistant-manager-job/"
 										aria-label="More on SIDBI Assistant Manager Result 2023 Out AM Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -2552,12 +2552,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2566,7 +2566,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sidbi-assistant-manager-job/#respond">Leave
+										href="sidbi-assistant-manager-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2577,7 +2577,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-job/"
+										href="central-bank-of-india-manager-job/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Apply Manager 147 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2587,7 +2587,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2601,7 +2601,7 @@
 									Manager &#8211; IT (Technical), Assistant Manager &#8211; &#8230; <a
 										title="Central Bank of India Recruitment 2023 Apply Manager 147 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-job/"
+										href="central-bank-of-india-manager-job/"
 										aria-label="More on Central Bank of India Recruitment 2023 Apply Manager 147 Post">Read
 										more</a></p>
 							</div>
@@ -2612,10 +2612,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2625,7 +2625,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-job/#respond">Leave
+										href="central-bank-of-india-manager-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2636,7 +2636,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sarva-haryana-gramin-bank-recruitment/"
+										href="sarva-haryana-gramin-bank-recruitment/"
 										rel="bookmark">Sarva Haryana Gramin Bank Recruitment 2023 Counselor 06 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2646,7 +2646,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2660,7 +2660,7 @@
 									form through the official website Sarva Haryana Gramin Bank &#8230; <a
 										title="Sarva Haryana Gramin Bank Recruitment 2023 Counselor 06 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sarva-haryana-gramin-bank-recruitment/"
+										href="sarva-haryana-gramin-bank-recruitment/"
 										aria-label="More on Sarva Haryana Gramin Bank Recruitment 2023 Counselor 06 Post">Read
 										more</a></p>
 							</div>
@@ -2671,10 +2671,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2684,7 +2684,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sarva-haryana-gramin-bank-recruitment/#comments">2
+										href="sarva-haryana-gramin-bank-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2695,7 +2695,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-manager-recruitment/" rel="bookmark">SBI
+										href="sbi-manager-recruitment/" rel="bookmark">SBI
 										Manager Recruitment 2023 Apply Online SCO 05 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-15T23:55:47+05:30"
@@ -2704,7 +2704,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2717,7 +2717,7 @@
 									MMGS-III (Regular) Vacancies at 05 Posts. Those candidates who are interested in SBI
 									SCO Vacancy 2023 apply &#8230; <a
 										title="SBI Manager Recruitment 2023 Apply Online SCO 05 Post" class="read-more"
-										href="https://www.sarkariresult.app/sbi-manager-recruitment/"
+										href="sbi-manager-recruitment/"
 										aria-label="More on SBI Manager Recruitment 2023 Apply Online SCO 05 Post">Read
 										more</a></p>
 							</div>
@@ -2728,10 +2728,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2741,7 +2741,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-manager-recruitment/#respond">Leave a
+										href="sbi-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2752,7 +2752,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-office-assistant-recruitment/"
+										href="central-bank-of-india-office-assistant-recruitment/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Director, Office Asst
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2762,7 +2762,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2776,7 +2776,7 @@
 									2023 form through the Central Bank &#8230; <a
 										title="Central Bank of India Recruitment 2023 Director, Office Asst Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-office-assistant-recruitment/"
+										href="central-bank-of-india-office-assistant-recruitment/"
 										aria-label="More on Central Bank of India Recruitment 2023 Director, Office Asst Post">Read
 										more</a></p>
 							</div>
@@ -2787,12 +2787,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2801,7 +2801,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-office-assistant-recruitment/#respond">Leave
+										href="central-bank-of-india-office-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2812,7 +2812,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bob-application-form/" rel="bookmark">Bank
+										href="bob-application-form/" rel="bookmark">Bank
 										of Baroda Recruitment 2023 Banker, Head, Manager 546 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-14T23:55:12+05:30"
@@ -2821,7 +2821,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2835,7 +2835,7 @@
 									Wealth Strategist, Private Banker, Acquisition Officers, Product Head, Product
 									Manager, &#8230; <a
 										title="Bank of Baroda Recruitment 2023 Banker, Head, Manager 546 Post"
-										class="read-more" href="https://www.sarkariresult.app/bob-application-form/"
+										class="read-more" href="bob-application-form/"
 										aria-label="More on Bank of Baroda Recruitment 2023 Banker, Head, Manager 546 Post">Read
 										more</a></p>
 							</div>
@@ -2846,10 +2846,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2859,7 +2859,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bob-application-form/#respond">Leave a
+										href="bob-application-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2870,7 +2870,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-ao-recruitment/"
+										href="bank-of-baroda-ao-recruitment/"
 										rel="bookmark">Bank of Baroda AO Recruitment 2023 Acquisition Officer 500
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -2880,7 +2880,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2895,7 +2895,7 @@
 									Manager, &#8230; <a
 										title="Bank of Baroda AO Recruitment 2023 Acquisition Officer 500 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-ao-recruitment/"
+										href="bank-of-baroda-ao-recruitment/"
 										aria-label="More on Bank of Baroda AO Recruitment 2023 Acquisition Officer 500 Posts">Read
 										more</a></p>
 							</div>
@@ -2906,10 +2906,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2919,7 +2919,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-ao-recruitment/#respond">Leave
+										href="bank-of-baroda-ao-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2930,7 +2930,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-pharmacist-job/" rel="bookmark">RBI
+										href="rbi-pharmacist-job/" rel="bookmark">RBI
 										Recruitment 2023 Application Form Pharmacist 25 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-12T17:05:48+05:30"
@@ -2939,7 +2939,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2952,7 +2952,7 @@
 									Recruitment 2023 apply online through the official website RBI Pharmacist Jobs from
 									22 March 2023 to 10 April 2023. &#8230; <a
 										title="RBI Recruitment 2023 Application Form Pharmacist 25 Post"
-										class="read-more" href="https://www.sarkariresult.app/rbi-pharmacist-job/"
+										class="read-more" href="rbi-pharmacist-job/"
 										aria-label="More on RBI Recruitment 2023 Application Form Pharmacist 25 Post">Read
 										more</a></p>
 							</div>
@@ -2963,10 +2963,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2976,7 +2976,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-pharmacist-job/#respond">Leave a
+										href="rbi-pharmacist-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2987,7 +2987,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/baroda-up-gramin-bank-recruitment/"
+										href="baroda-up-gramin-bank-recruitment/"
 										rel="bookmark">Baroda UP Bank Recruitment 2023 Apply Now Charted Accountant
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2997,7 +2997,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3011,7 +3011,7 @@
 									form through the official website Baroda UP Bank &#8230; <a
 										title="Baroda UP Bank Recruitment 2023 Apply Now Charted Accountant Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/baroda-up-gramin-bank-recruitment/"
+										href="baroda-up-gramin-bank-recruitment/"
 										aria-label="More on Baroda UP Bank Recruitment 2023 Apply Now Charted Accountant Post">Read
 										more</a></p>
 							</div>
@@ -3022,10 +3022,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3035,7 +3035,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/baroda-up-gramin-bank-recruitment/#respond">Leave
+										href="baroda-up-gramin-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3046,7 +3046,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/idbi-online-form/" rel="bookmark">IDBI SO
+										href="idbi-online-form/" rel="bookmark">IDBI SO
 										Recruitment 2023 Apply Specialist Cadre Officer 114 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-03T23:55:09+05:30"
@@ -3055,7 +3055,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3068,7 +3068,7 @@
 									Cadre Officer (Manager, Assistant General Manager (AGM), and Deputy General Manager
 									(DGM) Vacancy at 114 posts. Those candidates &#8230; <a
 										title="IDBI SO Recruitment 2023 Apply Specialist Cadre Officer 114 Post"
-										class="read-more" href="https://www.sarkariresult.app/idbi-online-form/"
+										class="read-more" href="idbi-online-form/"
 										aria-label="More on IDBI SO Recruitment 2023 Apply Specialist Cadre Officer 114 Post">Read
 										more</a></p>
 							</div>
@@ -3079,10 +3079,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3092,7 +3092,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/idbi-online-form/#respond">Leave a
+										href="idbi-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3103,7 +3103,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-gds-job/" rel="bookmark">IPPB GDS
+										href="ippb-gds-job/" rel="bookmark">IPPB GDS
 										Recruitment 2023 Apply Gramin Dak Sevak 59 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-01T23:55:02+05:30"
@@ -3112,7 +3112,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3125,7 +3125,7 @@
 									candidates who are interested in IPPB Vacancy 2023 apply online through the official
 									website IPPB Jobs &#8230; <a
 										title="IPPB GDS Recruitment 2023 Apply Gramin Dak Sevak 59 Posts"
-										class="read-more" href="https://www.sarkariresult.app/ippb-gds-job/"
+										class="read-more" href="ippb-gds-job/"
 										aria-label="More on IPPB GDS Recruitment 2023 Apply Gramin Dak Sevak 59 Posts">Read
 										more</a></p>
 							</div>
@@ -3136,10 +3136,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3148,7 +3148,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/ippb-gds-job/#respond">Leave
+										</svg></span><a href="ippb-gds-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3159,7 +3159,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cosmos-bank-recruitment/"
+										href="cosmos-bank-recruitment/"
 										rel="bookmark">Cosmos Bank Recruitment 2023 Apply Online Java Developer 06
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3169,7 +3169,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3182,7 +3182,7 @@
 									interested in Cosmos Bank Java Developer Vacancy 2023 can apply online through the
 									official website Cosmos Bank Jobs from &#8230; <a
 										title="Cosmos Bank Recruitment 2023 Apply Online Java Developer 06 Post"
-										class="read-more" href="https://www.sarkariresult.app/cosmos-bank-recruitment/"
+										class="read-more" href="cosmos-bank-recruitment/"
 										aria-label="More on Cosmos Bank Recruitment 2023 Apply Online Java Developer 06 Post">Read
 										more</a></p>
 							</div>
@@ -3193,10 +3193,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3206,7 +3206,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cosmos-bank-recruitment/#respond">Leave a
+										href="cosmos-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3217,7 +3217,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-mahesh-bank-recruitment/"
+										href="ap-mahesh-bank-recruitment/"
 										rel="bookmark">AP Mahesh Bank Recruitment 2023 Apply GM, DGM, AGM, Manager
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3227,7 +3227,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3241,7 +3241,7 @@
 									General Manager (DGM), Assistant General Manager (AGM), Senior &#8230; <a
 										title="AP Mahesh Bank Recruitment 2023 Apply GM, DGM, AGM, Manager Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-mahesh-bank-recruitment/"
+										href="ap-mahesh-bank-recruitment/"
 										aria-label="More on AP Mahesh Bank Recruitment 2023 Apply GM, DGM, AGM, Manager Post">Read
 										more</a></p>
 							</div>
@@ -3252,10 +3252,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3265,7 +3265,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-mahesh-bank-recruitment/#respond">Leave a
+										href="ap-mahesh-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3276,7 +3276,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-manager-vacancy/" rel="bookmark">IPPB
+										href="ippb-manager-vacancy/" rel="bookmark">IPPB
 										Manager Recruitment 2023 Apply Form 41 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-28T23:55:07+05:30"
@@ -3285,7 +3285,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3298,7 +3298,7 @@
 									Associate, Assistant Manager, Manager, Senior Manager and Chief Manager Vacancies at
 									41 Posts. Those candidates who are interested &#8230; <a
 										title="IPPB Manager Recruitment 2023 Apply Form  41 Posts" class="read-more"
-										href="https://www.sarkariresult.app/ippb-manager-vacancy/"
+										href="ippb-manager-vacancy/"
 										aria-label="More on IPPB Manager Recruitment 2023 Apply Form  41 Posts">Read
 										more</a></p>
 							</div>
@@ -3309,10 +3309,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3322,7 +3322,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ippb-manager-vacancy/#respond">Leave a
+										href="ippb-manager-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3333,7 +3333,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-bank-specialist-officer-recruitment/"
+										href="indian-bank-specialist-officer-recruitment/"
 										rel="bookmark">Indian Bank Specialist Officer Recruitment 2023 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -3343,7 +3343,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3357,7 +3357,7 @@
 									Jobs from 6 February &#8230; <a
 										title="Indian Bank Specialist Officer Recruitment 2023 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/indian-bank-specialist-officer-recruitment/"
+										href="indian-bank-specialist-officer-recruitment/"
 										aria-label="More on Indian Bank Specialist Officer Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -3368,10 +3368,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3381,7 +3381,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-bank-specialist-officer-recruitment/#respond">Leave
+										href="indian-bank-specialist-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3392,7 +3392,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bangalore-dcc-bank-recruitment/"
+										href="bangalore-dcc-bank-recruitment/"
 										rel="bookmark">Bangalore DCC Bank Recruitment 2023 Driver, JA, Manager 96
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3402,7 +3402,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3417,7 +3417,7 @@
 									96 &#8230; <a
 										title="Bangalore DCC Bank Recruitment 2023 Driver, JA, Manager 96 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bangalore-dcc-bank-recruitment/"
+										href="bangalore-dcc-bank-recruitment/"
 										aria-label="More on Bangalore DCC Bank Recruitment 2023 Driver, JA, Manager 96 Post">Read
 										more</a></p>
 							</div>
@@ -3428,10 +3428,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3441,7 +3441,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bangalore-dcc-bank-recruitment/#respond">Leave
+										href="bangalore-dcc-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3452,7 +3452,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/boi-po-recruitment/" rel="bookmark">BOI PO
+										href="boi-po-recruitment/" rel="bookmark">BOI PO
 										Recruitment 2023 Apply Online Probationary Officer 500 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-25T23:55:07+05:30"
@@ -3461,7 +3461,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3474,7 +3474,7 @@
 									Officer) Vacancy at 500 Posts. Candidates who want to apply online for the BOI PO
 									Vacancy &#8230; <a
 										title="BOI PO Recruitment 2023 Apply Online Probationary Officer 500 Post"
-										class="read-more" href="https://www.sarkariresult.app/boi-po-recruitment/"
+										class="read-more" href="boi-po-recruitment/"
 										aria-label="More on BOI PO Recruitment 2023 Apply Online Probationary Officer 500 Post">Read
 										more</a></p>
 							</div>
@@ -3485,10 +3485,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3498,7 +3498,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/boi-po-recruitment/#respond">Leave a
+										href="boi-po-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3509,7 +3509,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-bank-online-form/"
+										href="karnataka-bank-online-form/"
 										rel="bookmark">Karnataka Bank Recruitment 2023 Apply Engineer, Analyst 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3519,7 +3519,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3533,7 +3533,7 @@
 									form through the Karnataka Bank Jobs official website can apply online &#8230; <a
 										title="Karnataka Bank Recruitment 2023 Apply Engineer, Analyst 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-bank-online-form/"
+										href="karnataka-bank-online-form/"
 										aria-label="More on Karnataka Bank Recruitment 2023 Apply Engineer, Analyst 22 Post">Read
 										more</a></p>
 							</div>
@@ -3544,10 +3544,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3557,7 +3557,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-bank-online-form/#respond">Leave a
+										href="karnataka-bank-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3568,7 +3568,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/union-bank-manager-recruitment/"
+										href="union-bank-manager-recruitment/"
 										rel="bookmark">Union Bank Manager Recruitment 2023 Apply Now 42 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-04T14:34:13+05:30"
@@ -3577,7 +3577,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3590,7 +3590,7 @@
 									Manager (Chartered Accountant), Senior Manager (Credit Officer), Manager (Credit
 									Officer) vacancies at 42 posts. Candidates who are interested &#8230; <a
 										title="Union Bank Manager Recruitment 2023 Apply Now 42 Post" class="read-more"
-										href="https://www.sarkariresult.app/union-bank-manager-recruitment/"
+										href="union-bank-manager-recruitment/"
 										aria-label="More on Union Bank Manager Recruitment 2023 Apply Now 42 Post">Read
 										more</a></p>
 							</div>
@@ -3601,10 +3601,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3614,7 +3614,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/union-bank-manager-recruitment/#comments">2
+										href="union-bank-manager-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3625,7 +3625,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sidbi-specialist-recruitment/"
+										href="sidbi-specialist-recruitment/"
 										rel="bookmark">SIDBI Specialist Recruitment 2023 CTO, Advisor, Executive 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3635,7 +3635,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3649,7 +3649,7 @@
 									Resource Officer (CHRO), Legal Advisor – General Counsel (LAcGC), &#8230; <a
 										title="SIDBI Specialist Recruitment 2023 CTO, Advisor, Executive 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sidbi-specialist-recruitment/"
+										href="sidbi-specialist-recruitment/"
 										aria-label="More on SIDBI Specialist Recruitment 2023 CTO, Advisor, Executive 19 Post">Read
 										more</a></p>
 							</div>
@@ -3660,10 +3660,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3673,7 +3673,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sidbi-specialist-recruitment/#respond">Leave
+										href="sidbi-specialist-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3684,7 +3684,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-vacancy/"
+										href="central-bank-of-india-manager-vacancy/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Apply Now Manager 250
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3694,7 +3694,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3708,7 +3708,7 @@
 									form through &#8230; <a
 										title="Central Bank of India Recruitment 2023 Apply Now Manager 250 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-vacancy/"
+										href="central-bank-of-india-manager-vacancy/"
 										aria-label="More on Central Bank of India Recruitment 2023 Apply Now Manager 250 Post">Read
 										more</a></p>
 							</div>
@@ -3719,10 +3719,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3732,7 +3732,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-manager-vacancy/#respond">Leave
+										href="central-bank-of-india-manager-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3743,7 +3743,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-indian-bank-recruitment/"
+										href="south-indian-bank-recruitment/"
 										rel="bookmark">South Indian Bank Recruitment 2023 Apply Probationary Clerk
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3753,7 +3753,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3767,7 +3767,7 @@
 									12 February 2023. South &#8230; <a
 										title="South Indian Bank Recruitment 2023 Apply Probationary Clerk Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-indian-bank-recruitment/"
+										href="south-indian-bank-recruitment/"
 										aria-label="More on South Indian Bank Recruitment 2023 Apply Probationary Clerk Post">Read
 										more</a></p>
 							</div>
@@ -3778,10 +3778,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3791,7 +3791,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-indian-bank-recruitment/#respond">Leave
+										href="south-indian-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3802,7 +3802,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-so-vacancy/"
+										href="bank-of-maharashtra-so-vacancy/"
 										rel="bookmark">Bank of Maharashtra Recruitment 2023 Apply Online SO 225 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3812,7 +3812,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3826,7 +3826,7 @@
 									Candidates who want to Bank of &#8230; <a
 										title="Bank of Maharashtra Recruitment 2023 Apply Online SO 225 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-maharashtra-so-vacancy/"
+										href="bank-of-maharashtra-so-vacancy/"
 										aria-label="More on Bank of Maharashtra Recruitment 2023 Apply Online SO 225 Post">Read
 										more</a></p>
 							</div>
@@ -3837,10 +3837,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3850,7 +3850,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-so-vacancy/#respond">Leave
+										href="bank-of-maharashtra-so-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3861,7 +3861,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhb-assistant-manager/" rel="bookmark">NHB
+										href="nhb-assistant-manager/" rel="bookmark">NHB
 										Recruitment 2023 Apply Assistant, Manager, Officer 36 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-14T15:14:02+05:30"
@@ -3870,7 +3870,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3884,7 +3884,7 @@
 									of General Manager, Deputy General Manager, Assistant General Manager, Regional
 									Manager, Manager, Deputy &#8230; <a
 										title="NHB Recruitment 2023 Apply Assistant, Manager, Officer 36 Post"
-										class="read-more" href="https://www.sarkariresult.app/nhb-assistant-manager/"
+										class="read-more" href="nhb-assistant-manager/"
 										aria-label="More on NHB Recruitment 2023 Apply Assistant, Manager, Officer 36 Post">Read
 										more</a></p>
 							</div>
@@ -3895,10 +3895,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3908,7 +3908,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhb-assistant-manager/#respond">Leave a
+										href="nhb-assistant-manager/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3919,7 +3919,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-gold-appraiser-recruitment/"
+										href="pnb-gold-appraiser-recruitment/"
 										rel="bookmark">PNB Gold Appraiser Recruitment 2023 Application Form</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3927,7 +3927,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3940,7 +3940,7 @@
 									online in PNB Chennai Recruitment 2023 through the official website pnbindia.in PNB
 									Jobs 2023 from 24 January 2023 &#8230; <a
 										title="PNB Gold Appraiser Recruitment 2023 Application Form" class="read-more"
-										href="https://www.sarkariresult.app/pnb-gold-appraiser-recruitment/"
+										href="pnb-gold-appraiser-recruitment/"
 										aria-label="More on PNB Gold Appraiser Recruitment 2023 Application Form">Read
 										more</a></p>
 							</div>
@@ -3951,10 +3951,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3964,7 +3964,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-gold-appraiser-recruitment/#respond">Leave
+										href="pnb-gold-appraiser-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3975,7 +3975,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-po-advt-no-crpd-po-2022-23-18/"
+										href="sbi-po-advt-no-crpd-po-2022-23-18/"
 										rel="bookmark">SBI PO Prelims Result 2023 Check Probationary Officer Pre Result
 										Date, Cut Off</a></h2>
 								<div class="entry-meta">
@@ -3984,7 +3984,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3998,7 +3998,7 @@
 									in SBI Pre Result 2023 &#8230; <a
 										title="SBI PO Prelims Result 2023 Check Probationary Officer Pre Result Date, Cut Off"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-po-advt-no-crpd-po-2022-23-18/"
+										href="sbi-po-advt-no-crpd-po-2022-23-18/"
 										aria-label="More on SBI PO Prelims Result 2023 Check Probationary Officer Pre Result Date, Cut Off">Read
 										more</a></p>
 							</div>
@@ -4009,10 +4009,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4021,7 +4021,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-po-advt-no-crpd-po-2022-23-18/#respond">Leave
+										href="sbi-po-advt-no-crpd-po-2022-23-18/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4032,7 +4032,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/federal-bank-graduate-apprentice-recruitment/"
+										href="federal-bank-graduate-apprentice-recruitment/"
 										rel="bookmark">Federal Bank Recruitment 2023 Apply Now Graduate Apprentice
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4041,7 +4041,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4055,7 +4055,7 @@
 									official website of Federal Bank Jobs from &#8230; <a
 										title="Federal Bank Recruitment 2023 Apply Now Graduate Apprentice Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/federal-bank-graduate-apprentice-recruitment/"
+										href="federal-bank-graduate-apprentice-recruitment/"
 										aria-label="More on Federal Bank Recruitment 2023 Apply Now Graduate Apprentice Post">Read
 										more</a></p>
 							</div>
@@ -4066,10 +4066,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4079,7 +4079,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/federal-bank-graduate-apprentice-recruitment/#comments">1
+										href="federal-bank-graduate-apprentice-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4090,7 +4090,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/exim-bank-officer-online-form/"
+										href="exim-bank-officer-online-form/"
 										rel="bookmark">Exim Bank Officer Recruitment 2023 Online Application Form 30
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4099,7 +4099,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4113,7 +4113,7 @@
 									&#8230; <a
 										title="Exim Bank Officer Recruitment 2023 Online Application Form 30 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/exim-bank-officer-online-form/"
+										href="exim-bank-officer-online-form/"
 										aria-label="More on Exim Bank Officer Recruitment 2023 Online Application Form 30 Post">Read
 										more</a></p>
 							</div>
@@ -4124,10 +4124,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4137,7 +4137,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/exim-bank-officer-online-form/#respond">Leave
+										href="exim-bank-officer-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4148,7 +4148,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-jobs-apply/"
+										href="central-bank-of-india-jobs-apply/"
 										rel="bookmark">Central Bank of India Recruitment 2023 Apply Office Assistant
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4157,7 +4157,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4171,7 +4171,7 @@
 									Bank of &#8230; <a
 										title="Central Bank of India Recruitment 2023 Apply Office Assistant Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-jobs-apply/"
+										href="central-bank-of-india-jobs-apply/"
 										aria-label="More on Central Bank of India Recruitment 2023 Apply Office Assistant Post">Read
 										more</a></p>
 							</div>
@@ -4182,10 +4182,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4195,7 +4195,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-jobs-apply/#comments">2
+										href="central-bank-of-india-jobs-apply/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4206,7 +4206,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kscb-gold-appraiser-recruitment/"
+										href="kscb-gold-appraiser-recruitment/"
 										rel="bookmark">KSCB Gold Appraiser Recruitment 2023 Apply Now 586 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-01-06T15:50:22+05:30"
@@ -4215,7 +4215,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4229,7 +4229,7 @@
 									KSCB Jobs from 6 January 2023 to &#8230; <a
 										title="KSCB Gold Appraiser Recruitment 2023 Apply Now 586 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kscb-gold-appraiser-recruitment/"
+										href="kscb-gold-appraiser-recruitment/"
 										aria-label="More on KSCB Gold Appraiser Recruitment 2023 Apply Now 586 Post">Read
 										more</a></p>
 							</div>
@@ -4240,10 +4240,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4253,7 +4253,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kscb-gold-appraiser-recruitment/#comments">1
+										href="kscb-gold-appraiser-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4264,7 +4264,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-online-form/"
+										href="bank-of-baroda-manager-online-form/"
 										rel="bookmark">Bank of Baroda Recruitment 2023 Online Application Manager 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4273,7 +4273,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4287,7 +4287,7 @@
 									official website &#8230; <a
 										title="Bank of Baroda Recruitment 2023 Online Application Manager 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-online-form/"
+										href="bank-of-baroda-manager-online-form/"
 										aria-label="More on Bank of Baroda Recruitment 2023 Online Application Manager 15 Post">Read
 										more</a></p>
 							</div>
@@ -4298,10 +4298,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4311,7 +4311,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-online-form/#comments">1
+										href="bank-of-baroda-manager-online-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4322,7 +4322,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-bank-vacancy/"
+										href="karnataka-bank-vacancy/"
 										rel="bookmark">Karnataka Bank PO Recruitment 2023 Apply Probationary Officer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4331,7 +4331,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4344,7 +4344,7 @@
 									want to apply online in the Karnataka Bank PO Vacancy 2023 form through the
 									Karnataka Bank Jobs official website can apply online from 31 December &#8230; <a
 										title="Karnataka Bank PO Recruitment 2023 Apply Probationary Officer Post"
-										class="read-more" href="https://www.sarkariresult.app/karnataka-bank-vacancy/"
+										class="read-more" href="karnataka-bank-vacancy/"
 										aria-label="More on Karnataka Bank PO Recruitment 2023 Apply Probationary Officer Post">Read
 										more</a></p>
 							</div>
@@ -4355,10 +4355,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4368,7 +4368,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-bank-vacancy/#respond">Leave a
+										href="karnataka-bank-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4379,7 +4379,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indbank-online-form/" rel="bookmark">Indbank
+										href="indbank-online-form/" rel="bookmark">Indbank
 										Recruitment 2023 Apply Online Dealer, Office Staff 10 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-12-31T14:47:43+05:30"
@@ -4388,7 +4388,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4401,7 +4401,7 @@
 									&#8211; For Stock broking Terminals, Back Office Staff-Registered Office (Accounts)
 									Vacancy at 10 Posts. Those candidates who want to apply online in &#8230; <a
 										title="Indbank Recruitment 2023 Apply Online Dealer, Office Staff 10 Post"
-										class="read-more" href="https://www.sarkariresult.app/indbank-online-form/"
+										class="read-more" href="indbank-online-form/"
 										aria-label="More on Indbank Recruitment 2023 Apply Online Dealer, Office Staff 10 Post">Read
 										more</a></p>
 							</div>
@@ -4412,10 +4412,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4425,7 +4425,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indbank-online-form/#respond">Leave a
+										href="indbank-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4436,7 +4436,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-retired-bank-staff-recruitment/"
+										href="sbi-retired-bank-staff-recruitment/"
 										rel="bookmark">SBI Retired Bank Staff Recruitment 2023 Apply Online 1438
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4445,7 +4445,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4459,7 +4459,7 @@
 									posts. Candidates who are interested in SBI Recruitment 2023 can apply through
 									&#8230; <a title="SBI Retired Bank Staff Recruitment 2023 Apply Online 1438 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-retired-bank-staff-recruitment/"
+										href="sbi-retired-bank-staff-recruitment/"
 										aria-label="More on SBI Retired Bank Staff Recruitment 2023 Apply Online 1438 Post">Read
 										more</a></p>
 							</div>
@@ -4470,10 +4470,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4483,7 +4483,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-retired-bank-staff-recruitment/#respond">Leave
+										href="sbi-retired-bank-staff-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4494,7 +4494,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-apprentice-recruitment/"
+										href="bank-of-maharashtra-apprentice-recruitment/"
 										rel="bookmark">Bank of Maharashtra Apprentice Recruitment 2022 Apply Now 314
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4503,7 +4503,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4517,7 +4517,7 @@
 									of Maharashtra Jobs official website bankofmaharashtra.in &#8230; <a
 										title="Bank of Maharashtra Apprentice Recruitment 2022 Apply Now 314 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-maharashtra-apprentice-recruitment/"
+										href="bank-of-maharashtra-apprentice-recruitment/"
 										aria-label="More on Bank of Maharashtra Apprentice Recruitment 2022 Apply Now 314 Post">Read
 										more</a></p>
 							</div>
@@ -4528,10 +4528,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4541,7 +4541,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-apprentice-recruitment/#respond">Leave
+										href="bank-of-maharashtra-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4552,7 +4552,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-notification/" rel="bookmark">SBI SCO
+										href="sbi-notification/" rel="bookmark">SBI SCO
 										Recruitment 2022 Apply Specialist Cadre Officer 54 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4560,7 +4560,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4573,7 +4573,7 @@
 									recruitment 2022 of Specialist Cadre Officer (SCO) Vacancy at 54 posts. Those
 									candidates who are interested in SBI SCO Recruitment 2022 apply online &#8230; <a
 										title="SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 54 Posts"
-										class="read-more" href="https://www.sarkariresult.app/sbi-notification/"
+										class="read-more" href="sbi-notification/"
 										aria-label="More on SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 54 Posts">Read
 										more</a></p>
 							</div>
@@ -4584,10 +4584,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4597,7 +4597,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-notification/#respond">Leave a
+										href="sbi-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4608,7 +4608,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-online-form/" rel="bookmark">PNB
+										href="pnb-online-form/" rel="bookmark">PNB
 										Recruitment 2022 Apply Form SDBA &#038; BDA 13 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4616,7 +4616,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4629,7 +4629,7 @@
 									Advisor &amp; Defence Banking Manager Vacancy. Those candidates who want to apply
 									online in PNB Recruitment 2022 through the &#8230; <a
 										title="PNB Recruitment 2022 Apply Form SDBA &#038; BDA 13 Posts"
-										class="read-more" href="https://www.sarkariresult.app/pnb-online-form/"
+										class="read-more" href="pnb-online-form/"
 										aria-label="More on PNB Recruitment 2022 Apply Form SDBA &#038; BDA 13 Posts">Read
 										more</a></p>
 							</div>
@@ -4640,10 +4640,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4652,7 +4652,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/pnb-online-form/#comments">1
+										</svg></span><a href="pnb-online-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4663,7 +4663,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-online-form/"
+										href="bank-of-maharashtra-online-form/"
 										rel="bookmark">Bank of Maharashtra Recruitment 2022 Manager, AGM, GO 551
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4672,7 +4672,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4686,7 +4686,7 @@
 									Generalist Officer &amp; Forex/ &#8230; <a
 										title="Bank of Maharashtra Recruitment 2022 Manager, AGM, GO 551 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-maharashtra-online-form/"
+										href="bank-of-maharashtra-online-form/"
 										aria-label="More on Bank of Maharashtra Recruitment 2022 Manager, AGM, GO 551 Post">Read
 										more</a></p>
 							</div>
@@ -4697,10 +4697,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4710,7 +4710,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-maharashtra-online-form/#respond">Leave
+										href="bank-of-maharashtra-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4721,7 +4721,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nabard-apply-online/" rel="bookmark">NABARD
+										href="nabard-apply-online/" rel="bookmark">NABARD
 										Recruitment 2022 Apply Online Sr Project Assistant Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4729,7 +4729,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4742,7 +4742,7 @@
 									are interested in NABARD Vacancy 2022 apply through the official website NABARD Jobs
 									from 15 November 2022 to 15 December 2022. &#8230; <a
 										title="NABARD Recruitment 2022 Apply Online Sr Project Assistant Post"
-										class="read-more" href="https://www.sarkariresult.app/nabard-apply-online/"
+										class="read-more" href="nabard-apply-online/"
 										aria-label="More on NABARD Recruitment 2022 Apply Online Sr Project Assistant Post">Read
 										more</a></p>
 							</div>
@@ -4753,10 +4753,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4766,7 +4766,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nabard-apply-online/#respond">Leave a
+										href="nabard-apply-online/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4777,7 +4777,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-assistant-recruitment/"
+										href="ibps-assistant-recruitment/"
 										rel="bookmark">IBPS Programming Assistant Recruitment 2022 Walk In Interview</a>
 								</h2>
 								<div class="entry-meta">
@@ -4787,7 +4787,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4801,7 +4801,7 @@
 									December 2022. IBPS Jobs Notification 2022 &#8211; Direct Interview Programming
 									&#8230; <a title="IBPS Programming Assistant Recruitment 2022 Walk In Interview"
 										class="read-more"
-										href="https://www.sarkariresult.app/ibps-assistant-recruitment/"
+										href="ibps-assistant-recruitment/"
 										aria-label="More on IBPS Programming Assistant Recruitment 2022 Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -4812,12 +4812,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4826,7 +4826,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-assistant-recruitment/#respond">Leave a
+										href="ibps-assistant-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4837,7 +4837,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-cooperative-bank-recruitment/"
+										href="mp-cooperative-bank-recruitment/"
 										rel="bookmark">MP Cooperative Bank Recruitment 2022 Apply Now Clerk 2254
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4847,7 +4847,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4861,7 +4861,7 @@
 									Clerk Recruitment 2022 apply online at &#8230; <a
 										title="MP Cooperative Bank Recruitment 2022 Apply Now Clerk 2254 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-cooperative-bank-recruitment/"
+										href="mp-cooperative-bank-recruitment/"
 										aria-label="More on MP Cooperative Bank Recruitment 2022 Apply Now Clerk 2254 Post">Read
 										more</a></p>
 							</div>
@@ -4872,10 +4872,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4885,7 +4885,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-cooperative-bank-recruitment/#respond">Leave
+										href="mp-cooperative-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4896,7 +4896,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-apply-form/"
+										href="central-bank-of-india-apply-form/"
 										rel="bookmark">Central Bank of India Recruitment 2022 Apply Now Office Asst
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4905,7 +4905,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4919,7 +4919,7 @@
 									can apply &#8230; <a
 										title="Central Bank of India Recruitment 2022 Apply Now Office Asst Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-apply-form/"
+										href="central-bank-of-india-apply-form/"
 										aria-label="More on Central Bank of India Recruitment 2022 Apply Now Office Asst Post">Read
 										more</a></p>
 							</div>
@@ -4930,10 +4930,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4943,7 +4943,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-apply-form/#respond">Leave
+										href="central-bank-of-india-apply-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4954,7 +4954,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-online-form/" rel="bookmark">SBI
+										href="sbi-online-form/" rel="bookmark">SBI
 										Recruitment 2022 Apply Now Advisor &#038; Manager 65 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4962,7 +4962,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4975,7 +4975,7 @@
 									Vacancies at 1422 Posts. Those candidates who are interested in SBI Vacancy 2022
 									apply online through the &#8230; <a
 										title="SBI Recruitment 2022 Apply Now Advisor &#038; Manager 65 Post"
-										class="read-more" href="https://www.sarkariresult.app/sbi-online-form/"
+										class="read-more" href="sbi-online-form/"
 										aria-label="More on SBI Recruitment 2022 Apply Now Advisor &#038; Manager 65 Post">Read
 										more</a></p>
 							</div>
@@ -4986,10 +4986,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4999,7 +4999,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-online-form/#respond">Leave a
+										href="sbi-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5010,7 +5010,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-kaithal-recruitment/" rel="bookmark">PNB
+										href="pnb-kaithal-recruitment/" rel="bookmark">PNB
 										Kaithal Recruitment 2022 Apply Stream &#038; Assistant 02 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5018,7 +5018,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5031,7 +5031,7 @@
 									recruitment 2022 of Stream &amp; Office Assistant Vacancy. Those candidates who want
 									to apply online in PNB Kaithal Recruitment 2022 &#8230; <a
 										title="PNB Kaithal Recruitment 2022 Apply Stream &#038; Assistant 02 Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-kaithal-recruitment/"
+										class="read-more" href="pnb-kaithal-recruitment/"
 										aria-label="More on PNB Kaithal Recruitment 2022 Apply Stream &#038; Assistant 02 Post">Read
 										more</a></p>
 							</div>
@@ -5042,10 +5042,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5055,7 +5055,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-kaithal-recruitment/#respond">Leave a
+										href="pnb-kaithal-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5066,7 +5066,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kheti-bank-recruitment/"
+										href="kheti-bank-recruitment/"
 										rel="bookmark">Kheti Bank Recruitment 2022 » Manager, GM, DGM, AGM, AM 139
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5075,7 +5075,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5089,7 +5089,7 @@
 									Deputy General Manager, Assistant General Manager, Senior Manager, Manager,
 									Assistant &#8230; <a
 										title="Kheti Bank Recruitment 2022 » Manager, GM, DGM, AGM, AM 139 Post"
-										class="read-more" href="https://www.sarkariresult.app/kheti-bank-recruitment/"
+										class="read-more" href="kheti-bank-recruitment/"
 										aria-label="More on Kheti Bank Recruitment 2022 » Manager, GM, DGM, AGM, AM 139 Post">Read
 										more</a></p>
 							</div>
@@ -5100,10 +5100,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5113,7 +5113,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kheti-bank-recruitment/#respond">Leave a
+										href="kheti-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5124,7 +5124,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/vcbl-recruitment/" rel="bookmark">VCBL
+										href="vcbl-recruitment/" rel="bookmark">VCBL
 										Recruitment 2022 Apply Online Probationary Officer 30 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5132,7 +5132,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5145,7 +5145,7 @@
 									Probationary Officers (Deputy Managers) Vacancies at 30 Posts. Those candidates who
 									are interested in VCBL Recruitment 2022 apply online through the official &#8230; <a
 										title="VCBL Recruitment 2022 Apply Online Probationary Officer 30 Post"
-										class="read-more" href="https://www.sarkariresult.app/vcbl-recruitment/"
+										class="read-more" href="vcbl-recruitment/"
 										aria-label="More on VCBL Recruitment 2022 Apply Online Probationary Officer 30 Post">Read
 										more</a></p>
 							</div>
@@ -5156,10 +5156,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5169,7 +5169,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/vcbl-recruitment/#respond">Leave a
+										href="vcbl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5180,7 +5180,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dccb-chittoor-recruitment/"
+										href="dccb-chittoor-recruitment/"
 										rel="bookmark">DCCB Chittoor Recruitment 2022 Assistant Manager, Clerk 55
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5189,7 +5189,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5203,7 +5203,7 @@
 									interested in DCCB Chittoor Recruitment 2022 apply online through the official
 									&#8230; <a title="DCCB Chittoor Recruitment 2022 Assistant Manager, Clerk 55 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/dccb-chittoor-recruitment/"
+										href="dccb-chittoor-recruitment/"
 										aria-label="More on DCCB Chittoor Recruitment 2022 Assistant Manager, Clerk 55 Post">Read
 										more</a></p>
 							</div>
@@ -5214,10 +5214,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5227,7 +5227,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dccb-chittoor-recruitment/#respond">Leave a
+										href="dccb-chittoor-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5238,7 +5238,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iob-so-vacancy/" rel="bookmark">IOB SO
+										href="iob-so-vacancy/" rel="bookmark">IOB SO
 										Recruitment 2022 Apply Online Specialist Officer 25 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5246,7 +5246,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5259,7 +5259,7 @@
 									25 posts in IOB. Candidates who are interested in IOB Specialist Officer Recruitment
 									2022 can apply online application form through the official &#8230; <a
 										title="IOB SO Recruitment 2022 Apply Online Specialist Officer 25 Post"
-										class="read-more" href="https://www.sarkariresult.app/iob-so-vacancy/"
+										class="read-more" href="iob-so-vacancy/"
 										aria-label="More on IOB SO Recruitment 2022 Apply Online Specialist Officer 25 Post">Read
 										more</a></p>
 							</div>
@@ -5270,10 +5270,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5283,7 +5283,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iob-so-vacancy/#respond">Leave a
+										href="iob-so-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5294,7 +5294,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/scv-bank-branch-manager-recruitment/"
+										href="scv-bank-branch-manager-recruitment/"
 										rel="bookmark">SCV Bank Recruitment 2022 Apply Online Branch Manager 10 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5303,7 +5303,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5317,7 +5317,7 @@
 									Bank Jobs from 7 &#8230; <a
 										title="SCV Bank Recruitment 2022 Apply Online Branch Manager 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/scv-bank-branch-manager-recruitment/"
+										href="scv-bank-branch-manager-recruitment/"
 										aria-label="More on SCV Bank Recruitment 2022 Apply Online Branch Manager 10 Post">Read
 										more</a></p>
 							</div>
@@ -5328,10 +5328,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5341,7 +5341,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/scv-bank-branch-manager-recruitment/#respond">Leave
+										href="scv-bank-branch-manager-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5352,7 +5352,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pucb-online-form/" rel="bookmark">PUCB Guard
+										href="pucb-online-form/" rel="bookmark">PUCB Guard
 										Recruitment 2022 Application Form</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5360,7 +5360,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5373,7 +5373,7 @@
 									apply through the official website pucb.in Panipat Urban Co-operative Bank
 									recruitment 2022 for Panipat Bank Guard Jobs Vacancy &#8230; <a
 										title="PUCB Guard Recruitment 2022 Application Form" class="read-more"
-										href="https://www.sarkariresult.app/pucb-online-form/"
+										href="pucb-online-form/"
 										aria-label="More on PUCB Guard Recruitment 2022 Application Form">Read more</a>
 								</p>
 							</div>
@@ -5384,10 +5384,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5397,7 +5397,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pucb-online-form/#respond">Leave a
+										href="pucb-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5408,7 +5408,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dccb-ap-recruitment/" rel="bookmark">DCCB AP
+										href="dccb-ap-recruitment/" rel="bookmark">DCCB AP
 										Recruitment 2022 Apply Assistant &#038; Manager 168 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5416,7 +5416,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5429,7 +5429,7 @@
 									&amp; Assistant Manager Vacancies at 168 Posts. Those candidates who are interested
 									in DCCB AP Recruitment 2022 apply online through &#8230; <a
 										title="DCCB AP Recruitment 2022 Apply Assistant &#038; Manager 168 Post"
-										class="read-more" href="https://www.sarkariresult.app/dccb-ap-recruitment/"
+										class="read-more" href="dccb-ap-recruitment/"
 										aria-label="More on DCCB AP Recruitment 2022 Apply Assistant &#038; Manager 168 Post">Read
 										more</a></p>
 							</div>
@@ -5440,10 +5440,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5453,7 +5453,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dccb-ap-recruitment/#respond">Leave a
+										href="dccb-ap-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5464,7 +5464,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-manager-jobs/" rel="bookmark">IPPB
+										href="ippb-manager-jobs/" rel="bookmark">IPPB
 										Manager Recruitment 2022 Apply Online Asst Manager 41 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5472,7 +5472,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5486,7 +5486,7 @@
 									recruitment 2022 of Manager, Senior Manager, Chief Manager, Assistant General
 									Manager, Deputy General &#8230; <a
 										title="IPPB Manager Recruitment 2022 Apply Online Asst Manager 41 Post"
-										class="read-more" href="https://www.sarkariresult.app/ippb-manager-jobs/"
+										class="read-more" href="ippb-manager-jobs/"
 										aria-label="More on IPPB Manager Recruitment 2022 Apply Online Asst Manager 41 Post">Read
 										more</a></p>
 							</div>
@@ -5497,12 +5497,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5511,7 +5511,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ippb-manager-jobs/#comments">1
+										href="ippb-manager-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5522,7 +5522,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/eluru-dccb-recruitment/"
+										href="eluru-dccb-recruitment/"
 										rel="bookmark">Eluru DCCB Recruitment 2022 Apply Staff Assistant/Clerk 95
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5531,7 +5531,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5544,7 +5544,7 @@
 									at 95 Posts. Those candidates who are interested in Eluru DCCB Recruitment 2022
 									apply online through the official website Eluru DCCB &#8230; <a
 										title="Eluru DCCB Recruitment 2022 Apply Staff Assistant/Clerk 95 Post"
-										class="read-more" href="https://www.sarkariresult.app/eluru-dccb-recruitment/"
+										class="read-more" href="eluru-dccb-recruitment/"
 										aria-label="More on Eluru DCCB Recruitment 2022 Apply Staff Assistant/Clerk 95 Post">Read
 										more</a></p>
 							</div>
@@ -5555,10 +5555,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5568,7 +5568,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/eluru-dccb-recruitment/#respond">Leave a
+										href="eluru-dccb-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5579,7 +5579,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/muc-bank-officer-recruitment/"
+										href="muc-bank-officer-recruitment/"
 										rel="bookmark">MUC Bank Recruitment 2022 Apply Now CFO, Manager, Auditor 25
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5588,7 +5588,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5603,7 +5603,7 @@
 									Short Information: &#8230; <a
 										title="MUC Bank Recruitment 2022 Apply Now CFO, Manager, Auditor 25 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/muc-bank-officer-recruitment/"
+										href="muc-bank-officer-recruitment/"
 										aria-label="More on MUC Bank Recruitment 2022 Apply Now CFO, Manager, Auditor 25 Post">Read
 										more</a></p>
 							</div>
@@ -5614,10 +5614,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5627,7 +5627,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/muc-bank-officer-recruitment/#comments">1
+										href="muc-bank-officer-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5638,7 +5638,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kurnool-dccb-recruitment/"
+										href="kurnool-dccb-recruitment/"
 										rel="bookmark">Kurnool DCCB Recruitment 2022 Apply Now Staff Assistant/Clerk
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5647,7 +5647,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5660,7 +5660,7 @@
 									Vacancies at 18 Posts. Those candidates who are interested in Kurnool DCCB
 									Recruitment 2022 apply online through the official website Kurnool DCCB &#8230; <a
 										title="Kurnool DCCB Recruitment 2022 Apply Now Staff Assistant/Clerk Post"
-										class="read-more" href="https://www.sarkariresult.app/kurnool-dccb-recruitment/"
+										class="read-more" href="kurnool-dccb-recruitment/"
 										aria-label="More on Kurnool DCCB Recruitment 2022 Apply Now Staff Assistant/Clerk Post">Read
 										more</a></p>
 							</div>
@@ -5671,10 +5671,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5684,7 +5684,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kurnool-dccb-recruitment/#respond">Leave a
+										href="kurnool-dccb-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5695,7 +5695,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/repco-bank-clerk-recruitment/"
+										href="repco-bank-clerk-recruitment/"
 										rel="bookmark">Repco Bank Clerk Recruitment 2022 Apply Now Assistant 50 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5704,7 +5704,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5718,7 +5718,7 @@
 									Repco Bank Jobs from 5 November 2022 &#8230; <a
 										title="Repco Bank Clerk Recruitment 2022 Apply Now Assistant 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/repco-bank-clerk-recruitment/"
+										href="repco-bank-clerk-recruitment/"
 										aria-label="More on Repco Bank Clerk Recruitment 2022 Apply Now Assistant 50 Post">Read
 										more</a></p>
 							</div>
@@ -5729,10 +5729,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5742,7 +5742,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/repco-bank-clerk-recruitment/#comments">1
+										href="repco-bank-clerk-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5753,7 +5753,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bccb-bank-recruitment/" rel="bookmark">BCCB
+										href="bccb-bank-recruitment/" rel="bookmark">BCCB
 										Trainee Recruitment 2022 Apply Now 100 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5761,7 +5761,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5774,7 +5774,7 @@
 									Trainee – Customer Service Executive (CSE) – Marketing &amp; Operation Vacancy at
 									100 posts in BCCB Jobs. Candidates who are &#8230; <a
 										title="BCCB Trainee Recruitment 2022 Apply Now 100 Posts" class="read-more"
-										href="https://www.sarkariresult.app/bccb-bank-recruitment/"
+										href="bccb-bank-recruitment/"
 										aria-label="More on BCCB Trainee Recruitment 2022 Apply Now 100 Posts">Read
 										more</a></p>
 							</div>
@@ -5785,10 +5785,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5798,7 +5798,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bccb-bank-recruitment/#respond">Leave a
+										href="bccb-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5809,7 +5809,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-notification/"
+										href="central-bank-of-india-notification/"
 										rel="bookmark">Central Bank of India Recruitment 2022 Faculty, Chowkidar
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -5818,7 +5818,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5832,7 +5832,7 @@
 									Chowkidar cum Mali Vacancy. Candidates who want to apply &#8230; <a
 										title="Central Bank of India Recruitment 2022 Faculty, Chowkidar Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-notification/"
+										href="central-bank-of-india-notification/"
 										aria-label="More on Central Bank of India Recruitment 2022 Faculty, Chowkidar Posts">Read
 										more</a></p>
 							</div>
@@ -5843,12 +5843,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5857,7 +5857,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-notification/#comments">2
+										href="central-bank-of-india-notification/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -5868,7 +5868,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-crp-spl-xii-so/" rel="bookmark">IBPS SO
+										href="ibps-crp-spl-xii-so/" rel="bookmark">IBPS SO
 										Recruitment 2022 Apply Rajbhasha Adhikari, Officer 710 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5876,7 +5876,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5889,7 +5889,7 @@
 									(CRP SPL-XII) Specialist Officer &#8211; SO Vacancy at 710 Posts. Those candidates
 									who are interested in IBPS SO Vacancy 2022 &#8230; <a
 										title="IBPS SO Recruitment 2022 Apply Rajbhasha Adhikari, Officer 710 Post"
-										class="read-more" href="https://www.sarkariresult.app/ibps-crp-spl-xii-so/"
+										class="read-more" href="ibps-crp-spl-xii-so/"
 										aria-label="More on IBPS SO Recruitment 2022 Apply Rajbhasha Adhikari, Officer 710 Post">Read
 										more</a></p>
 							</div>
@@ -5900,10 +5900,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5913,7 +5913,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-crp-spl-xii-so/#respond">Leave a
+										href="ibps-crp-spl-xii-so/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5924,7 +5924,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nhb-recruitment/" rel="bookmark">NHB
+										href="nhb-recruitment/" rel="bookmark">NHB
 										Recruitment 2022 Online Application Form Officer 27 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5932,7 +5932,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5945,7 +5945,7 @@
 									the NHB recruitment 2022 of Officer (Chief Economist, Protocol Officer, Dy. General
 									Manager, Assistant Manager, Officers for Supervision, Regional Manager) Vacancy at
 									27 &#8230; <a title="NHB Recruitment 2022 Online Application Form Officer 27 Post"
-										class="read-more" href="https://www.sarkariresult.app/nhb-recruitment/"
+										class="read-more" href="nhb-recruitment/"
 										aria-label="More on NHB Recruitment 2022 Online Application Form Officer 27 Post">Read
 										more</a></p>
 							</div>
@@ -5956,10 +5956,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5969,7 +5969,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nhb-recruitment/#respond">Leave a
+										href="nhb-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5980,7 +5980,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iob-faculty-recruitment/" rel="bookmark">IOB
+										href="iob-faculty-recruitment/" rel="bookmark">IOB
 										Recruitment 2022 Faculty, Office Assistant, Attender 21 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5988,7 +5988,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6001,7 +6001,7 @@
 									at 21 posts in IOB. Those candidates who are interested in IOB Faculty Recruitment
 									2022 can apply online application form through &#8230; <a
 										title="IOB Recruitment 2022 Faculty, Office Assistant, Attender 21 Post"
-										class="read-more" href="https://www.sarkariresult.app/iob-faculty-recruitment/"
+										class="read-more" href="iob-faculty-recruitment/"
 										aria-label="More on IOB Recruitment 2022 Faculty, Office Assistant, Attender 21 Post">Read
 										more</a></p>
 							</div>
@@ -6012,12 +6012,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6026,7 +6026,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/iob-faculty-recruitment/#respond">Leave a
+										href="iob-faculty-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6037,7 +6037,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/exim-bank-mt-jobs/" rel="bookmark">Exim Bank
+										href="exim-bank-mt-jobs/" rel="bookmark">Exim Bank
 										Recruitment 2022 Online Application MT, Manager 45 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6045,7 +6045,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6057,7 +6057,7 @@
 									2022 of Management Trainee and Manager Vacancy at 45 Posts. Candidates who want to
 									apply online in the Exim Bank MT Recruitment 2022 form through the Exim Bank Jobs
 									&#8230; <a title="Exim Bank Recruitment 2022 Online Application MT, Manager 45 Post"
-										class="read-more" href="https://www.sarkariresult.app/exim-bank-mt-jobs/"
+										class="read-more" href="exim-bank-mt-jobs/"
 										aria-label="More on Exim Bank Recruitment 2022 Online Application MT, Manager 45 Post">Read
 										more</a></p>
 							</div>
@@ -6068,10 +6068,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6081,7 +6081,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/exim-bank-mt-jobs/#respond">Leave a
+										href="exim-bank-mt-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6092,7 +6092,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-cbo-vacancy/" rel="bookmark">SBI CBO
+										href="sbi-cbo-vacancy/" rel="bookmark">SBI CBO
 										Recruitment 2022 Apply 1422 Circle Based Officer Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6100,7 +6100,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6113,7 +6113,7 @@
 									Vacancies at 1422 Posts. Those candidates who are interested in SBI Circle Based
 									Officer Vacancy 2022 apply &#8230; <a
 										title="SBI CBO Recruitment 2022 Apply 1422 Circle Based Officer Post"
-										class="read-more" href="https://www.sarkariresult.app/sbi-cbo-vacancy/"
+										class="read-more" href="sbi-cbo-vacancy/"
 										aria-label="More on SBI CBO Recruitment 2022 Apply 1422 Circle Based Officer Post">Read
 										more</a></p>
 							</div>
@@ -6124,10 +6124,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6137,7 +6137,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-cbo-vacancy/#respond">Leave a
+										href="sbi-cbo-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6148,7 +6148,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nainital-bank-mt-recruitment/"
+										href="nainital-bank-mt-recruitment/"
 										rel="bookmark">Nainital Bank MT Recruitment 2022 Apply Management Trainee
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6157,7 +6157,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6171,7 +6171,7 @@
 									Bank Jobs official website can &#8230; <a
 										title="Nainital Bank MT Recruitment 2022 Apply Management Trainee Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/nainital-bank-mt-recruitment/"
+										href="nainital-bank-mt-recruitment/"
 										aria-label="More on Nainital Bank MT Recruitment 2022 Apply Management Trainee Posts">Read
 										more</a></p>
 							</div>
@@ -6182,10 +6182,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6195,7 +6195,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nainital-bank-mt-recruitment/#respond">Leave
+										href="nainital-bank-mt-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6206,7 +6206,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-resolver-recruitment/"
+										href="sbi-resolver-recruitment/"
 										rel="bookmark">SBI Resolver Recruitment 2022 Online Application Form 47
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6215,7 +6215,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6228,7 +6228,7 @@
 									interested in SBI Recruitment 2022 apply online through the official website SBI
 									Jobs from 10 October &#8230; <a
 										title="SBI Resolver Recruitment 2022 Online Application Form 47 Posts"
-										class="read-more" href="https://www.sarkariresult.app/sbi-resolver-recruitment/"
+										class="read-more" href="sbi-resolver-recruitment/"
 										aria-label="More on SBI Resolver Recruitment 2022 Online Application Form 47 Posts">Read
 										more</a></p>
 							</div>
@@ -6239,10 +6239,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6252,7 +6252,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-resolver-recruitment/#comments">1
+										href="sbi-resolver-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6263,7 +6263,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bob-notification/" rel="bookmark">Bank of
+										href="bob-notification/" rel="bookmark">Bank of
 										Baroda Recruitment 2022 Apply Manager &#038; Head 346 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6271,7 +6271,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6285,7 +6285,7 @@
 									Group Sales Head, and Operation Head-Wealth Vacancies at 346 posts. Candidates
 									&#8230; <a
 										title="Bank of Baroda Recruitment 2022 Apply Manager &#038; Head 346 Post"
-										class="read-more" href="https://www.sarkariresult.app/bob-notification/"
+										class="read-more" href="bob-notification/"
 										aria-label="More on Bank of Baroda Recruitment 2022 Apply Manager &#038; Head 346 Post">Read
 										more</a></p>
 							</div>
@@ -6296,10 +6296,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6309,7 +6309,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bob-notification/#comments">2
+										href="bob-notification/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6320,7 +6320,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tscab-manager-recruitment/"
+										href="tscab-manager-recruitment/"
 										rel="bookmark">TSCAB Manager Recruitment 2022 Apply Now Staff Assistant 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6329,7 +6329,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6343,7 +6343,7 @@
 									2022 apply online at tscab.org through the official &#8230; <a
 										title="TSCAB Manager Recruitment 2022 Apply Now Staff Assistant 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tscab-manager-recruitment/"
+										href="tscab-manager-recruitment/"
 										aria-label="More on TSCAB Manager Recruitment 2022 Apply Now Staff Assistant 40 Post">Read
 										more</a></p>
 							</div>
@@ -6354,10 +6354,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6367,7 +6367,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tscab-manager-recruitment/#respond">Leave a
+										href="tscab-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6378,7 +6378,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-officer-vacancy/"
+										href="central-bank-of-india-officer-vacancy/"
 										rel="bookmark">Central Bank of India Officer Recruitment 2022 Apply Now 110
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6387,7 +6387,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6401,7 +6401,7 @@
 									of India Vacancy 2022 &#8230; <a
 										title="Central Bank of India Officer Recruitment 2022 Apply Now 110 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-officer-vacancy/"
+										href="central-bank-of-india-officer-vacancy/"
 										aria-label="More on Central Bank of India Officer Recruitment 2022 Apply Now 110 Post">Read
 										more</a></p>
 							</div>
@@ -6412,10 +6412,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6425,7 +6425,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-officer-vacancy/#comments">1
+										href="central-bank-of-india-officer-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6436,7 +6436,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-rohtak-attendant-recruitment/"
+										href="pnb-rohtak-attendant-recruitment/"
 										rel="bookmark">PNB Rohtak Recruitment 2022 Apply Form Attendant Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-09-27T10:47:52+05:30"
@@ -6445,7 +6445,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6458,7 +6458,7 @@
 									candidates who want to apply online in PNB Rohtak Recruitment 2022 through the
 									official website pnbindia.in PNB Rohtak Jobs 2022 &#8230; <a
 										title="PNB Rohtak Recruitment 2022 Apply Form Attendant Posts" class="read-more"
-										href="https://www.sarkariresult.app/pnb-rohtak-attendant-recruitment/"
+										href="pnb-rohtak-attendant-recruitment/"
 										aria-label="More on PNB Rohtak Recruitment 2022 Apply Form Attendant Posts">Read
 										more</a></p>
 							</div>
@@ -6469,10 +6469,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6482,7 +6482,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-rohtak-attendant-recruitment/#comments">2
+										href="pnb-rohtak-attendant-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6493,7 +6493,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-professionals-business-manager-recruitment/"
+										href="bank-of-baroda-professionals-business-manager-recruitment/"
 										rel="bookmark">Bank of Baroda Recruitment 2022 Apply Professionals/ BM 72
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6502,7 +6502,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6516,7 +6516,7 @@
 									Managers/ AI &amp; ML Specialists for Digital &#8230; <a
 										title="Bank of Baroda Recruitment 2022 Apply Professionals/ BM 72 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-professionals-business-manager-recruitment/"
+										href="bank-of-baroda-professionals-business-manager-recruitment/"
 										aria-label="More on Bank of Baroda Recruitment 2022 Apply Professionals/ BM 72 Post">Read
 										more</a></p>
 							</div>
@@ -6527,10 +6527,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6540,7 +6540,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-professionals-business-manager-recruitment/#comments">1
+										href="bank-of-baroda-professionals-business-manager-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6551,7 +6551,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-shimla-safai-karamchari-recruitment/"
+										href="pnb-shimla-safai-karamchari-recruitment/"
 										rel="bookmark">PNB Shimla Safai Karamchari Recruitment 2022 Apply Form</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6559,7 +6559,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6573,7 +6573,7 @@
 									Shimla Recruitment 2022 through &#8230; <a
 										title="PNB Shimla Safai Karamchari Recruitment 2022 Apply Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-shimla-safai-karamchari-recruitment/"
+										href="pnb-shimla-safai-karamchari-recruitment/"
 										aria-label="More on PNB Shimla Safai Karamchari Recruitment 2022 Apply Form">Read
 										more</a></p>
 							</div>
@@ -6584,10 +6584,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6597,7 +6597,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-shimla-safai-karamchari-recruitment/#comments">2
+										href="pnb-shimla-safai-karamchari-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6608,7 +6608,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-hamirpur-recruitment/"
+										href="pnb-hamirpur-recruitment/"
 										rel="bookmark">PNB Hamirpur Recruitment 2022 Apply Form Safai Karamchari
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6617,7 +6617,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6630,7 +6630,7 @@
 									Safai Karamchari Vacancy at 11 Posts. Those candidates who want to apply online in
 									PNB Hamirpur Recruitment 2022 through &#8230; <a
 										title="PNB Hamirpur Recruitment 2022 Apply Form Safai Karamchari Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-hamirpur-recruitment/"
+										class="read-more" href="pnb-hamirpur-recruitment/"
 										aria-label="More on PNB Hamirpur Recruitment 2022 Apply Form Safai Karamchari Post">Read
 										more</a></p>
 							</div>
@@ -6641,10 +6641,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6654,7 +6654,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-hamirpur-recruitment/#comments">1
+										href="pnb-hamirpur-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6665,7 +6665,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hpscb-assistant-manager-recruitment/"
+										href="hpscb-assistant-manager-recruitment/"
 										rel="bookmark">HPSCB Assistant Manager Recruitment 2022 Apply Online 61 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6674,7 +6674,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6688,7 +6688,7 @@
 									hpscb.com through the official website HPSCB &#8230; <a
 										title="HPSCB Assistant Manager Recruitment 2022 Apply Online 61 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hpscb-assistant-manager-recruitment/"
+										href="hpscb-assistant-manager-recruitment/"
 										aria-label="More on HPSCB Assistant Manager Recruitment 2022 Apply Online 61 Post">Read
 										more</a></p>
 							</div>
@@ -6699,10 +6699,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6712,7 +6712,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hpscb-assistant-manager-recruitment/#respond">Leave
+										href="hpscb-assistant-manager-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6723,7 +6723,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kcc-bank-dharwad-recruitmen/"
+										href="kcc-bank-dharwad-recruitmen/"
 										rel="bookmark">KCC Bank Dharwad Recruitment 2022 Apply Online Clerk 87 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6732,7 +6732,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6746,7 +6746,7 @@
 									through the official website kccbankdharwad.in KCC &#8230; <a
 										title="KCC Bank Dharwad Recruitment 2022 Apply Online Clerk 87 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kcc-bank-dharwad-recruitmen/"
+										href="kcc-bank-dharwad-recruitmen/"
 										aria-label="More on KCC Bank Dharwad Recruitment 2022 Apply Online Clerk 87 Post">Read
 										more</a></p>
 							</div>
@@ -6757,10 +6757,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6770,7 +6770,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kcc-bank-dharwad-recruitmen/#respond">Leave
+										href="kcc-bank-dharwad-recruitmen/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6781,7 +6781,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bscb-recruitment/" rel="bookmark">BSCB
+										href="bscb-recruitment/" rel="bookmark">BSCB
 										Recruitment 2022 Assistant Manager &#038; Assistant 276 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6789,7 +6789,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6802,7 +6802,7 @@
 									posts. Those candidates who are interested in BSCB Assistant Manager &amp; Assistant
 									Recruitment 2022 apply online at the bscb.co.in &#8230; <a
 										title="BSCB Recruitment 2022 Assistant Manager &#038; Assistant 276 Post"
-										class="read-more" href="https://www.sarkariresult.app/bscb-recruitment/"
+										class="read-more" href="bscb-recruitment/"
 										aria-label="More on BSCB Recruitment 2022 Assistant Manager &#038; Assistant 276 Post">Read
 										more</a></p>
 							</div>
@@ -6813,10 +6813,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6826,7 +6826,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bscb-recruitment/#respond">Leave a
+										href="bscb-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6837,7 +6837,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nabard-da-recruitment/"
+										href="nabard-da-recruitment/"
 										rel="bookmark">NABARD DA Recruitment 2022 Apply Online Development Asst 177
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6846,7 +6846,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6859,7 +6859,7 @@
 									(Group-B) Vacancies at 177 posts. Those candidates who are interested in NABARD
 									Vacancy 2022 apply through the official website NABARD Jobs from 15 &#8230; <a
 										title="NABARD DA Recruitment 2022 Apply Online Development Asst 177 Post"
-										class="read-more" href="https://www.sarkariresult.app/nabard-da-recruitment/"
+										class="read-more" href="nabard-da-recruitment/"
 										aria-label="More on NABARD DA Recruitment 2022 Apply Online Development Asst 177 Post">Read
 										more</a></p>
 							</div>
@@ -6870,10 +6870,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6883,7 +6883,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nabard-da-recruitment/#respond">Leave a
+										href="nabard-da-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6894,7 +6894,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-clerk-recruitment-apply-online/"
+										href="sbi-clerk-recruitment-apply-online/"
 										rel="bookmark">SBI Clerk Recruitment 2022 Apply Now 5008 Junior Associate
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6904,7 +6904,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6918,7 +6918,7 @@
 									Those candidates who &#8230; <a
 										title="SBI Clerk Recruitment 2022 Apply Now 5008 Junior Associate Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-clerk-recruitment-apply-online/"
+										href="sbi-clerk-recruitment-apply-online/"
 										aria-label="More on SBI Clerk Recruitment 2022 Apply Now 5008 Junior Associate Post">Read
 										more</a></p>
 							</div>
@@ -6929,10 +6929,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6942,7 +6942,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-clerk-recruitment-apply-online/#respond">Leave
+										href="sbi-clerk-recruitment-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6953,7 +6953,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-patna-safai-karamchari-recruitment/"
+										href="pnb-patna-safai-karamchari-recruitment/"
 										rel="bookmark">PNB Patna Safai Karamchari Recruitment 2022 Apply 44 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6962,7 +6962,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6976,7 +6976,7 @@
 									Recruitment 2022 through &#8230; <a
 										title="PNB Patna Safai Karamchari Recruitment 2022 Apply 44 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-patna-safai-karamchari-recruitment/"
+										href="pnb-patna-safai-karamchari-recruitment/"
 										aria-label="More on PNB Patna Safai Karamchari Recruitment 2022 Apply 44 Post">Read
 										more</a></p>
 							</div>
@@ -6987,10 +6987,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7000,7 +7000,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-patna-safai-karamchari-recruitment/#comments">3
+										href="pnb-patna-safai-karamchari-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7011,7 +7011,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-hp-sweeper-recruitment/"
+										href="pnb-hp-sweeper-recruitment/"
 										rel="bookmark">PNB HP Recruitment 2022 Application Form 13 Sweeper Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7019,7 +7019,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7033,7 +7033,7 @@
 									online in PNB HP &#8230; <a
 										title="PNB HP Recruitment 2022 Application Form 13 Sweeper Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-hp-sweeper-recruitment/"
+										href="pnb-hp-sweeper-recruitment/"
 										aria-label="More on PNB HP Recruitment 2022 Application Form 13 Sweeper Post">Read
 										more</a></p>
 							</div>
@@ -7044,10 +7044,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7057,7 +7057,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-hp-sweeper-recruitment/#respond">Leave a
+										href="pnb-hp-sweeper-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7068,7 +7068,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-jobs/"
+										href="bank-of-baroda-bc-supervisor-jobs/"
 										rel="bookmark">Bank of Baroda BC Supervisor Recruitment 2022 Apply Now 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7077,7 +7077,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7091,7 +7091,7 @@
 									apply application form through the official website &#8230; <a
 										title="Bank of Baroda BC Supervisor Recruitment 2022 Apply Now 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-jobs/"
+										href="bank-of-baroda-bc-supervisor-jobs/"
 										aria-label="More on Bank of Baroda BC Supervisor Recruitment 2022 Apply Now 20 Post">Read
 										more</a></p>
 							</div>
@@ -7102,10 +7102,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7115,7 +7115,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-jobs/#respond">Leave
+										href="bank-of-baroda-bc-supervisor-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7126,7 +7126,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-bank-jobs/" rel="bookmark">Indian
+										href="indian-bank-jobs/" rel="bookmark">Indian
 										Bank Recruitment 2022 Apply Form Product Owner 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-01-24T16:01:40+05:30"
@@ -7135,7 +7135,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7148,7 +7148,7 @@
 									Product Owner Recruitment 2022 apply online to through the official website
 									indianbank.in Indian Bank Jobs from &#8230; <a
 										title="Indian Bank Recruitment 2022 Apply Form Product Owner 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/indian-bank-jobs/"
+										class="read-more" href="indian-bank-jobs/"
 										aria-label="More on Indian Bank Recruitment 2022 Apply Form Product Owner 11 Post">Read
 										more</a></p>
 							</div>
@@ -7159,10 +7159,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7172,7 +7172,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-bank-jobs/#comments">1
+										href="indian-bank-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7183,7 +7183,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-so-vacancy/" rel="bookmark">SBI SO
+										href="sbi-so-vacancy/" rel="bookmark">SBI SO
 										Recruitment 2022 Apply Online Specialist Officer 714 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7191,7 +7191,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7205,7 +7205,7 @@
 									State Bank of India (SBI) has released the latest notification for the SBI SO
 									recruitment 2022 of &#8230; <a
 										title="SBI SO Recruitment 2022 Apply Online Specialist Officer 714 Post"
-										class="read-more" href="https://www.sarkariresult.app/sbi-so-vacancy/"
+										class="read-more" href="sbi-so-vacancy/"
 										aria-label="More on SBI SO Recruitment 2022 Apply Online Specialist Officer 714 Post">Read
 										more</a></p>
 							</div>
@@ -7216,10 +7216,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7229,7 +7229,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-so-vacancy/#respond">Leave a
+										href="sbi-so-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7240,7 +7240,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-meerut-vacancy/" rel="bookmark">PNB
+										href="pnb-meerut-vacancy/" rel="bookmark">PNB
 										Meerut Recruitment 2022 Apply Now Safai Karamchari 43 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7248,7 +7248,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7261,7 +7261,7 @@
 									Karamchari Vacancy at 43 Posts. Those candidates who want to apply online in PNB
 									Meerut Recruitment 2022 through &#8230; <a
 										title="PNB Meerut Recruitment 2022 Apply Now Safai Karamchari 43 Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-meerut-vacancy/"
+										class="read-more" href="pnb-meerut-vacancy/"
 										aria-label="More on PNB Meerut Recruitment 2022 Apply Now Safai Karamchari 43 Post">Read
 										more</a></p>
 							</div>
@@ -7272,10 +7272,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7285,7 +7285,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-meerut-vacancy/#comments">2
+										href="pnb-meerut-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7296,7 +7296,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/thane-dcc-bank-vacancy/"
+										href="thane-dcc-bank-vacancy/"
 										rel="bookmark">Thane DCC Bank Recruitment 2022 Apply Clerk &#038; Peon 288
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -7306,7 +7306,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7319,7 +7319,7 @@
 									Candidates who are interested in Thane DCC Bank Clerk Recruitment 2022 can apply
 									through the official &#8230; <a
 										title="Thane DCC Bank Recruitment 2022 Apply Clerk &#038; Peon 288 Posts"
-										class="read-more" href="https://www.sarkariresult.app/thane-dcc-bank-vacancy/"
+										class="read-more" href="thane-dcc-bank-vacancy/"
 										aria-label="More on Thane DCC Bank Recruitment 2022 Apply Clerk &#038; Peon 288 Posts">Read
 										more</a></p>
 							</div>
@@ -7330,10 +7330,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7343,7 +7343,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/thane-dcc-bank-vacancy/#comments">2
+										href="thane-dcc-bank-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7354,7 +7354,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/msc-bank-vacancy/" rel="bookmark">MSC Bank
+										href="msc-bank-vacancy/" rel="bookmark">MSC Bank
 										Recruitment 2022 Apply Online Junior Officer 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-01-24T16:00:43+05:30"
@@ -7363,7 +7363,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7376,7 +7376,7 @@
 									Maharashtra Co-operative Bank Vacancy 2022 apply online through the official website
 									Maharashtra Co-operative Bank Jobs from 9 &#8230; <a
 										title="MSC Bank Recruitment 2022 Apply Online Junior Officer 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/msc-bank-vacancy/"
+										class="read-more" href="msc-bank-vacancy/"
 										aria-label="More on MSC Bank Recruitment 2022 Apply Online Junior Officer 11 Post">Read
 										more</a></p>
 							</div>
@@ -7387,10 +7387,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7400,7 +7400,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/msc-bank-vacancy/#respond">Leave a
+										href="msc-bank-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7411,7 +7411,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-agra-recruitment/" rel="bookmark">PNB
+										href="pnb-agra-recruitment/" rel="bookmark">PNB
 										Agra Recruitment 2022 Application Form Peon 15 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-08-08T16:29:06+05:30"
@@ -7420,7 +7420,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7433,7 +7433,7 @@
 									want to apply online in PNB Agra Recruitment 2022 through the official website
 									pnbindia.in &#8230; <a
 										title="PNB Agra Recruitment 2022 Application Form Peon 15 Posts"
-										class="read-more" href="https://www.sarkariresult.app/pnb-agra-recruitment/"
+										class="read-more" href="pnb-agra-recruitment/"
 										aria-label="More on PNB Agra Recruitment 2022 Application Form Peon 15 Posts">Read
 										more</a></p>
 							</div>
@@ -7444,10 +7444,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7457,7 +7457,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-agra-recruitment/#comments">4
+										href="pnb-agra-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7468,7 +7468,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-manager-recruitment/" rel="bookmark">PNB
+										href="pnb-manager-recruitment/" rel="bookmark">PNB
 										Manager Recruitment 2022 Apply Fire Safety Officer 103 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-01-24T16:00:58+05:30"
@@ -7477,7 +7477,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7490,7 +7490,7 @@
 									Manager Security Vacancy at 103 Posts. Those candidates who want to apply online in
 									PNB Recruitment 2022 through &#8230; <a
 										title="PNB Manager Recruitment 2022 Apply Fire Safety Officer 103 Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-manager-recruitment/"
+										class="read-more" href="pnb-manager-recruitment/"
 										aria-label="More on PNB Manager Recruitment 2022 Apply Fire Safety Officer 103 Post">Read
 										more</a></p>
 							</div>
@@ -7501,10 +7501,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7514,7 +7514,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-manager-recruitment/#respond">Leave a
+										href="pnb-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7525,7 +7525,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cbhfl-recruitment/" rel="bookmark">CBHFL
+										href="cbhfl-recruitment/" rel="bookmark">CBHFL
 										Recruitment 2022 Apply Online Form Officer, Manager 45 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7533,7 +7533,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7546,7 +7546,7 @@
 									Vacancy at 45 Posts. Those candidates who want to apply online in the CBHFL Officer
 									Recruitment 2022 form through &#8230; <a
 										title="CBHFL Recruitment 2022 Apply Online Form Officer, Manager 45 Post"
-										class="read-more" href="https://www.sarkariresult.app/cbhfl-recruitment/"
+										class="read-more" href="cbhfl-recruitment/"
 										aria-label="More on CBHFL Recruitment 2022 Apply Online Form Officer, Manager 45 Post">Read
 										more</a></p>
 							</div>
@@ -7557,10 +7557,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7570,7 +7570,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cbhfl-recruitment/#respond">Leave a
+										href="cbhfl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7581,7 +7581,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/exim-bank-officer-recruitment/"
+										href="exim-bank-officer-recruitment/"
 										rel="bookmark">Exim Bank Recruitment 2022 Apply Online Officer 19 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-08-09T15:09:59+05:30"
@@ -7590,7 +7590,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7604,7 +7604,7 @@
 									&#8211; Business Development Head, Business Development, Credit Head, &#8230; <a
 										title="Exim Bank Recruitment 2022 Apply Online Officer 19 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/exim-bank-officer-recruitment/"
+										href="exim-bank-officer-recruitment/"
 										aria-label="More on Exim Bank Recruitment 2022 Apply Online Officer 19 Posts">Read
 										more</a></p>
 							</div>
@@ -7615,10 +7615,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7628,7 +7628,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/exim-bank-officer-recruitment/#respond">Leave
+										href="exim-bank-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7639,7 +7639,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/citizen-credit-co-operative-bank-ltd-recruitment/"
+										href="citizen-credit-co-operative-bank-ltd-recruitment/"
 										rel="bookmark">CCBL Recruitment 2022 Apply Now PO, Probationary Associate
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7649,7 +7649,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7664,7 +7664,7 @@
 									website &#8230; <a
 										title="CCBL Recruitment 2022 Apply Now PO, Probationary Associate Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/citizen-credit-co-operative-bank-ltd-recruitment/"
+										href="citizen-credit-co-operative-bank-ltd-recruitment/"
 										aria-label="More on CCBL Recruitment 2022 Apply Now PO, Probationary Associate Post">Read
 										more</a></p>
 							</div>
@@ -7675,10 +7675,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7688,7 +7688,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/citizen-credit-co-operative-bank-ltd-recruitment/#respond">Leave
+										href="citizen-credit-co-operative-bank-ltd-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7699,7 +7699,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-recruitment/"
+										href="bank-of-baroda-bc-supervisor-recruitment/"
 										rel="bookmark">Bank of Baroda BC Supervisor Recruitment 2022 Application
 										Form</a></h2>
 								<div class="entry-meta">
@@ -7709,7 +7709,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7723,7 +7723,7 @@
 									Supervisor Recruitment 2022 can apply online application form &#8230; <a
 										title="Bank of Baroda BC Supervisor Recruitment 2022 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-recruitment/"
+										href="bank-of-baroda-bc-supervisor-recruitment/"
 										aria-label="More on Bank of Baroda BC Supervisor Recruitment 2022 Application Form">Read
 										more</a></p>
 							</div>
@@ -7734,10 +7734,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7747,7 +7747,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-recruitment/#comments">5
+										href="bank-of-baroda-bc-supervisor-recruitment/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7758,7 +7758,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-jobs/"
+										href="bank-of-baroda-manager-jobs/"
 										rel="bookmark">Bank of Baroda Manager Recruitment 2022 Apply Now 50 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7768,7 +7768,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7782,7 +7782,7 @@
 									Those candidates who are interested in Bank of &#8230; <a
 										title="Bank of Baroda Manager Recruitment 2022 Apply Now 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-jobs/"
+										href="bank-of-baroda-manager-jobs/"
 										aria-label="More on Bank of Baroda Manager Recruitment 2022 Apply Now 50 Post">Read
 										more</a></p>
 							</div>
@@ -7793,10 +7793,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7806,7 +7806,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-jobs/#respond">Leave
+										href="bank-of-baroda-manager-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7817,7 +7817,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sebi-grade-a-recruitment/"
+										href="sebi-grade-a-recruitment/"
 										rel="bookmark">SEBI Grade A Recruitment 2022 Apply Online 24 Asst Manager
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7827,7 +7827,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7840,7 +7840,7 @@
 									for the Information Technology Stream Vacancy at 24 Posts. Those candidates who are
 									interested in SEBI Recruitment 2022 apply &#8230; <a
 										title="SEBI Grade A Recruitment 2022 Apply Online 24 Asst Manager Post"
-										class="read-more" href="https://www.sarkariresult.app/sebi-grade-a-recruitment/"
+										class="read-more" href="sebi-grade-a-recruitment/"
 										aria-label="More on SEBI Grade A Recruitment 2022 Apply Online 24 Asst Manager Post">Read
 										more</a></p>
 							</div>
@@ -7851,10 +7851,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7864,7 +7864,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sebi-grade-a-recruitment/#respond">Leave a
+										href="sebi-grade-a-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7875,7 +7875,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-po-job-vacancy/" rel="bookmark">SBI PO
+										href="sbi-po-job-vacancy/" rel="bookmark">SBI PO
 										Recruitment 2022 Probationary Officer 2000 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-08-30T23:55:00+05:30"
@@ -7884,7 +7884,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7897,7 +7897,7 @@
 									candidates who are interested in SBI PO Recruitment 2022 apply online through the
 									official website SBI Jobs from &#8230; <a
 										title="SBI PO Recruitment 2022 Probationary Officer 2000 Posts"
-										class="read-more" href="https://www.sarkariresult.app/sbi-po-job-vacancy/"
+										class="read-more" href="sbi-po-job-vacancy/"
 										aria-label="More on SBI PO Recruitment 2022 Probationary Officer 2000 Posts">Read
 										more</a></p>
 							</div>
@@ -7908,10 +7908,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7921,7 +7921,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-po-job-vacancy/#comments">2
+										href="sbi-po-job-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7932,7 +7932,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-sirsa-recruitment/" rel="bookmark">PNB
+										href="pnb-sirsa-recruitment/" rel="bookmark">PNB
 										Sirsa Recruitment 2022 Apply Now Office Assistant Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-22T23:55:01+05:30"
@@ -7941,7 +7941,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7954,7 +7954,7 @@
 									who want to apply online in PNB Sirsa Recruitment 2022 through the official website
 									PNB Sirsa Jobs 2022 &#8230; <a
 										title="PNB Sirsa Recruitment 2022 Apply Now Office Assistant Posts"
-										class="read-more" href="https://www.sarkariresult.app/pnb-sirsa-recruitment/"
+										class="read-more" href="pnb-sirsa-recruitment/"
 										aria-label="More on PNB Sirsa Recruitment 2022 Apply Now Office Assistant Posts">Read
 										more</a></p>
 							</div>
@@ -7965,10 +7965,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7978,7 +7978,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-sirsa-recruitment/#respond">Leave a
+										href="pnb-sirsa-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7989,7 +7989,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-bank-of-india-jobs/"
+										href="central-bank-of-india-jobs/"
 										rel="bookmark">Central Bank of India Recruitment 2022 Apply Office Asst Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7999,7 +7999,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8013,7 +8013,7 @@
 									Bank &#8230; <a
 										title="Central Bank of India Recruitment 2022 Apply Office Asst Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-bank-of-india-jobs/"
+										href="central-bank-of-india-jobs/"
 										aria-label="More on Central Bank of India Recruitment 2022 Apply Office Asst Post">Read
 										more</a></p>
 							</div>
@@ -8024,10 +8024,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8037,7 +8037,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-bank-of-india-jobs/#respond">Leave a
+										href="central-bank-of-india-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8048,7 +8048,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-patna-guard-recruitment/"
+										href="pnb-patna-guard-recruitment/"
 										rel="bookmark">PNB Patna Guard Recruitment 2022 Apply Form 73 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-29T23:55:02+05:30"
@@ -8057,7 +8057,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8070,7 +8070,7 @@
 									at 73 Posts. Those candidates who want to apply online in PNB Patna Recruitment 2022
 									through &#8230; <a title="PNB Patna Guard Recruitment 2022 Apply Form 73 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-patna-guard-recruitment/"
+										href="pnb-patna-guard-recruitment/"
 										aria-label="More on PNB Patna Guard Recruitment 2022 Apply Form 73 Posts">Read
 										more</a></p>
 							</div>
@@ -8081,10 +8081,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8094,7 +8094,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-patna-guard-recruitment/#respond">Leave
+										href="pnb-patna-guard-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8105,7 +8105,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-tehri-recruitment/" rel="bookmark">PNB
+										href="pnb-tehri-recruitment/" rel="bookmark">PNB
 										Tehri Recruitment 2022 Application Form Sweeper 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-18T23:55:03+05:30"
@@ -8114,7 +8114,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8127,7 +8127,7 @@
 									candidates who want to apply online in PNB Tehri Safaiwala Recruitment 2022 through
 									the official website &#8230; <a
 										title="PNB Tehri Recruitment 2022 Application Form Sweeper 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-tehri-recruitment/"
+										class="read-more" href="pnb-tehri-recruitment/"
 										aria-label="More on PNB Tehri Recruitment 2022 Application Form Sweeper 11 Post">Read
 										more</a></p>
 							</div>
@@ -8138,10 +8138,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8151,7 +8151,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-tehri-recruitment/#comments">2
+										href="pnb-tehri-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8162,7 +8162,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-sco-jobs-vacancy/" rel="bookmark">SBI
+										href="sbi-sco-jobs-vacancy/" rel="bookmark">SBI
 										SCO Recruitment 2022 Apply Specialist Cadre Officer 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-13T23:55:18+05:30"
@@ -8171,7 +8171,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8184,7 +8184,7 @@
 									candidates who are interested in SBI SCO Recruitment 2022 apply online through the
 									official website SBI &#8230; <a
 										title="SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/sbi-sco-jobs-vacancy/"
+										class="read-more" href="sbi-sco-jobs-vacancy/"
 										aria-label="More on SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 11 Post">Read
 										more</a></p>
 							</div>
@@ -8195,10 +8195,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8208,7 +8208,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-sco-jobs-vacancy/#respond">Leave a
+										href="sbi-sco-jobs-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8219,7 +8219,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-so-job/" rel="bookmark">Bank
+										href="bank-of-baroda-so-job/" rel="bookmark">Bank
 										of Baroda SO Recruitment 2022 Apply Now 325 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-12T23:55:01+05:30"
@@ -8228,7 +8228,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8241,7 +8241,7 @@
 									candidates who are interested in Bank of Baroda SO Recruitment 2022 can apply online
 									application form through &#8230; <a
 										title="Bank of Baroda SO Recruitment 2022 Apply Now 325 Post" class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-so-job/"
+										href="bank-of-baroda-so-job/"
 										aria-label="More on Bank of Baroda SO Recruitment 2022 Apply Now 325 Post">Read
 										more</a></p>
 							</div>
@@ -8252,10 +8252,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8265,7 +8265,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-so-job/#respond">Leave a
+										href="bank-of-baroda-so-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8276,7 +8276,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-grade-b-recruitment/" rel="bookmark">RBI
+										href="rbi-grade-b-recruitment/" rel="bookmark">RBI
 										Grade B Phase 2 Result 2022 Download Officers Mains Cut Off, Merit List</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-12T21:08:41+05:30"
@@ -8285,7 +8285,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8297,7 +8297,7 @@
 									Those candidates who are interested in RBI Result 2022 can download RBI Grade B
 									Phase 2 Result 2022 online through the official website rbi.org.in RBI &#8230; <a
 										title="RBI Grade B Phase 2 Result 2022 Download Officers Mains Cut Off, Merit List"
-										class="read-more" href="https://www.sarkariresult.app/rbi-grade-b-recruitment/"
+										class="read-more" href="rbi-grade-b-recruitment/"
 										aria-label="More on RBI Grade B Phase 2 Result 2022 Download Officers Mains Cut Off, Merit List">Read
 										more</a></p>
 							</div>
@@ -8308,10 +8308,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8320,7 +8320,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-grade-b-recruitment/#comments">1
+										href="rbi-grade-b-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8331,7 +8331,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/idbi-so-recruitment/" rel="bookmark">IDBI SO
+										href="idbi-so-recruitment/" rel="bookmark">IDBI SO
 										Recruitment 2022 Apply Online Specialist Officer 226 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-10T23:55:07+05:30"
@@ -8340,7 +8340,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8353,7 +8353,7 @@
 									IDBIRecruitment 2021 apply online through the official website IDBI Jobs from 25
 									June 2022 to 10 July &#8230; <a
 										title="IDBI SO Recruitment 2022 Apply Online Specialist Officer 226 Post"
-										class="read-more" href="https://www.sarkariresult.app/idbi-so-recruitment/"
+										class="read-more" href="idbi-so-recruitment/"
 										aria-label="More on IDBI SO Recruitment 2022 Apply Online Specialist Officer 226 Post">Read
 										more</a></p>
 							</div>
@@ -8364,10 +8364,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8377,7 +8377,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/idbi-so-recruitment/#respond">Leave a
+										href="idbi-so-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8388,7 +8388,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/panchmahal-district-cooperative-bank-recruitment/"
+										href="panchmahal-district-cooperative-bank-recruitment/"
 										rel="bookmark">Panchmahal District Cooperative Bank Recruitment 2022 Clerk 103
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8398,7 +8398,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8413,7 +8413,7 @@
 									Panchmahal District &#8230; <a
 										title="Panchmahal District Cooperative Bank Recruitment 2022 Clerk 103 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/panchmahal-district-cooperative-bank-recruitment/"
+										href="panchmahal-district-cooperative-bank-recruitment/"
 										aria-label="More on Panchmahal District Cooperative Bank Recruitment 2022 Clerk 103 Post">Read
 										more</a></p>
 							</div>
@@ -8424,10 +8424,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8437,7 +8437,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/panchmahal-district-cooperative-bank-recruitment/#respond">Leave
+										href="panchmahal-district-cooperative-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8448,7 +8448,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-bank-recruitment/"
+										href="karnataka-bank-recruitment/"
 										rel="bookmark">Karnataka Bank Clerk Admit Card 2022 Download Exam Date</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-14T17:09:25+05:30"
@@ -8457,7 +8457,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8471,7 +8471,7 @@
 									&#8211; Clerk Exam Date Those Candidates &#8230; <a
 										title="Karnataka Bank Clerk Admit Card 2022 Download Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-bank-recruitment/"
+										href="karnataka-bank-recruitment/"
 										aria-label="More on Karnataka Bank Clerk Admit Card 2022 Download Exam Date">Read
 										more</a></p>
 							</div>
@@ -8482,10 +8482,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/banking-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="banking-jobs/"
 										rel="category tag">Bank Jobs</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
+										href="govt-jobs/" rel="category tag">Govt
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8494,7 +8494,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-bank-recruitment/#respond">Leave a
+										href="karnataka-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8505,7 +8505,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-counsellor-recruitment/"
+										href="sbi-counsellor-recruitment/"
 										rel="bookmark">SBI Counsellor Recruitment 2022 Apply Online Director 211
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8514,7 +8514,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8528,7 +8528,7 @@
 									through the official website SBI &#8230; <a
 										title="SBI Counsellor Recruitment 2022 Apply Online Director 211 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-counsellor-recruitment/"
+										href="sbi-counsellor-recruitment/"
 										aria-label="More on SBI Counsellor Recruitment 2022 Apply Online Director 211 Post">Read
 										more</a></p>
 							</div>
@@ -8539,10 +8539,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8552,7 +8552,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-counsellor-recruitment/#comments">1
+										href="sbi-counsellor-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8563,7 +8563,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nabard-vacancy/" rel="bookmark">NABARD
+										href="nabard-vacancy/" rel="bookmark">NABARD
 										Specialist Recruitment 2022 Apply Online 21 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-30T23:55:03+05:30"
@@ -8572,7 +8572,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8585,7 +8585,7 @@
 									interested in NABARD Vacancy 2022 apply through the official website NABARD Jobs
 									from 14 June 2022 to 30 June &#8230; <a
 										title="NABARD Specialist Recruitment 2022 Apply Online 21 Posts"
-										class="read-more" href="https://www.sarkariresult.app/nabard-vacancy/"
+										class="read-more" href="nabard-vacancy/"
 										aria-label="More on NABARD Specialist Recruitment 2022 Apply Online 21 Posts">Read
 										more</a></p>
 							</div>
@@ -8596,10 +8596,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8609,7 +8609,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nabard-vacancy/#respond">Leave a
+										href="nabard-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8620,7 +8620,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/muc-bank-clerical-trainee-recruitment/"
+										href="muc-bank-clerical-trainee-recruitment/"
 										rel="bookmark">MUC Bank Recruitment 2022 Apply Online Clerical Trainee 50
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8630,7 +8630,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8644,7 +8644,7 @@
 									the MUC Bank official &#8230; <a
 										title="MUC Bank Recruitment 2022 Apply Online Clerical Trainee 50 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/muc-bank-clerical-trainee-recruitment/"
+										href="muc-bank-clerical-trainee-recruitment/"
 										aria-label="More on MUC Bank Recruitment 2022 Apply Online Clerical Trainee 50 Post">Read
 										more</a></p>
 							</div>
@@ -8655,10 +8655,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8668,7 +8668,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/muc-bank-clerical-trainee-recruitment/#respond">Leave
+										href="muc-bank-clerical-trainee-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8679,7 +8679,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-cbo-recruitment/" rel="bookmark">SBI CBO
+										href="sbi-cbo-recruitment/" rel="bookmark">SBI CBO
 										Final Result 2022 Download Circle Based Officer Merit List, Cut Off</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8687,7 +8687,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8700,7 +8700,7 @@
 									Officer Vacancy at 1226 Posts in SBI Jobs. Qualified candidates can download the SBI
 									CBO Merit &#8230; <a
 										title="SBI CBO Final Result 2022 Download Circle Based Officer Merit List, Cut Off"
-										class="read-more" href="https://www.sarkariresult.app/sbi-cbo-recruitment/"
+										class="read-more" href="sbi-cbo-recruitment/"
 										aria-label="More on SBI CBO Final Result 2022 Download Circle Based Officer Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -8711,8 +8711,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/sarkari-result/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8721,7 +8721,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-cbo-recruitment/#comments">1
+										href="sbi-cbo-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8732,7 +8732,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nabard-recruitment/" rel="bookmark">NABARD
+										href="nabard-recruitment/" rel="bookmark">NABARD
 										Recruitment 2022 Apply Now Bank’s Medical Officer Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-24T12:18:53+05:30"
@@ -8741,7 +8741,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8754,7 +8754,7 @@
 									at 01 posts. Those candidates who are interested in NABARD Vacancy 2022 apply
 									through the official website NABARD Jobs from &#8230; <a
 										title="NABARD Recruitment 2022 Apply Now Bank’s Medical Officer Post"
-										class="read-more" href="https://www.sarkariresult.app/nabard-recruitment/"
+										class="read-more" href="nabard-recruitment/"
 										aria-label="More on NABARD Recruitment 2022 Apply Now Bank’s Medical Officer Post">Read
 										more</a></p>
 							</div>
@@ -8765,10 +8765,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8778,7 +8778,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nabard-recruitment/#respond">Leave a
+										href="nabard-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8789,7 +8789,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sidbi-executive-recruitment/"
+										href="sidbi-executive-recruitment/"
 										rel="bookmark">SIDBI Executive Recruitment 2022 Apply Now 25 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-17T23:55:13+05:30"
@@ -8798,7 +8798,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8811,7 +8811,7 @@
 									candidates who want to apply online in the SIDBI Recruitment 2022 form through the
 									 SIDBI Jobs official website sidbi.in &#8230; <a
 										title="SIDBI Executive Recruitment 2022 Apply Now 25 Post" class="read-more"
-										href="https://www.sarkariresult.app/sidbi-executive-recruitment/"
+										href="sidbi-executive-recruitment/"
 										aria-label="More on SIDBI Executive Recruitment 2022 Apply Now 25 Post">Read
 										more</a></p>
 							</div>
@@ -8822,10 +8822,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8835,7 +8835,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sidbi-executive-recruitment/#respond">Leave
+										href="sidbi-executive-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8846,7 +8846,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-sco-vacancy-apply/" rel="bookmark">SBI
+										href="sbi-sco-vacancy-apply/" rel="bookmark">SBI
 										SCO Recruitment 2022 Apply Specialist Cadre Officer 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-16T23:55:01+05:30"
@@ -8855,7 +8855,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8868,7 +8868,7 @@
 									candidates who are interested in SBI SCO Recruitment 2022 apply online through the
 									official website SBI &#8230; <a
 										title="SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/sbi-sco-vacancy-apply/"
+										class="read-more" href="sbi-sco-vacancy-apply/"
 										aria-label="More on SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 14 Post">Read
 										more</a></p>
 							</div>
@@ -8879,10 +8879,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8892,7 +8892,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-sco-vacancy-apply/#respond">Leave a
+										href="sbi-sco-vacancy-apply/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8903,7 +8903,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rani-channamma-urban-credit-cooperative-society/"
+										href="rani-channamma-urban-credit-cooperative-society/"
 										rel="bookmark">Rani Channamma Urban Credit Cooperative Society Recruitment 2022
 										Apply 200 Post</a></h2>
 								<div class="entry-meta">
@@ -8912,7 +8912,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8926,7 +8926,7 @@
 									wishing to apply through the official website Rani Channamma Urban Credit &#8230; <a
 										title="Rani Channamma Urban Credit Cooperative Society Recruitment 2022 Apply 200 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rani-channamma-urban-credit-cooperative-society/"
+										href="rani-channamma-urban-credit-cooperative-society/"
 										aria-label="More on Rani Channamma Urban Credit Cooperative Society Recruitment 2022 Apply 200 Post">Read
 										more</a></p>
 							</div>
@@ -8937,10 +8937,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8950,7 +8950,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rani-channamma-urban-credit-cooperative-society/#respond">Leave
+										href="rani-channamma-urban-credit-cooperative-society/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8961,7 +8961,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/iob-vacancy/" rel="bookmark">IOB Recruitment
+										href="iob-vacancy/" rel="bookmark">IOB Recruitment
 										2022 Apply Online Security Guard 20 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-15T23:55:10+05:30"
@@ -8970,7 +8970,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8983,7 +8983,7 @@
 									in IOB Security Guard Recruitment 2022 can apply online application form through the
 									official website iob.in IOB Jobs &#8230; <a
 										title="IOB Recruitment 2022 Apply Online Security Guard 20 Posts"
-										class="read-more" href="https://www.sarkariresult.app/iob-vacancy/"
+										class="read-more" href="iob-vacancy/"
 										aria-label="More on IOB Recruitment 2022 Apply Online Security Guard 20 Posts">Read
 										more</a></p>
 							</div>
@@ -8994,10 +8994,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9006,7 +9006,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/iob-vacancy/#respond">Leave
+										</svg></span><a href="iob-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9017,7 +9017,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-bank-so-recruitment/"
+										href="indian-bank-so-recruitment/"
 										rel="bookmark">Indian Bank SO Recruitment 2022 Apply Specialist Officer 312
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9027,7 +9027,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9041,7 +9041,7 @@
 									(SO) (Senior Manager, &#8230; <a
 										title="Indian Bank SO Recruitment 2022 Apply Specialist Officer 312 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/indian-bank-so-recruitment/"
+										href="indian-bank-so-recruitment/"
 										aria-label="More on Indian Bank SO Recruitment 2022 Apply Specialist Officer 312 Post">Read
 										more</a></p>
 							</div>
@@ -9052,10 +9052,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9065,7 +9065,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-bank-so-recruitment/#respond">Leave a
+										href="indian-bank-so-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9076,7 +9076,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nesfb-vacancy/" rel="bookmark">NESFB
+										href="nesfb-vacancy/" rel="bookmark">NESFB
 										Recruitment 2022 Apply Now Head, Operator, Manager 625 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-14T23:55:06+05:30"
@@ -9085,7 +9085,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9098,7 +9098,7 @@
 									(A Cluster Comprises Of 6-8 Branches) Vacancy at 625 Posts. Short Information: North
 									East Small Finance Bank has released the latest notification for the NESFB &#8230;
 									<a title="NESFB Recruitment 2022 Apply Now Head, Operator, Manager 625 Post"
-										class="read-more" href="https://www.sarkariresult.app/nesfb-vacancy/"
+										class="read-more" href="nesfb-vacancy/"
 										aria-label="More on NESFB Recruitment 2022 Apply Now Head, Operator, Manager 625 Post">Read
 										more</a></p>
 							</div>
@@ -9109,10 +9109,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9122,7 +9122,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nesfb-vacancy/#respond">Leave a
+										href="nesfb-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9133,7 +9133,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/almora-urban-co-operative-bank-recruitment/"
+										href="almora-urban-co-operative-bank-recruitment/"
 										rel="bookmark">Almora Urban Co-operative Bank Recruitment 2022 Apply 100
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9143,7 +9143,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9157,7 +9157,7 @@
 									website Almora Urban Co-operative Bank recruitment 2022 from 21 &#8230; <a
 										title="Almora Urban Co-operative Bank Recruitment 2022 Apply 100 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/almora-urban-co-operative-bank-recruitment/"
+										href="almora-urban-co-operative-bank-recruitment/"
 										aria-label="More on Almora Urban Co-operative Bank Recruitment 2022 Apply 100 Post">Read
 										more</a></p>
 							</div>
@@ -9168,10 +9168,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9181,7 +9181,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/almora-urban-co-operative-bank-recruitment/#respond">Leave
+										href="almora-urban-co-operative-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9192,7 +9192,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/state-bank-of-india-vacancy/"
+										href="state-bank-of-india-vacancy/"
 										rel="bookmark">SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 32
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9202,7 +9202,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9216,7 +9216,7 @@
 									candidates who are interested in SBI SCO &#8230; <a
 										title="SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 32 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/state-bank-of-india-vacancy/"
+										href="state-bank-of-india-vacancy/"
 										aria-label="More on SBI SCO Recruitment 2022 Apply Specialist Cadre Officer 32 Post">Read
 										more</a></p>
 							</div>
@@ -9227,10 +9227,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9240,7 +9240,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/state-bank-of-india-vacancy/#respond">Leave
+										href="state-bank-of-india-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9251,7 +9251,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-assistant-mains-result-2022/"
+										href="rbi-assistant-mains-result-2022/"
 										rel="bookmark">RBI Assistant Mains Result 2022 Link Online Merit List,
 										Shortlist</a></h2>
 								<div class="entry-meta">
@@ -9260,7 +9260,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9274,7 +9274,7 @@
 									Assistant &#8230; <a
 										title="RBI Assistant Mains Result 2022 Link Online Merit List, Shortlist"
 										class="read-more"
-										href="https://www.sarkariresult.app/rbi-assistant-mains-result-2022/"
+										href="rbi-assistant-mains-result-2022/"
 										aria-label="More on RBI Assistant Mains Result 2022 Link Online Merit List, Shortlist">Read
 										more</a></p>
 							</div>
@@ -9285,10 +9285,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9297,7 +9297,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-assistant-mains-result-2022/#respond">Leave
+										href="rbi-assistant-mains-result-2022/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9308,7 +9308,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-retired-staff-recruitment/"
+										href="sbi-retired-staff-recruitment/"
 										rel="bookmark">SBI Retired Staff Recruitment 2022 Apply Online 641 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9318,7 +9318,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9332,7 +9332,7 @@
 									(Channel Manager Facilitator Anytime Channel, Channel Manager Supervisor Anytime
 									&#8230; <a title="SBI Retired Staff Recruitment 2022 Apply Online 641 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-retired-staff-recruitment/"
+										href="sbi-retired-staff-recruitment/"
 										aria-label="More on SBI Retired Staff Recruitment 2022 Apply Online 641 Posts">Read
 										more</a></p>
 							</div>
@@ -9343,10 +9343,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9356,7 +9356,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-retired-staff-recruitment/#respond">Leave
+										href="sbi-retired-staff-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9367,7 +9367,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/city-union-bank-recruitment/"
+										href="city-union-bank-recruitment/"
 										rel="bookmark">City Union Bank Recruitment 2022 Apply Relationship Manager
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9377,7 +9377,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9391,7 +9391,7 @@
 									2022 &#8211; Apply Online Relationship Manager &#8230; <a
 										title="City Union Bank Recruitment 2022 Apply Relationship Manager Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/city-union-bank-recruitment/"
+										href="city-union-bank-recruitment/"
 										aria-label="More on City Union Bank Recruitment 2022 Apply Relationship Manager Post">Read
 										more</a></p>
 							</div>
@@ -9402,10 +9402,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9415,7 +9415,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/city-union-bank-recruitment/#respond">Leave
+										href="city-union-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9426,7 +9426,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ddcc-bank-recruitment/" rel="bookmark">DDCC
+										href="ddcc-bank-recruitment/" rel="bookmark">DDCC
 										Bank Recruitment 2022 Apply Online JA, Engineer, Driver Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-01T23:55:00+05:30"
@@ -9435,7 +9435,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9448,7 +9448,7 @@
 									Junior Assistant (JA), Computer Engineer, Computer Operator, Attendant, Driver
 									Vacancies at 48 posts in DDCC Bank. Those candidates who are interested in &#8230;
 									<a title="DDCC Bank Recruitment 2022 Apply Online JA, Engineer, Driver Post"
-										class="read-more" href="https://www.sarkariresult.app/ddcc-bank-recruitment/"
+										class="read-more" href="ddcc-bank-recruitment/"
 										aria-label="More on DDCC Bank Recruitment 2022 Apply Online JA, Engineer, Driver Post">Read
 										more</a></p>
 							</div>
@@ -9459,11 +9459,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9473,7 +9473,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ddcc-bank-recruitment/#respond">Leave a
+										href="ddcc-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9484,7 +9484,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-bhubaneswar-recruitment/"
+										href="pnb-bhubaneswar-recruitment/"
 										rel="bookmark">PNB Bhubaneswar Recruitment 2022 Application Form Peon 18
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9494,7 +9494,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9508,7 +9508,7 @@
 									through the official website pnbindia.in &#8230; <a
 										title="PNB Bhubaneswar Recruitment 2022 Application Form Peon 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-bhubaneswar-recruitment/"
+										href="pnb-bhubaneswar-recruitment/"
 										aria-label="More on PNB Bhubaneswar Recruitment 2022 Application Form Peon 18 Post">Read
 										more</a></p>
 							</div>
@@ -9519,10 +9519,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9532,7 +9532,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-bhubaneswar-recruitment/#comments">1
+										href="pnb-bhubaneswar-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9543,7 +9543,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ibps-research-associate-recruitment/"
+										href="ibps-research-associate-recruitment/"
 										rel="bookmark">IBPS Recruitment 2022 Apply Online Research Associate 100
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9553,7 +9553,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9567,7 +9567,7 @@
 									online to the ibps.in through the IBPS official &#8230; <a
 										title="IBPS Recruitment 2022 Apply Online Research Associate 100 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ibps-research-associate-recruitment/"
+										href="ibps-research-associate-recruitment/"
 										aria-label="More on IBPS Recruitment 2022 Apply Online Research Associate 100 Post">Read
 										more</a></p>
 							</div>
@@ -9578,10 +9578,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9591,7 +9591,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ibps-research-associate-recruitment/#respond">Leave
+										href="ibps-research-associate-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9602,7 +9602,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/msc-bank-recruitment/" rel="bookmark">MSC
+										href="msc-bank-recruitment/" rel="bookmark">MSC
 										Bank Recruitment 2022 Apply Now Officers &#038; Clerk 195 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-25T23:55:15+05:30"
@@ -9611,7 +9611,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9624,7 +9624,7 @@
 									195 posts. Candidates wishing to apply through the official website mscbank.com
 									Maharashtra Co-operative Bank recruitment 2022 for Maharashtra Jobs &#8230; <a
 										title="MSC Bank Recruitment 2022 Apply Now Officers &#038; Clerk 195 Post"
-										class="read-more" href="https://www.sarkariresult.app/msc-bank-recruitment/"
+										class="read-more" href="msc-bank-recruitment/"
 										aria-label="More on MSC Bank Recruitment 2022 Apply Now Officers &#038; Clerk 195 Post">Read
 										more</a></p>
 							</div>
@@ -9635,10 +9635,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9648,7 +9648,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/msc-bank-recruitment/#comments">1
+										href="msc-bank-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9659,7 +9659,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dns-bank-recruitment/" rel="bookmark">DNS
+										href="dns-bank-recruitment/" rel="bookmark">DNS
 										Bank Recruitment 2022 Apply Online Assistant Manager 31 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-23T23:55:00+05:30"
@@ -9668,7 +9668,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9681,7 +9681,7 @@
 									are interested in DNS Assistant Manager Recruitment 2022 can apply online
 									application form through the official website dnsbank.in DNS &#8230; <a
 										title="DNS Bank Recruitment 2022 Apply Online Assistant Manager 31 Post"
-										class="read-more" href="https://www.sarkariresult.app/dns-bank-recruitment/"
+										class="read-more" href="dns-bank-recruitment/"
 										aria-label="More on DNS Bank Recruitment 2022 Apply Online Assistant Manager 31 Post">Read
 										more</a></p>
 							</div>
@@ -9692,10 +9692,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9705,7 +9705,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dns-bank-recruitment/#respond">Leave a
+										href="dns-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9716,7 +9716,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-etawah-recruitment/" rel="bookmark">PNB
+										href="pnb-etawah-recruitment/" rel="bookmark">PNB
 										Etawah Recruitment 2022 Application Form Peon Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-21T23:55:01+05:30"
@@ -9725,7 +9725,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9738,7 +9738,7 @@
 									who want to apply online in PNB Etawah Recruitment 2022 through the official website
 									pnbindia.in &#8230; <a
 										title="PNB Etawah Recruitment 2022 Application Form Peon Post" class="read-more"
-										href="https://www.sarkariresult.app/pnb-etawah-recruitment/"
+										href="pnb-etawah-recruitment/"
 										aria-label="More on PNB Etawah Recruitment 2022 Application Form Peon Post">Read
 										more</a></p>
 							</div>
@@ -9749,10 +9749,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9762,7 +9762,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-etawah-recruitment/#comments">4
+										href="pnb-etawah-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9773,7 +9773,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ncbl-recruitment/" rel="bookmark">NCBL
+										href="ncbl-recruitment/" rel="bookmark">NCBL
 										Recruitment 2022 Application Form Clerk 12 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-17T23:55:13+05:30"
@@ -9782,7 +9782,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9795,7 +9795,7 @@
 									Recruitment 2022 can apply online through the NCBL Jobs official website from 27
 									April 2022 to 17 May &#8230; <a
 										title="NCBL Recruitment 2022 Application Form Clerk 12 Posts" class="read-more"
-										href="https://www.sarkariresult.app/ncbl-recruitment/"
+										href="ncbl-recruitment/"
 										aria-label="More on NCBL Recruitment 2022 Application Form Clerk 12 Posts">Read
 										more</a></p>
 							</div>
@@ -9806,10 +9806,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9819,7 +9819,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ncbl-recruitment/#respond">Leave a
+										href="ncbl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9830,7 +9830,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pucb-recruitment/" rel="bookmark">Panipat
+										href="pucb-recruitment/" rel="bookmark">Panipat
 										Urban Co-operative Bank Recruitment 2022 Apply 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-17T23:55:13+05:30"
@@ -9839,7 +9839,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9853,7 +9853,7 @@
 									Accountant/ Assistant Branch Manager, Senior Clerk, Clerk-Cum-Cashier/ F.S Vacancy
 									at 14 posts. Candidates &#8230; <a
 										title="Panipat Urban Co-operative Bank Recruitment 2022 Apply 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/pucb-recruitment/"
+										class="read-more" href="pucb-recruitment/"
 										aria-label="More on Panipat Urban Co-operative Bank Recruitment 2022 Apply 14 Post">Read
 										more</a></p>
 							</div>
@@ -9864,10 +9864,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9877,7 +9877,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pucb-recruitment/#respond">Leave a
+										href="pucb-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9888,7 +9888,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bareilly-urban-co-operative-bank-recruitment/"
+										href="bareilly-urban-co-operative-bank-recruitment/"
 										rel="bookmark">Bareilly Urban Co-operative Bank Recruitment 2022 Apply 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9898,7 +9898,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9912,7 +9912,7 @@
 									official website ucblb.org Bareilly Urban Co-operative Bank recruitment &#8230; <a
 										title="Bareilly Urban Co-operative Bank Recruitment 2022 Apply 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bareilly-urban-co-operative-bank-recruitment/"
+										href="bareilly-urban-co-operative-bank-recruitment/"
 										aria-label="More on Bareilly Urban Co-operative Bank Recruitment 2022 Apply 15 Post">Read
 										more</a></p>
 							</div>
@@ -9923,10 +9923,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9936,7 +9936,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bareilly-urban-co-operative-bank-recruitment/#respond">Leave
+										href="bareilly-urban-co-operative-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9947,7 +9947,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-apex-bank-recruitment/"
+										href="assam-apex-bank-recruitment/"
 										rel="bookmark">Assam Apex Bank Recruitment 2022 Apply Now Assistant 100 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9957,7 +9957,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9971,7 +9971,7 @@
 									through the official website Assam Apex &#8230; <a
 										title="Assam Apex Bank Recruitment 2022 Apply Now Assistant 100 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-apex-bank-recruitment/"
+										href="assam-apex-bank-recruitment/"
 										aria-label="More on Assam Apex Bank Recruitment 2022 Apply Now Assistant 100 Post">Read
 										more</a></p>
 							</div>
@@ -9982,10 +9982,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9995,7 +9995,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-apex-bank-recruitment/#respond">Leave
+										href="assam-apex-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10006,7 +10006,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/boi-specialist-officers-recruitment/"
+										href="boi-specialist-officers-recruitment/"
 										rel="bookmark">BOI Specialist Officers Recruitment 2022 Apply Online 696
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10016,7 +10016,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10030,7 +10030,7 @@
 									bankofindia.co.in BOI Jobs &#8230; <a
 										title="BOI Specialist Officers Recruitment 2022 Apply Online 696 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/boi-specialist-officers-recruitment/"
+										href="boi-specialist-officers-recruitment/"
 										aria-label="More on BOI Specialist Officers Recruitment 2022 Apply Online 696 Post">Read
 										more</a></p>
 							</div>
@@ -10041,10 +10041,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10054,7 +10054,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/boi-specialist-officers-recruitment/#comments">1
+										href="boi-specialist-officers-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10065,7 +10065,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/sbi-sco-recruitment-apply/"
+										href="sbi-sco-recruitment-apply/"
 										rel="bookmark">SBI SCO Recruitment 2022 Apply Manager, Vice President 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10075,7 +10075,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10090,7 +10090,7 @@
 									Information: State Bank of India &#8230; <a
 										title="SBI SCO Recruitment 2022 Apply Manager, Vice President 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/sbi-sco-recruitment-apply/"
+										href="sbi-sco-recruitment-apply/"
 										aria-label="More on SBI SCO Recruitment 2022 Apply Manager, Vice President 19 Post">Read
 										more</a></p>
 							</div>
@@ -10101,10 +10101,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10114,7 +10114,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/sbi-sco-recruitment-apply/#comments">1
+										href="sbi-sco-recruitment-apply/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10125,7 +10125,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indian-bank-clerk-recruitment/"
+										href="indian-bank-clerk-recruitment/"
 										rel="bookmark">Indian Bank Recruitment 2022 Apply Now 12 Clerk/ Officer Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10134,7 +10134,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10148,7 +10148,7 @@
 									official website can &#8230; <a
 										title="Indian Bank Recruitment 2022 Apply Now 12 Clerk/ Officer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/indian-bank-clerk-recruitment/"
+										href="indian-bank-clerk-recruitment/"
 										aria-label="More on Indian Bank Recruitment 2022 Apply Now 12 Clerk/ Officer Post">Read
 										more</a></p>
 							</div>
@@ -10159,10 +10159,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10172,7 +10172,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indian-bank-clerk-recruitment/#respond">Leave
+										href="indian-bank-clerk-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10183,7 +10183,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-patna-recruitment/" rel="bookmark">PNB
+										href="pnb-patna-recruitment/" rel="bookmark">PNB
 										Patna Recruitment 2022 Application Form Peon 12 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-02T23:55:03+05:30"
@@ -10192,7 +10192,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10205,7 +10205,7 @@
 									want to apply online in PNB Patna Recruitment 2022 through the official website
 									pnbindia.in &#8230; <a
 										title="PNB Patna Recruitment 2022 Application Form Peon 12 Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-patna-recruitment/"
+										class="read-more" href="pnb-patna-recruitment/"
 										aria-label="More on PNB Patna Recruitment 2022 Application Form Peon 12 Post">Read
 										more</a></p>
 							</div>
@@ -10216,10 +10216,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10229,7 +10229,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-patna-recruitment/#respond">Leave a
+										href="pnb-patna-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10240,7 +10240,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bandhan-bank-fresher-recruitment/"
+										href="bandhan-bank-fresher-recruitment/"
 										rel="bookmark">Bandhan Bank Fresher Recruitment 2022 Apply Online 22 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10250,7 +10250,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10264,7 +10264,7 @@
 									from 11 April 2022 &#8230; <a
 										title="Bandhan Bank Fresher Recruitment 2022 Apply Online 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bandhan-bank-fresher-recruitment/"
+										href="bandhan-bank-fresher-recruitment/"
 										aria-label="More on Bandhan Bank Fresher Recruitment 2022 Apply Online 22 Post">Read
 										more</a></p>
 							</div>
@@ -10275,10 +10275,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10288,7 +10288,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bandhan-bank-fresher-recruitment/#comments">1
+										href="bandhan-bank-fresher-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10299,7 +10299,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/federal-bank-recruitment/"
+										href="federal-bank-recruitment/"
 										rel="bookmark">Federal Bank Recruitment 2022 Apply Online Sweeper Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-30T23:55:14+05:30"
@@ -10308,7 +10308,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10321,7 +10321,7 @@
 									apply online through the official website Federal Bank Jobs federalbank.co.in from
 									21 March 2022 to 30 April 2022. Federal Bank &#8230; <a
 										title="Federal Bank Recruitment 2022 Apply Online Sweeper Posts"
-										class="read-more" href="https://www.sarkariresult.app/federal-bank-recruitment/"
+										class="read-more" href="federal-bank-recruitment/"
 										aria-label="More on Federal Bank Recruitment 2022 Apply Online Sweeper Posts">Read
 										more</a></p>
 							</div>
@@ -10332,10 +10332,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10345,7 +10345,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/federal-bank-recruitment/#respond">Leave a
+										href="federal-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10356,7 +10356,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bandhan-bank-recruitment/"
+										href="bandhan-bank-recruitment/"
 										rel="bookmark">Bandhan Bank Recruitment 2022 Apply Online DEO 39 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-29T23:55:02+05:30"
@@ -10365,7 +10365,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10378,7 +10378,7 @@
 									who want to apply online in the Bandhan Bank DEO Recruitment 2022 through the
 									Bandhan Bank Jobs official &#8230; <a
 										title="Bandhan Bank Recruitment 2022 Apply Online DEO 39 Posts"
-										class="read-more" href="https://www.sarkariresult.app/bandhan-bank-recruitment/"
+										class="read-more" href="bandhan-bank-recruitment/"
 										aria-label="More on Bandhan Bank Recruitment 2022 Apply Online DEO 39 Posts">Read
 										more</a></p>
 							</div>
@@ -10389,10 +10389,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10402,7 +10402,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bandhan-bank-recruitment/#respond">Leave a
+										href="bandhan-bank-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10413,7 +10413,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/exim-bank-recruitment/" rel="bookmark">Exim
+										href="exim-bank-recruitment/" rel="bookmark">Exim
 										Bank Officer Recruitment 2022 Online Application 31 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-28T23:55:01+05:30"
@@ -10422,7 +10422,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10435,7 +10435,7 @@
 									Officer Recruitment 2022 form through the Exim Bank Jobs official website
 									eximbankindia.in can apply &#8230; <a
 										title="Exim Bank Officer Recruitment 2022 Online Application 31 Post"
-										class="read-more" href="https://www.sarkariresult.app/exim-bank-recruitment/"
+										class="read-more" href="exim-bank-recruitment/"
 										aria-label="More on Exim Bank Officer Recruitment 2022 Online Application 31 Post">Read
 										more</a></p>
 							</div>
@@ -10446,10 +10446,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10459,7 +10459,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/exim-bank-recruitment/#comments">1
+										href="exim-bank-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10470,7 +10470,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-gramin-bank-recruitment/"
+										href="haryana-gramin-bank-recruitment/"
 										rel="bookmark">Haryana Gramin Bank Recruitment 2022 Apply Counselor 08 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10480,7 +10480,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10494,7 +10494,7 @@
 									Haryana Gramin Bank Jobs from 9 &#8230; <a
 										title="Haryana Gramin Bank Recruitment 2022 Apply Counselor 08 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-gramin-bank-recruitment/"
+										href="haryana-gramin-bank-recruitment/"
 										aria-label="More on Haryana Gramin Bank Recruitment 2022 Apply Counselor 08 Post">Read
 										more</a></p>
 							</div>
@@ -10505,10 +10505,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10518,7 +10518,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-gramin-bank-recruitment/#respond">Leave
+										href="haryana-gramin-bank-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10529,7 +10529,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bob-agriculture-marketing-officer-job/"
+										href="bob-agriculture-marketing-officer-job/"
 										rel="bookmark">Bank of Baroda Recruitment 2022 Agriculture Marketing Officer
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10539,7 +10539,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10553,7 +10553,7 @@
 									2022 can apply online application form through &#8230; <a
 										title="Bank of Baroda Recruitment 2022 Agriculture Marketing Officer Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bob-agriculture-marketing-officer-job/"
+										href="bob-agriculture-marketing-officer-job/"
 										aria-label="More on Bank of Baroda Recruitment 2022 Agriculture Marketing Officer Post">Read
 										more</a></p>
 							</div>
@@ -10564,10 +10564,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10577,7 +10577,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bob-agriculture-marketing-officer-job/#respond">Leave
+										href="bob-agriculture-marketing-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10588,7 +10588,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/indbank-vacancy/" rel="bookmark">Indbank
+										href="indbank-vacancy/" rel="bookmark">Indbank
 										Recruitment 2022 Apply Professional, Specialist 73 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-26T23:55:11+05:30"
@@ -10597,7 +10597,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10610,7 +10610,7 @@
 									Short Information: Indbank has released the latest notification for the Indbank
 									recruitment 2022 of (Professional / Specialist) Head-Account Opening Dept, Dp
 									&#8230; <a title="Indbank Recruitment 2022 Apply Professional, Specialist 73 Post"
-										class="read-more" href="https://www.sarkariresult.app/indbank-vacancy/"
+										class="read-more" href="indbank-vacancy/"
 										aria-label="More on Indbank Recruitment 2022 Apply Professional, Specialist 73 Post">Read
 										more</a></p>
 							</div>
@@ -10621,10 +10621,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10634,7 +10634,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/indbank-vacancy/#respond">Leave a
+										href="indbank-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10645,7 +10645,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-mc-recruitment/" rel="bookmark">RBI MC
+										href="rbi-mc-recruitment/" rel="bookmark">RBI MC
 										Recruitment 2022 Apply Now Medical Consultant 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-25T23:55:02+05:30"
@@ -10654,7 +10654,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10667,7 +10667,7 @@
 									in RBI Recruitment 2021 apply online the rbi.org.in through the official website RBI
 									Jobs from &#8230; <a
 										title="RBI MC Recruitment 2022 Apply Now Medical Consultant 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/rbi-mc-recruitment/"
+										class="read-more" href="rbi-mc-recruitment/"
 										aria-label="More on RBI MC Recruitment 2022 Apply Now Medical Consultant 14 Post">Read
 										more</a></p>
 							</div>
@@ -10678,10 +10678,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10691,7 +10691,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-mc-recruitment/#respond">Leave a
+										href="rbi-mc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10702,7 +10702,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rbi-grade-a-recruitment/" rel="bookmark">RBI
+										href="rbi-grade-a-recruitment/" rel="bookmark">RBI
 										Grade A Recruitment 2022 Apply Now Assistant Manager Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-18T23:55:01+05:30"
@@ -10711,7 +10711,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10724,7 +10724,7 @@
 									(Rajbhasha, Protocol &amp; Security) Vacancy at 12 posts. Those candidates who are
 									interested in RBI Recruitment 2022 &#8230; <a
 										title="RBI Grade A Recruitment 2022 Apply Now Assistant Manager Post"
-										class="read-more" href="https://www.sarkariresult.app/rbi-grade-a-recruitment/"
+										class="read-more" href="rbi-grade-a-recruitment/"
 										aria-label="More on RBI Grade A Recruitment 2022 Apply Now Assistant Manager Post">Read
 										more</a></p>
 							</div>
@@ -10735,10 +10735,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10748,7 +10748,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rbi-grade-a-recruitment/#comments">1
+										href="rbi-grade-a-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10759,7 +10759,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-apex-bank-vacancy/"
+										href="karnataka-apex-bank-vacancy/"
 										rel="bookmark">Karnataka Apex Bank Recruitment 2022 Apply Now Assistant 79
 										Post</a></h2>
 								<div class="entry-meta">
@@ -10769,7 +10769,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10783,7 +10783,7 @@
 									2022 can apply online application form through the &#8230; <a
 										title="Karnataka Apex Bank Recruitment 2022 Apply Now Assistant 79 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-apex-bank-vacancy/"
+										href="karnataka-apex-bank-vacancy/"
 										aria-label="More on Karnataka Apex Bank Recruitment 2022 Apply Now Assistant 79 Post">Read
 										more</a></p>
 							</div>
@@ -10794,10 +10794,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10807,7 +10807,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-apex-bank-vacancy/#respond">Leave
+										href="karnataka-apex-bank-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10818,7 +10818,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-aligarh-peon-recruitment/"
+										href="pnb-aligarh-peon-recruitment/"
 										rel="bookmark">PNB Aligarh Recruitment 2022 Application Form Peon Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-16T23:55:20+05:30"
@@ -10827,7 +10827,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10841,7 +10841,7 @@
 									website pnbindia.in &#8230; <a
 										title="PNB Aligarh Recruitment 2022 Application Form Peon Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-aligarh-peon-recruitment/"
+										href="pnb-aligarh-peon-recruitment/"
 										aria-label="More on PNB Aligarh Recruitment 2022 Application Form Peon Posts">Read
 										more</a></p>
 							</div>
@@ -10852,10 +10852,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10865,7 +10865,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-aligarh-peon-recruitment/#respond">Leave
+										href="pnb-aligarh-peon-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10876,7 +10876,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-vacancy/"
+										href="bank-of-baroda-manager-vacancy/"
 										rel="bookmark">Bank of Baroda Manager Recruitment 2022 Apply Online 159 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10886,7 +10886,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10900,7 +10900,7 @@
 									online application form through &#8230; <a
 										title="Bank of Baroda Manager Recruitment 2022 Apply Online 159 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-vacancy/"
+										href="bank-of-baroda-manager-vacancy/"
 										aria-label="More on Bank of Baroda Manager Recruitment 2022 Apply Online 159 Post">Read
 										more</a></p>
 							</div>
@@ -10911,10 +10911,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10924,7 +10924,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-manager-vacancy/#respond">Leave
+										href="bank-of-baroda-manager-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10935,7 +10935,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-notification/" rel="bookmark">IPPB
+										href="ippb-notification/" rel="bookmark">IPPB
 										Recruitment 2022 Apply Online Manager, AGM, DGM 12 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-09T23:55:02+05:30"
@@ -10944,7 +10944,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10957,7 +10957,7 @@
 									notification for the IPPB recruitment 2022 of Manager, Senior Manager, Chief
 									Manager, Assistant General Manager, Deputy General Manager, General Manager, &#8230;
 									<a title="IPPB Recruitment 2022 Apply Online Manager, AGM, DGM 12 Post"
-										class="read-more" href="https://www.sarkariresult.app/ippb-notification/"
+										class="read-more" href="ippb-notification/"
 										aria-label="More on IPPB Recruitment 2022 Apply Online Manager, AGM, DGM 12 Post">Read
 										more</a></p>
 							</div>
@@ -10968,10 +10968,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10981,7 +10981,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ippb-notification/#respond">Leave a
+										href="ippb-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10992,7 +10992,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-tamil-nadu-vacancy/" rel="bookmark">PNB
+										href="pnb-tamil-nadu-vacancy/" rel="bookmark">PNB
 										Tamil Nadu Recruitment 2022 Application Form Peon 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-09T23:55:02+05:30"
@@ -11001,7 +11001,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11013,7 +11013,7 @@
 									for the PNB Tamil Nadu Peon recruitment 2022 of Peon Vacancy at 14 Posts. Those
 									candidates who want to apply online in PNB TN Recruitment 2022 through the &#8230;
 									<a title="PNB Tamil Nadu Recruitment 2022 Application Form Peon 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-tamil-nadu-vacancy/"
+										class="read-more" href="pnb-tamil-nadu-vacancy/"
 										aria-label="More on PNB Tamil Nadu Recruitment 2022 Application Form Peon 14 Post">Read
 										more</a></p>
 							</div>
@@ -11024,10 +11024,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11037,7 +11037,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-tamil-nadu-vacancy/#respond">Leave a
+										href="pnb-tamil-nadu-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11048,7 +11048,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-badaun-recruitment/" rel="bookmark">PNB
+										href="pnb-badaun-recruitment/" rel="bookmark">PNB
 										Badaun Recruitment 2022 Application Form Peon Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-08T23:55:13+05:30"
@@ -11057,7 +11057,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11070,7 +11070,7 @@
 									who want to apply online in PNB Badaun Recruitment 2022 through the official website
 									pnbindia.in &#8230; <a
 										title="PNB Badaun Recruitment 2022 Application Form Peon Post" class="read-more"
-										href="https://www.sarkariresult.app/pnb-badaun-recruitment/"
+										href="pnb-badaun-recruitment/"
 										aria-label="More on PNB Badaun Recruitment 2022 Application Form Peon Post">Read
 										more</a></p>
 							</div>
@@ -11081,10 +11081,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11094,7 +11094,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-badaun-recruitment/#comments">1
+										href="pnb-badaun-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11105,7 +11105,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-gwalior-recruitment/" rel="bookmark">PNB
+										href="pnb-gwalior-recruitment/" rel="bookmark">PNB
 										Gwalior Recruitment 2022 Application Form Peon Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-07T23:55:01+05:30"
@@ -11114,7 +11114,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11127,7 +11127,7 @@
 									who want to apply online in PNB Gwalior Recruitment 2022 through the official
 									website pnbindia.in &#8230; <a
 										title="PNB Gwalior Recruitment 2022 Application Form Peon Post"
-										class="read-more" href="https://www.sarkariresult.app/pnb-gwalior-recruitment/"
+										class="read-more" href="pnb-gwalior-recruitment/"
 										aria-label="More on PNB Gwalior Recruitment 2022 Application Form Peon Post">Read
 										more</a></p>
 							</div>
@@ -11138,10 +11138,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11151,7 +11151,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-gwalior-recruitment/#respond">Leave a
+										href="pnb-gwalior-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11162,7 +11162,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-ghaziabad-recruitment/"
+										href="pnb-ghaziabad-recruitment/"
 										rel="bookmark">PNB Ghaziabad Recruitment 2022 Application Form Peon 15 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -11172,7 +11172,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11186,7 +11186,7 @@
 									official website pnbindia.in &#8230; <a
 										title="PNB Ghaziabad Recruitment 2022 Application Form Peon 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-ghaziabad-recruitment/"
+										href="pnb-ghaziabad-recruitment/"
 										aria-label="More on PNB Ghaziabad Recruitment 2022 Application Form Peon 15 Post">Read
 										more</a></p>
 							</div>
@@ -11197,10 +11197,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11210,7 +11210,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-ghaziabad-recruitment/#comments">3
+										href="pnb-ghaziabad-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -11221,7 +11221,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bnp-dewas-recruitment/" rel="bookmark">BNP
+										href="bnp-dewas-recruitment/" rel="bookmark">BNP
 										Dewas Recruitment 2022 Apply Online Technician 81 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11229,7 +11229,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11242,7 +11242,7 @@
 									interested in Bank Note Press Dewas Recruitment 2022 apply online to through the
 									official website bnpdewas.smpcil.com &#8230; <a
 										title="BNP Dewas Recruitment 2022 Apply Online Technician 81 Post"
-										class="read-more" href="https://www.sarkariresult.app/bnp-dewas-recruitment/"
+										class="read-more" href="bnp-dewas-recruitment/"
 										aria-label="More on BNP Dewas Recruitment 2022 Apply Online Technician 81 Post">Read
 										more</a></p>
 							</div>
@@ -11253,10 +11253,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11266,7 +11266,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bnp-dewas-recruitment/#respond">Leave a
+										href="bnp-dewas-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11277,7 +11277,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-west-bengal-recruitment/"
+										href="pnb-west-bengal-recruitment/"
 										rel="bookmark">PNB West Bengal Recruitment 2022 Application Form Peon 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -11287,7 +11287,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11301,7 +11301,7 @@
 									Bengal &#8230; <a
 										title="PNB West Bengal Recruitment 2022 Application Form Peon 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-west-bengal-recruitment/"
+										href="pnb-west-bengal-recruitment/"
 										aria-label="More on PNB West Bengal Recruitment 2022 Application Form Peon 15 Post">Read
 										more</a></p>
 							</div>
@@ -11312,10 +11312,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11325,7 +11325,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-west-bengal-recruitment/#respond">Leave
+										href="pnb-west-bengal-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11336,7 +11336,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-burdwan-recruitment/" rel="bookmark">PNB
+										href="pnb-burdwan-recruitment/" rel="bookmark">PNB
 										Burdwan Recruitment 2022 Application Form Peon 15 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-28T23:55:00+05:30"
@@ -11345,7 +11345,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11358,7 +11358,7 @@
 									Posts. Those candidates who want to apply online in PNB Burdwan Recruitment 2022
 									through the &#8230; <a
 										title="PNB Burdwan Recruitment 2022 Application Form Peon 15 Posts"
-										class="read-more" href="https://www.sarkariresult.app/pnb-burdwan-recruitment/"
+										class="read-more" href="pnb-burdwan-recruitment/"
 										aria-label="More on PNB Burdwan Recruitment 2022 Application Form Peon 15 Posts">Read
 										more</a></p>
 							</div>
@@ -11369,10 +11369,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11382,7 +11382,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-burdwan-recruitment/#comments">1
+										href="pnb-burdwan-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11393,7 +11393,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-fazilka-recruitment/" rel="bookmark">PNB
+										href="pnb-fazilka-recruitment/" rel="bookmark">PNB
 										Fazilka Recruitment 2022 Application Form Peon 15 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-25T23:55:05+05:30"
@@ -11402,7 +11402,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11415,7 +11415,7 @@
 									Those candidates who want to apply online in PNB Fazilka Recruitment 2022 through
 									the official &#8230; <a
 										title="PNB Fazilka Recruitment 2022 Application Form Peon 15 Posts"
-										class="read-more" href="https://www.sarkariresult.app/pnb-fazilka-recruitment/"
+										class="read-more" href="pnb-fazilka-recruitment/"
 										aria-label="More on PNB Fazilka Recruitment 2022 Application Form Peon 15 Posts">Read
 										more</a></p>
 							</div>
@@ -11426,10 +11426,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11439,7 +11439,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-fazilka-recruitment/#comments">1
+										href="pnb-fazilka-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11450,7 +11450,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bank-of-baroda-recruitment/"
+										href="bank-of-baroda-recruitment/"
 										rel="bookmark">Bank of Baroda SO Recruitment 2022 Specialist Officer 147
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -11460,7 +11460,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11474,7 +11474,7 @@
 									Baroda SO Recruitment 2022 of Specialist Officer (Head/ Deputy &#8230; <a
 										title="Bank of Baroda SO Recruitment 2022 Specialist Officer 147 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bank-of-baroda-recruitment/"
+										href="bank-of-baroda-recruitment/"
 										aria-label="More on Bank of Baroda SO Recruitment 2022 Specialist Officer 147 Posts">Read
 										more</a></p>
 							</div>
@@ -11485,10 +11485,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11498,7 +11498,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bank-of-baroda-recruitment/#respond">Leave a
+										href="bank-of-baroda-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11509,7 +11509,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pnb-meerut-guard-recruitment/"
+										href="pnb-meerut-guard-recruitment/"
 										rel="bookmark">PNB Meerut Guard Recruitment 2022 Application Form 16 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -11519,7 +11519,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11533,7 +11533,7 @@
 									PNB Meerut Jobs 2022 &#8230; <a
 										title="PNB Meerut Guard Recruitment 2022 Application Form 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/pnb-meerut-guard-recruitment/"
+										href="pnb-meerut-guard-recruitment/"
 										aria-label="More on PNB Meerut Guard Recruitment 2022 Application Form 16 Post">Read
 										more</a></p>
 							</div>
@@ -11544,10 +11544,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -11557,7 +11557,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pnb-meerut-guard-recruitment/#respond">Leave
+										href="pnb-meerut-guard-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11569,13 +11569,13 @@
 									<path
 										d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z" />
 								</svg></span> <span class="prev" title="Previous"><a
-									href="https://www.sarkariresult.app/banking-jobs/page/2/">Older posts</a></span>
+									href="banking-jobs/page/2/">Older posts</a></span>
 						</div>
 						<div class="nav-links"><span aria-current="page" class="page-numbers current"><span
 									class="screen-reader-text">Page</span>1</span>
-							<a class="page-numbers" href="https://www.sarkariresult.app/banking-jobs/page/2/"><span
+							<a class="page-numbers" href="banking-jobs/page/2/"><span
 									class="screen-reader-text">Page</span>2</a>
-							<a class="next page-numbers" href="https://www.sarkariresult.app/banking-jobs/page/2/">Next
+							<a class="next page-numbers" href="banking-jobs/page/2/">Next
 								<span aria-hidden="true">&rarr;</span></a>
 						</div>
 					</nav>
@@ -11599,83 +11599,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -11843,7 +11843,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

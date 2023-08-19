@@ -19,7 +19,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -57,1223 +57,1223 @@
 												<td>
 													<ul class="su-posts su-posts-list-loop">
 														<li id="su-post-163690" class="su-post"><a
-																href="https://www.sarkariresult.app/cosmos-bank-notification/">Cosmos
+																href="cosmos-bank-notification/">Cosmos
 																Bank Recruitment 2023 Apply Officer, Asst Manager 220
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 August 2023
 															</span>
 														</li>
 														<li id="su-post-163485" class="su-post"><a
-																href="https://www.sarkariresult.app/nainital-bank-notification/">Nainital
+																href="nainital-bank-notification/">Nainital
 																Bank MT Recruitment 2023 Apply Now Clerk 110 Post</a>
 															<span style="color:#ab183d">Last Date: 27 August 2023
 															</span>
 														</li>
 														<li id="su-post-163097" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-notification/">IBPS
+																href="ibps-notification/">IBPS
 																PO Recruitment 2023 Notification PO/MT XIII 3049
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 August 2023
 															</span>
 														</li>
 														<li id="su-post-163079" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-so-2023-notification/">IBPS
+																href="ibps-so-2023-notification/">IBPS
 																SO 2023 Notification Apply For 1402 Posts, Eligibility,
 																Exam Date</a>
 															<span style="color:#ab183d">Last Date: 21 August 2023
 															</span>
 														</li>
 														<li id="su-post-162050" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-maharashtra-officer-job/">Bank
+																href="bank-of-maharashtra-officer-job/">Bank
 																of Maharashtra Recruitment 2023 Apply Officer 400
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 July 2023 </span>
 														</li>
 														<li id="su-post-161256" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-sind-bank-specialist-officer-job/">Punjab
+																href="punjab-sind-bank-specialist-officer-job/">Punjab
 																&#038; Sind Bank Recruitment 2023 Apply Online 183
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 July 2023 </span>
 														</li>
 														<li id="su-post-161238" class="su-post"><a
-																href="https://www.sarkariresult.app/muc-bank-clerical-trainee-job/">MUC
+																href="muc-bank-clerical-trainee-job/">MUC
 																Bank Recruitment 2023 Apply Online Clerical Trainee 50
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 July 2023 </span>
 														</li>
 														<li id="su-post-161211" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-manager-recruitment/">Central
+																href="central-bank-of-india-manager-recruitment/">Central
 																Bank of India Recruitment 2023 Apply Manager 1000
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 July 2023 </span>
 														</li>
 														<li id="su-post-161118" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-clerk-notification-2023-pdf/">IBPS
+																href="ibps-clerk-notification-2023-pdf/">IBPS
 																Clerk Notification 2023 PDF Out, Eligibility, Apply
 																Online, Vacancy Details</a>
 															<span style="color:#ab183d">Last Date: 21 July 2023 </span>
 														</li>
 														<li id="su-post-158741" class="su-post"><a
-																href="https://www.sarkariresult.app/idbi-executive-apply-online-for-1036-post/">IDBI
+																href="idbi-executive-apply-online-for-1036-post/">IDBI
 																Executive Admit Card 2023 Download for 1036 Post</a>
 															</span></li>
 														<li id="su-post-160710" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-scientist-engineer-job/">RBI
+																href="rbi-scientist-engineer-job/">RBI
 																Recruitment 2023 Apply Online Scientist, Engineer 66
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 July 2023 </span>
 														</li>
 														<li id="su-post-160086" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-agm-chief-manager-apply-now/">SBI
+																href="sbi-agm-chief-manager-apply-now/">SBI
 																SCO Recruitment 2023 Apply AGM, Chief Manager 18
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 June 2023 </span>
 														</li>
 														<li id="su-post-159926" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-jr-engineer-civil-electrical-online-form/">RBI
+																href="rbi-jr-engineer-civil-electrical-online-form/">RBI
 																JE Recruitment 2023 Jr Engineer (Civil/Electrical) 35
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-159700" class="su-post"><a
-																href="https://www.sarkariresult.app/idbi-bank-so-notification/">IDBI
+																href="idbi-bank-so-notification/">IDBI
 																Bank SO Recruitment 2023 Apply Specialist Officer 136
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 June 2023 </span>
 														</li>
 														<li id="su-post-159100" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-rrb-2023-notification/">IBPS
+																href="ibps-rrb-2023-notification/">IBPS
 																RRB 2023 Notification for 8594 Post, Eligibility, Apply
 																Online, Vacancy Details</a>
 															<span style="color:#ab183d">Last Date: 21 June 2023 </span>
 														</li>
 														<li id="su-post-158819" class="su-post"><a
-																href="https://www.sarkariresult.app/citizencredit-bank-apprentice-job/">Citizencredit
+																href="citizencredit-bank-apprentice-job/">Citizencredit
 																Bank Recruitment 2023 Apply Apprentice 30 Post</a>
 															<span style="color:#ab183d">Last Date: 31 May 2023 </span>
 														</li>
 														<li id="su-post-158807" class="su-post"><a
-																href="https://www.sarkariresult.app/nnsb-clerical-grade-job/">NNSB
+																href="nnsb-clerical-grade-job/">NNSB
 																Recruitment 2023 Application Form Clerical Grade 50
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 June 2023 </span>
 														</li>
 														<li id="su-post-158723" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-delhi-officer-manager-job/">PNB
+																href="pnb-delhi-officer-manager-job/">PNB
 																Delhi Recruitment 2023 Apply Now Officer, Manager 240
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 June 2023 </span>
 														</li>
 														<li id="su-post-157927" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-specialist-cadre-officer-job/">SBI
+																href="sbi-specialist-cadre-officer-job/">SBI
 																Recruitment 2023 Apply Specialist Cadre Officer 57
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2023 </span>
 														</li>
 														<li id="su-post-158380" class="su-post"><a
-																href="https://www.sarkariresult.app/indian-bank-specialist-job/">Indian
+																href="indian-bank-specialist-job/">Indian
 																Bank Recruitment 2023 Apply Now Specialist 18 Post</a>
 															<span style="color:#ab183d">Last Date: 29 May 2023 </span>
 														</li>
 														<li id="su-post-152867" class="su-post"><a
-																href="https://www.sarkariresult.app/ecgc-po-2023-notification-release/">ECGC
+																href="ecgc-po-2023-notification-release/">ECGC
 																PO 2023 Notification Release, Syllabus, Exam Date,
 																Online Form</a>
 															<span style="color:#ab183d">Last Date: 31 May 2023 </span>
 														</li>
 														<li id="su-post-155077" class="su-post"><a
-																href="https://www.sarkariresult.app/bandhan-bank-deo-job/">Bandhan
+																href="bandhan-bank-deo-job/">Bandhan
 																Bank Recruitment 2023 Apply Data Entry Operator 159
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 May 2023 </span>
 														</li>
 														<li id="su-post-154040" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-grade-b-recruitment-notification-2023/">RBI
+																href="rbi-grade-b-recruitment-notification-2023/">RBI
 																Grade B Recruitment 2023 Notification PDF, Apply Online,
 																Eligibility, 291 Post</a>
 															<span style="color:#ab183d">Last Date: 9 June 2023 </span>
 														</li>
 														<li id="su-post-156893" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-so-online-application-2023/">SBI
+																href="sbi-so-online-application-2023/">SBI
 																SO Recruitment 2023 Manager, Dy &#038; Assistant Manager
 																217 Post</a>
 															<span style="color:#ab183d">Last Date: 19 May 2023 </span>
 														</li>
 														<li id="su-post-155524" class="su-post"><a
-																href="https://www.sarkariresult.app/bob-analyst-manager-job/">Bank
+																href="bob-analyst-manager-job/">Bank
 																of Baroda Recruitment 2023 Apply Analyst, Manager 157
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 May 2023 </span>
 														</li>
 														<li id="su-post-152846" class="su-post"><a
-																href="https://www.sarkariresult.app/nhb-project-finance-officer-recruitment/">NHB
+																href="nhb-project-finance-officer-recruitment/">NHB
 																Project Finance Officer Recruitment 2023 Apply Online 40
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 May 2023 </span>
 														</li>
 														<li id="su-post-149429" class="su-post"><a
-																href="https://www.sarkariresult.app/indbank-dealer-job/">Indbank
+																href="indbank-dealer-job/">Indbank
 																Recruitment 2023 Application Form Dealer 12 Post</a>
 															<span style="color:#ab183d">Last Date: 22 April 2023 </span>
 														</li>
 														<li id="su-post-147006" class="su-post"><a
-																href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-officer-grade-job/">M.P
+																href="m-p-rajya-sahakari-bank-officer-grade-job/">M.P
 																Rajya Sahakari Bank Recruitment 2023 Apply Officer Grade
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 April 2023 </span>
 														</li>
 														<li id="su-post-146597" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-driver-apply-online/">RBI
+																href="rbi-driver-apply-online/">RBI
 																Driver Recruitment 2023 Apply Online Form 05 Post</a>
 															<span style="color:#ab183d">Last Date: 16 April 2023 </span>
 														</li>
 														<li id="su-post-150895" class="su-post"><a
-																href="https://www.sarkariresult.app/sidbi-specialist-job/">SIDBI
+																href="sidbi-specialist-job/">SIDBI
 																Recruitment 2023 Application Form Specialist 14 Post</a>
 															<span style="color:#ab183d">Last Date: 14 April 2023 </span>
 														</li>
 														<li id="su-post-150836" class="su-post"><a
-																href="https://www.sarkariresult.app/union-bank-stipendiary-players-job/">Union
+																href="union-bank-stipendiary-players-job/">Union
 																Bank Recruitment 2023 Apply Now Stipendiary Players
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 April 2023 </span>
 														</li>
 														<li id="su-post-134917" class="su-post"><a
-																href="https://www.sarkariresult.app/idbi-assistant-manager-recruitment/">IDBI
+																href="idbi-assistant-manager-recruitment/">IDBI
 																Assistant Manager Admit Card 2023 Download Grade A 600
 																Post Call Letter</a>
 															</span></li>
 														<li id="su-post-146598" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-bc-supervisor-job/">Central
+																href="central-bank-of-india-bc-supervisor-job/">Central
 																Bank of India Recruitment 2023 Apply BC Supervisor
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 April 2023 </span>
 														</li>
 														<li id="su-post-145059" class="su-post"><a
-																href="https://www.sarkariresult.app/canbank-manager-vice-president-job/">Canbank
+																href="canbank-manager-vice-president-job/">Canbank
 																Recruitment 2023 Apply Now Manager, Vice President
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 April 2023 </span>
 														</li>
 														<li id="su-post-142362" class="su-post"><a
-																href="https://www.sarkariresult.app/m-p-rajya-sahakari-bank-recruitment/">M.P
+																href="m-p-rajya-sahakari-bank-recruitment/">M.P
 																Rajya Sahakari Bank Recruitment 2023 Apply Online 638
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 April 2023 </span>
 														</li>
 														<li id="su-post-146203" class="su-post"><a
-																href="https://www.sarkariresult.app/saraswat-bank/">Saraswat
+																href="saraswat-bank/">Saraswat
 																Bank Recruitment 2023 Apply Now Junior Officer 150
 																Post</a>
 															</span></li>
 														<li id="su-post-108742" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-po-recruitment-apply-online/">IBPS
+																href="ibps-po-recruitment-apply-online/">IBPS
 																CRP-XII PO/ MT Mains &#038; Interview Result 2023 Link
 																Merit List, Cut Off</a>
 															</span></li>
 														<li id="su-post-144765" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-apprentice-job/">Central
+																href="central-bank-of-india-apprentice-job/">Central
 																Bank of India Recruitment 2023 Apply Apprentice 5000
 																Post</a>
 															<span style="color:#ab183d">Last Date: 02 April 2023 </span>
 														</li>
 														<li id="su-post-141210" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-retired-bank-officer-job/">SBI
+																href="sbi-retired-bank-officer-job/">SBI
 																Retired Bank Officer Recruitment 2023 Apply Online 868
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-140790" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-rewari-recruitmen/">PNB
+																href="pnb-rewari-recruitmen/">PNB
 																Rewari Recruitment 2023 Punjab National Bank Rewari Peon
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-143640" class="su-post"><a
-																href="https://www.sarkariresult.app/indian-bank-apply-form/">Indian
+																href="indian-bank-apply-form/">Indian
 																Bank Recruitment 2023 Faculty, Office Asst, Attender
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 March 2023 </span>
 														</li>
 														<li id="su-post-148749" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-retired-bank-staff-job/">SBI
+																href="sbi-retired-bank-staff-job/">SBI
 																Retired Bank Staff Recruitment 2023 Apply Online 1031
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2023 </span>
 														</li>
 														<li id="su-post-120249" class="su-post"><a
-																href="https://www.sarkariresult.app/sidbi-assistant-manager-job/">SIDBI
+																href="sidbi-assistant-manager-job/">SIDBI
 																Assistant Manager Result 2023 Out AM Merit List, Cut
 																Off</a>
 															</span></li>
 														<li id="su-post-138182" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-manager-job/">Central
+																href="central-bank-of-india-manager-job/">Central
 																Bank of India Recruitment 2023 Apply Manager 147
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-138144" class="su-post"><a
-																href="https://www.sarkariresult.app/sarva-haryana-gramin-bank-recruitment/">Sarva
+																href="sarva-haryana-gramin-bank-recruitment/">Sarva
 																Haryana Gramin Bank Recruitment 2023 Counselor 06
 																Post</a>
 															</span></li>
 														<li id="su-post-139156" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-manager-recruitment/">SBI
+																href="sbi-manager-recruitment/">SBI
 																Manager Recruitment 2023 Apply Online SCO 05 Post</a>
 															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-138908" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-office-assistant-recruitment/">Central
+																href="central-bank-of-india-office-assistant-recruitment/">Central
 																Bank of India Recruitment 2023 Director, Office Asst
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 March 2023 </span>
 														</li>
 														<li id="su-post-135675" class="su-post"><a
-																href="https://www.sarkariresult.app/bob-application-form/">Bank
+																href="bob-application-form/">Bank
 																of Baroda Recruitment 2023 Banker, Head, Manager 546
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 March 2023 </span>
 														</li>
 														<li id="su-post-136037" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-ao-recruitment/">Bank
+																href="bank-of-baroda-ao-recruitment/">Bank
 																of Baroda AO Recruitment 2023 Acquisition Officer 500
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 14 March 2023 </span>
 														</li>
 														<li id="su-post-144941" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-pharmacist-job/">RBI
+																href="rbi-pharmacist-job/">RBI
 																Recruitment 2023 Application Form Pharmacist 25 Post</a>
 															<span style="color:#ab183d">Last Date: 10 April 2023 </span>
 														</li>
 														<li id="su-post-135212" class="su-post"><a
-																href="https://www.sarkariresult.app/baroda-up-gramin-bank-recruitment/">Baroda
+																href="baroda-up-gramin-bank-recruitment/">Baroda
 																UP Bank Recruitment 2023 Apply Now Charted Accountant
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 March 2023 </span>
 														</li>
 														<li id="su-post-133253" class="su-post"><a
-																href="https://www.sarkariresult.app/idbi-online-form/">IDBI
+																href="idbi-online-form/">IDBI
 																SO Recruitment 2023 Apply Specialist Cadre Officer 114
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 March 2023 </span>
 														</li>
 														<li id="su-post-134912" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-gds-job/">IPPB
+																href="ippb-gds-job/">IPPB
 																GDS Recruitment 2023 Apply Gramin Dak Sevak 59 Posts</a>
 															<span style="color:#ab183d">Last Date: 1 March 2023 </span>
 														</li>
 														<li id="su-post-130985" class="su-post"><a
-																href="https://www.sarkariresult.app/cosmos-bank-recruitment/">Cosmos
+																href="cosmos-bank-recruitment/">Cosmos
 																Bank Recruitment 2023 Apply Online Java Developer 06
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-135245" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-mahesh-bank-recruitment/">AP
+																href="ap-mahesh-bank-recruitment/">AP
 																Mahesh Bank Recruitment 2023 Apply GM, DGM, AGM, Manager
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 March 2023 </span>
 														</li>
 														<li id="su-post-130077" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-manager-vacancy/">IPPB
+																href="ippb-manager-vacancy/">IPPB
 																Manager Recruitment 2023 Apply Form 41 Posts</a>
 															<span style="color:#ab183d">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-129992" class="su-post"><a
-																href="https://www.sarkariresult.app/indian-bank-specialist-officer-recruitment/">Indian
+																href="indian-bank-specialist-officer-recruitment/">Indian
 																Bank Specialist Officer Recruitment 2023 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-128618" class="su-post"><a
-																href="https://www.sarkariresult.app/bangalore-dcc-bank-recruitment/">Bangalore
+																href="bangalore-dcc-bank-recruitment/">Bangalore
 																DCC Bank Recruitment 2023 Driver, JA, Manager 96
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 February 2023
 															</span>
 														</li>
 														<li id="su-post-131877" class="su-post"><a
-																href="https://www.sarkariresult.app/boi-po-recruitment/">BOI
+																href="boi-po-recruitment/">BOI
 																PO Recruitment 2023 Apply Online Probationary Officer
 																500 Post</a>
 															<span style="color:#ab183d">Last Date: 25 February 2023
 															</span>
 														</li>
 														<li id="su-post-132755" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-bank-online-form/">Karnataka
+																href="karnataka-bank-online-form/">Karnataka
 																Bank Recruitment 2023 Apply Engineer, Analyst 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 February 2023
 															</span>
 														</li>
 														<li id="su-post-125552" class="su-post"><a
-																href="https://www.sarkariresult.app/union-bank-manager-recruitment/">Union
+																href="union-bank-manager-recruitment/">Union
 																Bank Manager Recruitment 2023 Apply Now 42 Post</a>
 															<span style="color:#ab183d">Last Date: 12 February 2023
 															</span>
 														</li>
 														<li id="su-post-130712" class="su-post"><a
-																href="https://www.sarkariresult.app/sidbi-specialist-recruitment/">SIDBI
+																href="sidbi-specialist-recruitment/">SIDBI
 																Specialist Recruitment 2023 CTO, Advisor, Executive 19
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 February 2023
 															</span>
 														</li>
 														<li id="su-post-127375" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-manager-vacancy/">Central
+																href="central-bank-of-india-manager-vacancy/">Central
 																Bank of India Recruitment 2023 Apply Now Manager 250
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 February 2023
 															</span>
 														</li>
 														<li id="su-post-129535" class="su-post"><a
-																href="https://www.sarkariresult.app/south-indian-bank-recruitment/">South
+																href="south-indian-bank-recruitment/">South
 																Indian Bank Recruitment 2023 Apply Probationary Clerk
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 February 2023
 															</span>
 														</li>
 														<li id="su-post-125676" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-maharashtra-so-vacancy/">Bank
+																href="bank-of-maharashtra-so-vacancy/">Bank
 																of Maharashtra Recruitment 2023 Apply Online SO 225
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-124275" class="su-post"><a
-																href="https://www.sarkariresult.app/nhb-assistant-manager/">NHB
+																href="nhb-assistant-manager/">NHB
 																Recruitment 2023 Apply Assistant, Manager, Officer 36
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 February 2023
 															</span>
 														</li>
 														<li id="su-post-125756" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-gold-appraiser-recruitment/">PNB
+																href="pnb-gold-appraiser-recruitment/">PNB
 																Gold Appraiser Recruitment 2023 Application Form</a>
 															<span style="color:#ab183d">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-113191" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-po-advt-no-crpd-po-2022-23-18/">SBI
+																href="sbi-po-advt-no-crpd-po-2022-23-18/">SBI
 																PO Prelims Result 2023 Check Probationary Officer Pre
 																Result Date, Cut Off</a>
 															</span></li>
 														<li id="su-post-124813" class="su-post"><a
-																href="https://www.sarkariresult.app/federal-bank-graduate-apprentice-recruitment/">Federal
+																href="federal-bank-graduate-apprentice-recruitment/">Federal
 																Bank Recruitment 2023 Apply Now Graduate Apprentice
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 January 2023
 															</span>
 														</li>
 														<li id="su-post-124329" class="su-post"><a
-																href="https://www.sarkariresult.app/exim-bank-officer-online-form/">Exim
+																href="exim-bank-officer-online-form/">Exim
 																Bank Officer Recruitment 2023 Online Application Form 30
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 January 2023
 															</span>
 														</li>
 														<li id="su-post-123828" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-jobs-apply/">Central
+																href="central-bank-of-india-jobs-apply/">Central
 																Bank of India Recruitment 2023 Apply Office Assistant
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 January 2023
 															</span>
 														</li>
 														<li id="su-post-123397" class="su-post"><a
-																href="https://www.sarkariresult.app/kscb-gold-appraiser-recruitment/">KSCB
+																href="kscb-gold-appraiser-recruitment/">KSCB
 																Gold Appraiser Recruitment 2023 Apply Now 586 Post</a>
 															<span style="color:#ab183d">Last Date: 21 January 2023
 															</span>
 														</li>
 														<li id="su-post-123219" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-manager-online-form/">Bank
+																href="bank-of-baroda-manager-online-form/">Bank
 																of Baroda Recruitment 2023 Online Application Manager 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 January 2023
 															</span>
 														</li>
 														<li id="su-post-122989" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-bank-vacancy/">Karnataka
+																href="karnataka-bank-vacancy/">Karnataka
 																Bank PO Recruitment 2023 Apply Probationary Officer
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 January 2023
 															</span>
 														</li>
 														<li id="su-post-122721" class="su-post"><a
-																href="https://www.sarkariresult.app/indbank-online-form/">Indbank
+																href="indbank-online-form/">Indbank
 																Recruitment 2023 Apply Online Dealer, Office Staff 10
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 January 2023
 															</span>
 														</li>
 														<li id="su-post-121498" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-retired-bank-staff-recruitment/">SBI
+																href="sbi-retired-bank-staff-recruitment/">SBI
 																Retired Bank Staff Recruitment 2023 Apply Online 1438
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 January 2023
 															</span>
 														</li>
 														<li id="su-post-120344" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-maharashtra-apprentice-recruitment/">Bank
+																href="bank-of-maharashtra-apprentice-recruitment/">Bank
 																of Maharashtra Apprentice Recruitment 2022 Apply Now 314
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-120082" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-notification/">SBI
+																href="sbi-notification/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 54
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 29 December 2022
 															</span>
 														</li>
 														<li id="su-post-119710" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-online-form/">PNB
+																href="pnb-online-form/">PNB
 																Recruitment 2022 Apply Form SDBA &#038; BDA 13 Posts</a>
 															<span style="color:#ab183d">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-119342" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-maharashtra-online-form/">Bank
+																href="bank-of-maharashtra-online-form/">Bank
 																of Maharashtra Recruitment 2022 Manager, AGM, GO 551
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 December 2022
 															</span>
 														</li>
 														<li id="su-post-119353" class="su-post"><a
-																href="https://www.sarkariresult.app/nabard-apply-online/">NABARD
+																href="nabard-apply-online/">NABARD
 																Recruitment 2022 Apply Online Sr Project Assistant
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-118958" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-assistant-recruitment/">IBPS
+																href="ibps-assistant-recruitment/">IBPS
 																Programming Assistant Recruitment 2022 Walk In
 																Interview</a>
 															<span style="color:#ab183d">Last Date: 14 December 2022
 															</span>
 														</li>
 														<li id="su-post-118387" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-cooperative-bank-recruitment/">MP
+																href="mp-cooperative-bank-recruitment/">MP
 																Cooperative Bank Recruitment 2022 Apply Now Clerk 2254
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 December 2022
 															</span>
 														</li>
 														<li id="su-post-118341" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-apply-form/">Central
+																href="central-bank-of-india-apply-form/">Central
 																Bank of India Recruitment 2022 Apply Now Office Asst
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-118112" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-online-form/">SBI
+																href="sbi-online-form/">SBI
 																Recruitment 2022 Apply Now Advisor &#038; Manager 65
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 December 2022
 															</span>
 														</li>
 														<li id="su-post-117340" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-kaithal-recruitment/">PNB
+																href="pnb-kaithal-recruitment/">PNB
 																Kaithal Recruitment 2022 Apply Stream &#038; Assistant
 																02 Post</a>
 															<span style="color:#ab183d">Last Date: 2 December 2022
 															</span>
 														</li>
 														<li id="su-post-117306" class="su-post"><a
-																href="https://www.sarkariresult.app/kheti-bank-recruitment/">Kheti
+																href="kheti-bank-recruitment/">Kheti
 																Bank Recruitment 2022 » Manager, GM, DGM, AGM, AM 139
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-117018" class="su-post"><a
-																href="https://www.sarkariresult.app/vcbl-recruitment/">VCBL
+																href="vcbl-recruitment/">VCBL
 																Recruitment 2022 Apply Online Probationary Officer 30
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 December 2022
 															</span>
 														</li>
 														<li id="su-post-116973" class="su-post"><a
-																href="https://www.sarkariresult.app/dccb-chittoor-recruitment/">DCCB
+																href="dccb-chittoor-recruitment/">DCCB
 																Chittoor Recruitment 2022 Assistant Manager, Clerk 55
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116895" class="su-post"><a
-																href="https://www.sarkariresult.app/iob-so-vacancy/">IOB
+																href="iob-so-vacancy/">IOB
 																SO Recruitment 2022 Apply Online Specialist Officer 25
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116830" class="su-post"><a
-																href="https://www.sarkariresult.app/scv-bank-branch-manager-recruitment/">SCV
+																href="scv-bank-branch-manager-recruitment/">SCV
 																Bank Recruitment 2022 Apply Online Branch Manager 10
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116832" class="su-post"><a
-																href="https://www.sarkariresult.app/pucb-online-form/">PUCB
+																href="pucb-online-form/">PUCB
 																Guard Recruitment 2022 Application Form</a>
 															<span style="color:#ab183d">Last Date: 10 November 2022
 															</span>
 														</li>
 														<li id="su-post-116810" class="su-post"><a
-																href="https://www.sarkariresult.app/dccb-ap-recruitment/">DCCB
+																href="dccb-ap-recruitment/">DCCB
 																AP Recruitment 2022 Apply Assistant &#038; Manager 168
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116790" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-manager-jobs/">IPPB
+																href="ippb-manager-jobs/">IPPB
 																Manager Recruitment 2022 Apply Online Asst Manager 41
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-116767" class="su-post"><a
-																href="https://www.sarkariresult.app/eluru-dccb-recruitment/">Eluru
+																href="eluru-dccb-recruitment/">Eluru
 																DCCB Recruitment 2022 Apply Staff Assistant/Clerk 95
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116772" class="su-post"><a
-																href="https://www.sarkariresult.app/muc-bank-officer-recruitment/">MUC
+																href="muc-bank-officer-recruitment/">MUC
 																Bank Recruitment 2022 Apply Now CFO, Manager, Auditor 25
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 November 2022
 															</span>
 														</li>
 														<li id="su-post-116745" class="su-post"><a
-																href="https://www.sarkariresult.app/kurnool-dccb-recruitment/">Kurnool
+																href="kurnool-dccb-recruitment/">Kurnool
 																DCCB Recruitment 2022 Apply Now Staff Assistant/Clerk
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 November 2022
 															</span>
 														</li>
 														<li id="su-post-116676" class="su-post"><a
-																href="https://www.sarkariresult.app/repco-bank-clerk-recruitment/">Repco
+																href="repco-bank-clerk-recruitment/">Repco
 																Bank Clerk Recruitment 2022 Apply Now Assistant 50
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 November 2022
 															</span>
 														</li>
 														<li id="su-post-116340" class="su-post"><a
-																href="https://www.sarkariresult.app/bccb-bank-recruitment/">BCCB
+																href="bccb-bank-recruitment/">BCCB
 																Trainee Recruitment 2022 Apply Now 100 Posts</a>
 															<span style="color:#ab183d">Last Date: 15 November 2022
 															</span>
 														</li>
 														<li id="su-post-116307" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-notification/">Central
+																href="central-bank-of-india-notification/">Central
 																Bank of India Recruitment 2022 Faculty, Chowkidar
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 15 November 2022
 															</span>
 														</li>
 														<li id="su-post-116260" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-crp-spl-xii-so/">IBPS
+																href="ibps-crp-spl-xii-so/">IBPS
 																SO Recruitment 2022 Apply Rajbhasha Adhikari, Officer
 																710 Post</a>
 															<span style="color:#ab183d">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-115991" class="su-post"><a
-																href="https://www.sarkariresult.app/nhb-recruitment/">NHB
+																href="nhb-recruitment/">NHB
 																Recruitment 2022 Online Application Form Officer 27
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-115903" class="su-post"><a
-																href="https://www.sarkariresult.app/iob-faculty-recruitment/">IOB
+																href="iob-faculty-recruitment/">IOB
 																Recruitment 2022 Faculty, Office Assistant, Attender 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 November 2022
 															</span>
 														</li>
 														<li id="su-post-115416" class="su-post"><a
-																href="https://www.sarkariresult.app/exim-bank-mt-jobs/">Exim
+																href="exim-bank-mt-jobs/">Exim
 																Bank Recruitment 2022 Online Application MT, Manager 45
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 November 2022
 															</span>
 														</li>
 														<li id="su-post-115399" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-cbo-vacancy/">SBI
+																href="sbi-cbo-vacancy/">SBI
 																CBO Recruitment 2022 Apply 1422 Circle Based Officer
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 November 2022
 															</span>
 														</li>
 														<li id="su-post-115389" class="su-post"><a
-																href="https://www.sarkariresult.app/nainital-bank-mt-recruitment/">Nainital
+																href="nainital-bank-mt-recruitment/">Nainital
 																Bank MT Recruitment 2022 Apply Management Trainee
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 25 October 2022
 															</span>
 														</li>
 														<li id="su-post-114950" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-resolver-recruitment/">SBI
+																href="sbi-resolver-recruitment/">SBI
 																Resolver Recruitment 2022 Online Application Form 47
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 31 October 2022
 															</span>
 														</li>
 														<li id="su-post-114025" class="su-post"><a
-																href="https://www.sarkariresult.app/bob-notification/">Bank
+																href="bob-notification/">Bank
 																of Baroda Recruitment 2022 Apply Manager &#038; Head 346
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 October 2022
 															</span>
 														</li>
 														<li id="su-post-113822" class="su-post"><a
-																href="https://www.sarkariresult.app/tscab-manager-recruitment/">TSCAB
+																href="tscab-manager-recruitment/">TSCAB
 																Manager Recruitment 2022 Apply Now Staff Assistant 40
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 October 2022
 															</span>
 														</li>
 														<li id="su-post-113788" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-officer-vacancy/">Central
+																href="central-bank-of-india-officer-vacancy/">Central
 																Bank of India Officer Recruitment 2022 Apply Now 110
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 October 2022
 															</span>
 														</li>
 														<li id="su-post-113568" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-rohtak-attendant-recruitment/">PNB
+																href="pnb-rohtak-attendant-recruitment/">PNB
 																Rohtak Recruitment 2022 Apply Form Attendant Posts</a>
 															</span></li>
 														<li id="su-post-113390" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-professionals-business-manager-recruitment/">Bank
+																href="bank-of-baroda-professionals-business-manager-recruitment/">Bank
 																of Baroda Recruitment 2022 Apply Professionals/ BM 72
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 October 2022
 															</span>
 														</li>
 														<li id="su-post-113178" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-shimla-safai-karamchari-recruitment/">PNB
+																href="pnb-shimla-safai-karamchari-recruitment/">PNB
 																Shimla Safai Karamchari Recruitment 2022 Apply Form</a>
 															<span style="color:#ab183d">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112176" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-hamirpur-recruitment/">PNB
+																href="pnb-hamirpur-recruitment/">PNB
 																Hamirpur Recruitment 2022 Apply Form Safai Karamchari
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112155" class="su-post"><a
-																href="https://www.sarkariresult.app/hpscb-assistant-manager-recruitment/">HPSCB
+																href="hpscb-assistant-manager-recruitment/">HPSCB
 																Assistant Manager Recruitment 2022 Apply Online 61
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112041" class="su-post"><a
-																href="https://www.sarkariresult.app/kcc-bank-dharwad-recruitmen/">KCC
+																href="kcc-bank-dharwad-recruitmen/">KCC
 																Bank Dharwad Recruitment 2022 Apply Online Clerk 87
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 September 2022
 															</span>
 														</li>
 														<li id="su-post-112026" class="su-post"><a
-																href="https://www.sarkariresult.app/bscb-recruitment/">BSCB
+																href="bscb-recruitment/">BSCB
 																Recruitment 2022 Assistant Manager &#038; Assistant 276
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 October 2022
 															</span>
 														</li>
 														<li id="su-post-111904" class="su-post"><a
-																href="https://www.sarkariresult.app/nabard-da-recruitment/">NABARD
+																href="nabard-da-recruitment/">NABARD
 																DA Recruitment 2022 Apply Online Development Asst 177
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 October 2022
 															</span>
 														</li>
 														<li id="su-post-111821" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-clerk-recruitment-apply-online/">SBI
+																href="sbi-clerk-recruitment-apply-online/">SBI
 																Clerk Recruitment 2022 Apply Now 5008 Junior Associate
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 September 2022
 															</span>
 														</li>
 														<li id="su-post-111698" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-patna-safai-karamchari-recruitment/">PNB
+																href="pnb-patna-safai-karamchari-recruitment/">PNB
 																Patna Safai Karamchari Recruitment 2022 Apply 44
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 September 2022
 															</span>
 														</li>
 														<li id="su-post-111611" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-hp-sweeper-recruitment/">PNB
+																href="pnb-hp-sweeper-recruitment/">PNB
 																HP Recruitment 2022 Application Form 13 Sweeper Post</a>
 															<span style="color:#ab183d">Last Date: 23 September 2022
 															</span>
 														</li>
 														<li id="su-post-111509" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-jobs/">Bank
+																href="bank-of-baroda-bc-supervisor-jobs/">Bank
 																of Baroda BC Supervisor Recruitment 2022 Apply Now 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 19 September 2022
 															</span>
 														</li>
 														<li id="su-post-111433" class="su-post"><a
-																href="https://www.sarkariresult.app/indian-bank-jobs/">Indian
+																href="indian-bank-jobs/">Indian
 																Bank Recruitment 2022 Apply Form Product Owner 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 September 2022
 															</span>
 														</li>
 														<li id="su-post-111264" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-so-vacancy/">SBI
+																href="sbi-so-vacancy/">SBI
 																SO Recruitment 2022 Apply Online Specialist Officer 714
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 September 2022
 															</span>
 														</li>
 														<li id="su-post-111124" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-meerut-vacancy/">PNB
+																href="pnb-meerut-vacancy/">PNB
 																Meerut Recruitment 2022 Apply Now Safai Karamchari 43
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 September 2022
 															</span>
 														</li>
 														<li id="su-post-111017" class="su-post"><a
-																href="https://www.sarkariresult.app/thane-dcc-bank-vacancy/">Thane
+																href="thane-dcc-bank-vacancy/">Thane
 																DCC Bank Recruitment 2022 Apply Clerk &#038; Peon 288
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 5 September 202
 															</span>
 														</li>
 														<li id="su-post-109783" class="su-post"><a
-																href="https://www.sarkariresult.app/msc-bank-vacancy/">MSC
+																href="msc-bank-vacancy/">MSC
 																Bank Recruitment 2022 Apply Online Junior Officer 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 29 August 2022
 															</span>
 														</li>
 														<li id="su-post-109366" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-agra-recruitment/">PNB
+																href="pnb-agra-recruitment/">PNB
 																Agra Recruitment 2022 Application Form Peon 15 Posts</a>
 															<span style="color:#ab183d">Last Date: 24 August 2022
 															</span>
 														</li>
 														<li id="su-post-109089" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-manager-recruitment/">PNB
+																href="pnb-manager-recruitment/">PNB
 																Manager Recruitment 2022 Apply Fire Safety Officer 103
 																Post</a>
 															</span></li>
 														<li id="su-post-108681" class="su-post"><a
-																href="https://www.sarkariresult.app/cbhfl-recruitment/">CBHFL
+																href="cbhfl-recruitment/">CBHFL
 																Recruitment 2022 Apply Online Form Officer, Manager 45
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 August 2022
 															</span>
 														</li>
 														<li id="su-post-107551" class="su-post"><a
-																href="https://www.sarkariresult.app/exim-bank-officer-recruitment/">Exim
+																href="exim-bank-officer-recruitment/">Exim
 																Bank Recruitment 2022 Apply Online Officer 19 Posts</a>
 															<span style="color:#ab183d">Last Date: 6 August 2022 </span>
 														</li>
 														<li id="su-post-106917" class="su-post"><a
-																href="https://www.sarkariresult.app/citizen-credit-co-operative-bank-ltd-recruitment/">CCBL
+																href="citizen-credit-co-operative-bank-ltd-recruitment/">CCBL
 																Recruitment 2022 Apply Now PO, Probationary Associate
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 August 2022 </span>
 														</li>
 														<li id="su-post-100216" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-bc-supervisor-recruitment/">Bank
+																href="bank-of-baroda-bc-supervisor-recruitment/">Bank
 																of Baroda BC Supervisor Recruitment 2022 Application
 																Form</a>
 															<span style="color:#ab183d">Last Date: 21 July 2022 </span>
 														</li>
 														<li id="su-post-105883" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-manager-jobs/">Bank
+																href="bank-of-baroda-manager-jobs/">Bank
 																of Baroda Manager Recruitment 2022 Apply Now 50 Post</a>
 															<span style="color:#ab183d">Last Date: 4 August 2022 </span>
 														</li>
 														<li id="su-post-105026" class="su-post"><a
-																href="https://www.sarkariresult.app/sebi-grade-a-recruitment/">SEBI
+																href="sebi-grade-a-recruitment/">SEBI
 																Grade A Recruitment 2022 Apply Online 24 Asst Manager
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 July 2022 </span>
 														</li>
 														<li id="su-post-101182" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-po-job-vacancy/">SBI
+																href="sbi-po-job-vacancy/">SBI
 																PO Recruitment 2022 Probationary Officer 2000 Posts</a>
 															<span style="color:#ab183d">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-102782" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-sirsa-recruitment/">PNB
+																href="pnb-sirsa-recruitment/">PNB
 																Sirsa Recruitment 2022 Apply Now Office Assistant
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 22 July 2022 </span>
 														</li>
 														<li id="su-post-105480" class="su-post"><a
-																href="https://www.sarkariresult.app/central-bank-of-india-jobs/">Central
+																href="central-bank-of-india-jobs/">Central
 																Bank of India Recruitment 2022 Apply Office Asst
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-105429" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-patna-guard-recruitment/">PNB
+																href="pnb-patna-guard-recruitment/">PNB
 																Patna Guard Recruitment 2022 Apply Form 73 Posts</a>
 															<span style="color:#ab183d">Last Date: 29 July 2022 </span>
 														</li>
 														<li id="su-post-102784" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-tehri-recruitment/">PNB
+																href="pnb-tehri-recruitment/">PNB
 																Tehri Recruitment 2022 Application Form Sweeper 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 July 2022 </span>
 														</li>
 														<li id="su-post-98697" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-sco-jobs-vacancy/">SBI
+																href="sbi-sco-jobs-vacancy/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 July 2022 </span>
 														</li>
 														<li id="su-post-96858" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-so-job/">Bank
+																href="bank-of-baroda-so-job/">Bank
 																of Baroda SO Recruitment 2022 Apply Now 325 Post</a>
 															<span style="color:#ab183d">Last Date: 12 July 2022 </span>
 														</li>
 														<li id="su-post-64662" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-grade-b-recruitment/">RBI
+																href="rbi-grade-b-recruitment/">RBI
 																Grade B Phase 2 Result 2022 Download Officers Mains Cut
 																Off, Merit List</a>
 															</span></li>
 														<li id="su-post-96853" class="su-post"><a
-																href="https://www.sarkariresult.app/idbi-so-recruitment/">IDBI
+																href="idbi-so-recruitment/">IDBI
 																SO Recruitment 2022 Apply Online Specialist Officer 226
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 July 2022 </span>
 														</li>
 														<li id="su-post-97273" class="su-post"><a
-																href="https://www.sarkariresult.app/panchmahal-district-cooperative-bank-recruitment/">Panchmahal
+																href="panchmahal-district-cooperative-bank-recruitment/">Panchmahal
 																District Cooperative Bank Recruitment 2022 Clerk 103
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 July 2022 </span>
 														</li>
 														<li id="su-post-81478" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-bank-recruitment/">Karnataka
+																href="karnataka-bank-recruitment/">Karnataka
 																Bank Clerk Admit Card 2022 Download Exam Date</a>
 															</span></li>
 														<li id="su-post-94813" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-counsellor-recruitment/">SBI
+																href="sbi-counsellor-recruitment/">SBI
 																Counsellor Recruitment 2022 Apply Online Director 211
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-93720" class="su-post"><a
-																href="https://www.sarkariresult.app/nabard-vacancy/">NABARD
+																href="nabard-vacancy/">NABARD
 																Specialist Recruitment 2022 Apply Online 21 Posts</a>
 															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-74057" class="su-post"><a
-																href="https://www.sarkariresult.app/muc-bank-clerical-trainee-recruitment/">MUC
+																href="muc-bank-clerical-trainee-recruitment/">MUC
 																Bank Recruitment 2022 Apply Online Clerical Trainee 50
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 May 2022 </span>
 														</li>
 														<li id="su-post-41427" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-cbo-recruitment/">SBI
+																href="sbi-cbo-recruitment/">SBI
 																CBO Final Result 2022 Download Circle Based Officer
 																Merit List, Cut Off</a>
 															</span></li>
 														<li id="su-post-93686" class="su-post"><a
-																href="https://www.sarkariresult.app/nabard-recruitment/">NABARD
+																href="nabard-recruitment/">NABARD
 																Recruitment 2022 Apply Now Bank’s Medical Officer
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 June 2022 </span>
 														</li>
 														<li id="su-post-92340" class="su-post"><a
-																href="https://www.sarkariresult.app/sidbi-executive-recruitment/">SIDBI
+																href="sidbi-executive-recruitment/">SIDBI
 																Executive Recruitment 2022 Apply Now 25 Post</a>
 															<span style="color:#ab183d">Last Date: 17 June 2022 </span>
 														</li>
 														<li id="su-post-92303" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-sco-vacancy-apply/">SBI
+																href="sbi-sco-vacancy-apply/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 June 2022 </span>
 														</li>
 														<li id="su-post-91173" class="su-post"><a
-																href="https://www.sarkariresult.app/rani-channamma-urban-credit-cooperative-society/">Rani
+																href="rani-channamma-urban-credit-cooperative-society/">Rani
 																Channamma Urban Credit Cooperative Society Recruitment
 																2022 Apply 200 Post</a>
 															<span style="color:#ab183d">Last Date: 15 June 2022 </span>
 														</li>
 														<li id="su-post-89760" class="su-post"><a
-																href="https://www.sarkariresult.app/iob-vacancy/">IOB
+																href="iob-vacancy/">IOB
 																Recruitment 2022 Apply Online Security Guard 20
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 15 June 2022 </span>
 														</li>
 														<li id="su-post-86516" class="su-post"><a
-																href="https://www.sarkariresult.app/indian-bank-so-recruitment/">Indian
+																href="indian-bank-so-recruitment/">Indian
 																Bank SO Recruitment 2022 Apply Specialist Officer 312
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2022 </span>
 														</li>
 														<li id="su-post-91931" class="su-post"><a
-																href="https://www.sarkariresult.app/nesfb-vacancy/">NESFB
+																href="nesfb-vacancy/">NESFB
 																Recruitment 2022 Apply Now Head, Operator, Manager 625
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2022 </span>
 														</li>
 														<li id="su-post-86097" class="su-post"><a
-																href="https://www.sarkariresult.app/almora-urban-co-operative-bank-recruitment/">Almora
+																href="almora-urban-co-operative-bank-recruitment/">Almora
 																Urban Co-operative Bank Recruitment 2022 Apply 100
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 June 2022 </span>
 														</li>
 														<li id="su-post-86186" class="su-post"><a
-																href="https://www.sarkariresult.app/state-bank-of-india-vacancy/">SBI
+																href="state-bank-of-india-vacancy/">SBI
 																SCO Recruitment 2022 Apply Specialist Cadre Officer 32
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 June 2022 </span>
 														</li>
 														<li id="su-post-93155" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-assistant-mains-result-2022/">RBI
+																href="rbi-assistant-mains-result-2022/">RBI
 																Assistant Mains Result 2022 Link Online Merit List,
 																Shortlist</a>
 															</span></li>
 														<li id="su-post-84286" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-retired-staff-recruitment/">SBI
+																href="sbi-retired-staff-recruitment/">SBI
 																Retired Staff Recruitment 2022 Apply Online 641
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 7 June 2022 </span>
 														</li>
 														<li id="su-post-86870" class="su-post"><a
-																href="https://www.sarkariresult.app/city-union-bank-recruitment/">City
+																href="city-union-bank-recruitment/">City
 																Union Bank Recruitment 2022 Apply Relationship Manager
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 June 2022 </span>
 														</li>
 														<li id="su-post-83955" class="su-post"><a
-																href="https://www.sarkariresult.app/ddcc-bank-recruitment/">DDCC
+																href="ddcc-bank-recruitment/">DDCC
 																Bank Recruitment 2022 Apply Online JA, Engineer, Driver
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 June 2022 </span>
 														</li>
 														<li id="su-post-85514" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-bhubaneswar-recruitment/">PNB
+																href="pnb-bhubaneswar-recruitment/">PNB
 																Bhubaneswar Recruitment 2022 Application Form Peon 18
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-86561" class="su-post"><a
-																href="https://www.sarkariresult.app/ibps-research-associate-recruitment/">IBPS
+																href="ibps-research-associate-recruitment/">IBPS
 																Recruitment 2022 Apply Online Research Associate 100
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-79809" class="su-post"><a
-																href="https://www.sarkariresult.app/msc-bank-recruitment/">MSC
+																href="msc-bank-recruitment/">MSC
 																Bank Recruitment 2022 Apply Now Officers &#038; Clerk
 																195 Post</a>
 															<span style="color:#ab183d">Last Date: 25 May 2022 </span>
 														</li>
 														<li id="su-post-79684" class="su-post"><a
-																href="https://www.sarkariresult.app/dns-bank-recruitment/">DNS
+																href="dns-bank-recruitment/">DNS
 																Bank Recruitment 2022 Apply Online Assistant Manager 31
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 May 2022 </span>
 														</li>
 														<li id="su-post-82296" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-etawah-recruitment/">PNB
+																href="pnb-etawah-recruitment/">PNB
 																Etawah Recruitment 2022 Application Form Peon Post</a>
 															<span style="color:#ab183d">Last Date: 21 May 2022 </span>
 														</li>
 														<li id="su-post-77604" class="su-post"><a
-																href="https://www.sarkariresult.app/ncbl-recruitment/">NCBL
+																href="ncbl-recruitment/">NCBL
 																Recruitment 2022 Application Form Clerk 12 Posts</a>
 															<span style="color:#ab183d">Last Date: 17 May 2022 </span>
 														</li>
 														<li id="su-post-80178" class="su-post"><a
-																href="https://www.sarkariresult.app/pucb-recruitment/">Panipat
+																href="pucb-recruitment/">Panipat
 																Urban Co-operative Bank Recruitment 2022 Apply 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 May 2022 </span>
 														</li>
 														<li id="su-post-78547" class="su-post"><a
-																href="https://www.sarkariresult.app/bareilly-urban-co-operative-bank-recruitment/">Bareilly
+																href="bareilly-urban-co-operative-bank-recruitment/">Bareilly
 																Urban Co-operative Bank Recruitment 2022 Apply 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 May 2022 </span>
 														</li>
 														<li id="su-post-77653" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-apex-bank-recruitment/">Assam
+																href="assam-apex-bank-recruitment/">Assam
 																Apex Bank Recruitment 2022 Apply Now Assistant 100
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 May 2022 </span>
 														</li>
 														<li id="su-post-74754" class="su-post"><a
-																href="https://www.sarkariresult.app/boi-specialist-officers-recruitment/">BOI
+																href="boi-specialist-officers-recruitment/">BOI
 																Specialist Officers Recruitment 2022 Apply Online 696
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 May 2022 </span>
 														</li>
 														<li id="su-post-74113" class="su-post"><a
-																href="https://www.sarkariresult.app/sbi-sco-recruitment-apply/">SBI
+																href="sbi-sco-recruitment-apply/">SBI
 																SCO Recruitment 2022 Apply Manager, Vice President 19
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 May 2022 </span>
 														</li>
 														<li id="su-post-78667" class="su-post"><a
-																href="https://www.sarkariresult.app/indian-bank-clerk-recruitment/">Indian
+																href="indian-bank-clerk-recruitment/">Indian
 																Bank Recruitment 2022 Apply Now 12 Clerk/ Officer
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 May 2022 </span>
 														</li>
 														<li id="su-post-73785" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-patna-recruitment/">PNB
+																href="pnb-patna-recruitment/">PNB
 																Patna Recruitment 2022 Application Form Peon 12 Post</a>
 															<span style="color:#ab183d">Last Date: 2 May 2022 </span>
 														</li>
 														<li id="su-post-71281" class="su-post"><a
-																href="https://www.sarkariresult.app/bandhan-bank-fresher-recruitment/">Bandhan
+																href="bandhan-bank-fresher-recruitment/">Bandhan
 																Bank Fresher Recruitment 2022 Apply Online 22 Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-64718" class="su-post"><a
-																href="https://www.sarkariresult.app/federal-bank-recruitment/">Federal
+																href="federal-bank-recruitment/">Federal
 																Bank Recruitment 2022 Apply Online Sweeper Posts</a>
 															<span style="color:#ab183d">Last Date: 30 April 2022 </span>
 														</li>
 														<li id="su-post-62708" class="su-post"><a
-																href="https://www.sarkariresult.app/bandhan-bank-recruitment/">Bandhan
+																href="bandhan-bank-recruitment/">Bandhan
 																Bank Recruitment 2022 Apply Online DEO 39 Posts</a>
 															<span style="color:#ab183d">Last Date: 29 April 2022 </span>
 														</li>
 														<li id="su-post-71595" class="su-post"><a
-																href="https://www.sarkariresult.app/exim-bank-recruitment/">Exim
+																href="exim-bank-recruitment/">Exim
 																Bank Officer Recruitment 2022 Online Application 31
 																Post</a>
 															</span></li>
 														<li id="su-post-71235" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-gramin-bank-recruitment/">Haryana
+																href="haryana-gramin-bank-recruitment/">Haryana
 																Gramin Bank Recruitment 2022 Apply Counselor 08 Post</a>
 															</span></li>
 														<li id="su-post-70372" class="su-post"><a
-																href="https://www.sarkariresult.app/bob-agriculture-marketing-officer-job/">Bank
+																href="bob-agriculture-marketing-officer-job/">Bank
 																of Baroda Recruitment 2022 Agriculture Marketing Officer
 																Post</a>
 															</span></li>
 														<li id="su-post-73027" class="su-post"><a
-																href="https://www.sarkariresult.app/indbank-vacancy/">Indbank
+																href="indbank-vacancy/">Indbank
 																Recruitment 2022 Apply Professional, Specialist 73
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-72054" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-mc-recruitment/">RBI
+																href="rbi-mc-recruitment/">RBI
 																MC Recruitment 2022 Apply Now Medical Consultant 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 April 2022 </span>
 														</li>
 														<li id="su-post-67350" class="su-post"><a
-																href="https://www.sarkariresult.app/rbi-grade-a-recruitment/">RBI
+																href="rbi-grade-a-recruitment/">RBI
 																Grade A Recruitment 2022 Apply Now Assistant Manager
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-71344" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-apex-bank-vacancy/">Karnataka
+																href="karnataka-apex-bank-vacancy/">Karnataka
 																Apex Bank Recruitment 2022 Apply Now Assistant 79
 																Post</a>
 															</span></li>
 														<li id="su-post-68935" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-aligarh-peon-recruitment/">PNB
+																href="pnb-aligarh-peon-recruitment/">PNB
 																Aligarh Recruitment 2022 Application Form Peon Posts</a>
 															<span style="color:#ab183d">Last Date: 16 April 2022 </span>
 														</li>
 														<li id="su-post-65877" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-manager-vacancy/">Bank
+																href="bank-of-baroda-manager-vacancy/">Bank
 																of Baroda Manager Recruitment 2022 Apply Online 159
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 April 2022 </span>
 														</li>
 														<li id="su-post-68342" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-notification/">IPPB
+																href="ippb-notification/">IPPB
 																Recruitment 2022 Apply Online Manager, AGM, DGM 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 April 2022 </span>
 														</li>
 														<li id="su-post-68020" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-tamil-nadu-vacancy/">PNB
+																href="pnb-tamil-nadu-vacancy/">PNB
 																Tamil Nadu Recruitment 2022 Application Form Peon 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 April 2022 </span>
 														</li>
 														<li id="su-post-67712" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-badaun-recruitment/">PNB
+																href="pnb-badaun-recruitment/">PNB
 																Badaun Recruitment 2022 Application Form Peon Post</a>
 															<span style="color:#ab183d">Last Date: 8 April 2022 </span>
 														</li>
 														<li id="su-post-67720" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-gwalior-recruitment/">PNB
+																href="pnb-gwalior-recruitment/">PNB
 																Gwalior Recruitment 2022 Application Form Peon Post</a>
 															<span style="color:#ab183d">Last Date: 7 April 2022 </span>
 														</li>
 														<li id="su-post-64927" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-ghaziabad-recruitment/">PNB
+																href="pnb-ghaziabad-recruitment/">PNB
 																Ghaziabad Recruitment 2022 Application Form Peon 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-57851" class="su-post"><a
-																href="https://www.sarkariresult.app/bnp-dewas-recruitment/">BNP
+																href="bnp-dewas-recruitment/">BNP
 																Dewas Recruitment 2022 Apply Online Technician 81
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 March 2022 </span>
 														</li>
 														<li id="su-post-65007" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-west-bengal-recruitment/">PNB
+																href="pnb-west-bengal-recruitment/">PNB
 																West Bengal Recruitment 2022 Application Form Peon 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 March 2022 </span>
 														</li>
 														<li id="su-post-63183" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-burdwan-recruitment/">PNB
+																href="pnb-burdwan-recruitment/">PNB
 																Burdwan Recruitment 2022 Application Form Peon 15
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 28 March 2022 </span>
 														</li>
 														<li id="su-post-64184" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-fazilka-recruitment/">PNB
+																href="pnb-fazilka-recruitment/">PNB
 																Fazilka Recruitment 2022 Application Form Peon 15
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-60317" class="su-post"><a
-																href="https://www.sarkariresult.app/bank-of-baroda-recruitment/">Bank
+																href="bank-of-baroda-recruitment/">Bank
 																of Baroda SO Recruitment 2022 Specialist Officer 147
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 24 March 2022 </span>
 														</li>
 														<li id="su-post-61912" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-meerut-guard-recruitment/">PNB
+																href="pnb-meerut-guard-recruitment/">PNB
 																Meerut Guard Recruitment 2022 Application Form 16
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 March 2022 </span>
 														</li>
 														<li id="su-post-61655" class="su-post"><a
-																href="https://www.sarkariresult.app/pnb-moradabad-recruitment/">PNB
+																href="pnb-moradabad-recruitment/">PNB
 																Moradabad Recruitment 2022 Application Form Peon
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 March 2022 </span>
@@ -1283,7 +1283,7 @@
 															style="color: #0000ff;"><strong
 																style="float: right; padding: 0px 6px;"><a
 																	style="color: #0000ee; text-decoration: underline;"
-																	href="https://www.sarkariresult.app/bank-jobs/"
+																	href="bank-jobs/"
 																	target="_blank" rel="noopener noreferrer">More
 																	»</a></strong></span></span>
 												</td>
@@ -1300,7 +1300,7 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
+										href="banking-jobs/" rel="category tag">Bank
 										Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -1312,7 +1312,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/defence-jobs/" rel="prev">Defence
+												href="defence-jobs/" rel="prev">Defence
 												Jobs 2023 All Latest Notification | Today&#8217;s Updates</a></span>
 									</div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -1324,7 +1324,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/sbi-clerk-recruitment/"
+												href="sbi-clerk-recruitment/"
 												rel="next">SBI Jr Associate Admit Card 2020 Check Clerk Mains Exam
 												Date</a></span></div>
 								</nav>
@@ -1356,7 +1356,7 @@
 													<cite itemprop="name" class="fn">Job Alerts Tamizh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-8472">
+													<a href="bank-jobs/#comment-8472">
 														<time datetime="2020-10-22T21:25:37+05:30"
 															itemprop="datePublished">
 															22 Oct 2020 at 21:25 </time>
@@ -1394,7 +1394,7 @@
 													<cite itemprop="name" class="fn">RAJA KUMAR</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-10945">
+													<a href="bank-jobs/#comment-10945">
 														<time datetime="2020-12-25T18:48:28+05:30"
 															itemprop="datePublished">
 															25 Dec 2020 at 18:48 </time>
@@ -1432,7 +1432,7 @@
 													<cite itemprop="name" class="fn">SHREE RAM KUMAR</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-14800">
+													<a href="bank-jobs/#comment-14800">
 														<time datetime="2021-02-25T08:25:52+05:30"
 															itemprop="datePublished">
 															25 Feb 2021 at 08:25 </time>
@@ -1470,7 +1470,7 @@
 													<cite itemprop="name" class="fn">Ananadkumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-17381">
+													<a href="bank-jobs/#comment-17381">
 														<time datetime="2021-04-06T22:24:56+05:30"
 															itemprop="datePublished">
 															6 Apr 2021 at 22:24 </time>
@@ -1508,7 +1508,7 @@
 													<cite itemprop="name" class="fn">DHARMENDRA AWATAR</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-18855">
+													<a href="bank-jobs/#comment-18855">
 														<time datetime="2021-05-01T06:54:21+05:30"
 															itemprop="datePublished">
 															1 May 2021 at 06:54 </time>
@@ -1546,7 +1546,7 @@
 													<cite itemprop="name" class="fn">Ratnakar Mallick</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-36365">
+													<a href="bank-jobs/#comment-36365">
 														<time datetime="2022-03-24T22:13:50+05:30"
 															itemprop="datePublished">
 															24 Mar 2022 at 22:13 </time>
@@ -1584,7 +1584,7 @@
 													<cite itemprop="name" class="fn">asheesh kumar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/bank-jobs/#comment-40655">
+													<a href="bank-jobs/#comment-40655">
 														<time datetime="2022-06-11T12:54:09+05:30"
 															itemprop="datePublished">
 															11 Jun 2022 at 12:54 </time>
@@ -1665,83 +1665,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-panchkula-engineer-job/">BEL Panchkula
+								<a href="bel-panchkula-engineer-job/">BEL Panchkula
 									Recruitment 2023 Apply Online Engineer 57 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/mdl-non-executive-notification/">MDL
+								<a href="mdl-non-executive-notification/">MDL
 									Non-Executive Recruitment 2023 Driver, Translator 531 Post</a>
 							</li>
 						</ul>
@@ -1926,7 +1926,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+			href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/"
+										href="aiims-bathinda-group-a-b-c-job/"
 										rel="bookmark">AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35
 										Post</a></h2>
 								<div class="entry-meta">
@@ -25,7 +25,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -40,7 +40,7 @@
 									published a notification on its &#8230; <a
 										title="AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/"
+										href="aiims-bathinda-group-a-b-c-job/"
 										aria-label="More on AIIMS Bathinda Recruitment 2023 Apply Online Group A, B, C 35 Post">Read
 										more</a></p>
 							</div>
@@ -51,10 +51,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -64,7 +64,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/#respond">Leave
+										href="aiims-bathinda-group-a-b-c-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -75,7 +75,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-group-b-job/"
+										href="aiims-bhubaneswar-group-b-job/"
 										rel="bookmark">AIIMS Bhubaneswar Recruitment 2023 Apply Group B, C 775 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -84,7 +84,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -99,7 +99,7 @@
 									Attendant, Dissection Hall Attendant, Driver (Ordinary Grade), Electrician &#8230;
 									<a title="AIIMS Bhubaneswar Recruitment 2023 Apply Group B, C 775 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-group-b-job/"
+										href="aiims-bhubaneswar-group-b-job/"
 										aria-label="More on AIIMS Bhubaneswar Recruitment 2023 Apply Group B, C 775 Post">Read
 										more</a></p>
 							</div>
@@ -110,10 +110,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -123,7 +123,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-group-b-job/#respond">Leave
+										href="aiims-bhubaneswar-group-b-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -134,7 +134,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalgiri-recruitment/"
+										href="aiims-mangalgiri-recruitment/"
 										rel="bookmark">AIIMS Mangalgiri Recruitment 2023 Apply Now Non Faculty 70
 										Post</a></h2>
 								<div class="entry-meta">
@@ -143,7 +143,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -158,7 +158,7 @@
 									the &#8230; <a
 										title="AIIMS Mangalgiri Recruitment 2023 Apply Now Non Faculty 70 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalgiri-recruitment/"
+										href="aiims-mangalgiri-recruitment/"
 										aria-label="More on AIIMS Mangalgiri Recruitment 2023 Apply Now Non Faculty 70 Post">Read
 										more</a></p>
 							</div>
@@ -169,10 +169,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -182,7 +182,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalgiri-recruitment/#respond">Leave
+										href="aiims-mangalgiri-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -193,7 +193,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-norcet-recruitment/"
+										href="aiims-norcet-recruitment/"
 										rel="bookmark">AIIMS NORCET Recruitment 2023 Apply Now Nursing Officer Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -202,7 +202,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -215,7 +215,7 @@
 									eligibility. AIIMS recruitment has been issued for candidates for the post of
 									Narasimha Officer all over India. Whichever candidate &#8230; <a
 										title="AIIMS NORCET Recruitment 2023 Apply Now Nursing Officer Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-norcet-recruitment/"
+										class="read-more" href="aiims-norcet-recruitment/"
 										aria-label="More on AIIMS NORCET Recruitment 2023 Apply Now Nursing Officer Post">Read
 										more</a></p>
 							</div>
@@ -226,10 +226,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -239,7 +239,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-norcet-recruitment/#respond">Leave a
+										href="aiims-norcet-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -250,7 +250,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-jr-resident-job/"
+										href="aiims-raebareli-jr-resident-job/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2023 Apply Junior Resident 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -259,7 +259,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -273,7 +273,7 @@
 									basis. Those Candidates who are interested in AIIMS Raebareli Senior Resident
 									&#8230; <a title="AIIMS Raebareli Recruitment 2023 Apply Junior Resident 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raebareli-jr-resident-job/"
+										href="aiims-raebareli-jr-resident-job/"
 										aria-label="More on AIIMS Raebareli Recruitment 2023 Apply Junior Resident 40 Post">Read
 										more</a></p>
 							</div>
@@ -284,10 +284,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -297,7 +297,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-jr-resident-job/#respond">Leave
+										href="aiims-raebareli-jr-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -308,7 +308,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-group-a-vacancy/"
+										href="aiims-jodhpur-group-a-vacancy/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2023 Application Form Group A Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -318,7 +318,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -333,7 +333,7 @@
 									Officer, &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2023 Application Form Group A Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-group-a-vacancy/"
+										href="aiims-jodhpur-group-a-vacancy/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2023 Application Form Group A Post">Read
 										more</a></p>
 							</div>
@@ -344,10 +344,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -357,7 +357,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-group-a-vacancy/#respond">Leave
+										href="aiims-jodhpur-group-a-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -368,7 +368,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-faculty-job-apply-online/"
+										href="aiims-raebareli-faculty-job-apply-online/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2023 Apply Online Faculty 80 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -377,7 +377,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -391,7 +391,7 @@
 									Professor, Additional Professor, Associate Professor) Vacancy at 176 Posts in AIIMS
 									&#8230; <a title="AIIMS Raebareli Recruitment 2023 Apply Online Faculty 80 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raebareli-faculty-job-apply-online/"
+										href="aiims-raebareli-faculty-job-apply-online/"
 										aria-label="More on AIIMS Raebareli Recruitment 2023 Apply Online Faculty 80 Post">Read
 										more</a></p>
 							</div>
@@ -402,12 +402,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -416,7 +416,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-faculty-job-apply-online/#respond">Leave
+										href="aiims-raebareli-faculty-job-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -427,7 +427,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-non-teaching-apply-online/"
+										href="aiims-patna-non-teaching-apply-online/"
 										rel="bookmark">AIIMS Patna Non-Teaching Recruitment 2023 Group A, B, C 644
 										Post</a></h2>
 								<div class="entry-meta">
@@ -437,7 +437,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -451,7 +451,7 @@
 									Patna Vacancy 2023 can apply &#8230; <a
 										title="AIIMS Patna Non-Teaching Recruitment 2023 Group A, B, C 644 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-non-teaching-apply-online/"
+										href="aiims-patna-non-teaching-apply-online/"
 										aria-label="More on AIIMS Patna Non-Teaching Recruitment 2023 Group A, B, C 644 Post">Read
 										more</a></p>
 							</div>
@@ -462,10 +462,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -475,7 +475,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-non-teaching-apply-online/#respond">Leave
+										href="aiims-patna-non-teaching-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -486,7 +486,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-group-a-b-c-job/"
+										href="aiims-raipur-group-a-b-c-job/"
 										rel="bookmark">AIIMS Raipur Recruitment 2023 Apply Online Group A, B, C 358
 										Post</a></h2>
 								<div class="entry-meta">
@@ -495,7 +495,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -509,7 +509,7 @@
 									notification for the AIIMS Raipur recruitment 2023 of &#8230; <a
 										title="AIIMS Raipur Recruitment 2023 Apply Online Group A, B, C 358 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raipur-group-a-b-c-job/"
+										href="aiims-raipur-group-a-b-c-job/"
 										aria-label="More on AIIMS Raipur Recruitment 2023 Apply Online Group A, B, C 358 Post">Read
 										more</a></p>
 							</div>
@@ -520,10 +520,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -533,7 +533,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-group-a-b-c-job/#respond">Leave
+										href="aiims-raipur-group-a-b-c-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -544,7 +544,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-sr-resident-job/"
+										href="aiims-jodhpur-sr-resident-job/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2023 Apply Online Sr Resident 121
 										Post</a></h2>
 								<div class="entry-meta">
@@ -553,7 +553,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -567,7 +567,7 @@
 									official website AIIMS Jodhpur Jobs from &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2023 Apply Online Sr Resident 121 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-sr-resident-job/"
+										href="aiims-jodhpur-sr-resident-job/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2023 Apply Online Sr Resident 121 Post">Read
 										more</a></p>
 							</div>
@@ -578,10 +578,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -591,7 +591,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-sr-resident-job/#respond">Leave
+										href="aiims-jodhpur-sr-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -602,7 +602,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-faculty-job/"
+										href="aiims-bilaspur-faculty-job/"
 										rel="bookmark">AIIMS Bilaspur Recruitment 2023 Apply Online Faculty 72 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -611,7 +611,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -625,7 +625,7 @@
 									Professor, Professor, Additional Professor) Vacancies at 72 Posts. Those candidates
 									who &#8230; <a title="AIIMS Bilaspur Recruitment 2023 Apply Online Faculty 72 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bilaspur-faculty-job/"
+										href="aiims-bilaspur-faculty-job/"
 										aria-label="More on AIIMS Bilaspur Recruitment 2023 Apply Online Faculty 72 Post">Read
 										more</a></p>
 							</div>
@@ -636,12 +636,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -650,7 +650,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-faculty-job/#respond">Leave a
+										href="aiims-bilaspur-faculty-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -661,7 +661,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-faculty-job/"
+										href="aiims-nagpur-faculty-job/"
 										rel="bookmark">AIIMS Nagpur Recruitment 2023 Apply Online Faculty 58 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -670,7 +670,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -683,7 +683,7 @@
 									Recruitment 2023 of Faculty Group A (Assistant Professor, Associate Professor,
 									Professor, Additional Professor) Vacancies at 58 Posts. Those candidates who &#8230;
 									<a title="AIIMS Nagpur Recruitment 2023 Apply Online Faculty 58 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-nagpur-faculty-job/"
+										class="read-more" href="aiims-nagpur-faculty-job/"
 										aria-label="More on AIIMS Nagpur Recruitment 2023 Apply Online Faculty 58 Post">Read
 										more</a></p>
 							</div>
@@ -694,10 +694,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -707,7 +707,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-faculty-job/#respond">Leave a
+										href="aiims-nagpur-faculty-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -718,7 +718,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-demonstrator-job/"
+										href="aiims-delhi-demonstrator-job/"
 										rel="bookmark">AIIMS Delhi Recruitment 2023 Apply Online Demonstrator 528
 										Post</a></h2>
 								<div class="entry-meta">
@@ -727,7 +727,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -741,7 +741,7 @@
 									Vacancy 2023 apply through the official website &#8230; <a
 										title="AIIMS Delhi Recruitment 2023 Apply Online Demonstrator 528 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-demonstrator-job/"
+										href="aiims-delhi-demonstrator-job/"
 										aria-label="More on AIIMS Delhi Recruitment 2023 Apply Online Demonstrator 528 Post">Read
 										more</a></p>
 							</div>
@@ -752,10 +752,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -765,7 +765,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-demonstrator-job/#respond">Leave
+										href="aiims-delhi-demonstrator-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -776,7 +776,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-resident-recruitment/"
+										href="aiims-raipur-resident-recruitment/"
 										rel="bookmark">AIIMS Raipur Resident Recruitment 2023 Apply Now 169 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -785,7 +785,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -799,7 +799,7 @@
 									Resident Vacancy 2023 apply through &#8230; <a
 										title="AIIMS Raipur Resident Recruitment 2023 Apply Now 169 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raipur-resident-recruitment/"
+										href="aiims-raipur-resident-recruitment/"
 										aria-label="More on AIIMS Raipur Resident Recruitment 2023 Apply Now 169 Post">Read
 										more</a></p>
 							</div>
@@ -810,10 +810,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -823,7 +823,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-resident-recruitment/#respond">Leave
+										href="aiims-raipur-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -834,7 +834,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-madurai-udc-asst-job/"
+										href="aiims-madurai-udc-asst-job/"
 										rel="bookmark">AIIMS Madurai Recruitment 2023 Apply Online Group A, B, C
 										Post</a></h2>
 								<div class="entry-meta">
@@ -843,7 +843,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -857,7 +857,7 @@
 									for the AIIMS Madurai Recruitment 2023 of Group A (Registrar, Assistant &#8230; <a
 										title="AIIMS Madurai Recruitment 2023 Apply Online Group A, B, C Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-madurai-udc-asst-job/"
+										href="aiims-madurai-udc-asst-job/"
 										aria-label="More on AIIMS Madurai Recruitment 2023 Apply Online Group A, B, C Post">Read
 										more</a></p>
 							</div>
@@ -868,10 +868,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -881,7 +881,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-madurai-udc-asst-job/#respond">Leave a
+										href="aiims-madurai-udc-asst-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -892,7 +892,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-junior-resident-job/"
+										href="aiims-delhi-junior-resident-job/"
 										rel="bookmark">AIIMS Delhi Recruitment 2023 Apply Junior Resident 198 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -901,7 +901,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -915,7 +915,7 @@
 									Delhi Vacancy 2023 apply through the &#8230; <a
 										title="AIIMS Delhi Recruitment 2023 Apply Junior Resident 198 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-junior-resident-job/"
+										href="aiims-delhi-junior-resident-job/"
 										aria-label="More on AIIMS Delhi Recruitment 2023 Apply Junior Resident 198 Post">Read
 										more</a></p>
 							</div>
@@ -926,10 +926,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -939,7 +939,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-junior-resident-job/#respond">Leave
+										href="aiims-delhi-junior-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -950,7 +950,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-group-a-job/"
+										href="aiims-jodhpur-group-a-job/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2023 Apply Online Group A 12 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -959,7 +959,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -974,7 +974,7 @@
 									Superintendent) Vacancy at 12 &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2023 Apply Online Group A 12 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-group-a-job/"
+										href="aiims-jodhpur-group-a-job/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2023 Apply Online Group A 12 Post">Read
 										more</a></p>
 							</div>
@@ -985,10 +985,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -998,7 +998,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-group-a-job/#respond">Leave a
+										href="aiims-jodhpur-group-a-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1009,7 +1009,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-aiims-kalyani-job/"
+										href="aiims-kalyani-aiims-kalyani-job/"
 										rel="bookmark">AIIMS Kalyani Recruitment 2023 Apply Senior Resident 121 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1019,7 +1019,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1033,7 +1033,7 @@
 									apply online through the official website &#8230; <a
 										title="AIIMS Kalyani Recruitment 2023 Apply Senior Resident 121 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-kalyani-aiims-kalyani-job/"
+										href="aiims-kalyani-aiims-kalyani-job/"
 										aria-label="More on AIIMS Kalyani Recruitment 2023 Apply Senior Resident 121 Post">Read
 										more</a></p>
 							</div>
@@ -1044,10 +1044,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1057,7 +1057,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-aiims-kalyani-job/#respond">Leave
+										href="aiims-kalyani-aiims-kalyani-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1068,7 +1068,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-sr-nursing-officer-job/"
+										href="aiims-jodhpur-sr-nursing-officer-job/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2023 Apply Sr Nursing Officer 99
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1078,7 +1078,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1092,7 +1092,7 @@
 									official website AIIMS Jodhpur Jobs &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2023 Apply Sr Nursing Officer 99 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-sr-nursing-officer-job/"
+										href="aiims-jodhpur-sr-nursing-officer-job/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2023 Apply Sr Nursing Officer 99 Post">Read
 										more</a></p>
 							</div>
@@ -1103,10 +1103,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1116,7 +1116,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-sr-nursing-officer-job/#respond">Leave
+										href="aiims-jodhpur-sr-nursing-officer-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1127,7 +1127,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-non-teaching-job/"
+										href="aiims-bhopal-non-teaching-job/"
 										rel="bookmark">AIIMS Bhopal Recruitment 2023 Apply Now Group A, B, C 77 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1137,7 +1137,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1152,7 +1152,7 @@
 									Sciences Bhopal has released the latest notification &#8230; <a
 										title="AIIMS Bhopal Recruitment 2023 Apply Now Group A, B, C 77 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-non-teaching-job/"
+										href="aiims-bhopal-non-teaching-job/"
 										aria-label="More on AIIMS Bhopal Recruitment 2023 Apply Now Group A, B, C 77 Post">Read
 										more</a></p>
 							</div>
@@ -1163,10 +1163,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1176,7 +1176,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-non-teaching-job/#respond">Leave
+										href="aiims-bhopal-non-teaching-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1187,7 +1187,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-senior-resident-jobs/"
+										href="aiims-raipur-senior-resident-jobs/"
 										rel="bookmark">AIIMS Raipur Recruitment 2023 Apply Now Senior Resident 112
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1196,7 +1196,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1210,7 +1210,7 @@
 									Senior Resident Vacancy 2023 apply through the official &#8230; <a
 										title="AIIMS Raipur Recruitment 2023 Apply Now Senior Resident 112 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raipur-senior-resident-jobs/"
+										href="aiims-raipur-senior-resident-jobs/"
 										aria-label="More on AIIMS Raipur Recruitment 2023 Apply Now Senior Resident 112 Post">Read
 										more</a></p>
 							</div>
@@ -1221,10 +1221,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1234,7 +1234,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-senior-resident-jobs/#respond">Leave
+										href="aiims-raipur-senior-resident-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1245,7 +1245,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-senior-resident-job/"
+										href="aiims-kalyani-senior-resident-job/"
 										rel="bookmark">AIIMS Kalyani Recruitment 2023 Apply Online Sr Resident 153
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1254,7 +1254,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1268,7 +1268,7 @@
 									apply online through the official website &#8230; <a
 										title="AIIMS Kalyani Recruitment 2023 Apply Online Sr Resident 153 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-kalyani-senior-resident-job/"
+										href="aiims-kalyani-senior-resident-job/"
 										aria-label="More on AIIMS Kalyani Recruitment 2023 Apply Online Sr Resident 153 Post">Read
 										more</a></p>
 							</div>
@@ -1279,10 +1279,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1292,7 +1292,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-senior-resident-job/#respond">Leave
+										href="aiims-kalyani-senior-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1303,7 +1303,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-group-a-job/"
+										href="aiims-delhi-group-a-job/"
 										rel="bookmark">AIIMS Delhi Recruitment 2023 Apply Online Group A 38 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1312,7 +1312,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1325,7 +1325,7 @@
 									I &amp; II)) Vacancies at 38 Posts in AIIMS Delhi Jobs. Those Candidates who are
 									interested in &#8230; <a
 										title="AIIMS Delhi Recruitment 2023 Apply Online Group A 38 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-group-a-job/"
+										class="read-more" href="aiims-delhi-group-a-job/"
 										aria-label="More on AIIMS Delhi Recruitment 2023 Apply Online Group A 38 Post">Read
 										more</a></p>
 							</div>
@@ -1336,10 +1336,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1349,7 +1349,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-group-a-job/#respond">Leave a
+										href="aiims-delhi-group-a-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1360,7 +1360,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-senior-resident-job/"
+										href="aiims-raebareli-senior-resident-job/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2023 Apply Senior Resident 176
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1369,7 +1369,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1383,7 +1383,7 @@
 									Resident Vacancy 2023 apply through &#8230; <a
 										title="AIIMS Raebareli Recruitment 2023 Apply Senior Resident 176 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raebareli-senior-resident-job/"
+										href="aiims-raebareli-senior-resident-job/"
 										aria-label="More on AIIMS Raebareli Recruitment 2023 Apply Senior Resident 176 Post">Read
 										more</a></p>
 							</div>
@@ -1394,10 +1394,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1407,7 +1407,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-senior-resident-job/#respond">Leave
+										href="aiims-raebareli-senior-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1418,7 +1418,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nursing-officer-job/"
+										href="aiims-nursing-officer-job/"
 										rel="bookmark">AIIMS Recruitment 2023 Apply Online Nursing Officer 3808 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1427,7 +1427,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1441,7 +1441,7 @@
 									the official website AIIMS Jobs from &#8230; <a
 										title="AIIMS Recruitment 2023 Apply Online Nursing Officer 3808 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-nursing-officer-job/"
+										href="aiims-nursing-officer-job/"
 										aria-label="More on AIIMS Recruitment 2023 Apply Online Nursing Officer 3808 Post">Read
 										more</a></p>
 							</div>
@@ -1452,10 +1452,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1465,7 +1465,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nursing-officer-job/#respond">Leave a
+										href="aiims-nursing-officer-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1476,7 +1476,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-job/"
+										href="aiims-raipur-faculty-job/"
 										rel="bookmark">AIIMS Raipur Recruitment 2023 Apply Online Faculty 116 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1486,7 +1486,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1499,7 +1499,7 @@
 									recruitment 2023 of Faculty (Professor, Additional Professor, Associate Professor,
 									Assistant Professor) Vacancies at 116 Posts in AIIMS Raipur Jobs. Those Candidates
 									who &#8230; <a title="AIIMS Raipur Recruitment 2023 Apply Online Faculty 116 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raipur-faculty-job/"
+										class="read-more" href="aiims-raipur-faculty-job/"
 										aria-label="More on AIIMS Raipur Recruitment 2023 Apply Online Faculty 116 Post">Read
 										more</a></p>
 							</div>
@@ -1510,12 +1510,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1524,7 +1524,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-job/#respond">Leave a
+										href="aiims-raipur-faculty-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1535,7 +1535,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-junior-resident-job/"
+										href="aiims-patna-junior-resident-job/"
 										rel="bookmark">AIIMS Patna Recruitment 2023 Apply Now Jr Resident 21 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1544,7 +1544,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1558,7 +1558,7 @@
 									interested in AIIMS Patna Junior Resident Vacancy 2023 apply through &#8230; <a
 										title="AIIMS Patna Recruitment 2023 Apply Now Jr Resident 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-junior-resident-job/"
+										href="aiims-patna-junior-resident-job/"
 										aria-label="More on AIIMS Patna Recruitment 2023 Apply Now Jr Resident 21 Post">Read
 										more</a></p>
 							</div>
@@ -1569,10 +1569,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1582,7 +1582,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-junior-resident-job/#respond">Leave
+										href="aiims-patna-junior-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1593,7 +1593,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-group-b-job/"
+										href="aiims-raipur-group-b-job/"
 										rel="bookmark">AIIMS Raipur Recruitment 2023 Apply Online Group B 55 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1602,7 +1602,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1616,7 +1616,7 @@
 									Raipur recruitment 2023 of Group B (Technical Officer, Technical Officer
 									Ophthalmology, &#8230; <a
 										title="AIIMS Raipur Recruitment 2023 Apply Online Group B 55 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raipur-group-b-job/"
+										class="read-more" href="aiims-raipur-group-b-job/"
 										aria-label="More on AIIMS Raipur Recruitment 2023 Apply Online Group B 55 Post">Read
 										more</a></p>
 							</div>
@@ -1627,10 +1627,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1640,7 +1640,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-group-b-job/#respond">Leave a
+										href="aiims-raipur-group-b-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1651,7 +1651,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-engineer-librarian-job/"
+										href="aiims-bhubaneswar-engineer-librarian-job/"
 										rel="bookmark">AIIMS Bhubaneswar Recruitment 2023 Apply Engineer, Librarian
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1661,7 +1661,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1676,7 +1676,7 @@
 									Superintendent, Nursing Superintendent, Principal Private Secretary, &#8230; <a
 										title="AIIMS Bhubaneswar Recruitment 2023 Apply Engineer, Librarian Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-engineer-librarian-job/"
+										href="aiims-bhubaneswar-engineer-librarian-job/"
 										aria-label="More on AIIMS Bhubaneswar Recruitment 2023 Apply Engineer, Librarian Post">Read
 										more</a></p>
 							</div>
@@ -1687,11 +1687,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1701,7 +1701,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-engineer-librarian-job/#comments">1
+										href="aiims-bhubaneswar-engineer-librarian-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1712,7 +1712,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-guwahati-faculty-job/"
+										href="aiims-guwahati-faculty-job/"
 										rel="bookmark">AIIMS Guwahati Recruitment 2023 Apply Online Faculty 123 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1722,7 +1722,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1737,7 +1737,7 @@
 									Faculty (Professor, Additional Professor, &#8230; <a
 										title="AIIMS Guwahati Recruitment 2023 Apply Online Faculty 123 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-guwahati-faculty-job/"
+										href="aiims-guwahati-faculty-job/"
 										aria-label="More on AIIMS Guwahati Recruitment 2023 Apply Online Faculty 123 Post">Read
 										more</a></p>
 							</div>
@@ -1748,12 +1748,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1762,7 +1762,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-guwahati-faculty-job/#respond">Leave a
+										href="aiims-guwahati-faculty-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1773,7 +1773,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-non-faculty-job/"
+										href="aiims-delhi-non-faculty-job/"
 										rel="bookmark">AIIMS Delhi Recruitment 2023 Apply Online Non Faculty 281
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1783,7 +1783,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1797,7 +1797,7 @@
 									Delhi Recruitment 2023 of Non-Faculty (Group A, B, C) &#8230; <a
 										title="AIIMS Delhi Recruitment 2023 Apply Online Non Faculty 281 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-non-faculty-job/"
+										href="aiims-delhi-non-faculty-job/"
 										aria-label="More on AIIMS Delhi Recruitment 2023 Apply Online Non Faculty 281 Post">Read
 										more</a></p>
 							</div>
@@ -1808,10 +1808,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1821,7 +1821,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-non-faculty-job/#respond">Leave
+										href="aiims-delhi-non-faculty-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1832,7 +1832,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-senior-resident-job/"
+										href="aiims-jodhpur-senior-resident-job/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2023 Apply Senior Resident 76 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1842,7 +1842,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1856,7 +1856,7 @@
 									go for AIIMS Jodhpur Walk-In-Interview on 1 &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2023 Apply Senior Resident 76 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-senior-resident-job/"
+										href="aiims-jodhpur-senior-resident-job/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2023 Apply Senior Resident 76 Post">Read
 										more</a></p>
 							</div>
@@ -1867,10 +1867,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1880,7 +1880,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-senior-resident-job/#respond">Leave
+										href="aiims-jodhpur-senior-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1891,7 +1891,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-jr-resident-job/"
+										href="aiims-bhopal-jr-resident-job/"
 										rel="bookmark">AIIMS Bhopal Jr Resident Recruitment 2023 Apply Now 17 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1901,7 +1901,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1915,7 +1915,7 @@
 									interested in AIIMS Bhopal Vacancy 2023 apply through the &#8230; <a
 										title="AIIMS Bhopal Jr Resident Recruitment 2023 Apply Now 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-jr-resident-job/"
+										href="aiims-bhopal-jr-resident-job/"
 										aria-label="More on AIIMS Bhopal Jr Resident Recruitment 2023 Apply Now 17 Post">Read
 										more</a></p>
 							</div>
@@ -1926,10 +1926,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1939,7 +1939,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-jr-resident-job/#respond">Leave
+										href="aiims-bhopal-jr-resident-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1950,7 +1950,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-deoghar-apply-form/"
+										href="aiims-deoghar-apply-form/"
 										rel="bookmark">AIIMS Deoghar Recruitment 2023 Apply Now Senior Resident 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1960,7 +1960,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1973,7 +1973,7 @@
 									21 Posts. Those Candidates who are interested in AIIMS Deoghar Vacancy 2023 apply
 									through the official website AIIMS Deoghar &#8230; <a
 										title="AIIMS Deoghar Recruitment 2023 Apply Now Senior Resident 21 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-deoghar-apply-form/"
+										class="read-more" href="aiims-deoghar-apply-form/"
 										aria-label="More on AIIMS Deoghar Recruitment 2023 Apply Now Senior Resident 21 Post">Read
 										more</a></p>
 							</div>
@@ -1984,10 +1984,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1997,7 +1997,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-deoghar-apply-form/#respond">Leave a
+										href="aiims-deoghar-apply-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2008,7 +2008,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-junior-resident-recruitment/"
+										href="aiims-patna-junior-resident-recruitment/"
 										rel="bookmark">AIIMS Patna Recruitment 2023 Apply Online Junior Resident 45
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2018,7 +2018,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2032,7 +2032,7 @@
 									interested in AIIMS Patna Junior Resident Vacancy &#8230; <a
 										title="AIIMS Patna Recruitment 2023 Apply Online Junior Resident 45 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-junior-resident-recruitment/"
+										href="aiims-patna-junior-resident-recruitment/"
 										aria-label="More on AIIMS Patna Recruitment 2023 Apply Online Junior Resident 45 Post">Read
 										more</a></p>
 							</div>
@@ -2043,10 +2043,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2056,7 +2056,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-junior-resident-recruitment/#comments">1
+										href="aiims-patna-junior-resident-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2067,7 +2067,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-online-form/"
+										href="aiims-mangalagiri-online-form/"
 										rel="bookmark">AIIMS Mangalagiri Recruitment 2023 Apply Now Jr Resident 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2077,7 +2077,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2091,7 +2091,7 @@
 									Dentistry) Vacancy at 40 Posts. Those Candidates who are interested in AIIMS &#8230;
 									<a title="AIIMS Mangalagiri Recruitment 2023 Apply Now Jr Resident 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalagiri-online-form/"
+										href="aiims-mangalagiri-online-form/"
 										aria-label="More on AIIMS Mangalagiri Recruitment 2023 Apply Now Jr Resident 40 Post">Read
 										more</a></p>
 							</div>
@@ -2102,10 +2102,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2115,7 +2115,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-online-form/#respond">Leave
+										href="aiims-mangalagiri-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2126,7 +2126,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-faculty-vacancy/"
+										href="aiims-rishikesh-faculty-vacancy/"
 										rel="bookmark">AIIMS Rishikesh Faculty Recruitment 2023 Apply Professor 94
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2136,7 +2136,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2150,7 +2150,7 @@
 									Professor, Additional Professor, Assistant Professor, Professor on Direct &#8230; <a
 										title="AIIMS Rishikesh Faculty Recruitment 2023 Apply Professor 94 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-faculty-vacancy/"
+										href="aiims-rishikesh-faculty-vacancy/"
 										aria-label="More on AIIMS Rishikesh Faculty Recruitment 2023 Apply Professor 94 Post">Read
 										more</a></p>
 							</div>
@@ -2161,12 +2161,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2175,7 +2175,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-faculty-vacancy/#respond">Leave
+										href="aiims-rishikesh-faculty-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2186,7 +2186,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-apply-form/"
+										href="aiims-bhopal-apply-form/"
 										rel="bookmark">AIIMS Bhopal Recruitment 2023 Walk In Interview Resident 52
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2196,7 +2196,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2209,7 +2209,7 @@
 									Resident Vacancy at 52 posts. Those candidates who are interested in AIIMS Bhopal
 									Vacancy 2023 apply through the official &#8230; <a
 										title="AIIMS Bhopal Recruitment 2023 Walk In Interview Resident 52 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-bhopal-apply-form/"
+										class="read-more" href="aiims-bhopal-apply-form/"
 										aria-label="More on AIIMS Bhopal Recruitment 2023 Walk In Interview Resident 52 Post">Read
 										more</a></p>
 							</div>
@@ -2220,12 +2220,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2234,7 +2234,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-apply-form/#respond">Leave a
+										href="aiims-bhopal-apply-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2245,7 +2245,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-online-form/"
+										href="aiims-rishikesh-online-form/"
 										rel="bookmark">AIIMS Rishikesh Recruitment 2023 Apply Online Sr Resident 62
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2255,7 +2255,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2269,7 +2269,7 @@
 									Rishikesh Sr Resident Recruitment can apply online through the &#8230; <a
 										title="AIIMS Rishikesh Recruitment 2023 Apply Online Sr Resident 62 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-online-form/"
+										href="aiims-rishikesh-online-form/"
 										aria-label="More on AIIMS Rishikesh Recruitment 2023 Apply Online Sr Resident 62 Post">Read
 										more</a></p>
 							</div>
@@ -2280,10 +2280,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2293,7 +2293,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-online-form/#respond">Leave
+										href="aiims-rishikesh-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2304,7 +2304,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-senior-resident-recruitment/"
+										href="aiims-patna-senior-resident-recruitment/"
 										rel="bookmark">AIIMS Patna Recruitment 2023 Online Application Resident 49
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2314,7 +2314,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2328,7 +2328,7 @@
 									interested in AIIMS Patna Senior Resident Vacancy &#8230; <a
 										title="AIIMS Patna Recruitment 2023 Online Application Resident 49 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-senior-resident-recruitment/"
+										href="aiims-patna-senior-resident-recruitment/"
 										aria-label="More on AIIMS Patna Recruitment 2023 Online Application Resident 49 Post">Read
 										more</a></p>
 							</div>
@@ -2339,10 +2339,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2352,7 +2352,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-senior-resident-recruitment/#respond">Leave
+										href="aiims-patna-senior-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2363,7 +2363,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-faculty-recruitment/"
+										href="aiims-mangalagiri-faculty-recruitment/"
 										rel="bookmark">AIIMS Mangalagiri Faculty Recruitment 2023 Apply Now Group A
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2373,7 +2373,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2387,7 +2387,7 @@
 									interested in AIIMS Mangalagiri Faculty Recruitment 2023 apply through the official
 									&#8230; <a title="AIIMS Mangalagiri Faculty Recruitment 2023 Apply Now Group A Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalagiri-faculty-recruitment/"
+										href="aiims-mangalagiri-faculty-recruitment/"
 										aria-label="More on AIIMS Mangalagiri Faculty Recruitment 2023 Apply Now Group A Post">Read
 										more</a></p>
 							</div>
@@ -2398,12 +2398,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2412,7 +2412,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-faculty-recruitment/#respond">Leave
+										href="aiims-mangalagiri-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2423,7 +2423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-online-form/"
+										href="aiims-jodhpur-online-form/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2023 Apply Online Sr Resident 114
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2433,7 +2433,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2447,7 +2447,7 @@
 									AIIMS Jodhpur Senior Resident Vacancy 2023 can apply online &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2023 Apply Online Sr Resident 114 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-online-form/"
+										href="aiims-jodhpur-online-form/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2023 Apply Online Sr Resident 114 Post">Read
 										more</a></p>
 							</div>
@@ -2458,10 +2458,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2471,7 +2471,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-online-form/#respond">Leave a
+										href="aiims-jodhpur-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2482,7 +2482,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-deoghar-recruitment/"
+										href="aiims-deoghar-recruitment/"
 										rel="bookmark">AIIMS Deoghar Faculty Recruitment 2023 Apply Now 85 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-12T23:55:16+05:30"
@@ -2491,7 +2491,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2506,7 +2506,7 @@
 									interested in &#8230; <a
 										title="AIIMS Deoghar Faculty Recruitment 2023 Apply Now 85 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-deoghar-recruitment/"
+										href="aiims-deoghar-recruitment/"
 										aria-label="More on AIIMS Deoghar Faculty Recruitment 2023 Apply Now 85 Post">Read
 										more</a></p>
 							</div>
@@ -2517,10 +2517,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2530,7 +2530,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-deoghar-recruitment/#respond">Leave a
+										href="aiims-deoghar-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2541,7 +2541,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-notification/"
+										href="aiims-gorakhpur-notification/"
 										rel="bookmark">AIIMS Gorakhpur Recruitment 2023 Walk In Interview Resident
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2551,7 +2551,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2565,7 +2565,7 @@
 									Gorakhpur Vacancy 2023 apply through the official website &#8230; <a
 										title="AIIMS Gorakhpur Recruitment 2023 Walk In Interview Resident Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-gorakhpur-notification/"
+										href="aiims-gorakhpur-notification/"
 										aria-label="More on AIIMS Gorakhpur Recruitment 2023 Walk In Interview Resident Post">Read
 										more</a></p>
 							</div>
@@ -2576,12 +2576,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2590,7 +2590,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-notification/#respond">Leave
+										href="aiims-gorakhpur-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2601,7 +2601,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-junior-resident/"
+										href="aiims-bhopal-junior-resident/"
 										rel="bookmark">AIIMS Bhopal Recruitment 2023 Driect Interview Jr Resident 61
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2610,7 +2610,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2624,7 +2624,7 @@
 									Vacancy 2023 apply through the official &#8230; <a
 										title="AIIMS Bhopal Recruitment 2023 Driect Interview Jr Resident 61 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-junior-resident/"
+										href="aiims-bhopal-junior-resident/"
 										aria-label="More on AIIMS Bhopal Recruitment 2023 Driect Interview Jr Resident 61 Post">Read
 										more</a></p>
 							</div>
@@ -2635,10 +2635,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2648,7 +2648,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-junior-resident/#respond">Leave
+										href="aiims-bhopal-junior-resident/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2659,7 +2659,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-vacancy/"
+										href="aiims-raipur-faculty-vacancy/"
 										rel="bookmark">AIIMS Raipur Faculty Recruitment 2023 Assistant Professor 39
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2668,7 +2668,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2682,7 +2682,7 @@
 									are interested in AIIMS Raipur Vacancy &#8230; <a
 										title="AIIMS Raipur Faculty Recruitment 2023 Assistant Professor 39 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-vacancy/"
+										href="aiims-raipur-faculty-vacancy/"
 										aria-label="More on AIIMS Raipur Faculty Recruitment 2023 Assistant Professor 39 Post">Read
 										more</a></p>
 							</div>
@@ -2693,12 +2693,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2707,7 +2707,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-vacancy/#respond">Leave
+										href="aiims-raipur-faculty-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2718,7 +2718,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-non-faculty-recruitment/"
+										href="aiims-mangalagiri-non-faculty-recruitment/"
 										rel="bookmark">AIIMS Mangalagiri Recruitment 2023 Non Faculty (Group B &#038; C)
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2727,7 +2727,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2742,7 +2742,7 @@
 									Keeper, Librarian &#8230; <a
 										title="AIIMS Mangalagiri Recruitment 2023 Non Faculty (Group B &#038; C) Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalagiri-non-faculty-recruitment/"
+										href="aiims-mangalagiri-non-faculty-recruitment/"
 										aria-label="More on AIIMS Mangalagiri Recruitment 2023 Non Faculty (Group B &#038; C) Post">Read
 										more</a></p>
 							</div>
@@ -2753,10 +2753,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2766,7 +2766,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-non-faculty-recruitment/#respond">Leave
+										href="aiims-mangalagiri-non-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2777,7 +2777,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-sr-resident-vacancy/"
+										href="aiims-bhubaneswar-sr-resident-vacancy/"
 										rel="bookmark">AIIMS Bhubaneswar Recruitment 2023 Apply Now Sr Resident 88
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2786,7 +2786,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2801,7 +2801,7 @@
 									through &#8230; <a
 										title="AIIMS Bhubaneswar Recruitment 2023 Apply Now Sr Resident 88 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-sr-resident-vacancy/"
+										href="aiims-bhubaneswar-sr-resident-vacancy/"
 										aria-label="More on AIIMS Bhubaneswar Recruitment 2023 Apply Now Sr Resident 88 Post">Read
 										more</a></p>
 							</div>
@@ -2812,10 +2812,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -2825,7 +2825,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-sr-resident-vacancy/#respond">Leave
+										href="aiims-bhubaneswar-sr-resident-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2836,7 +2836,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-faculty-vacancy-2/"
+										href="aiims-kalyani-faculty-vacancy-2/"
 										rel="bookmark">AIIMS Kalyani Faculty Recruitment 2023 Apply Now Group A 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2845,7 +2845,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2860,7 +2860,7 @@
 									interested in &#8230; <a
 										title="AIIMS Kalyani Faculty Recruitment 2023 Apply Now Group A 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-kalyani-faculty-vacancy-2/"
+										href="aiims-kalyani-faculty-vacancy-2/"
 										aria-label="More on AIIMS Kalyani Faculty Recruitment 2023 Apply Now Group A 19 Post">Read
 										more</a></p>
 							</div>
@@ -2871,12 +2871,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2885,7 +2885,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-faculty-vacancy-2/#respond">Leave
+										href="aiims-kalyani-faculty-vacancy-2/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2896,7 +2896,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-faculty-recruitment/"
+										href="aiims-patna-faculty-recruitment/"
 										rel="bookmark">AIIMS Patna Faculty Recruitment 2022 Online Application 111
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2905,7 +2905,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2920,7 +2920,7 @@
 									posts. &#8230; <a
 										title="AIIMS Patna Faculty Recruitment 2022 Online Application 111 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-faculty-recruitment/"
+										href="aiims-patna-faculty-recruitment/"
 										aria-label="More on AIIMS Patna Faculty Recruitment 2022 Online Application 111 Post">Read
 										more</a></p>
 							</div>
@@ -2931,12 +2931,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2945,7 +2945,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-faculty-recruitment/#respond">Leave
+										href="aiims-patna-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2956,7 +2956,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bathinda-online-form/"
+										href="aiims-bathinda-online-form/"
 										rel="bookmark">AIIMS Bathinda Faculty Recruitment 2022 Apply Now 36 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2966,7 +2966,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2980,7 +2980,7 @@
 									Candidates who are interested in AIIMS Bathinda Faculty Recruitment 2022 &#8230; <a
 										title="AIIMS Bathinda Faculty Recruitment 2022 Apply Now 36 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bathinda-online-form/"
+										href="aiims-bathinda-online-form/"
 										aria-label="More on AIIMS Bathinda Faculty Recruitment 2022 Apply Now 36 Post">Read
 										more</a></p>
 							</div>
@@ -2991,10 +2991,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3004,7 +3004,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bathinda-online-form/#respond">Leave a
+										href="aiims-bathinda-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3015,7 +3015,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bathinda-jobs/" rel="bookmark">AIIMS
+										href="aiims-bathinda-jobs/" rel="bookmark">AIIMS
 										Bathinda Recruitment 2022 Walk-In-Interview Resident 84 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3023,7 +3023,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3036,7 +3036,7 @@
 									Raebareli Jobs. Those Candidates who are interested in AIIMS Bathinda Sr Resident
 									Recruitment 2022 can go for AIIMS &#8230; <a
 										title="AIIMS Bathinda Recruitment 2022 Walk-In-Interview Resident 84 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-bathinda-jobs/"
+										class="read-more" href="aiims-bathinda-jobs/"
 										aria-label="More on AIIMS Bathinda Recruitment 2022 Walk-In-Interview Resident 84 Post">Read
 										more</a></p>
 							</div>
@@ -3047,10 +3047,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3060,7 +3060,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bathinda-jobs/#respond">Leave a
+										href="aiims-bathinda-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3071,7 +3071,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-notification/"
+										href="aiims-bhopal-notification/"
 										rel="bookmark">AIIMS Bhopal Sr Resident Recruitment 2022 Apply Online 125
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3080,7 +3080,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3094,7 +3094,7 @@
 									Vacancy 2022 apply through the official &#8230; <a
 										title="AIIMS Bhopal Sr Resident Recruitment 2022 Apply Online 125 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-notification/"
+										href="aiims-bhopal-notification/"
 										aria-label="More on AIIMS Bhopal Sr Resident Recruitment 2022 Apply Online 125 Post">Read
 										more</a></p>
 							</div>
@@ -3105,10 +3105,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3118,7 +3118,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-notification/#respond">Leave a
+										href="aiims-bhopal-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3129,7 +3129,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-non-faculty-vacancy/"
+										href="aiims-bhopal-non-faculty-vacancy/"
 										rel="bookmark">AIIMS Bhopal Non Faculty Recruitment 2022 Apply Form 20 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3138,7 +3138,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3153,7 +3153,7 @@
 									Secretary, Accounts Officer, Administrative Officer, Security Officer) Vacancy at 20
 									&#8230; <a title="AIIMS Bhopal Non Faculty Recruitment 2022 Apply Form 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-non-faculty-vacancy/"
+										href="aiims-bhopal-non-faculty-vacancy/"
 										aria-label="More on AIIMS Bhopal Non Faculty Recruitment 2022 Apply Form 20 Post">Read
 										more</a></p>
 							</div>
@@ -3164,10 +3164,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3177,7 +3177,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-non-faculty-vacancy/#respond">Leave
+										href="aiims-bhopal-non-faculty-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3188,7 +3188,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-jobs/"
+										href="aiims-delhi-faculty-jobs/"
 										rel="bookmark">AIIMS Delhi Recruitment 2022 Walk In Interview Faculty 43
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3197,7 +3197,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3210,7 +3210,7 @@
 									Faculty (Assistant Professor) Vacancy at 43 posts. Those candidates who are
 									interested in AIIMS Delhi Vacancy 2022 can go &#8230; <a
 										title="AIIMS Delhi Recruitment 2022 Walk In Interview Faculty 43 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-faculty-jobs/"
+										class="read-more" href="aiims-delhi-faculty-jobs/"
 										aria-label="More on AIIMS Delhi Recruitment 2022 Walk In Interview Faculty 43 Post">Read
 										more</a></p>
 							</div>
@@ -3221,12 +3221,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3235,7 +3235,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-jobs/#respond">Leave a
+										href="aiims-delhi-faculty-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3246,7 +3246,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-sr-resident-recruitment/"
+										href="aiims-kalyani-sr-resident-recruitment/"
 										rel="bookmark">AIIMS Kalyani Recruitment 2022 Walk In Interview Resident 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3255,7 +3255,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3269,7 +3269,7 @@
 									candidates can go for AIIMS &#8230; <a
 										title="AIIMS Kalyani Recruitment 2022 Walk In Interview Resident 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-kalyani-sr-resident-recruitment/"
+										href="aiims-kalyani-sr-resident-recruitment/"
 										aria-label="More on AIIMS Kalyani Recruitment 2022 Walk In Interview Resident 20 Post">Read
 										more</a></p>
 							</div>
@@ -3280,12 +3280,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3294,7 +3294,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-sr-resident-recruitment/#respond">Leave
+										href="aiims-kalyani-sr-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3305,7 +3305,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-faculty-recruitment/"
+										href="aiims-gorakhpur-faculty-recruitment/"
 										rel="bookmark">AIIMS Gorakhpur Faculty Recruitment 2022 Apply Now Group A
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3314,7 +3314,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3329,7 +3329,7 @@
 									Candidates who &#8230; <a
 										title="AIIMS Gorakhpur Faculty Recruitment 2022 Apply Now Group A Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-gorakhpur-faculty-recruitment/"
+										href="aiims-gorakhpur-faculty-recruitment/"
 										aria-label="More on AIIMS Gorakhpur Faculty Recruitment 2022 Apply Now Group A Post">Read
 										more</a></p>
 							</div>
@@ -3340,12 +3340,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3354,7 +3354,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-faculty-recruitment/#respond">Leave
+										href="aiims-gorakhpur-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3365,7 +3365,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-faculty-recruitment/"
+										href="aiims-bhubaneswar-faculty-recruitment/"
 										rel="bookmark">AIIMS Bhubaneswar Faculty Recruitment 2022 Apply Group A 67
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3374,7 +3374,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3389,7 +3389,7 @@
 									Professor) Group A Vacancy at 67 &#8230; <a
 										title="AIIMS Bhubaneswar Faculty Recruitment 2022 Apply Group A 67 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-faculty-recruitment/"
+										href="aiims-bhubaneswar-faculty-recruitment/"
 										aria-label="More on AIIMS Bhubaneswar Faculty Recruitment 2022 Apply Group A 67 Post">Read
 										more</a></p>
 							</div>
@@ -3400,12 +3400,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3414,7 +3414,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-faculty-recruitment/#respond">Leave
+										href="aiims-bhubaneswar-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3425,7 +3425,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-faculty-recruitment/"
+										href="aiims-bilaspur-faculty-recruitment/"
 										rel="bookmark">AIIMS Bilaspur Recruitment 2022 Apply Online Faculty 89 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3434,7 +3434,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3449,7 +3449,7 @@
 									Vacancy at 89 Posts in AIIMS Bilaspur Jobs. Those &#8230; <a
 										title="AIIMS Bilaspur Recruitment 2022 Apply Online Faculty 89 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bilaspur-faculty-recruitment/"
+										href="aiims-bilaspur-faculty-recruitment/"
 										aria-label="More on AIIMS Bilaspur Recruitment 2022 Apply Online Faculty 89 Posts">Read
 										more</a></p>
 							</div>
@@ -3460,12 +3460,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3474,7 +3474,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-faculty-recruitment/#respond">Leave
+										href="aiims-bilaspur-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3485,7 +3485,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-faculty-recruitment/"
+										href="aiims-raebareli-faculty-recruitment/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2022 Apply Online Faculty 100
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -3494,7 +3494,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3509,7 +3509,7 @@
 									at 100 Posts &#8230; <a
 										title="AIIMS Raebareli Recruitment 2022 Apply Online Faculty 100 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raebareli-faculty-recruitment/"
+										href="aiims-raebareli-faculty-recruitment/"
 										aria-label="More on AIIMS Raebareli Recruitment 2022 Apply Online Faculty 100 Posts">Read
 										more</a></p>
 							</div>
@@ -3520,12 +3520,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3534,7 +3534,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-faculty-recruitment/#respond">Leave
+										href="aiims-raebareli-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3545,7 +3545,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-group-a-vacancy/"
+										href="aiims-rishikesh-group-a-vacancy/"
 										rel="bookmark">AIIMS Rishikesh Group A Recruitment 2022 Engineer, CAO 17
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3555,7 +3555,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3569,7 +3569,7 @@
 									for the AIIMS Rishikesh Group A recruitment 2022 for Medical Superintendent, &#8230;
 									<a title="AIIMS Rishikesh Group A Recruitment 2022 Engineer, CAO 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-group-a-vacancy/"
+										href="aiims-rishikesh-group-a-vacancy/"
 										aria-label="More on AIIMS Rishikesh Group A Recruitment 2022 Engineer, CAO 17 Post">Read
 										more</a></p>
 							</div>
@@ -3580,10 +3580,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3593,7 +3593,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-group-a-vacancy/#respond">Leave
+										href="aiims-rishikesh-group-a-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3604,7 +3604,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-sr-resident-recruitment/"
+										href="aiims-raebareli-sr-resident-recruitment/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2022 Apply Online Sr Resident 35
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3613,7 +3613,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3629,7 +3629,7 @@
 									Medicine, &#8230; <a
 										title="AIIMS Raebareli Recruitment 2022 Apply Online Sr Resident 35 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raebareli-sr-resident-recruitment/"
+										href="aiims-raebareli-sr-resident-recruitment/"
 										aria-label="More on AIIMS Raebareli Recruitment 2022 Apply Online Sr Resident 35 Post">Read
 										more</a></p>
 							</div>
@@ -3640,10 +3640,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3653,7 +3653,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-sr-resident-recruitment/#respond">Leave
+										href="aiims-raebareli-sr-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3664,7 +3664,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-tutor-recruitment/"
+										href="aiims-rishikesh-tutor-recruitment/"
 										rel="bookmark">AIIMS Rishikesh Tutor Recruitment 2022 » Apply Nursing 33
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3673,7 +3673,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3687,7 +3687,7 @@
 									Nursing, AIIMS, Rishikesh, Uttarakhand. Those candidates who are interested in
 									&#8230; <a title="AIIMS Rishikesh Tutor Recruitment 2022 » Apply Nursing 33 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-tutor-recruitment/"
+										href="aiims-rishikesh-tutor-recruitment/"
 										aria-label="More on AIIMS Rishikesh Tutor Recruitment 2022 » Apply Nursing 33 Post">Read
 										more</a></p>
 							</div>
@@ -3698,10 +3698,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3711,7 +3711,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-tutor-recruitment/#respond">Leave
+										href="aiims-rishikesh-tutor-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3722,7 +3722,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-vacancy-job/"
+										href="aiims-raipur-vacancy-job/"
 										rel="bookmark">AIIMS Raipur Recruitment 2022 Apply Senior Resident 143 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3732,7 +3732,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3745,7 +3745,7 @@
 									candidates who are interested in AIIMS Raipur Vacancy 2022 apply through the
 									official website AIIMS Raipur Jobs from &#8230; <a
 										title="AIIMS Raipur Recruitment 2022 Apply Senior Resident 143 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raipur-vacancy-job/"
+										class="read-more" href="aiims-raipur-vacancy-job/"
 										aria-label="More on AIIMS Raipur Recruitment 2022 Apply Senior Resident 143 Post">Read
 										more</a></p>
 							</div>
@@ -3756,10 +3756,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3769,7 +3769,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-vacancy-job/#respond">Leave a
+										href="aiims-raipur-vacancy-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3780,7 +3780,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nursing-officer-norcet-2022/"
+										href="aiims-nursing-officer-norcet-2022/"
 										rel="bookmark">AIIMS Nursing Officer Recruitment 2022 Online Application</a>
 								</h2>
 								<div class="entry-meta">
@@ -3789,7 +3789,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3803,7 +3803,7 @@
 									who are interested in AIIMS Vacancy 2022 apply through the official &#8230; <a
 										title="AIIMS Nursing Officer Recruitment 2022 Online Application"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-nursing-officer-norcet-2022/"
+										href="aiims-nursing-officer-norcet-2022/"
 										aria-label="More on AIIMS Nursing Officer Recruitment 2022 Online Application">Read
 										more</a></p>
 							</div>
@@ -3814,10 +3814,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3827,7 +3827,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nursing-officer-norcet-2022/#respond">Leave
+										href="aiims-nursing-officer-norcet-2022/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3838,7 +3838,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rajkot-recruitment/"
+										href="aiims-rajkot-recruitment/"
 										rel="bookmark">AIIMS Rajkot Recruitment 2022 Application Form Faculty 82
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3848,7 +3848,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3861,7 +3861,7 @@
 									recruitment 2022 of Faculty (Professor, Additional Professor, Associate Professor,
 									Assistant Professor) Vacancy at 82 Posts in AIIMS Rajkot Jobs. Those Candidates who
 									&#8230; <a title="AIIMS Rajkot Recruitment 2022 Application Form Faculty 82 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-rajkot-recruitment/"
+										class="read-more" href="aiims-rajkot-recruitment/"
 										aria-label="More on AIIMS Rajkot Recruitment 2022 Application Form Faculty 82 Post">Read
 										more</a></p>
 							</div>
@@ -3872,12 +3872,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3886,7 +3886,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rajkot-recruitment/#respond">Leave a
+										href="aiims-rajkot-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3897,7 +3897,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-jobs/" rel="bookmark">AIIMS
+										href="aiims-raebareli-jobs/" rel="bookmark">AIIMS
 										Raebareli Recruitment 2022 Apply Now Sr Resident 41 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3905,7 +3905,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3919,7 +3919,7 @@
 									Sciences Raebareli has issued the latest notification No. AIIMS/ RBL/ REC/ SR/ 2022/
 									209  for the AIIMS Raebareli recruitment 2022 &#8230; <a
 										title="AIIMS Raebareli Recruitment 2022 Apply Now Sr Resident 41 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raebareli-jobs/"
+										class="read-more" href="aiims-raebareli-jobs/"
 										aria-label="More on AIIMS Raebareli Recruitment 2022 Apply Now Sr Resident 41 Post">Read
 										more</a></p>
 							</div>
@@ -3930,10 +3930,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -3943,7 +3943,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-jobs/#respond">Leave a
+										href="aiims-raebareli-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3954,7 +3954,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-sr-resident-recruitment/"
+										href="aiims-nagpur-sr-resident-recruitment/"
 										rel="bookmark">AIIMS Nagpur Recruitment 2022 Apply Online Sr Resident 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3964,7 +3964,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3978,7 +3978,7 @@
 									Recruitment 2022 apply through the official &#8230; <a
 										title="AIIMS Nagpur Recruitment 2022 Apply Online Sr Resident 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-nagpur-sr-resident-recruitment/"
+										href="aiims-nagpur-sr-resident-recruitment/"
 										aria-label="More on AIIMS Nagpur Recruitment 2022 Apply Online Sr Resident 15 Post">Read
 										more</a></p>
 							</div>
@@ -3989,12 +3989,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4003,7 +4003,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-sr-resident-recruitment/#respond">Leave
+										href="aiims-nagpur-sr-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4014,7 +4014,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-vacancy/" rel="bookmark">AIIMS
+										href="aiims-kalyani-vacancy/" rel="bookmark">AIIMS
 										Kalyani Recruitment 2022 Resident Direct Interview 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-25T23:55:04+05:30"
@@ -4023,7 +4023,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4036,7 +4036,7 @@
 									who are interested in AIIMS Kalyani Sr Resident Recruitment can go to interview
 									candidates can go for AIIMS &#8230; <a
 										title="AIIMS Kalyani Recruitment 2022 Resident Direct Interview 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-kalyani-vacancy/"
+										class="read-more" href="aiims-kalyani-vacancy/"
 										aria-label="More on AIIMS Kalyani Recruitment 2022 Resident Direct Interview 11 Post">Read
 										more</a></p>
 							</div>
@@ -4047,12 +4047,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4061,7 +4061,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-vacancy/#respond">Leave a
+										href="aiims-kalyani-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4072,7 +4072,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-vacancy/"
+										href="aiims-delhi-faculty-vacancy/"
 										rel="bookmark">AIIMS Delhi Faculty Recruitment 2022 Assistant Professor 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4082,7 +4082,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4097,7 +4097,7 @@
 									candidates who are &#8230; <a
 										title="AIIMS Delhi Faculty Recruitment 2022 Assistant Professor 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-vacancy/"
+										href="aiims-delhi-faculty-vacancy/"
 										aria-label="More on AIIMS Delhi Faculty Recruitment 2022 Assistant Professor 21 Post">Read
 										more</a></p>
 							</div>
@@ -4108,12 +4108,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4122,7 +4122,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-vacancy/#respond">Leave
+										href="aiims-delhi-faculty-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4133,7 +4133,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-jobs/" rel="bookmark">AIIMS
+										href="aiims-nagpur-jobs/" rel="bookmark">AIIMS
 										Nagpur Faculty Recruitment 2022 Application Form 34 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-27T23:55:09+05:30"
@@ -4142,7 +4142,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4156,7 +4156,7 @@
 									Assistant Professor) Vacancy at 34 Posts in AIIMS Nagpur Jobs. Those Candidates who
 									are &#8230; <a
 										title="AIIMS Nagpur Faculty Recruitment 2022 Application Form 34 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-nagpur-jobs/"
+										class="read-more" href="aiims-nagpur-jobs/"
 										aria-label="More on AIIMS Nagpur Faculty Recruitment 2022 Application Form 34 Post">Read
 										more</a></p>
 							</div>
@@ -4167,12 +4167,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4181,7 +4181,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-jobs/#respond">Leave a
+										href="aiims-nagpur-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4192,7 +4192,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-jobs/" rel="bookmark">AIIMS
+										href="aiims-rishikesh-jobs/" rel="bookmark">AIIMS
 										Rishikesh Sr Resident Recruitment 2022 Apply Online 53 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-15T23:55:28+05:30"
@@ -4201,7 +4201,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4214,7 +4214,7 @@
 									(Non-Academic) Vacancy at 53 posts. Those candidates who are interested in AIIMS
 									Rishikesh Sr Resident Recruitment can apply online through the official website
 									&#8230; <a title="AIIMS Rishikesh Sr Resident Recruitment 2022 Apply Online 53 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-rishikesh-jobs/"
+										class="read-more" href="aiims-rishikesh-jobs/"
 										aria-label="More on AIIMS Rishikesh Sr Resident Recruitment 2022 Apply Online 53 Post">Read
 										more</a></p>
 							</div>
@@ -4225,10 +4225,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4238,7 +4238,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-jobs/#respond">Leave a
+										href="aiims-rishikesh-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4249,7 +4249,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-recruitment/"
+										href="aiims-jodhpur-recruitment/"
 										rel="bookmark">AIIMS Jodhpur Recruitment 2022 Apply Online Faculty 73 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4259,7 +4259,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4274,7 +4274,7 @@
 									Vacancy at 94 posts. Those candidates who &#8230; <a
 										title="AIIMS Jodhpur Recruitment 2022 Apply Online Faculty 73 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-recruitment/"
+										href="aiims-jodhpur-recruitment/"
 										aria-label="More on AIIMS Jodhpur Recruitment 2022 Apply Online Faculty 73 Post">Read
 										more</a></p>
 							</div>
@@ -4285,12 +4285,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4299,7 +4299,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-recruitment/#respond">Leave a
+										href="aiims-jodhpur-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4310,7 +4310,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-recruitment-apply/"
+										href="aiims-delhi-recruitment-apply/"
 										rel="bookmark">AIIMS Delhi Recruitment 2022 Apply Online Staff Nurse Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4320,7 +4320,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4333,7 +4333,7 @@
 									interested in AIIMS Delhi Vacancy 2022 can apply online through the official website
 									AIIMS &#8230; <a title="AIIMS Delhi Recruitment 2022 Apply Online Staff Nurse Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-recruitment-apply/"
+										href="aiims-delhi-recruitment-apply/"
 										aria-label="More on AIIMS Delhi Recruitment 2022 Apply Online Staff Nurse Post">Read
 										more</a></p>
 							</div>
@@ -4344,10 +4344,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4357,7 +4357,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-recruitment-apply/#respond">Leave
+										href="aiims-delhi-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4368,7 +4368,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-vacancy/"
+										href="aiims-bhubaneswar-vacancy/"
 										rel="bookmark">AIIMS Bhubaneswar Recruitment 2022 Apply Online Sr Resident
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4378,7 +4378,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4392,7 +4392,7 @@
 									candidates who are interested in AIIMS Bhubaneswar Vacancy &#8230; <a
 										title="AIIMS Bhubaneswar Recruitment 2022 Apply Online Sr Resident Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-vacancy/"
+										href="aiims-bhubaneswar-vacancy/"
 										aria-label="More on AIIMS Bhubaneswar Recruitment 2022 Apply Online Sr Resident Post">Read
 										more</a></p>
 							</div>
@@ -4403,10 +4403,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4416,7 +4416,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-vacancy/#respond">Leave a
+										href="aiims-bhubaneswar-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4427,7 +4427,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-madurai-recruitment/"
+										href="aiims-madurai-recruitment/"
 										rel="bookmark">AIIMS Madurai Recruitment 2022 Apply Online Faculty 94 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4437,7 +4437,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4452,7 +4452,7 @@
 									Vacancy at 94 posts. Those candidates who are &#8230; <a
 										title="AIIMS Madurai Recruitment 2022 Apply Online Faculty 94 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-madurai-recruitment/"
+										href="aiims-madurai-recruitment/"
 										aria-label="More on AIIMS Madurai Recruitment 2022 Apply Online Faculty 94 Posts">Read
 										more</a></p>
 							</div>
@@ -4463,12 +4463,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4477,7 +4477,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-madurai-recruitment/#respond">Leave a
+										href="aiims-madurai-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4488,7 +4488,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-jr-resident-recruitment/"
+										href="aiims-delhi-jr-resident-recruitment/"
 										rel="bookmark">AIIMS Delhi Jr Resident Recruitment 2022 Apply Online 194
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4498,7 +4498,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4512,7 +4512,7 @@
 									2022 can apply online through the official website AIIMS Delhi &#8230; <a
 										title="AIIMS Delhi Jr Resident Recruitment 2022 Apply Online 194 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-jr-resident-recruitment/"
+										href="aiims-delhi-jr-resident-recruitment/"
 										aria-label="More on AIIMS Delhi Jr Resident Recruitment 2022 Apply Online 194 Post">Read
 										more</a></p>
 							</div>
@@ -4523,10 +4523,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4536,7 +4536,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-jr-resident-recruitment/#respond">Leave
+										href="aiims-delhi-jr-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4547,7 +4547,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-group-a-recruitment/"
+										href="aiims-raipur-group-a-recruitment/"
 										rel="bookmark">AIIMS Raipur Group A Recruitment 2022 Application Form 34
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4557,7 +4557,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4571,7 +4571,7 @@
 									candidates who are interested in AIIMS Raipur Group &#8230; <a
 										title="AIIMS Raipur Group A Recruitment 2022 Application Form 34 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raipur-group-a-recruitment/"
+										href="aiims-raipur-group-a-recruitment/"
 										aria-label="More on AIIMS Raipur Group A Recruitment 2022 Application Form 34 Post">Read
 										more</a></p>
 							</div>
@@ -4582,10 +4582,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4595,7 +4595,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-group-a-recruitment/#respond">Leave
+										href="aiims-raipur-group-a-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4606,7 +4606,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bibinagar-vacancy/"
+										href="aiims-bibinagar-vacancy/"
 										rel="bookmark">AIIMS Bibinagar Recruitment 2022 Apply Online Faculty 94 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4616,7 +4616,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4630,7 +4630,7 @@
 									Faculty (Professor, Additional Professor, Associate Professor, Assistant Professor)
 									Vacancy at 94 posts. Those candidates who &#8230; <a
 										title="AIIMS Bibinagar Recruitment 2022 Apply Online Faculty 94 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-bibinagar-vacancy/"
+										class="read-more" href="aiims-bibinagar-vacancy/"
 										aria-label="More on AIIMS Bibinagar Recruitment 2022 Apply Online Faculty 94 Post">Read
 										more</a></p>
 							</div>
@@ -4641,12 +4641,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4655,7 +4655,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bibinagar-vacancy/#respond">Leave a
+										href="aiims-bibinagar-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4666,7 +4666,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-jr-resident-recruitment/"
+										href="aiims-bhopal-jr-resident-recruitment/"
 										rel="bookmark">AIIMS Bhopal Recruitment 2022 Apply Online Jr Resident 17
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4676,7 +4676,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4690,7 +4690,7 @@
 									official website AIIMS Bhopal Jobs from &#8230; <a
 										title="AIIMS Bhopal Recruitment 2022 Apply Online Jr Resident 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-jr-resident-recruitment/"
+										href="aiims-bhopal-jr-resident-recruitment/"
 										aria-label="More on AIIMS Bhopal Recruitment 2022 Apply Online Jr Resident 17 Post">Read
 										more</a></p>
 							</div>
@@ -4701,10 +4701,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4714,7 +4714,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-jr-resident-recruitment/#respond">Leave
+										href="aiims-bhopal-jr-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4725,7 +4725,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-faculty-recruitment/"
+										href="aiims-bhopal-faculty-recruitment/"
 										rel="bookmark">AIIMS Bhopal Faculty Recruitment 2022 Apply Non-Faculty 178
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4735,7 +4735,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4750,7 +4750,7 @@
 									recruitment 2022 of (Faculty &#8230; <a
 										title="AIIMS Bhopal Faculty Recruitment 2022 Apply Non-Faculty 178 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-faculty-recruitment/"
+										href="aiims-bhopal-faculty-recruitment/"
 										aria-label="More on AIIMS Bhopal Faculty Recruitment 2022 Apply Non-Faculty 178 Post">Read
 										more</a></p>
 							</div>
@@ -4761,10 +4761,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4774,7 +4774,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-faculty-recruitment/#respond">Leave
+										href="aiims-bhopal-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4785,7 +4785,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-vacancy/"
+										href="aiims-mangalagiri-vacancy/"
 										rel="bookmark">AIIMS Mangalagiri Recruitment 2022 Walk In Interview 11 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4795,7 +4795,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4809,7 +4809,7 @@
 									interested in AIIMS Mangalagiri Vacancy 2022 can go to the interview on 26 &#8230;
 									<a title="AIIMS Mangalagiri Recruitment 2022 Walk In Interview 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalagiri-vacancy/"
+										href="aiims-mangalagiri-vacancy/"
 										aria-label="More on AIIMS Mangalagiri Recruitment 2022 Walk In Interview 11 Post">Read
 										more</a></p>
 							</div>
@@ -4820,12 +4820,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4834,7 +4834,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-vacancy/#respond">Leave a
+										href="aiims-mangalagiri-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4845,7 +4845,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-recruitment/"
+										href="aiims-delhi-recruitment/"
 										rel="bookmark">AIIMS Delhi Recruitment 2022 Apply Online Demonstrator 413
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4855,7 +4855,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4868,7 +4868,7 @@
 									Demonstrator Vacancy at 413 posts. Those candidates who are interested in AIIMS
 									Delhi Vacancy 2022 can apply online through the &#8230; <a
 										title="AIIMS Delhi Recruitment 2022 Apply Online Demonstrator 413 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-recruitment/"
+										class="read-more" href="aiims-delhi-recruitment/"
 										aria-label="More on AIIMS Delhi Recruitment 2022 Apply Online Demonstrator 413 Post">Read
 										more</a></p>
 							</div>
@@ -4879,10 +4879,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4892,7 +4892,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-recruitment/#respond">Leave a
+										href="aiims-delhi-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4903,7 +4903,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-jobs-apply/"
+										href="aiims-bhopal-jobs-apply/"
 										rel="bookmark">AIIMS Bhopal Recruitment 2022 Apply Senior Resident 159 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4913,7 +4913,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4926,7 +4926,7 @@
 									candidates who are interested in AIIMS Bhopal Vacancy 2022 apply through the
 									official website AIIMS Bhopal Jobs from &#8230; <a
 										title="AIIMS Bhopal Recruitment 2022 Apply Senior Resident 159 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-bhopal-jobs-apply/"
+										class="read-more" href="aiims-bhopal-jobs-apply/"
 										aria-label="More on AIIMS Bhopal Recruitment 2022 Apply Senior Resident 159 Post">Read
 										more</a></p>
 							</div>
@@ -4937,10 +4937,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -4950,7 +4950,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-jobs-apply/#respond">Leave a
+										href="aiims-bhopal-jobs-apply/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4961,7 +4961,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-recruitment-apply/"
+										href="aiims-gorakhpur-recruitment-apply/"
 										rel="bookmark">AIIMS Gorakhpur Recruitment 2022 Walk In Interview 29 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4971,7 +4971,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4985,7 +4985,7 @@
 									Vacancy 2022 can go to the interview on &#8230; <a
 										title="AIIMS Gorakhpur Recruitment 2022 Walk In Interview 29 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-gorakhpur-recruitment-apply/"
+										href="aiims-gorakhpur-recruitment-apply/"
 										aria-label="More on AIIMS Gorakhpur Recruitment 2022 Walk In Interview 29 Post">Read
 										more</a></p>
 							</div>
@@ -4996,12 +4996,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5010,7 +5010,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-recruitment-apply/#respond">Leave
+										href="aiims-gorakhpur-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5021,7 +5021,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/pgich-vacancy/" rel="bookmark">PGICH
+										href="pgich-vacancy/" rel="bookmark">PGICH
 										Recruitment 2022 Application Form 37 Faculty Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-12T23:55:05+05:30"
@@ -5030,7 +5030,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5043,7 +5043,7 @@
 									Professor, Assistant Professor) Vacancy at 37 Posts in PGICH Jobs. Those Candidates
 									who are interested in PGICH  Recruitment 2022 apply through the &#8230; <a
 										title="PGICH Recruitment 2022 Application Form 37 Faculty Post"
-										class="read-more" href="https://www.sarkariresult.app/pgich-vacancy/"
+										class="read-more" href="pgich-vacancy/"
 										aria-label="More on PGICH Recruitment 2022 Application Form 37 Faculty Post">Read
 										more</a></p>
 							</div>
@@ -5054,10 +5054,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5067,7 +5067,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/pgich-vacancy/#respond">Leave a
+										href="pgich-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5078,7 +5078,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-deo-jobs/" rel="bookmark">AIIMS
+										href="aiims-delhi-deo-jobs/" rel="bookmark">AIIMS
 										Delhi DEO Recruitment 2022 Apply Data Entry Operator Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-07T23:55:10+05:30"
@@ -5087,7 +5087,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5099,7 +5099,7 @@
 									for the AIIMS Delhi DEO recruitment 2022 of Data Entry Operator (DEO) Vacancy at 01
 									Posts. Those candidates who are interested in AIIMS Delhi Jobs 2022 can apply online
 									&#8230; <a title="AIIMS Delhi DEO Recruitment 2022 Apply Data Entry Operator Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-deo-jobs/"
+										class="read-more" href="aiims-delhi-deo-jobs/"
 										aria-label="More on AIIMS Delhi DEO Recruitment 2022 Apply Data Entry Operator Post">Read
 										more</a></p>
 							</div>
@@ -5110,10 +5110,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5123,7 +5123,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-deo-jobs/#respond">Leave a
+										href="aiims-delhi-deo-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5134,7 +5134,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-jobs/" rel="bookmark">AIIMS
+										href="aiims-gorakhpur-jobs/" rel="bookmark">AIIMS
 										Gorakhpur Faculty Recruitment 2022 Apply Online 108 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-05T23:55:00+05:30"
@@ -5143,7 +5143,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5157,7 +5157,7 @@
 									Assistant Professor) Vacancy at 108 Posts. Those Candidates who are interested in
 									AIIMS Gorakhpur &#8230; <a
 										title="AIIMS Gorakhpur Faculty Recruitment 2022 Apply Online 108 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-gorakhpur-jobs/"
+										class="read-more" href="aiims-gorakhpur-jobs/"
 										aria-label="More on AIIMS Gorakhpur Faculty Recruitment 2022 Apply Online 108 Post">Read
 										more</a></p>
 							</div>
@@ -5168,10 +5168,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5181,7 +5181,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-jobs/#respond">Leave a
+										href="aiims-gorakhpur-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5192,7 +5192,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-vacancy-job/"
+										href="aiims-delhi-vacancy-job/"
 										rel="bookmark">AIIMS Delhi Recruitment 2022 Asst, Nurse, Attendant 07 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5202,7 +5202,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5215,7 +5215,7 @@
 									recruitment 2022 of Technologist, Technical Assistant, Nurse, Nursing Orderly, Lab
 									Attendant Vacancy at 07 posts. Those candidates who are interested in &#8230; <a
 										title="AIIMS Delhi Recruitment 2022 Asst, Nurse, Attendant 07 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-vacancy-job/"
+										class="read-more" href="aiims-delhi-vacancy-job/"
 										aria-label="More on AIIMS Delhi Recruitment 2022 Asst, Nurse, Attendant 07 Post">Read
 										more</a></p>
 							</div>
@@ -5226,10 +5226,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5239,7 +5239,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-vacancy-job/#comments">1
+										href="aiims-delhi-vacancy-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5250,7 +5250,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-non-faculty-recruitment/"
+										href="aiims-bhopal-non-faculty-recruitment/"
 										rel="bookmark">AIIMS Bhopal Recruitment 2022 Apply Now Non Faculty 34 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5260,7 +5260,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5274,7 +5274,7 @@
 									interested in AIIMS Bhopal Non-Faculty Recruitment 2022 apply through the &#8230; <a
 										title="AIIMS Bhopal Recruitment 2022 Apply Now Non Faculty 34 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-non-faculty-recruitment/"
+										href="aiims-bhopal-non-faculty-recruitment/"
 										aria-label="More on AIIMS Bhopal Recruitment 2022 Apply Now Non Faculty 34 Posts">Read
 										more</a></p>
 							</div>
@@ -5285,12 +5285,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5299,7 +5299,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-non-faculty-recruitment/#respond">Leave
+										href="aiims-bhopal-non-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5310,7 +5310,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-recruitment-apply/"
+										href="aiims-mangalagiri-recruitment-apply/"
 										rel="bookmark">AIIMS Mangalagiri Recruitment 2022 Apply Online Tutor 17 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5320,7 +5320,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5334,7 +5334,7 @@
 									2022 apply through the official website AIIMS &#8230; <a
 										title="AIIMS Mangalagiri Recruitment 2022 Apply Online Tutor 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalagiri-recruitment-apply/"
+										href="aiims-mangalagiri-recruitment-apply/"
 										aria-label="More on AIIMS Mangalagiri Recruitment 2022 Apply Online Tutor 17 Post">Read
 										more</a></p>
 							</div>
@@ -5345,10 +5345,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5358,7 +5358,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-recruitment-apply/#respond">Leave
+										href="aiims-mangalagiri-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5369,7 +5369,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-vacancy/" rel="bookmark">AIIMS
+										href="aiims-nagpur-vacancy/" rel="bookmark">AIIMS
 										Nagpur Recruitment 2022 Senior Resident Walk In Interview</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5377,7 +5377,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5390,7 +5390,7 @@
 									34 posts. Those candidates who are interested in the AIIMS Nagpur Vacancy can go to
 									the interview on &#8230; <a
 										title="AIIMS Nagpur Recruitment 2022 Senior Resident Walk In Interview"
-										class="read-more" href="https://www.sarkariresult.app/aiims-nagpur-vacancy/"
+										class="read-more" href="aiims-nagpur-vacancy/"
 										aria-label="More on AIIMS Nagpur Recruitment 2022 Senior Resident Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -5401,12 +5401,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5415,7 +5415,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-vacancy/#respond">Leave a
+										href="aiims-nagpur-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5426,7 +5426,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-ansarinagar-recruitment/"
+										href="aiims-ansarinagar-recruitment/"
 										rel="bookmark">AIIMS Ansarinagar Recruitment 2022 Apply Online Faculty 183
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5436,7 +5436,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5450,7 +5450,7 @@
 									and Additional Professor) (Group A) Vacancy at 183 Posts. Those Candidates who are
 									&#8230; <a title="AIIMS Ansarinagar Recruitment 2022 Apply Online Faculty 183 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-ansarinagar-recruitment/"
+										href="aiims-ansarinagar-recruitment/"
 										aria-label="More on AIIMS Ansarinagar Recruitment 2022 Apply Online Faculty 183 Post">Read
 										more</a></p>
 							</div>
@@ -5461,12 +5461,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5475,7 +5475,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-ansarinagar-recruitment/#respond">Leave
+										href="aiims-ansarinagar-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5486,7 +5486,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-vacancy/"
+										href="aiims-gorakhpur-vacancy/"
 										rel="bookmark">AIIMS Gorakhpur Recruitment 2022 Application Form Faculty 23
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5496,7 +5496,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5510,7 +5510,7 @@
 									2022 of Faculty ( Professor Principal, College of Nursing, Associate Professor
 									(Reader) &#8230; <a
 										title="AIIMS Gorakhpur Recruitment 2022 Application Form Faculty 23 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-gorakhpur-vacancy/"
+										class="read-more" href="aiims-gorakhpur-vacancy/"
 										aria-label="More on AIIMS Gorakhpur Recruitment 2022 Application Form Faculty 23 Post">Read
 										more</a></p>
 							</div>
@@ -5521,12 +5521,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5535,7 +5535,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-vacancy/#respond">Leave a
+										href="aiims-gorakhpur-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5546,7 +5546,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-group-a-recruitment/"
+										href="aiims-rishikesh-group-a-recruitment/"
 										rel="bookmark">AIIMS Rishikesh Recruitment 2022 Apply Officer, Engineer 24
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5556,7 +5556,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5571,7 +5571,7 @@
 									Rishikesh has released the &#8230; <a
 										title="AIIMS Rishikesh Recruitment 2022 Apply Officer, Engineer 24 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-group-a-recruitment/"
+										href="aiims-rishikesh-group-a-recruitment/"
 										aria-label="More on AIIMS Rishikesh Recruitment 2022 Apply Officer, Engineer 24 Post">Read
 										more</a></p>
 							</div>
@@ -5582,10 +5582,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5595,7 +5595,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-group-a-recruitment/#respond">Leave
+										href="aiims-rishikesh-group-a-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5606,7 +5606,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-resident-jobs/"
+										href="aiims-patna-resident-jobs/"
 										rel="bookmark">AIIMS Patna Recruitment 2022 Apply Now Senior Resident 166
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5616,7 +5616,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5630,7 +5630,7 @@
 									the official website aiimspatna.edu.in AIIMS Patna &#8230; <a
 										title="AIIMS Patna Recruitment 2022 Apply Now Senior Resident 166 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-resident-jobs/"
+										href="aiims-patna-resident-jobs/"
 										aria-label="More on AIIMS Patna Recruitment 2022 Apply Now Senior Resident 166 Post">Read
 										more</a></p>
 							</div>
@@ -5641,10 +5641,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5654,7 +5654,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-resident-jobs/#respond">Leave a
+										href="aiims-patna-resident-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5665,7 +5665,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-recruitment/"
+										href="aiims-bilaspur-recruitment/"
 										rel="bookmark">AIIMS Bilaspur Recruitment 2022 Application Form Faculty 116
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5675,7 +5675,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5690,7 +5690,7 @@
 									interested &#8230; <a
 										title="AIIMS Bilaspur Recruitment 2022 Application Form Faculty 116 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bilaspur-recruitment/"
+										href="aiims-bilaspur-recruitment/"
 										aria-label="More on AIIMS Bilaspur Recruitment 2022 Application Form Faculty 116 Post">Read
 										more</a></p>
 							</div>
@@ -5701,12 +5701,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5715,7 +5715,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-recruitment/#respond">Leave a
+										href="aiims-bilaspur-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5726,7 +5726,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bathinda-vacancy/"
+										href="aiims-bathinda-vacancy/"
 										rel="bookmark">AIIMS Bathinda Recruitment 2022 Application Form Faculty 87
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5736,7 +5736,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5750,7 +5750,7 @@
 									Assistant Professor Vacancy at 87 Posts in AIIMS Patna Jobs. Those Candidates who
 									are &#8230; <a
 										title="AIIMS Bathinda Recruitment 2022 Application Form Faculty 87 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-bathinda-vacancy/"
+										class="read-more" href="aiims-bathinda-vacancy/"
 										aria-label="More on AIIMS Bathinda Recruitment 2022 Application Form Faculty 87 Post">Read
 										more</a></p>
 							</div>
@@ -5761,10 +5761,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5774,7 +5774,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bathinda-vacancy/#respond">Leave a
+										href="aiims-bathinda-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5785,7 +5785,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-group-a-b-recruitment/"
+										href="aiims-patna-group-a-b-recruitment/"
 										rel="bookmark">AIIMS Patna Group A &#038; B Recruitment 2021 Application Form 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5795,7 +5795,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5810,7 +5810,7 @@
 									notification for the &#8230; <a
 										title="AIIMS Patna Group A &#038; B Recruitment 2021 Application Form 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-group-a-b-recruitment/"
+										href="aiims-patna-group-a-b-recruitment/"
 										aria-label="More on AIIMS Patna Group A &#038; B Recruitment 2021 Application Form 22 Post">Read
 										more</a></p>
 							</div>
@@ -5821,10 +5821,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5834,7 +5834,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-group-a-b-recruitment/#respond">Leave
+										href="aiims-patna-group-a-b-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5845,7 +5845,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-recruitment/"
+										href="aiims-delhi-faculty-recruitment/"
 										rel="bookmark">AIIMS Delhi Faculty Recruitment 2021 Apply Now 254 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-12-16T23:55:00+05:30"
@@ -5854,7 +5854,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5868,7 +5868,7 @@
 									interested in AIIMS Delhi Vacancy 2021 &#8230; <a
 										title="AIIMS Delhi Faculty Recruitment 2021 Apply Now 254 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-recruitment/"
+										href="aiims-delhi-faculty-recruitment/"
 										aria-label="More on AIIMS Delhi Faculty Recruitment 2021 Apply Now 254 Post">Read
 										more</a></p>
 							</div>
@@ -5879,10 +5879,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5892,7 +5892,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-faculty-recruitment/#respond">Leave
+										href="aiims-delhi-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5903,7 +5903,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-professor-recruitment/"
+										href="aiims-nagpur-professor-recruitment/"
 										rel="bookmark">AIIMS Nagpur Recruitment 2022 Apply Online Faculty 32 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5913,7 +5913,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5927,7 +5927,7 @@
 									Professor Vacancy at 32 Posts in AIIMS Patna Jobs. Those candidates who &#8230; <a
 										title="AIIMS Nagpur Recruitment 2022 Apply Online Faculty 32 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-nagpur-professor-recruitment/"
+										href="aiims-nagpur-professor-recruitment/"
 										aria-label="More on AIIMS Nagpur Recruitment 2022 Apply Online Faculty 32 Posts">Read
 										more</a></p>
 							</div>
@@ -5938,10 +5938,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -5951,7 +5951,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-professor-recruitment/#comments">1
+										href="aiims-nagpur-professor-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5962,7 +5962,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-nursing-officer-recruitment/"
+										href="aiims-patna-nursing-officer-recruitment/"
 										rel="bookmark">AIIMS Patna Recruitment 2021 Nursing Officer, Clerk 296 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5972,7 +5972,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5987,7 +5987,7 @@
 									Officer recruitment &#8230; <a
 										title="AIIMS Patna Recruitment 2021 Nursing Officer, Clerk 296 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-nursing-officer-recruitment/"
+										href="aiims-patna-nursing-officer-recruitment/"
 										aria-label="More on AIIMS Patna Recruitment 2021 Nursing Officer, Clerk 296 Post">Read
 										more</a></p>
 							</div>
@@ -5998,11 +5998,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/engineer/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="engineer/"
 										rel="category tag">Engineer</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6012,7 +6012,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-nursing-officer-recruitment/#comments">1
+										href="aiims-patna-nursing-officer-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6023,7 +6023,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-vacancy/"
+										href="aiims-raebareli-vacancy/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2021 Apply Now Professor 118 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6032,7 +6032,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6045,7 +6045,7 @@
 									Professor recruitment 2021 of Professor, Additional Professor, Associate Professor,
 									Assistant Professor Vacancy at 118 Posts in AIIMS Patna Jobs. Those Candidates who
 									are &#8230; <a title="AIIMS Raebareli Recruitment 2021 Apply Now Professor 118 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raebareli-vacancy/"
+										class="read-more" href="aiims-raebareli-vacancy/"
 										aria-label="More on AIIMS Raebareli Recruitment 2021 Apply Now Professor 118 Post">Read
 										more</a></p>
 							</div>
@@ -6056,10 +6056,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6069,7 +6069,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-vacancy/#comments">1
+										href="aiims-raebareli-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6080,7 +6080,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-mts-recruitment/"
+										href="aiims-patna-mts-recruitment/"
 										rel="bookmark">AIIMS Patna MTS Recruitment 2021 Apply DEO, Lab Tech, RA 18
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6090,7 +6090,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6104,7 +6104,7 @@
 									C (Medical/ Non-Medical), Scientist B (Medical/ Non-Medical), Research &#8230; <a
 										title="AIIMS Patna MTS Recruitment 2021 Apply DEO, Lab Tech, RA 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-mts-recruitment/"
+										href="aiims-patna-mts-recruitment/"
 										aria-label="More on AIIMS Patna MTS Recruitment 2021 Apply DEO, Lab Tech, RA 18 Post">Read
 										more</a></p>
 							</div>
@@ -6115,10 +6115,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6128,7 +6128,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-mts-recruitment/#respond">Leave
+										href="aiims-patna-mts-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6139,7 +6139,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-guwahati-faculty-recruitment/"
+										href="aiims-guwahati-faculty-recruitment/"
 										rel="bookmark">AIIMS Guwahati Faculty Recruitment 2021 Apply Online 162 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6149,7 +6149,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6163,7 +6163,7 @@
 									Jobs. Those Candidates who are interested in AIIMS Guwahati Vacancy &#8230; <a
 										title="AIIMS Guwahati Faculty Recruitment 2021 Apply Online 162 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-guwahati-faculty-recruitment/"
+										href="aiims-guwahati-faculty-recruitment/"
 										aria-label="More on AIIMS Guwahati Faculty Recruitment 2021 Apply Online 162 Post">Read
 										more</a></p>
 							</div>
@@ -6174,10 +6174,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6187,7 +6187,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-guwahati-faculty-recruitment/#respond">Leave
+										href="aiims-guwahati-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6198,7 +6198,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-nursing-officer-recruitment/"
+										href="aiims-delhi-nursing-officer-recruitment/"
 										rel="bookmark">AIIMS Delhi Nursing Officer Recruitment 2021 Apply 3500 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6208,7 +6208,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6222,7 +6222,7 @@
 									apply through the &#8230; <a
 										title="AIIMS Delhi Nursing Officer Recruitment 2021 Apply 3500 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-nursing-officer-recruitment/"
+										href="aiims-delhi-nursing-officer-recruitment/"
 										aria-label="More on AIIMS Delhi Nursing Officer Recruitment 2021 Apply 3500 Posts">Read
 										more</a></p>
 							</div>
@@ -6233,10 +6233,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6246,7 +6246,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-nursing-officer-recruitment/#respond">Leave
+										href="aiims-delhi-nursing-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6257,7 +6257,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-deo-recruitment/"
+										href="aiims-delhi-deo-recruitment/"
 										rel="bookmark">AIIMS Delhi DEO Recruitment 2021 Research Assistant 06 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6267,7 +6267,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6281,7 +6281,7 @@
 									posts. Those candidates who are interested in &#8230; <a
 										title="AIIMS Delhi DEO Recruitment 2021 Research Assistant 06 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-deo-recruitment/"
+										href="aiims-delhi-deo-recruitment/"
 										aria-label="More on AIIMS Delhi DEO Recruitment 2021 Research Assistant 06 Post">Read
 										more</a></p>
 							</div>
@@ -6292,10 +6292,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6305,7 +6305,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-deo-recruitment/#respond">Leave
+										href="aiims-delhi-deo-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6316,7 +6316,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-faculty-vacancy/"
+										href="aiims-kalyani-faculty-vacancy/"
 										rel="bookmark">AIIMS Kalyani Faculty Recruitment 2021 Application Form 147
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6325,7 +6325,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6340,7 +6340,7 @@
 									wishing to apply through &#8230; <a
 										title="AIIMS Kalyani Faculty Recruitment 2021 Application Form 147 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-kalyani-faculty-vacancy/"
+										href="aiims-kalyani-faculty-vacancy/"
 										aria-label="More on AIIMS Kalyani Faculty Recruitment 2021 Application Form 147 Post">Read
 										more</a></p>
 							</div>
@@ -6351,10 +6351,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6364,7 +6364,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-faculty-vacancy/#respond">Leave
+										href="aiims-kalyani-faculty-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6375,7 +6375,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-jobs/" rel="bookmark">AIIMS
+										href="aiims-delhi-jobs/" rel="bookmark">AIIMS
 										Delhi Recruitment 2021 Nurse, Worker, Attendant 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6383,7 +6383,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6396,7 +6396,7 @@
 									Worker, Field Attendant Vacancy at 14 Posts. In AIIMS Delhi Interested candidates
 									can apply by &#8230; <a
 										title="AIIMS Delhi Recruitment 2021 Nurse, Worker, Attendant 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-jobs/"
+										class="read-more" href="aiims-delhi-jobs/"
 										aria-label="More on AIIMS Delhi Recruitment 2021 Nurse, Worker, Attendant 14 Post">Read
 										more</a></p>
 							</div>
@@ -6407,10 +6407,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6420,7 +6420,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-jobs/#comments">2
+										href="aiims-delhi-jobs/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6431,7 +6431,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-nursing-officer-recruitment/"
+										href="aiims-rishikesh-nursing-officer-recruitment/"
 										rel="bookmark">AIIMS Rishikesh Nursing Officer Recruitment 2021 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -6440,7 +6440,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6454,7 +6454,7 @@
 									Nursing Officer (Staff Nurse Grade-II), Technical Assistant Vacancy at 700 posts.
 									&#8230; <a title="AIIMS Rishikesh Nursing Officer Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-nursing-officer-recruitment/"
+										href="aiims-rishikesh-nursing-officer-recruitment/"
 										aria-label="More on AIIMS Rishikesh Nursing Officer Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -6465,10 +6465,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6478,7 +6478,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-nursing-officer-recruitment/#comments">1
+										href="aiims-rishikesh-nursing-officer-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6489,7 +6489,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-recruitment/"
+										href="aiims-gorakhpur-recruitment/"
 										rel="bookmark">AIIMS Gorakhpur Faculty Recruitment 2021 Apply Group A 127
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6498,7 +6498,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6512,7 +6512,7 @@
 									www.aiimsGorakhpur.edu.in can apply for &#8230; <a
 										title="AIIMS Gorakhpur Faculty Recruitment 2021 Apply Group A 127 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-gorakhpur-recruitment/"
+										href="aiims-gorakhpur-recruitment/"
 										aria-label="More on AIIMS Gorakhpur Faculty Recruitment 2021 Apply Group A 127 Post">Read
 										more</a></p>
 							</div>
@@ -6523,10 +6523,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6536,7 +6536,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-gorakhpur-recruitment/#comments">1
+										href="aiims-gorakhpur-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6547,7 +6547,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-deoghar/" rel="bookmark">AIIMS Deoghar
+										href="aiims-deoghar/" rel="bookmark">AIIMS Deoghar
 										Recruitment 2021 Apply Faculty, Non-Faculty 28 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6555,7 +6555,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6568,7 +6568,7 @@
 									candidates who are interested in AIIMS Deoghar Recruitment 2021 can apply through
 									the official website aiimsdeoghar.org AIIMS Deoghar &#8230; <a
 										title="AIIMS Deoghar Recruitment 2021 Apply Faculty, Non-Faculty 28 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-deoghar/"
+										class="read-more" href="aiims-deoghar/"
 										aria-label="More on AIIMS Deoghar Recruitment 2021 Apply Faculty, Non-Faculty 28 Post">Read
 										more</a></p>
 							</div>
@@ -6579,10 +6579,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6592,7 +6592,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-deoghar/#respond">Leave a
+										href="aiims-deoghar/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6603,7 +6603,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-resident-recruitment/"
+										href="aiims-delhi-resident-recruitment/"
 										rel="bookmark">AIIMS Delhi Resident Recruitment 2021 Apply Online 180 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6612,7 +6612,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6626,7 +6626,7 @@
 									AIIMS Delhi Jobs 2021 &#8211; &#8230; <a
 										title="AIIMS Delhi Resident Recruitment 2021 Apply Online 180 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-resident-recruitment/"
+										href="aiims-delhi-resident-recruitment/"
 										aria-label="More on AIIMS Delhi Resident Recruitment 2021 Apply Online 180 Post">Read
 										more</a></p>
 							</div>
@@ -6637,10 +6637,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6650,7 +6650,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-resident-recruitment/#respond">Leave
+										href="aiims-delhi-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6661,7 +6661,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-resident-recruitment/"
+										href="aiims-nagpur-resident-recruitment/"
 										rel="bookmark">AIIMS Nagpur Resident Recruitment 2021 Apply Group A 20 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6670,7 +6670,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6685,7 +6685,7 @@
 									who want &#8230; <a
 										title="AIIMS Nagpur Resident Recruitment 2021 Apply Group A 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-nagpur-resident-recruitment/"
+										href="aiims-nagpur-resident-recruitment/"
 										aria-label="More on AIIMS Nagpur Resident Recruitment 2021 Apply Group A 20 Post">Read
 										more</a></p>
 							</div>
@@ -6696,10 +6696,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6709,7 +6709,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-resident-recruitment/#respond">Leave
+										href="aiims-nagpur-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6720,7 +6720,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-faculty-recruitment/"
+										href="aiims-jodhpur-faculty-recruitment/"
 										rel="bookmark">AIIMS Jodhpur Faculty Recruitment 2021 Apply Online 86 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6730,7 +6730,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6744,7 +6744,7 @@
 									www.aiimsjodhpur.edu.in can apply for &#8230; <a
 										title="AIIMS Jodhpur Faculty Recruitment 2021 Apply Online 86 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-jodhpur-faculty-recruitment/"
+										href="aiims-jodhpur-faculty-recruitment/"
 										aria-label="More on AIIMS Jodhpur Faculty Recruitment 2021 Apply Online 86 Post">Read
 										more</a></p>
 							</div>
@@ -6755,10 +6755,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6768,7 +6768,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-jodhpur-faculty-recruitment/#respond">Leave
+										href="aiims-jodhpur-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6779,7 +6779,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-jobs/" rel="bookmark">AIIMS
+										href="aiims-patna-jobs/" rel="bookmark">AIIMS
 										Patna Recruitment 2021 Apply Now Group A &#038; B 24 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6787,7 +6787,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6800,7 +6800,7 @@
 									released the latest notification for the AIIMS Patna recruitment 2021 of Group A
 									&amp; B (Financial Advisor, Accounts Officer, Superintendent, Nursing &#8230; <a
 										title="AIIMS Patna Recruitment 2021 Apply Now Group A &#038; B 24 Posts"
-										class="read-more" href="https://www.sarkariresult.app/aiims-patna-jobs/"
+										class="read-more" href="aiims-patna-jobs/"
 										aria-label="More on AIIMS Patna Recruitment 2021 Apply Now Group A &#038; B 24 Posts">Read
 										more</a></p>
 							</div>
@@ -6811,10 +6811,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6824,7 +6824,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-jobs/#comments">1
+										href="aiims-patna-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6835,7 +6835,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-vacancy/" rel="bookmark">AIIMS
+										href="aiims-raipur-vacancy/" rel="bookmark">AIIMS
 										Raipur Recruitment 2021 Apply Now Group A, B 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6843,7 +6843,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6857,7 +6857,7 @@
 									Sanitation Officer) Vacancy at 14 Posts. Short Information: All India Institute of
 									Medical Sciences Raipur &#8230; <a
 										title="AIIMS Raipur Recruitment 2021 Apply Now Group A, B 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raipur-vacancy/"
+										class="read-more" href="aiims-raipur-vacancy/"
 										aria-label="More on AIIMS Raipur Recruitment 2021 Apply Now Group A, B 14 Post">Read
 										more</a></p>
 							</div>
@@ -6868,10 +6868,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/aiims-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="aiims-jobs/"
 										rel="category tag">AIIMS Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6881,7 +6881,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-vacancy/#respond">Leave a
+										href="aiims-raipur-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6892,7 +6892,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-recruitment/"
+										href="aiims-mangalagiri-recruitment/"
 										rel="bookmark">AIIMS Mangalagiri Recruitment 2021 Faculty Group A 116 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6901,7 +6901,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6916,7 +6916,7 @@
 									Candidates wishing &#8230; <a
 										title="AIIMS Mangalagiri Recruitment 2021 Faculty Group A 116 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-mangalagiri-recruitment/"
+										href="aiims-mangalagiri-recruitment/"
 										aria-label="More on AIIMS Mangalagiri Recruitment 2021 Faculty Group A 116 Posts">Read
 										more</a></p>
 							</div>
@@ -6927,10 +6927,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6940,7 +6940,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-mangalagiri-recruitment/#comments">1
+										href="aiims-mangalagiri-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6951,7 +6951,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-vacancy/" rel="bookmark">AIIMS
+										href="aiims-delhi-vacancy/" rel="bookmark">AIIMS
 										Delhi Recruitment 2021 Apply Asst, Attendant, DEO 12 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6959,7 +6959,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6972,7 +6972,7 @@
 									Recruitment for the 12 posts of Scientist, Computer Programmer, Program Manager,
 									Project Asst, DEO, Lab Technician, Attendant Vacancy at 12 &#8230; <a
 										title="AIIMS Delhi Recruitment 2021 Apply Asst, Attendant, DEO 12 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi-vacancy/"
+										class="read-more" href="aiims-delhi-vacancy/"
 										aria-label="More on AIIMS Delhi Recruitment 2021 Apply Asst, Attendant, DEO 12 Post">Read
 										more</a></p>
 							</div>
@@ -6983,10 +6983,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6996,7 +6996,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-vacancy/#comments">2
+										href="aiims-delhi-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7007,7 +7007,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-recruitment/"
+										href="aiims-raipur-faculty-recruitment/"
 										rel="bookmark">AIIMS Raipur Faculty Recruitment 2021 Apply Group A 162 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7016,7 +7016,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7030,7 +7030,7 @@
 									Associate Professor, Assistant Professor) Vacancy at 162 posts. Candidates wishing
 									&#8230; <a title="AIIMS Raipur Faculty Recruitment 2021 Apply Group A 162 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-recruitment/"
+										href="aiims-raipur-faculty-recruitment/"
 										aria-label="More on AIIMS Raipur Faculty Recruitment 2021 Apply Group A 162 Post">Read
 										more</a></p>
 							</div>
@@ -7041,10 +7041,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7054,7 +7054,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-faculty-recruitment/#respond">Leave
+										href="aiims-raipur-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7065,7 +7065,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-group-a-b-c-recruitment/"
+										href="aiims-bilaspur-group-a-b-c-recruitment/"
 										rel="bookmark">AIIMS Bilaspur Group A, B &#038; C Recruitment 2021 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -7074,7 +7074,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7088,7 +7088,7 @@
 									Library Attendant Grade-II &#8230; <a
 										title="AIIMS Bilaspur Group A, B &#038; C Recruitment 2021 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bilaspur-group-a-b-c-recruitment/"
+										href="aiims-bilaspur-group-a-b-c-recruitment/"
 										aria-label="More on AIIMS Bilaspur Group A, B &#038; C Recruitment 2021 Apply Online">Read
 										more</a></p>
 							</div>
@@ -7099,10 +7099,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7112,7 +7112,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bilaspur-group-a-b-c-recruitment/#comments">5
+										href="aiims-bilaspur-group-a-b-c-recruitment/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7123,7 +7123,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bathinda-group-b-recruitment/"
+										href="aiims-bathinda-group-b-recruitment/"
 										rel="bookmark">AIIMS Bathinda Group B Recruitment 2021 Apply Warden 14 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7132,7 +7132,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7146,7 +7146,7 @@
 									the 14 Posts Group B (Physiotherapist, Technician (Radiology), Warden (Boys Hostel,
 									&#8230; <a title="AIIMS Bathinda Group B Recruitment 2021 Apply Warden 14 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bathinda-group-b-recruitment/"
+										href="aiims-bathinda-group-b-recruitment/"
 										aria-label="More on AIIMS Bathinda Group B Recruitment 2021 Apply Warden 14 Post">Read
 										more</a></p>
 							</div>
@@ -7157,10 +7157,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7170,7 +7170,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bathinda-group-b-recruitment/#respond">Leave
+										href="aiims-bathinda-group-b-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7181,7 +7181,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-faculty-recruitment/"
+										href="aiims-rishikesh-faculty-recruitment/"
 										rel="bookmark">AIIMS Rishikesh Faculty Recruitment 2021 Apply Group A 77
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7190,7 +7190,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7204,7 +7204,7 @@
 									Rishikesh Link for online application portal is available at institute &#8230; <a
 										title="AIIMS Rishikesh Faculty Recruitment 2021 Apply Group A 77 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-faculty-recruitment/"
+										href="aiims-rishikesh-faculty-recruitment/"
 										aria-label="More on AIIMS Rishikesh Faculty Recruitment 2021 Apply Group A 77 Post">Read
 										more</a></p>
 							</div>
@@ -7215,10 +7215,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7228,7 +7228,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-faculty-recruitment/#respond">Leave
+										href="aiims-rishikesh-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7239,7 +7239,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-recruitment/"
+										href="aiims-bhubaneswar-recruitment/"
 										rel="bookmark">AIIMS Bhubaneswar Recruitment 2021 Faculty Group A 108 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7248,7 +7248,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7262,7 +7262,7 @@
 									aiimsbhubaneswar.nic.in recruitment 2021 for AIIMS Bhubaneswar Jobs &#8230; <a
 										title="AIIMS Bhubaneswar Recruitment 2021 Faculty Group A 108 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-recruitment/"
+										href="aiims-bhubaneswar-recruitment/"
 										aria-label="More on AIIMS Bhubaneswar Recruitment 2021 Faculty Group A 108 Posts">Read
 										more</a></p>
 							</div>
@@ -7273,10 +7273,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7286,7 +7286,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhubaneswar-recruitment/#respond">Leave
+										href="aiims-bhubaneswar-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7297,7 +7297,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raipur-recruitment/"
+										href="aiims-raipur-recruitment/"
 										rel="bookmark">AIIMS Raipur Recruitment 2020 Superintendent, Officer 12 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7306,7 +7306,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7320,7 +7320,7 @@
 									Superintendent Engineer, Store Officer, Hospital Architect, Executive Engineer,
 									Sanitation Officer Vacancy at 12 &#8230; <a
 										title="AIIMS Raipur Recruitment 2020 Superintendent, Officer 12 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-raipur-recruitment/"
+										class="read-more" href="aiims-raipur-recruitment/"
 										aria-label="More on AIIMS Raipur Recruitment 2020 Superintendent, Officer 12 Post">Read
 										more</a></p>
 							</div>
@@ -7331,10 +7331,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7344,7 +7344,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raipur-recruitment/#respond">Leave a
+										href="aiims-raipur-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7355,7 +7355,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-kalyani-recruitment/"
+										href="aiims-kalyani-recruitment/"
 										rel="bookmark">AIIMS Kalyani Faculty Recruitment 2021 Apply Group A 59 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7364,7 +7364,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7378,7 +7378,7 @@
 									recruitment 2021 for AIIMS Kalyani Jobs &#8230; <a
 										title="AIIMS Kalyani Faculty Recruitment 2021 Apply Group A 59 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-kalyani-recruitment/"
+										href="aiims-kalyani-recruitment/"
 										aria-label="More on AIIMS Kalyani Faculty Recruitment 2021 Apply Group A 59 Post">Read
 										more</a></p>
 							</div>
@@ -7389,10 +7389,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7402,7 +7402,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-kalyani-recruitment/#respond">Leave a
+										href="aiims-kalyani-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7413,7 +7413,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi-junior-resident-recruitment/"
+										href="aiims-delhi-junior-resident-recruitment/"
 										rel="bookmark">AIIMS Delhi Junior Resident Recruitment 2020 Apply Now 194
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7422,7 +7422,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7436,7 +7436,7 @@
 									recruitment 2020 for AIIMS Delhi Jobs Vacancy &#8230; <a
 										title="AIIMS Delhi Junior Resident Recruitment 2020 Apply Now 194 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-delhi-junior-resident-recruitment/"
+										href="aiims-delhi-junior-resident-recruitment/"
 										aria-label="More on AIIMS Delhi Junior Resident Recruitment 2020 Apply Now 194 Post">Read
 										more</a></p>
 							</div>
@@ -7447,10 +7447,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7460,7 +7460,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-delhi-junior-resident-recruitment/#respond">Leave
+										href="aiims-delhi-junior-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7471,7 +7471,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-delhi/" rel="bookmark">AIIMS Delhi
+										href="aiims-delhi/" rel="bookmark">AIIMS Delhi
 										Group A, B &#038; C Recruitment 2020 Apply 214 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2020-10-20T15:31:32+05:30"
@@ -7480,7 +7480,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7495,7 +7495,7 @@
 									Physiotherapist/Occupational Therapist, Technician, Donor Organizer, Store Keeper,
 									Physical &#8230; <a
 										title="AIIMS Delhi Group A, B &#038; C Recruitment 2020 Apply 214 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-delhi/"
+										class="read-more" href="aiims-delhi/"
 										aria-label="More on AIIMS Delhi Group A, B &#038; C Recruitment 2020 Apply 214 Post">Read
 										more</a></p>
 							</div>
@@ -7506,10 +7506,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7518,7 +7518,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/aiims-delhi/#comments">1
+										</svg></span><a href="aiims-delhi/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7529,7 +7529,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-vacancy/" rel="bookmark">AIIMS
+										href="aiims-patna-vacancy/" rel="bookmark">AIIMS
 										Patna Recruitment 2020 Apply Now Group A, B, C 62 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7537,7 +7537,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7551,7 +7551,7 @@
 									Engineer, Senior Procurement –cum- Stores Officer, Stores Officer, CSSD Officer,
 									CSSD Supervisor, Senior Sanitation Officer, Deputy Chief Security &#8230; <a
 										title="AIIMS Patna Recruitment 2020 Apply Now Group A, B, C 62 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-patna-vacancy/"
+										class="read-more" href="aiims-patna-vacancy/"
 										aria-label="More on AIIMS Patna Recruitment 2020 Apply Now Group A, B, C 62 Post">Read
 										more</a></p>
 							</div>
@@ -7562,10 +7562,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7575,7 +7575,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-vacancy/#comments">2
+										href="aiims-patna-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7586,7 +7586,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-jobs-apply-online/"
+										href="aiims-rishikesh-jobs-apply-online/"
 										rel="bookmark">AIIMS Rishikesh Warden Recruitment 2020 Apply Online 30 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7595,7 +7595,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7609,7 +7609,7 @@
 									(House Keepers), Assistant Nursing Superintendent Vacancy at 30 posts. &#8230; <a
 										title="AIIMS Rishikesh Warden Recruitment 2020 Apply Online 30 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-jobs-apply-online/"
+										href="aiims-rishikesh-jobs-apply-online/"
 										aria-label="More on AIIMS Rishikesh Warden Recruitment 2020 Apply Online 30 Posts">Read
 										more</a></p>
 							</div>
@@ -7620,10 +7620,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7633,7 +7633,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-jobs-apply-online/#respond">Leave
+										href="aiims-rishikesh-jobs-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7644,7 +7644,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-recruitment/" rel="bookmark">AIIMS
+										href="aiims-recruitment/" rel="bookmark">AIIMS
 										Recruitment (August 2023) Check Latest Notifications</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7652,7 +7652,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7670,8 +7670,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7680,7 +7680,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-recruitment/#comments">1
+										href="aiims-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7691,7 +7691,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bibinagar-recruitment/"
+										href="aiims-bibinagar-recruitment/"
 										rel="bookmark">AIIMS Bibinagar Recruitment 2020 Apply Faculty 138 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7699,7 +7699,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7713,7 +7713,7 @@
 									Assistant Professor) Vacancy at 138 Posts. Interested candidates can apply online by
 									12 June &#8230; <a title="AIIMS Bibinagar Recruitment 2020 Apply Faculty 138 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-bibinagar-recruitment/"
+										href="aiims-bibinagar-recruitment/"
 										aria-label="More on AIIMS Bibinagar Recruitment 2020 Apply Faculty 138 Post">Read
 										more</a></p>
 							</div>
@@ -7724,10 +7724,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7737,7 +7737,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bibinagar-recruitment/#respond">Leave
+										href="aiims-bibinagar-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7748,7 +7748,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-raebareli-recruitment/"
+										href="aiims-raebareli-recruitment/"
 										rel="bookmark">AIIMS Raebareli Recruitment 2020 Apply Faculty 158 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7756,7 +7756,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7771,7 +7771,7 @@
 									Vacancy at 158 &#8230; <a
 										title="AIIMS Raebareli Recruitment 2020 Apply Faculty 158 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-raebareli-recruitment/"
+										href="aiims-raebareli-recruitment/"
 										aria-label="More on AIIMS Raebareli Recruitment 2020 Apply Faculty 158 Posts">Read
 										more</a></p>
 							</div>
@@ -7782,10 +7782,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7795,7 +7795,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-raebareli-recruitment/#respond">Leave
+										href="aiims-raebareli-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7806,7 +7806,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh/" rel="bookmark">AIIMS
+										href="aiims-rishikesh/" rel="bookmark">AIIMS
 										Rishikesh Recruitment 2020 Faculty Group A 171 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7814,7 +7814,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7827,7 +7827,7 @@
 									Recruitment for the post of Faculty Group A (Professor, Additional Professor,
 									Associate Professor, Assistant Professor) Vacancy at 171 Posts. In AIIMS &#8230; <a
 										title="AIIMS Rishikesh Recruitment 2020 Faculty Group A 171 Post"
-										class="read-more" href="https://www.sarkariresult.app/aiims-rishikesh/"
+										class="read-more" href="aiims-rishikesh/"
 										aria-label="More on AIIMS Rishikesh Recruitment 2020 Faculty Group A 171 Post">Read
 										more</a></p>
 							</div>
@@ -7838,10 +7838,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7851,7 +7851,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh/#respond">Leave a
+										href="aiims-rishikesh/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7862,7 +7862,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-patna-technician-recruitment-2020/"
+										href="aiims-patna-technician-recruitment-2020/"
 										rel="bookmark">AIIMS Patna Technician Recruitment 2020 (Group B) 10 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7871,7 +7871,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7885,7 +7885,7 @@
 									Patna can apply by 7 June &#8230; <a
 										title="AIIMS Patna Technician Recruitment 2020 (Group B) 10 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-patna-technician-recruitment-2020/"
+										href="aiims-patna-technician-recruitment-2020/"
 										aria-label="More on AIIMS Patna Technician Recruitment 2020 (Group B) 10 Posts">Read
 										more</a></p>
 							</div>
@@ -7896,10 +7896,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7909,7 +7909,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-patna-technician-recruitment-2020/#respond">Leave
+										href="aiims-patna-technician-recruitment-2020/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7920,7 +7920,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-nagpur-faculty-recruitment/"
+										href="aiims-nagpur-faculty-recruitment/"
 										rel="bookmark">AIIMS Nagpur Faculty Recruitment 2020 Apply Online 20 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7929,7 +7929,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7944,7 +7944,7 @@
 									Application Form For Professor &amp; &#8230; <a
 										title="AIIMS Nagpur Faculty Recruitment 2020 Apply Online 20 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/aiims-nagpur-faculty-recruitment/"
+										href="aiims-nagpur-faculty-recruitment/"
 										aria-label="More on AIIMS Nagpur Faculty Recruitment 2020 Apply Online 20 Posts">Read
 										more</a></p>
 							</div>
@@ -7955,10 +7955,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7968,7 +7968,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-nagpur-faculty-recruitment/#respond">Leave
+										href="aiims-nagpur-faculty-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7979,7 +7979,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bathinda-recruitment/"
+										href="aiims-bathinda-recruitment/"
 										rel="bookmark">AIIMS Bathinda Recruitment 2020 Apply Online 121 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7987,7 +7987,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8000,7 +8000,7 @@
 									candidates can apply by 27 March 2020. AIIMS Bathinda Jobs 2020 &#8211; Application
 									Form For Professor, Faculty 121 Posts &#8230; <a
 										title="AIIMS Bathinda Recruitment 2020 Apply Online 121 Posts" class="read-more"
-										href="https://www.sarkariresult.app/aiims-bathinda-recruitment/"
+										href="aiims-bathinda-recruitment/"
 										aria-label="More on AIIMS Bathinda Recruitment 2020 Apply Online 121 Posts">Read
 										more</a></p>
 							</div>
@@ -8011,10 +8011,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8024,7 +8024,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bathinda-recruitment/#respond">Leave a
+										href="aiims-bathinda-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8035,7 +8035,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-recruitment/"
+										href="aiims-rishikesh-recruitment/"
 										rel="bookmark">AIIMS Rishikesh Group A, B, C Online Form 2019</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8043,7 +8043,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8057,7 +8057,7 @@
 									Officer, Record Officer, Staff Nurse, Pharmacist, Assistant Engineer, Sanitation
 									Officer, Pharmacist, Mechanic) Short Information: All &#8230; <a
 										title="AIIMS Rishikesh Group A, B, C Online Form 2019" class="read-more"
-										href="https://www.sarkariresult.app/aiims-rishikesh-recruitment/"
+										href="aiims-rishikesh-recruitment/"
 										aria-label="More on AIIMS Rishikesh Group A, B, C Online Form 2019">Read
 										more</a></p>
 							</div>
@@ -8068,10 +8068,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8081,7 +8081,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-rishikesh-recruitment/#respond">Leave
+										href="aiims-rishikesh-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8092,7 +8092,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/aiims-bhopal-64-post/" rel="bookmark">AIIMS
+										href="aiims-bhopal-64-post/" rel="bookmark">AIIMS
 										Bhopal Vacancy 2019 Sr Resident 64 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8100,7 +8100,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8113,7 +8113,7 @@
 									AIIMS Bhopal Sr Resident Vacancy 2019 Apply online 64 Post All India Institute of
 									Medical Sciences Bhopal invites &#8230; <a
 										title="AIIMS Bhopal Vacancy 2019 Sr Resident 64 Post" class="read-more"
-										href="https://www.sarkariresult.app/aiims-bhopal-64-post/"
+										href="aiims-bhopal-64-post/"
 										aria-label="More on AIIMS Bhopal Vacancy 2019 Sr Resident 64 Post">Read more</a>
 								</p>
 							</div>
@@ -8124,10 +8124,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/aiims-jobs/" rel="category tag">AIIMS
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="aiims-jobs/" rel="category tag">AIIMS
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8137,7 +8137,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/aiims-bhopal-64-post/#respond">Leave a
+										href="aiims-bhopal-64-post/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8162,83 +8162,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -8406,7 +8406,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>
