@@ -19,7 +19,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -28,9 +28,9 @@
 							<div class="entry-content" itemprop="text">
 								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Sarkari Result WB
 									Madhyamik Result 2023 Live Update <a
-										href="https://www.sarkariresult.app/results/">West Bengal 10th Result
+										href="results/">West Bengal 10th Result
 										2023</a> Release wbresults.nic.in 2023 madhyamik result link: <a
-										href="https://www.sarkariresult.app/results/">Madhyamik Result 2023 WB Board</a>
+										href="results/">Madhyamik Result 2023 WB Board</a>
 									Download WB 10th Result 2023 Check WB Class 10 Results 2023 Latest News WBBSE West
 									Bengal Madhyamik Result 2023</p>
 								<p><span style="color: #000000;"><strong>Short Information:</strong></span>Today WB
@@ -44,22 +44,22 @@
 									as WB Madhyamik Class Result 10th 2023 will end today 19/05/2023 and students, will
 									be able to see the Check WB Madhyamik Result Topper List of their year-long hard
 									work West Bengal Board will announce the results of <a
-										href="https://www.sarkariresult.app/results/">WB 10th result kab Aayega 2023</a>
+										href="results/">WB 10th result kab Aayega 2023</a>
 									and West Bengal 10th Class Result 2023 students who appeared in the examination
 									today WB Madhyamik Result 2023 Topper List. They are all subject to hard work of the
 									year as of the Sarkari Result WB Madhyamik Result 2023  will be the deck in West
 									Bengal Madhyamik Exam Result 2023. West Bengal<a
-										href="https://www.sarkariresult.app/results/"> 10th Result 2023 Topper List</a>
+										href="results/"> 10th Result 2023 Topper List</a>
 									and West Bengal Result 2023 Class 10 will be made available online mode through the
 									website wbresults.nic.in 2023 10th Result link. Students can check their 10th 2023
 									West Bengal Board Madhyamik Result 2023 and WB Madhyamik Result 2023 Date by
 									visiting the West Bengal Result 2023 link official website West Bengal Madhyamik
 									Result Kab niklega. Here we have also provided a <a
-										href="https://www.sarkariresult.app/results/">WB 10th result 2023 link</a>
+										href="results/">WB 10th result 2023 link</a>
 									wbresults.nic.in 2023 madhyamik result Roll Number Wise for West Bengal Madhyamik
 									10th Result 2023 so that students can easily reach the Sarkari Result Madhyamik
 									Result West Bengal same as well as WB <a
-										href="https://www.sarkariresult.app/results/">Madhyamik Result 2023 Name
+										href="results/">Madhyamik Result 2023 Name
 										Wise</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -79,16 +79,16 @@
 								<h2>West Bengal Class 10th Result 2023 Download wbresults.nic.in 2023 Madhyamik Result
 									Name Wise and Roll Number Wise Link</h2>
 								<p>Sarkari Result WB Madhyamik Result 2023 Date All Students Check your <a
-										href="https://www.sarkariresult.app/results/">West Bengal 10th Result 2023</a>
+										href="results/">West Bengal 10th Result 2023</a>
 									and Live Updates Here Sarkari Result 10th 2023 West Bengal here also check the WB
 									10th Result 2023 Date published on the WB Madhyamik Result Kab Aayega 2023 Click
 									Here. 10th Madhyamik Result 2023 Date and Time is 20 July 2023 at 12:00 PM. West
-									Bengal Board Result 2023 <a href="https://www.sarkariresult.app/results/">Class 10
+									Bengal Board Result 2023 <a href="results/">Class 10
 										Date Check</a> Now West Bengal Madhyamik Result 2023 available here when
 									published wbresults.nic.in 2023 madhyamik result link gbshse.gov.in Result 2023 on
-									the <a href="https://www.sarkariresult.app/results/"
+									the <a href="results/"
 										rel="noopener noreferrer">Madhyamik Result 2023 </a>West Bengal Online Check
-									wbresults.nic.in 2023 <a href="https://www.sarkariresult.app/results/">10th Result
+									wbresults.nic.in 2023 <a href="results/">10th Result
 										2023 official website</a> West Bengal 10th Result 2023 Topper List Notification
 									for WB Madhyamik Result 2023 Topper List Check from here WB Class 10 Result Roll
 									Number Wise wbresults.nic.in 2023 madhyamik result Name Wise and Roll Number Wise
@@ -124,7 +124,7 @@
 											2023</strong></span></p>
 								<ul>
 									<li>The mode of the declaration of <a
-											href="https://www.sarkariresult.app/results/">West Bengal 10th result is
+											href="results/">West Bengal 10th result is
 											Online</a></li>
 								</ul>
 								<p><span style="text-decoration: underline;"><strong>How to Check WB Madhyamik Result
@@ -133,7 +133,7 @@
 									<li><strong>Step 1: </strong>Go to the official website wbresults.nic.in 2023
 										madhyamik result</li>
 									<li><strong>Step 2:</strong> Click on the link for<a
-											href="https://www.sarkariresult.app/results/"> West Bengal Class 10th result
+											href="results/"> West Bengal Class 10th result
 											2023</a>
 										<div data-ad-id="19276"
 											style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -157,7 +157,7 @@
 									<li><strong>Step 5: </strong>Your WBBSE 10th Result 2023 will be displayed on the
 										screen</li>
 									<li><strong>Step 5: </strong>Download your <a
-											href="https://www.sarkariresult.app/results/">Madhyamik/10th Result
+											href="results/">Madhyamik/10th Result
 											2023.</a></li>
 									<li><strong>Step 6</strong>: Download the PDF/take a printout of the West Bengal
 										10th Result 2023.</li>
@@ -210,10 +210,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/10th-12th-result/"
+										href="10th-12th-result/"
 										rel="category tag">10th/12th Result</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/sarkari-result/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="sarkari-result/"
 										rel="category tag">Results</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -225,7 +225,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/cu-jammu-research-associate-job/"
+												href="cu-jammu-research-associate-job/"
 												rel="prev">CU Jammu Recruitment 2023 Apply Field Investigator 11
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -237,7 +237,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/tn-board-sslc-1-hsc-result-2023/"
+												href="tn-board-sslc-1-hsc-result-2023/"
 												rel="next">TN 10th Result 2023 Check Tamilnadu Board SSLC &#038; HSC
 												Result Link</a></span></div>
 								</nav>
@@ -304,84 +304,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/esic-bihta-junior-resident-job/">ESIC Bihta
+								<a href="esic-bihta-junior-resident-job/">ESIC Bihta
 									Recruitment 2023 Direct Interview Jr Resident 18 Post</a>
 							</li>
 							<li>
 								<a
-									href="https://www.sarkariresult.app/isec-walk-in-interview-for-listers-mappers-post/">ISEC
+									href="isec-walk-in-interview-for-listers-mappers-post/">ISEC
 									Recruitment 2023 Walk In Interview for Listers, Mappers Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 						</ul>
@@ -566,7 +566,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+			href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

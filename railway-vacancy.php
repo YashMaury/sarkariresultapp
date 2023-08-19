@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/east-coast-railway-alp-recruitment-2023/"
+										href="east-coast-railway-alp-recruitment-2023/"
 										rel="bookmark">East Coast Railway Recruitment 2023 ALP, Manager, Tech 781
 										Post</a></h2>
 								<div class="entry-meta">
@@ -25,7 +25,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -39,7 +39,7 @@
 									Junior Engineer and Train Manager in &#8230; <a
 										title="East Coast Railway Recruitment 2023 ALP, Manager, Tech 781 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/east-coast-railway-alp-recruitment-2023/"
+										href="east-coast-railway-alp-recruitment-2023/"
 										aria-label="More on East Coast Railway Recruitment 2023 ALP, Manager, Tech 781 Post">Read
 										more</a></p>
 							</div>
@@ -50,10 +50,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -63,7 +63,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/east-coast-railway-alp-recruitment-2023/#respond">Leave
+										href="east-coast-railway-alp-recruitment-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -74,7 +74,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-western-railway-job/"
+										href="south-western-railway-job/"
 										rel="bookmark">South Western Railway Recruitment 2023 Technician, JE, ALP
 										Post</a></h2>
 								<div class="entry-meta">
@@ -83,7 +83,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -97,7 +97,7 @@
 									2 September 2023. South Western Railway invites applications for &#8230; <a
 										title="South Western Railway Recruitment 2023 Technician, JE, ALP Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-western-railway-job/"
+										href="south-western-railway-job/"
 										aria-label="More on South Western Railway Recruitment 2023 Technician, JE, ALP Post">Read
 										more</a></p>
 							</div>
@@ -108,10 +108,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -121,7 +121,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-western-railway-job/#respond">Leave a
+										href="south-western-railway-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -132,7 +132,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-eastern-railway-notification/"
+										href="rrc-eastern-railway-notification/"
 										rel="bookmark">Eastern Railway Recruitment 2023 Tech, ALP, JE, Guard 689
 										Post</a></h2>
 								<div class="entry-meta">
@@ -141,7 +141,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -155,7 +155,7 @@
 									is available from 9 August 2023 to 30 August 2023. &#8230; <a
 										title="Eastern Railway Recruitment 2023 Tech, ALP, JE, Guard 689 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-eastern-railway-notification/"
+										href="rrc-eastern-railway-notification/"
 										aria-label="More on Eastern Railway Recruitment 2023 Tech, ALP, JE, Guard 689 Post">Read
 										more</a></p>
 							</div>
@@ -166,10 +166,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -179,7 +179,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-eastern-railway-notification/#respond">Leave
+										href="rrc-eastern-railway-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -190,7 +190,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ncl-hemm-operator-recruitment/"
+										href="ncl-hemm-operator-recruitment/"
 										rel="bookmark">NCL HEMM Operator Recruitment 2023 Apply Online Trainee 338
 										Post</a></h2>
 								<div class="entry-meta">
@@ -200,7 +200,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -214,7 +214,7 @@
 									Grader Operator (Trainee) vacancies on a regular basis. The NCL Vacancy Notification
 									&#8230; <a title="NCL HEMM Operator Recruitment 2023 Apply Online Trainee 338 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ncl-hemm-operator-recruitment/"
+										href="ncl-hemm-operator-recruitment/"
 										aria-label="More on NCL HEMM Operator Recruitment 2023 Apply Online Trainee 338 Post">Read
 										more</a></p>
 							</div>
@@ -225,10 +225,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -238,7 +238,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ncl-hemm-operator-recruitment/#respond">Leave
+										href="ncl-hemm-operator-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -249,7 +249,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-apply-je-tech-alp-1303-post/"
+										href="central-railway-apply-je-tech-alp-1303-post/"
 										rel="bookmark">Central Railway Recruitment 2023 Apply JE, Tech, ALP 1303
 										Post</a></h2>
 								<div class="entry-meta">
@@ -259,7 +259,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -273,7 +273,7 @@
 									notification has announced 1303 vacancies for various posts &#8230; <a
 										title="Central Railway Recruitment 2023 Apply JE, Tech, ALP 1303 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-apply-je-tech-alp-1303-post/"
+										href="central-railway-apply-je-tech-alp-1303-post/"
 										aria-label="More on Central Railway Recruitment 2023 Apply JE, Tech, ALP 1303 Post">Read
 										more</a></p>
 							</div>
@@ -284,10 +284,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -297,7 +297,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-apply-je-tech-alp-1303-post/#respond">Leave
+										href="central-railway-apply-je-tech-alp-1303-post/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -308,7 +308,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-alp-recruitment/"
+										href="southern-railway-alp-recruitment/"
 										rel="bookmark">Southern Railway ALP Recruitment 2023 Apply Guard 790 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -317,7 +317,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -331,7 +331,7 @@
 									is available from 2 August 2023 to 30 August 2023. &#8230; <a
 										title="Southern Railway ALP Recruitment 2023 Apply Guard 790 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-alp-recruitment/"
+										href="southern-railway-alp-recruitment/"
 										aria-label="More on Southern Railway ALP Recruitment 2023 Apply Guard 790 Post">Read
 										more</a></p>
 							</div>
@@ -342,10 +342,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -355,7 +355,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-alp-recruitment/#respond">Leave
+										href="southern-railway-alp-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -366,7 +366,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-ncr-gdce-notification/"
+										href="rrc-ncr-gdce-notification/"
 										rel="bookmark">RRC NCR Recruitment 2023 JE, ALP, Tech, Train Manager 323
 										Post</a></h2>
 								<div class="entry-meta">
@@ -375,7 +375,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -389,7 +389,7 @@
 									and Junior Engineer vacancies &#8230; <a
 										title="RRC NCR Recruitment 2023 JE, ALP, Tech, Train Manager 323 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-ncr-gdce-notification/"
+										href="rrc-ncr-gdce-notification/"
 										aria-label="More on RRC NCR Recruitment 2023 JE, ALP, Tech, Train Manager 323 Post">Read
 										more</a></p>
 							</div>
@@ -400,10 +400,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -413,7 +413,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-ncr-gdce-notification/#respond">Leave a
+										href="rrc-ncr-gdce-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -424,7 +424,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-metro-recruitment/" rel="bookmark">MP
+										href="mp-metro-recruitment/" rel="bookmark">MP
 										Metro Recruitment 2023 Apply Now Asst, Supervisor 152 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -432,7 +432,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -445,7 +445,7 @@
 									Recruitment. No. 1935 on 21 July 2023 invites online applications for various posts
 									such as Supervisor, Maintenance, Store Assistant and Assistant in &#8230; <a
 										title="MP Metro Recruitment 2023 Apply Now Asst, Supervisor 152 Post"
-										class="read-more" href="https://www.sarkariresult.app/mp-metro-recruitment/"
+										class="read-more" href="mp-metro-recruitment/"
 										aria-label="More on MP Metro Recruitment 2023 Apply Now Asst, Supervisor 152 Post">Read
 										more</a></p>
 							</div>
@@ -456,10 +456,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -469,7 +469,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-metro-recruitment/#respond">Leave a
+										href="mp-metro-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -480,7 +480,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-secr-vacancy/" rel="bookmark">RRC SECR
+										href="rrc-secr-vacancy/" rel="bookmark">RRC SECR
 										Recruitment 2023 Apply Now JE, Technician, ALP 1016 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -488,7 +488,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -501,7 +501,7 @@
 									RRC SECR Recruitment 2023 of Assistant Loco Pilot, Technician, Junior Engineer
 									Vacancy at 1016 Posts in RRC SECR. Those &#8230; <a
 										title="RRC SECR Recruitment 2023 Apply Now JE, Technician, ALP 1016 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-secr-vacancy/"
+										class="read-more" href="rrc-secr-vacancy/"
 										aria-label="More on RRC SECR Recruitment 2023 Apply Now JE, Technician, ALP 1016 Post">Read
 										more</a></p>
 							</div>
@@ -512,10 +512,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -525,7 +525,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-secr-vacancy/#respond">Leave a
+										href="rrc-secr-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -536,7 +536,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-swr-trade-apprentice-online-form/"
+										href="rrc-swr-trade-apprentice-online-form/"
 										rel="bookmark">South Western Railway Recruitment 2023 Trade Apprentice 904
 										Post</a></h2>
 								<div class="entry-meta">
@@ -545,7 +545,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -559,7 +559,7 @@
 									website RRC SWR Jobs from &#8230; <a
 										title="South Western Railway Recruitment 2023 Trade Apprentice 904 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-swr-trade-apprentice-online-form/"
+										href="rrc-swr-trade-apprentice-online-form/"
 										aria-label="More on South Western Railway Recruitment 2023 Trade Apprentice 904 Post">Read
 										more</a></p>
 							</div>
@@ -570,10 +570,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -583,7 +583,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-swr-trade-apprentice-online-form/#respond">Leave
+										href="rrc-swr-trade-apprentice-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -594,7 +594,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-trade-apprentice-job/"
+										href="western-railway-trade-apprentice-job/"
 										rel="bookmark">Western Railway Recruitment 2023 Apply Trade Apprentice 3624
 										Post</a></h2>
 								<div class="entry-meta">
@@ -603,7 +603,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -617,7 +617,7 @@
 									website Western Railway Mumbai Jobs from 27 June &#8230; <a
 										title="Western Railway Recruitment 2023 Apply Trade Apprentice 3624 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/western-railway-trade-apprentice-job/"
+										href="western-railway-trade-apprentice-job/"
 										aria-label="More on Western Railway Recruitment 2023 Apply Trade Apprentice 3624 Post">Read
 										more</a></p>
 							</div>
@@ -628,10 +628,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -640,7 +640,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-trade-apprentice-job/#respond">Leave
+										href="western-railway-trade-apprentice-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -651,7 +651,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-trade-apprentices-job/"
+										href="irctc-trade-apprentices-job/"
 										rel="bookmark">IRCTC Recruitment 2023 Apply Online Trade Apprentices 25 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -660,7 +660,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -674,7 +674,7 @@
 									through the official website IRCTC Jobs from &#8230; <a
 										title="IRCTC Recruitment 2023 Apply Online Trade Apprentices 25 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-trade-apprentices-job/"
+										href="irctc-trade-apprentices-job/"
 										aria-label="More on IRCTC Recruitment 2023 Apply Online Trade Apprentices 25 Post">Read
 										more</a></p>
 							</div>
@@ -685,10 +685,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -697,7 +697,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-trade-apprentices-job/#respond">Leave
+										href="irctc-trade-apprentices-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -708,7 +708,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-alp-recruitment/" rel="bookmark">WCR ALP
+										href="wcr-alp-recruitment/" rel="bookmark">WCR ALP
 										Recruitment 2023 Apply Now Assistant Loco Pilot 279 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -716,7 +716,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -729,7 +729,7 @@
 									candidates who are interested in West Central Railway Recruitment 2023 apply online
 									through the &#8230; <a
 										title="WCR ALP Recruitment 2023 Apply Now Assistant Loco Pilot 279 Post"
-										class="read-more" href="https://www.sarkariresult.app/wcr-alp-recruitment/"
+										class="read-more" href="wcr-alp-recruitment/"
 										aria-label="More on WCR ALP Recruitment 2023 Apply Now Assistant Loco Pilot 279 Post">Read
 										more</a></p>
 							</div>
@@ -740,10 +740,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -753,7 +753,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-alp-recruitment/#respond">Leave a
+										href="wcr-alp-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -764,7 +764,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-sta-recruitment/"
+										href="southern-railway-sta-recruitment/"
 										rel="bookmark">Southern Railway Recruitment 2023 Sr Technical Associate 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -773,7 +773,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -787,7 +787,7 @@
 									through the official website of Southern Railway Jobs &#8230; <a
 										title="Southern Railway Recruitment 2023 Sr Technical Associate 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-sta-recruitment/"
+										href="southern-railway-sta-recruitment/"
 										aria-label="More on Southern Railway Recruitment 2023 Sr Technical Associate 15 Post">Read
 										more</a></p>
 							</div>
@@ -798,10 +798,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -811,7 +811,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-sta-recruitment/#respond">Leave
+										href="southern-railway-sta-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -822,7 +822,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway-jta-notification/"
+										href="south-central-railway-jta-notification/"
 										rel="bookmark">South Central Railway JTA Recruitment 2023 Application Form 35
 										Post</a></h2>
 								<div class="entry-meta">
@@ -831,7 +831,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -845,7 +845,7 @@
 									South Central Railway Jobs &#8230; <a
 										title="South Central Railway JTA Recruitment 2023 Application Form 35 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-central-railway-jta-notification/"
+										href="south-central-railway-jta-notification/"
 										aria-label="More on South Central Railway JTA Recruitment 2023 Application Form 35 Post">Read
 										more</a></p>
 							</div>
@@ -856,10 +856,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -869,7 +869,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway-jta-notification/#respond">Leave
+										href="south-central-railway-jta-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -880,7 +880,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-trade-apprentice-online-form/"
+										href="secr-trade-apprentice-online-form/"
 										rel="bookmark">SECR Trade Apprentice Recruitment 2023 Apply Now 772 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -889,7 +889,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -904,7 +904,7 @@
 									India has released the latest notification for the &#8230; <a
 										title="SECR Trade Apprentice Recruitment 2023 Apply Now 772 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/secr-trade-apprentice-online-form/"
+										href="secr-trade-apprentice-online-form/"
 										aria-label="More on SECR Trade Apprentice Recruitment 2023 Apply Now 772 Post">Read
 										more</a></p>
 							</div>
@@ -915,10 +915,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -928,7 +928,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-trade-apprentice-online-form/#respond">Leave
+										href="secr-trade-apprentice-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -939,7 +939,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-east-central-railway-apply-online/"
+										href="south-east-central-railway-apply-online/"
 										rel="bookmark">SECR Recruitment 2023 Apply Online Trade Apprentice 548 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -948,7 +948,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -963,7 +963,7 @@
 									SECR recruitment &#8230; <a
 										title="SECR Recruitment 2023 Apply Online Trade Apprentice 548 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-east-central-railway-apply-online/"
+										href="south-east-central-railway-apply-online/"
 										aria-label="More on SECR Recruitment 2023 Apply Online Trade Apprentice 548 Post">Read
 										more</a></p>
 							</div>
@@ -974,10 +974,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -986,7 +986,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-east-central-railway-apply-online/#respond">Leave
+										href="south-east-central-railway-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -997,7 +997,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gmrc-non-executive-job/"
+										href="gmrc-non-executive-job/"
 										rel="bookmark">Gujarat Metro Rail Recruitment 2023 Apply Non Executive 424
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1006,7 +1006,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1020,7 +1020,7 @@
 									Non-Executive (Junior Engineer, Station Controller/ Train Operator, Customer
 									Relations Assistant, Maintainer) Vacancy at &#8230; <a
 										title="Gujarat Metro Rail Recruitment 2023 Apply Non Executive 424 Post"
-										class="read-more" href="https://www.sarkariresult.app/gmrc-non-executive-job/"
+										class="read-more" href="gmrc-non-executive-job/"
 										aria-label="More on Gujarat Metro Rail Recruitment 2023 Apply Non Executive 424 Post">Read
 										more</a></p>
 							</div>
@@ -1031,10 +1031,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1043,7 +1043,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gmrc-non-executive-job/#respond">Leave a
+										href="gmrc-non-executive-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1054,7 +1054,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/icf-sports-quota-recruitment/"
+										href="icf-sports-quota-recruitment/"
 										rel="bookmark">ICF Sports Quota Recruitment 2023 Application Form 13 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -1063,7 +1063,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1077,7 +1077,7 @@
 									ICF Jobs &#8230; <a
 										title="ICF Sports Quota Recruitment 2023 Application Form 13 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/icf-sports-quota-recruitment/"
+										href="icf-sports-quota-recruitment/"
 										aria-label="More on ICF Sports Quota Recruitment 2023 Application Form 13 Posts">Read
 										more</a></p>
 							</div>
@@ -1088,10 +1088,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1100,7 +1100,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/icf-sports-quota-recruitment/#comments">1
+										href="icf-sports-quota-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1111,7 +1111,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mpmrcl-supervisor-job/"
+										href="mpmrcl-supervisor-job/"
 										rel="bookmark">MPMRCL Recruitment 2023 Apply Supervisor, Maintainer 57 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1120,7 +1120,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1133,7 +1133,7 @@
 									2023 of Supervisor, Senior Supervisor, Maintainer Vacancy at 57 posts. Candidates
 									who are interested in MPMRCL Supervisor Vacancy 2023 can apply through the &#8230;
 									<a title="MPMRCL Recruitment 2023 Apply Supervisor, Maintainer 57 Post"
-										class="read-more" href="https://www.sarkariresult.app/mpmrcl-supervisor-job/"
+										class="read-more" href="mpmrcl-supervisor-job/"
 										aria-label="More on MPMRCL Recruitment 2023 Apply Supervisor, Maintainer 57 Post">Read
 										more</a></p>
 							</div>
@@ -1144,10 +1144,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1156,7 +1156,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mpmrcl-supervisor-job/#respond">Leave a
+										href="mpmrcl-supervisor-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1167,7 +1167,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-station-controller-job/"
+										href="bmrcl-station-controller-job/"
 										rel="bookmark">BMRCL Recruitment 2023 Apply Online Train Operator 96 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1177,7 +1177,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1191,7 +1191,7 @@
 									interested in BMRCL Vacancy 2023 can apply through the official website of BMRCL
 									&#8230; <a title="BMRCL Recruitment 2023 Apply Online Train Operator 96 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bmrcl-station-controller-job/"
+										href="bmrcl-station-controller-job/"
 										aria-label="More on BMRCL Recruitment 2023 Apply Online Train Operator 96 Post">Read
 										more</a></p>
 							</div>
@@ -1202,10 +1202,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1214,7 +1214,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-station-controller-job/#respond">Leave
+										href="bmrcl-station-controller-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1225,7 +1225,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-ncr-jta-recruitment/" rel="bookmark">RRC
+										href="rrc-ncr-jta-recruitment/" rel="bookmark">RRC
 										NCR JTA Recruitment 2023 Apply Jr Technical Associate 15 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-05-12T23:55:17+05:30"
@@ -1234,7 +1234,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1247,7 +1247,7 @@
 									2023 of JTA &#8211; Junior Technical Associate Vacancy at 15 Posts in RRC NCR. Those
 									candidates who are &#8230; <a
 										title="RRC NCR JTA Recruitment 2023 Apply Jr Technical Associate 15 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-ncr-jta-recruitment/"
+										class="read-more" href="rrc-ncr-jta-recruitment/"
 										aria-label="More on RRC NCR JTA Recruitment 2023 Apply Jr Technical Associate 15 Post">Read
 										more</a></p>
 							</div>
@@ -1258,10 +1258,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1270,7 +1270,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-ncr-jta-recruitment/#respond">Leave a
+										href="rrc-ncr-jta-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1281,7 +1281,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-nwr-alp-recruitment/" rel="bookmark">RRC
+										href="rrc-nwr-alp-recruitment/" rel="bookmark">RRC
 										NWR ALP Recruitment 2023 RRC Jaipur Asst Loco Pilot 238 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-05-06T23:55:47+05:30"
@@ -1290,7 +1290,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1303,7 +1303,7 @@
 									RRC NWR Jaipur. Those candidates who are interested in RRC NWR ALP Recruitment 2023
 									apply through &#8230; <a
 										title="RRC NWR ALP Recruitment 2023 RRC Jaipur Asst Loco Pilot 238 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-nwr-alp-recruitment/"
+										class="read-more" href="rrc-nwr-alp-recruitment/"
 										aria-label="More on RRC NWR ALP Recruitment 2023 RRC Jaipur Asst Loco Pilot 238 Post">Read
 										more</a></p>
 							</div>
@@ -1314,10 +1314,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1326,7 +1326,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-nwr-alp-recruitment/#comments">6
+										href="rrc-nwr-alp-recruitment/#comments">6
 										Comments</a></span>
 							</footer>
 						</div>
@@ -1337,7 +1337,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-fireman-recruitment/"
+										href="bmrcl-fireman-recruitment/"
 										rel="bookmark">BMRCL ASO Recruitment 2023 Apply Online DCFO, DCSO 41 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1347,7 +1347,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1361,7 +1361,7 @@
 									Officer, Dy. Chief Security Officer, Deputy Chief Fire Officer Vacancy at 41 &#8230;
 									<a title="BMRCL ASO Recruitment 2023 Apply Online DCFO, DCSO 41 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bmrcl-fireman-recruitment/"
+										href="bmrcl-fireman-recruitment/"
 										aria-label="More on BMRCL ASO Recruitment 2023 Apply Online DCFO, DCSO 41 Post">Read
 										more</a></p>
 							</div>
@@ -1372,10 +1372,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1384,7 +1384,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-fireman-recruitment/#respond">Leave a
+										href="bmrcl-fireman-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1395,7 +1395,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrb-group-d-admit-card-download/"
+										href="rrb-group-d-admit-card-download/"
 										rel="bookmark">RRB Group D Fee Refund Link Update Railway RRC Group D (01/2019)
 										Fee Refund Date</a></h2>
 								<div class="entry-meta">
@@ -1404,7 +1404,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1417,7 +1417,7 @@
 									Refund 2023 with the help of below mentioned direct RRB Group D Fee Refund &#8230;
 									<a title="RRB Group D Fee Refund Link Update Railway RRC Group D (01/2019) Fee Refund Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrb-group-d-admit-card-download/"
+										href="rrb-group-d-admit-card-download/"
 										aria-label="More on RRB Group D Fee Refund Link Update Railway RRC Group D (01/2019) Fee Refund Date">Read
 										more</a></p>
 							</div>
@@ -1428,10 +1428,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1440,7 +1440,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrb-group-d-admit-card-download/#comments">3
+										href="rrb-group-d-admit-card-download/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -1451,7 +1451,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-job/"
+										href="irctc-hospitality-monitor-job/"
 										rel="bookmark">IRCTC Hospitality Monitor Recruitment 2023 Apply Now 48 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1461,7 +1461,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1475,7 +1475,7 @@
 									Monitor Vacancy 2023 can go to the IRCTC Walk-In-Interview on 3 &#8230; <a
 										title="IRCTC Hospitality Monitor Recruitment 2023 Apply Now 48 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-job/"
+										href="irctc-hospitality-monitor-job/"
 										aria-label="More on IRCTC Hospitality Monitor Recruitment 2023 Apply Now 48 Post">Read
 										more</a></p>
 							</div>
@@ -1486,10 +1486,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1498,7 +1498,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-job/#respond">Leave
+										href="irctc-hospitality-monitor-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1509,7 +1509,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-notification/"
+										href="irctc-hospitality-monitor-notification/"
 										rel="bookmark">IRCTC Recruitment 2023 Direct Interview Hospitality Monitor
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1519,7 +1519,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1533,7 +1533,7 @@
 									can go to the IRCTC Walk-In-Interview on 3 April &#8230; <a
 										title="IRCTC Recruitment 2023 Direct Interview Hospitality Monitor Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-notification/"
+										href="irctc-hospitality-monitor-notification/"
 										aria-label="More on IRCTC Recruitment 2023 Direct Interview Hospitality Monitor Post">Read
 										more</a></p>
 							</div>
@@ -1544,10 +1544,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1556,7 +1556,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-notification/#respond">Leave
+										href="irctc-hospitality-monitor-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1567,7 +1567,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/icf-vacancy/" rel="bookmark">ICF Recruitment
+										href="icf-vacancy/" rel="bookmark">ICF Recruitment
 										2023 Application Form Erstwhile Group-D 15 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-13T23:55:09+05:30"
@@ -1576,7 +1576,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1589,7 +1589,7 @@
 									Erstwhile Group-D (Sports Quota) Vacancy at 15 Posts. Those Candidates who are
 									interested in ICF Recruitment 2023 apply online through the official website &#8230;
 									<a title="ICF Recruitment 2023 Application Form Erstwhile Group-D 15 Post"
-										class="read-more" href="https://www.sarkariresult.app/icf-vacancy/"
+										class="read-more" href="icf-vacancy/"
 										aria-label="More on ICF Recruitment 2023 Application Form Erstwhile Group-D 15 Post">Read
 										more</a></p>
 							</div>
@@ -1600,10 +1600,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1611,7 +1611,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/icf-vacancy/#respond">Leave
+										</svg></span><a href="icf-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1622,7 +1622,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rail-coach-factory-sonipat/"
+										href="rail-coach-factory-sonipat/"
 										rel="bookmark">RCF Sonipat Recruitment 2023 Walk In Interview Pharmacist
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1632,7 +1632,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1646,7 +1646,7 @@
 									Sonipat Jobs Walk-in interview along with &#8230; <a
 										title="RCF Sonipat Recruitment 2023 Walk In Interview Pharmacist Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rail-coach-factory-sonipat/"
+										href="rail-coach-factory-sonipat/"
 										aria-label="More on RCF Sonipat Recruitment 2023 Walk In Interview Pharmacist Post">Read
 										more</a></p>
 							</div>
@@ -1657,10 +1657,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1669,7 +1669,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rail-coach-factory-sonipat/#respond">Leave a
+										href="rail-coach-factory-sonipat/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1680,7 +1680,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-para-medical-group-c-jobs/"
+										href="southern-railway-para-medical-group-c-jobs/"
 										rel="bookmark">Southern Railway Para Medical Recruitment 2023 Apply Group C
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1690,7 +1690,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1704,7 +1704,7 @@
 									at 02 posts. Candidates who are interested in Southern Railway Para &#8230; <a
 										title="Southern Railway Para Medical Recruitment 2023 Apply Group C Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-para-medical-group-c-jobs/"
+										href="southern-railway-para-medical-group-c-jobs/"
 										aria-label="More on Southern Railway Para Medical Recruitment 2023 Apply Group C Post">Read
 										more</a></p>
 							</div>
@@ -1715,10 +1715,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1727,7 +1727,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-para-medical-group-c-jobs/#respond">Leave
+										href="southern-railway-para-medical-group-c-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1738,7 +1738,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kmrl-trainee-recruitment/"
+										href="kmrl-trainee-recruitment/"
 										rel="bookmark">KMRL Trainee Recruitment 2023 Apply Online Fleet Manager 53
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1748,7 +1748,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1761,7 +1761,7 @@
 									recruitment 2023 of Boat Operations –Trainee, Fleet Manager, Manager (Finance),
 									Fleet Manager (Operations) Vacancy at 53 Posts. Candidates who are interested
 									&#8230; <a title="KMRL Trainee Recruitment 2023 Apply Online Fleet Manager 53 Post"
-										class="read-more" href="https://www.sarkariresult.app/kmrl-trainee-recruitment/"
+										class="read-more" href="kmrl-trainee-recruitment/"
 										aria-label="More on KMRL Trainee Recruitment 2023 Apply Online Fleet Manager 53 Post">Read
 										more</a></p>
 							</div>
@@ -1772,10 +1772,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1784,7 +1784,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kmrl-trainee-recruitment/#comments">1
+										href="kmrl-trainee-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1795,7 +1795,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rcf-kapurthala-trade-apprentice-apply-online/"
+										href="rcf-kapurthala-trade-apprentice-apply-online/"
 										rel="bookmark">RCF Kapurthala Recruitment 2023 Apply Trade Apprentice 550
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1805,7 +1805,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1819,7 +1819,7 @@
 									website RCF Kapurthala Jobs from 4 February &#8230; <a
 										title="RCF Kapurthala Recruitment 2023 Apply Trade Apprentice 550 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rcf-kapurthala-trade-apprentice-apply-online/"
+										href="rcf-kapurthala-trade-apprentice-apply-online/"
 										aria-label="More on RCF Kapurthala Recruitment 2023 Apply Trade Apprentice 550 Post">Read
 										more</a></p>
 							</div>
@@ -1830,10 +1830,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1842,7 +1842,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rcf-kapurthala-trade-apprentice-apply-online/#respond">Leave
+										href="rcf-kapurthala-trade-apprentice-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1853,7 +1853,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/west-central-railway-vacancy/"
+										href="west-central-railway-vacancy/"
 										rel="bookmark">West Central Railway Recruitment 2023 Apply Now JTA, STA 30
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1863,7 +1863,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1877,7 +1877,7 @@
 									at 30 posts. Those interested in WCR JTA Recruitment can apply through &#8230; <a
 										title="West Central Railway Recruitment 2023 Apply Now JTA, STA 30 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/west-central-railway-vacancy/"
+										href="west-central-railway-vacancy/"
 										aria-label="More on West Central Railway Recruitment 2023 Apply Now JTA, STA 30 Post">Read
 										more</a></p>
 							</div>
@@ -1888,10 +1888,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1900,7 +1900,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/west-central-railway-vacancy/#respond">Leave
+										href="west-central-railway-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1911,7 +1911,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rwf-trade-apprentice-vacancy/"
+										href="rwf-trade-apprentice-vacancy/"
 										rel="bookmark">Rail Wheel Factory Recruitment 2023 Trade Apprentice 192
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -1921,7 +1921,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1936,7 +1936,7 @@
 									Electrician, Electronic Mechanic) &#8230; <a
 										title="Rail Wheel Factory Recruitment 2023 Trade Apprentice 192 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rwf-trade-apprentice-vacancy/"
+										href="rwf-trade-apprentice-vacancy/"
 										aria-label="More on Rail Wheel Factory Recruitment 2023 Trade Apprentice 192 Posts">Read
 										more</a></p>
 							</div>
@@ -1947,10 +1947,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1959,7 +1959,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rwf-trade-apprentice-vacancy/#comments">1
+										href="rwf-trade-apprentice-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1970,7 +1970,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-eastern-railway-apprentice-job/"
+										href="south-eastern-railway-apprentice-job/"
 										rel="bookmark">South Eastern Railway Apprentice Recruitment 2023 Apply Now 1785
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1980,7 +1980,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1994,7 +1994,7 @@
 									Eastern Railway Jobs from 27 December 2022 &#8230; <a
 										title="South Eastern Railway Apprentice Recruitment 2023 Apply Now 1785 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-eastern-railway-apprentice-job/"
+										href="south-eastern-railway-apprentice-job/"
 										aria-label="More on South Eastern Railway Apprentice Recruitment 2023 Apply Now 1785 Post">Read
 										more</a></p>
 							</div>
@@ -2005,10 +2005,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2017,7 +2017,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-eastern-railway-apprentice-job/#respond">Leave
+										href="south-eastern-railway-apprentice-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2028,7 +2028,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-vacancy/" rel="bookmark">BMRCL
+										href="bmrcl-vacancy/" rel="bookmark">BMRCL
 										Recruitment 2023 Apply Online AGM, DGM, Manager 17 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-04-12T17:07:30+05:30"
@@ -2037,7 +2037,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2051,7 +2051,7 @@
 									for the BMRCL Recruitment 2023 of General Manager, Additional General Manager,
 									Deputy General Manager, Assistant &#8230; <a
 										title="BMRCL Recruitment 2023 Apply Online AGM, DGM, Manager 17 Post"
-										class="read-more" href="https://www.sarkariresult.app/bmrcl-vacancy/"
+										class="read-more" href="bmrcl-vacancy/"
 										aria-label="More on BMRCL Recruitment 2023 Apply Online AGM, DGM, Manager 17 Post">Read
 										more</a></p>
 							</div>
@@ -2062,10 +2062,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2074,7 +2074,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-vacancy/#respond">Leave a
+										href="bmrcl-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2085,7 +2085,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-north-western-railway-jobs/"
+										href="rrc-north-western-railway-jobs/"
 										rel="bookmark">North Western Railway Recruitment 2023 Apply Apprentice 2026
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2095,7 +2095,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2109,7 +2109,7 @@
 									official website of North Western Railway Jobs from &#8230; <a
 										title="North Western Railway Recruitment 2023 Apply Apprentice 2026 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-north-western-railway-jobs/"
+										href="rrc-north-western-railway-jobs/"
 										aria-label="More on North Western Railway Recruitment 2023 Apply Apprentice 2026 Post">Read
 										more</a></p>
 							</div>
@@ -2120,10 +2120,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2132,7 +2132,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-north-western-railway-jobs/#comments">2
+										href="rrc-north-western-railway-jobs/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2143,7 +2143,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gmrc-technician-apprentice-recruitment/"
+										href="gmrc-technician-apprentice-recruitment/"
 										rel="bookmark">Gujarat Metro Rail Recruitment 2023 Technician Apprentice 45
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2153,7 +2153,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2168,7 +2168,7 @@
 									Technician Apprentice  Vacancy &#8230; <a
 										title="Gujarat Metro Rail Recruitment 2023 Technician Apprentice 45 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gmrc-technician-apprentice-recruitment/"
+										href="gmrc-technician-apprentice-recruitment/"
 										aria-label="More on Gujarat Metro Rail Recruitment 2023 Technician Apprentice 45 Post">Read
 										more</a></p>
 							</div>
@@ -2179,10 +2179,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2191,7 +2191,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gmrc-technician-apprentice-recruitment/#respond">Leave
+										href="gmrc-technician-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2202,7 +2202,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-jta-vacancy/"
+										href="central-railway-jta-vacancy/"
 										rel="bookmark">Central Railway JTA Recruitment 2023 Jr Technical Associate
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2211,7 +2211,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2225,7 +2225,7 @@
 									cr.indianrailways.gov.in through the official website Central &#8230; <a
 										title="Central Railway JTA Recruitment 2023 Jr Technical Associate Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-jta-vacancy/"
+										href="central-railway-jta-vacancy/"
 										aria-label="More on Central Railway JTA Recruitment 2023 Jr Technical Associate Post">Read
 										more</a></p>
 							</div>
@@ -2236,10 +2236,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2248,7 +2248,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-jta-vacancy/#respond">Leave
+										href="central-railway-jta-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2259,7 +2259,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrb-ntpc-aptitude-test-admit-card/"
+										href="rrb-ntpc-aptitude-test-admit-card/"
 										rel="bookmark">Railway RRB NTPC CEN 01/2019 DV Test Admit Card 2023 Download
 										Link here</a></h2>
 								<div class="entry-meta">
@@ -2268,7 +2268,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2281,7 +2281,7 @@
 									Test Date as well as Railway RRB NTPC 2019 DV &#8230; <a
 										title="Railway RRB NTPC CEN 01/2019 DV Test Admit Card 2023 Download Link here"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrb-ntpc-aptitude-test-admit-card/"
+										href="rrb-ntpc-aptitude-test-admit-card/"
 										aria-label="More on Railway RRB NTPC CEN 01/2019 DV Test Admit Card 2023 Download Link here">Read
 										more</a></p>
 							</div>
@@ -2292,10 +2292,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2304,7 +2304,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrb-ntpc-aptitude-test-admit-card/#respond">Leave
+										href="rrb-ntpc-aptitude-test-admit-card/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2315,7 +2315,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-sports-quota-apply-online/"
+										href="southern-railway-sports-quota-apply-online/"
 										rel="bookmark">Southern Railway Sports Quota Recruitment 2023 Apply Now 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2324,7 +2324,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2338,7 +2338,7 @@
 									official website of Southern Railway &#8230; <a
 										title="Southern Railway Sports Quota Recruitment 2023 Apply Now 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-sports-quota-apply-online/"
+										href="southern-railway-sports-quota-apply-online/"
 										aria-label="More on Southern Railway Sports Quota Recruitment 2023 Apply Now 21 Post">Read
 										more</a></p>
 							</div>
@@ -2349,10 +2349,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2361,7 +2361,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-sports-quota-apply-online/#comments">3
+										href="southern-railway-sports-quota-apply-online/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2372,7 +2372,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-scr-apprentice-recruitment/"
+										href="rrc-scr-apprentice-recruitment/"
 										rel="bookmark">RRC SCR Apprentice Recruitment 2023 Online Application 4103
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -2382,7 +2382,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2396,7 +2396,7 @@
 									through the official website of RRC SCR Jobs &#8230; <a
 										title="RRC SCR Apprentice Recruitment 2023  Online Application 4103 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-scr-apprentice-recruitment/"
+										href="rrc-scr-apprentice-recruitment/"
 										aria-label="More on RRC SCR Apprentice Recruitment 2023  Online Application 4103 Posts">Read
 										more</a></p>
 							</div>
@@ -2407,10 +2407,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2419,7 +2419,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-scr-apprentice-recruitment/#respond">Leave
+										href="rrc-scr-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2430,7 +2430,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/"
+										href="krcl-technical-assistant-recruitment/"
 										rel="bookmark">KRCL Technical Assistant Recruitment 2023 Direct Interview 41
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2439,7 +2439,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2454,7 +2454,7 @@
 									Candidates &#8230; <a
 										title="KRCL Technical Assistant Recruitment 2023 Direct Interview 41 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/"
+										href="krcl-technical-assistant-recruitment/"
 										aria-label="More on KRCL Technical Assistant Recruitment 2023 Direct Interview 41 Post">Read
 										more</a></p>
 							</div>
@@ -2465,12 +2465,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2479,7 +2479,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/#respond">Leave
+										href="krcl-technical-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2490,7 +2490,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-apprentice-trainee-apply-jobs/"
+										href="irctc-apprentice-trainee-apply-jobs/"
 										rel="bookmark">IRCTC Apprentice Trainee Recruitment 2023 Apply Now COPA 25
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2500,7 +2500,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2514,7 +2514,7 @@
 									(COPA) Vacancies at 25 Posts. Those candidates who are interested in IRCTC &#8230;
 									<a title="IRCTC Apprentice Trainee Recruitment 2023 Apply Now COPA 25 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-apprentice-trainee-apply-jobs/"
+										href="irctc-apprentice-trainee-apply-jobs/"
 										aria-label="More on IRCTC Apprentice Trainee Recruitment 2023 Apply Now COPA 25 Post">Read
 										more</a></p>
 							</div>
@@ -2525,10 +2525,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2537,7 +2537,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-apprentice-trainee-apply-jobs/#respond">Leave
+										href="irctc-apprentice-trainee-apply-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2548,7 +2548,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-metro-rail-vacancy/"
+										href="gujarat-metro-rail-vacancy/"
 										rel="bookmark">Gujarat Metro Rail Recruitment 2023 Manager, Engineer 56 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2557,7 +2557,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2572,7 +2572,7 @@
 									Dec-2022/ &#8230; <a
 										title="Gujarat Metro Rail Recruitment 2023 Manager, Engineer 56 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-metro-rail-vacancy/"
+										href="gujarat-metro-rail-vacancy/"
 										aria-label="More on Gujarat Metro Rail Recruitment 2023 Manager, Engineer 56 Post">Read
 										more</a></p>
 							</div>
@@ -2583,10 +2583,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2595,7 +2595,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-metro-rail-vacancy/#comments">1
+										href="gujarat-metro-rail-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2606,7 +2606,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northern-railway-group-c-d-recruitment/"
+										href="northern-railway-group-c-d-recruitment/"
 										rel="bookmark">Northern Railway Group C &#038; D Recruitment 2023 Apply Online
 										25 Post</a></h2>
 								<div class="entry-meta">
@@ -2615,7 +2615,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2629,7 +2629,7 @@
 									Northern &#8230; <a
 										title="Northern Railway Group C &#038; D Recruitment 2023 Apply Online 25 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/northern-railway-group-c-d-recruitment/"
+										href="northern-railway-group-c-d-recruitment/"
 										aria-label="More on Northern Railway Group C &#038; D Recruitment 2023 Apply Online 25 Post">Read
 										more</a></p>
 							</div>
@@ -2640,10 +2640,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2652,7 +2652,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northern-railway-group-c-d-recruitment/#respond">Leave
+										href="northern-railway-group-c-d-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2663,7 +2663,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-notification/"
+										href="konkan-railway-notification/"
 										rel="bookmark">KRCL Recruitment 2023 Walk In Interview Account Manager Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -2672,7 +2672,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2686,7 +2686,7 @@
 									Recruitment 2023 can go to the interview on 11 &#8230; <a
 										title="KRCL Recruitment 2023 Walk In Interview Account Manager Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/konkan-railway-notification/"
+										href="konkan-railway-notification/"
 										aria-label="More on KRCL Recruitment 2023 Walk In Interview Account Manager Posts">Read
 										more</a></p>
 							</div>
@@ -2697,11 +2697,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2710,7 +2710,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-notification/#respond">Leave
+										href="konkan-railway-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2721,7 +2721,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-central-railway-apprentice-recruitment/"
+										href="rrc-central-railway-apprentice-recruitment/"
 										rel="bookmark">Central Railway Apprentice Recruitment 2023 Apply Now 2422
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2730,7 +2730,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2744,7 +2744,7 @@
 									Railway Jobs from 21 December 2022 to 15 &#8230; <a
 										title="Central Railway Apprentice Recruitment 2023 Apply Now 2422 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-central-railway-apprentice-recruitment/"
+										href="rrc-central-railway-apprentice-recruitment/"
 										aria-label="More on Central Railway Apprentice Recruitment 2023 Apply Now 2422 Post">Read
 										more</a></p>
 							</div>
@@ -2755,10 +2755,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2767,7 +2767,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-central-railway-apprentice-recruitment/#respond">Leave
+										href="rrc-central-railway-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2778,7 +2778,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jaipur-metro-recruitment-apply/"
+										href="jaipur-metro-recruitment-apply/"
 										rel="bookmark">Jaipur Metro Recruitment 2022 Apply Now Patwari, Tehsildar 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2787,7 +2787,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2802,7 +2802,7 @@
 									Director, &#8230; <a
 										title="Jaipur Metro Recruitment 2022 Apply Now Patwari, Tehsildar 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jaipur-metro-recruitment-apply/"
+										href="jaipur-metro-recruitment-apply/"
 										aria-label="More on Jaipur Metro Recruitment 2022 Apply Now Patwari, Tehsildar 22 Post">Read
 										more</a></p>
 							</div>
@@ -2813,10 +2813,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2825,7 +2825,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jaipur-metro-recruitment-apply/#comments">1
+										href="jaipur-metro-recruitment-apply/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2836,7 +2836,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mumbai-metro-recruitment/"
+										href="mumbai-metro-recruitment/"
 										rel="bookmark">MMRCL Recruitment 2023 Apply Manager, GM, DGM, Director 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2846,7 +2846,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2859,7 +2859,7 @@
 									Limited has released the latest notification recruitment Advertisement 2022 – 02
 									&amp; Recruitment Advertisement 2022 – 03 for the MMRCL &#8230; <a
 										title="MMRCL Recruitment 2023 Apply Manager, GM, DGM, Director 21 Post"
-										class="read-more" href="https://www.sarkariresult.app/mumbai-metro-recruitment/"
+										class="read-more" href="mumbai-metro-recruitment/"
 										aria-label="More on MMRCL Recruitment 2023 Apply Manager, GM, DGM, Director 21 Post">Read
 										more</a></p>
 							</div>
@@ -2870,11 +2870,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2883,7 +2883,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mumbai-metro-recruitment/#respond">Leave a
+										href="mumbai-metro-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2894,7 +2894,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-railway-notification/"
+										href="north-eastern-railway-notification/"
 										rel="bookmark">North Eastern Railway Recruitment 2022 Apply Sports Quota 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2903,7 +2903,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2917,7 +2917,7 @@
 									through the official &#8230; <a
 										title="North Eastern Railway Recruitment 2022 Apply Sports Quota 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-railway-notification/"
+										href="north-eastern-railway-notification/"
 										aria-label="More on North Eastern Railway Recruitment 2022 Apply Sports Quota 21 Post">Read
 										more</a></p>
 							</div>
@@ -2928,10 +2928,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2940,7 +2940,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-railway-notification/#respond">Leave
+										href="north-eastern-railway-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2951,7 +2951,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-western-railway-hubballi/"
+										href="south-western-railway-hubballi/"
 										rel="bookmark">South Western Railway Recruitment 2022 Apply Group C &#038; D
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2961,7 +2961,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2975,7 +2975,7 @@
 									Railway &#8230; <a
 										title="South Western Railway Recruitment 2022 Apply Group C &#038; D Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-western-railway-hubballi/"
+										href="south-western-railway-hubballi/"
 										aria-label="More on South Western Railway Recruitment 2022 Apply Group C &#038; D Post">Read
 										more</a></p>
 							</div>
@@ -2986,10 +2986,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2998,7 +2998,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-western-railway-hubballi/#respond">Leave
+										href="south-western-railway-hubballi/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3009,7 +3009,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-nwr-vacancy/" rel="bookmark">RRC NWR
+										href="rrc-nwr-vacancy/" rel="bookmark">RRC NWR
 										Recruitment 2022 Group C &#038; D Helper, Clerk Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3017,7 +3017,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3029,7 +3029,7 @@
 									recruitment 2022 of Group C &amp; D (Helper, Clerk) Vacancy at 10 posts. Those
 									candidates who are interested in North Western Railway Group C &amp; D Recruitment
 									&#8230; <a title="RRC NWR Recruitment 2022 Group C &#038; D Helper, Clerk Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-nwr-vacancy/"
+										class="read-more" href="rrc-nwr-vacancy/"
 										aria-label="More on RRC NWR Recruitment 2022 Group C &#038; D Helper, Clerk Post">Read
 										more</a></p>
 							</div>
@@ -3040,10 +3040,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3051,7 +3051,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/rrc-nwr-vacancy/#comments">1
+										</svg></span><a href="rrc-nwr-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -3062,7 +3062,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-wcr-apprentice-recruitment/"
+										href="rrc-wcr-apprentice-recruitment/"
 										rel="bookmark">RRC WCR Apprentice Recruitment 2022 Apply Online 2521 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3072,7 +3072,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3086,7 +3086,7 @@
 									Jobs from 18 November 2022 &#8230; <a
 										title="RRC WCR Apprentice Recruitment 2022 Apply Online 2521 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-wcr-apprentice-recruitment/"
+										href="rrc-wcr-apprentice-recruitment/"
 										aria-label="More on RRC WCR Apprentice Recruitment 2022 Apply Online 2521 Posts">Read
 										more</a></p>
 							</div>
@@ -3097,10 +3097,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span>
 							</footer>
 						</div>
@@ -3111,7 +3111,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-eastern-railway-sports-quota-recruitment/"
+										href="south-eastern-railway-sports-quota-recruitment/"
 										rel="bookmark">South Eastern Railway Recruitment 2022 Apply Sports Quota 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3121,7 +3121,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3135,7 +3135,7 @@
 									candidates who are interested in South Eastern &#8230; <a
 										title="South Eastern Railway Recruitment 2022 Apply Sports Quota 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-eastern-railway-sports-quota-recruitment/"
+										href="south-eastern-railway-sports-quota-recruitment/"
 										aria-label="More on South Eastern Railway Recruitment 2022 Apply Sports Quota 21 Post">Read
 										more</a></p>
 							</div>
@@ -3146,10 +3146,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3158,7 +3158,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-eastern-railway-sports-quota-recruitment/#respond">Leave
+										href="south-eastern-railway-sports-quota-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3169,7 +3169,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway-online-form/"
+										href="south-central-railway-online-form/"
 										rel="bookmark">South Central Railway Recruitment 2022 Apply Tech III 17 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3178,7 +3178,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3192,7 +3192,7 @@
 									the official website South Central Railway Jobs &#8230; <a
 										title="South Central Railway Recruitment 2022 Apply Tech III 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-central-railway-online-form/"
+										href="south-central-railway-online-form/"
 										aria-label="More on South Central Railway Recruitment 2022 Apply Tech III 17 Post">Read
 										more</a></p>
 							</div>
@@ -3203,10 +3203,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3215,7 +3215,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway-online-form/#respond">Leave
+										href="south-central-railway-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3226,7 +3226,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-wr-vacancy/" rel="bookmark">Western
+										href="rrc-wr-vacancy/" rel="bookmark">Western
 										Railway Recruitment 2022 Apply Online 14 Level 1 &#038; 2 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3234,7 +3234,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3247,7 +3247,7 @@
 									(Gr.C ) &amp; Level 2 (Erstwhile Gr.D) against Scouts &amp; Guides Quota for the
 									year 2022-23 Vacancy at &#8230; <a
 										title="Western Railway Recruitment 2022 Apply Online 14 Level 1 &#038; 2 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-wr-vacancy/"
+										class="read-more" href="rrc-wr-vacancy/"
 										aria-label="More on Western Railway Recruitment 2022 Apply Online 14 Level 1 &#038; 2 Post">Read
 										more</a></p>
 							</div>
@@ -3258,10 +3258,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3270,7 +3270,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-wr-vacancy/#respond">Leave a
+										href="rrc-wr-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3281,7 +3281,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-north-eastern-railway-recruitment/"
+										href="rrc-north-eastern-railway-recruitment/"
 										rel="bookmark">North Eastern Railway Recruitment 2022 Apply Group C &#038; D
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3290,7 +3290,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3304,7 +3304,7 @@
 									Recruitment &#8230; <a
 										title="North Eastern Railway Recruitment 2022 Apply Group C &#038; D Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-north-eastern-railway-recruitment/"
+										href="rrc-north-eastern-railway-recruitment/"
 										aria-label="More on North Eastern Railway Recruitment 2022 Apply Group C &#038; D Post">Read
 										more</a></p>
 							</div>
@@ -3315,10 +3315,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3327,7 +3327,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-north-eastern-railway-recruitment/#respond">Leave
+										href="rrc-north-eastern-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3338,7 +3338,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-central-railway-vacancy/"
+										href="rrc-central-railway-vacancy/"
 										rel="bookmark">RRC Central Railway Recruitment 2022 Apply Now 596 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3346,7 +3346,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3360,7 +3360,7 @@
 									of Stenographer, Sr Comml Clerk Cum Ticket Clerk, &#8230; <a
 										title="RRC Central Railway Recruitment 2022 Apply Now 596 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-central-railway-vacancy/"
+										href="rrc-central-railway-vacancy/"
 										aria-label="More on RRC Central Railway Recruitment 2022 Apply Now 596 Post">Read
 										more</a></p>
 							</div>
@@ -3371,10 +3371,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3383,7 +3383,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-central-railway-vacancy/#comments">3
+										href="rrc-central-railway-vacancy/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3394,7 +3394,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-metro-bharti/" rel="bookmark">UP Metro
+										href="up-metro-bharti/" rel="bookmark">UP Metro
 										Recruitment 2022 JE, Assistant, Asst Manager 162 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3402,7 +3402,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3415,7 +3415,7 @@
 									Manager (Civil), Assistant Manager (Electrical), Assistant Manager (S&amp;T),
 									Assistant Manager (Accounts), JE (Civil), JE (Electrical), JE (S&amp;T), Account
 									&#8230; <a title="UP Metro Recruitment 2022 JE, Assistant, Asst Manager 162 Post"
-										class="read-more" href="https://www.sarkariresult.app/up-metro-bharti/"
+										class="read-more" href="up-metro-bharti/"
 										aria-label="More on UP Metro Recruitment 2022 JE, Assistant, Asst Manager 162 Post">Read
 										more</a></p>
 							</div>
@@ -3426,10 +3426,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3438,7 +3438,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-metro-bharti/#respond">Leave a
+										href="up-metro-bharti/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3449,7 +3449,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/115720-2/" rel="bookmark">KMRL Recruitment
+										href="115720-2/" rel="bookmark">KMRL Recruitment
 										2022 Boat Master, Operator, Assistant 39 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3457,7 +3457,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3470,7 +3470,7 @@
 									of Boat Master, Boat Operator, Boat Assistant, Manager &amp; Assistant Vacancy at 39
 									Posts in KMRL Jobs. Those Candidates who &#8230; <a
 										title="KMRL Recruitment 2022 Boat Master, Operator, Assistant 39 Post"
-										class="read-more" href="https://www.sarkariresult.app/115720-2/"
+										class="read-more" href="115720-2/"
 										aria-label="More on KMRL Recruitment 2022 Boat Master, Operator, Assistant 39 Post">Read
 										more</a></p>
 							</div>
@@ -3481,10 +3481,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3492,7 +3492,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/115720-2/#respond">Leave a
+										</svg></span><a href="115720-2/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3503,7 +3503,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/plw-recruitment/" rel="bookmark">PLW
+										href="plw-recruitment/" rel="bookmark">PLW
 										Recruitment 2022 Apply Online 311 Trade Apprentice Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3511,7 +3511,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3524,7 +3524,7 @@
 									Locomotive Work Recruitment 2022 can apply online through the official website of
 									PLW Patiala Jobs from 17 October 2022 &#8230; <a
 										title="PLW Recruitment 2022 Apply Online 311 Trade Apprentice Post"
-										class="read-more" href="https://www.sarkariresult.app/plw-recruitment/"
+										class="read-more" href="plw-recruitment/"
 										aria-label="More on PLW Recruitment 2022 Apply Online 311 Trade Apprentice Post">Read
 										more</a></p>
 							</div>
@@ -3535,10 +3535,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3547,7 +3547,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/plw-recruitment/#respond">Leave a
+										href="plw-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3558,7 +3558,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-apprentice-trainee-recruitment/"
+										href="irctc-apprentice-trainee-recruitment/"
 										rel="bookmark">IRCTC Recruitment 2022 Apply Online Apprentice Trainee 80
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3567,7 +3567,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3582,7 +3582,7 @@
 									official &#8230; <a
 										title="IRCTC Recruitment 2022 Apply Online Apprentice Trainee 80 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-apprentice-trainee-recruitment/"
+										href="irctc-apprentice-trainee-recruitment/"
 										aria-label="More on IRCTC Recruitment 2022 Apply Online Apprentice Trainee 80 Post">Read
 										more</a></p>
 							</div>
@@ -3593,10 +3593,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3605,7 +3605,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-apprentice-trainee-recruitment/#respond">Leave
+										href="irctc-apprentice-trainee-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3616,7 +3616,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nfr-recruitment/" rel="bookmark">Northeast
+										href="nfr-recruitment/" rel="bookmark">Northeast
 										Frontier Railway Recruitment 2022 Sports Quota 16 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -3624,7 +3624,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3637,7 +3637,7 @@
 									Railway Recruitment 2022 apply online to through the official website
 									nfr.indianrailways.gov.in NFR Jobs from 8 October 2022 &#8230; <a
 										title="Northeast Frontier Railway Recruitment 2022 Sports Quota 16 Post"
-										class="read-more" href="https://www.sarkariresult.app/nfr-recruitment/"
+										class="read-more" href="nfr-recruitment/"
 										aria-label="More on Northeast Frontier Railway Recruitment 2022 Sports Quota 16 Post">Read
 										more</a></p>
 							</div>
@@ -3648,10 +3648,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3660,7 +3660,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nfr-recruitment/#respond">Leave a
+										href="nfr-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3671,7 +3671,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-sports-quota-recruitment/"
+										href="southern-railway-sports-quota-recruitment/"
 										rel="bookmark">Southern Railway Recruitment 2022 Apply Sports Quota Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3680,7 +3680,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3694,7 +3694,7 @@
 									2022 apply online through &#8230; <a
 										title="Southern Railway Recruitment 2022 Apply Sports Quota Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-sports-quota-recruitment/"
+										href="southern-railway-sports-quota-recruitment/"
 										aria-label="More on Southern Railway Recruitment 2022 Apply Sports Quota Posts">Read
 										more</a></p>
 							</div>
@@ -3705,10 +3705,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3717,7 +3717,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-sports-quota-recruitment/#respond">Leave
+										href="southern-railway-sports-quota-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3728,7 +3728,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-apprentice-apply-online/"
+										href="southern-railway-apprentice-apply-online/"
 										rel="bookmark">Southern Railway Recruitment 2022 Apply 3154 Apprentice Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3737,7 +3737,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3751,7 +3751,7 @@
 									the official website Southern Railway Jobs &#8230; <a
 										title="Southern Railway Recruitment 2022 Apply 3154 Apprentice Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-apprentice-apply-online/"
+										href="southern-railway-apprentice-apply-online/"
 										aria-label="More on Southern Railway Recruitment 2022 Apply 3154 Apprentice Post">Read
 										more</a></p>
 							</div>
@@ -3762,10 +3762,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3774,7 +3774,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-apprentice-apply-online/#respond">Leave
+										href="southern-railway-apprentice-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3785,7 +3785,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/eastern-railway-apprentice-vacancy/"
+										href="eastern-railway-apprentice-vacancy/"
 										rel="bookmark">Eastern Railway Apprentice Recruitment 2022 Apply Now 3115
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3794,7 +3794,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3809,7 +3809,7 @@
 									Eastern &#8230; <a
 										title="Eastern Railway Apprentice Recruitment 2022 Apply Now 3115 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/eastern-railway-apprentice-vacancy/"
+										href="eastern-railway-apprentice-vacancy/"
 										aria-label="More on Eastern Railway Apprentice Recruitment 2022 Apply Now 3115 Post">Read
 										more</a></p>
 							</div>
@@ -3820,10 +3820,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3832,7 +3832,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/eastern-railway-apprentice-vacancy/#respond">Leave
+										href="eastern-railway-apprentice-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3843,7 +3843,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kmrl-recruitment/" rel="bookmark">KMRL
+										href="kmrl-recruitment/" rel="bookmark">KMRL
 										Recruitment 2022 Online Application Form Apprentice 35 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-10-08T11:32:19+05:30"
@@ -3852,7 +3852,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3865,7 +3865,7 @@
 									KMRL Apprentice Recruitment 2022 apply through the official website KMRL Jobs from
 									23 September 2022 to &#8230; <a
 										title="KMRL Recruitment 2022 Online Application Form Apprentice 35 Post"
-										class="read-more" href="https://www.sarkariresult.app/kmrl-recruitment/"
+										class="read-more" href="kmrl-recruitment/"
 										aria-label="More on KMRL Recruitment 2022 Online Application Form Apprentice 35 Post">Read
 										more</a></p>
 							</div>
@@ -3876,10 +3876,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3888,7 +3888,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kmrl-recruitment/#respond">Leave a
+										href="kmrl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3899,7 +3899,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kochi-water-metro-recruitment/"
+										href="kochi-water-metro-recruitment/"
 										rel="bookmark">Kochi Water Metro Recruitment 2022 Manager, Engineer, Asst 11
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3908,7 +3908,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3922,7 +3922,7 @@
 									Engineer (Electrical), Assistant (Electrical) Vacancy at 11 posts. Those &#8230; <a
 										title="Kochi Water Metro Recruitment 2022 Manager, Engineer, Asst 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kochi-water-metro-recruitment/"
+										href="kochi-water-metro-recruitment/"
 										aria-label="More on Kochi Water Metro Recruitment 2022 Manager, Engineer, Asst 11 Post">Read
 										more</a></p>
 							</div>
@@ -3933,10 +3933,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3945,7 +3945,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kochi-water-metro-recruitment/#respond">Leave
+										href="kochi-water-metro-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3956,7 +3956,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cmrl-manager-recruitment/"
+										href="cmrl-manager-recruitment/"
 										rel="bookmark">CMRL GM Recruitment 2022 Apply Online Form JGM, DGM Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3965,7 +3965,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3978,7 +3978,7 @@
 									Vacancies at 03 Posts. Those candidates who are interested in CMRL Manager
 									Recruitment 2022 apply online through &#8230; <a
 										title="CMRL GM Recruitment 2022 Apply Online Form JGM, DGM Posts"
-										class="read-more" href="https://www.sarkariresult.app/cmrl-manager-recruitment/"
+										class="read-more" href="cmrl-manager-recruitment/"
 										aria-label="More on CMRL GM Recruitment 2022 Apply Online Form JGM, DGM Posts">Read
 										more</a></p>
 							</div>
@@ -3989,10 +3989,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4001,7 +4001,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cmrl-manager-recruitment/#respond">Leave a
+										href="cmrl-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4012,7 +4012,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maha-metro-jobs/" rel="bookmark">MAHA Metro
+										href="maha-metro-jobs/" rel="bookmark">MAHA Metro
 										Recruitment 2022 DGM, Manager, Engineer, Asst 23 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-09-22T16:12:47+05:30"
@@ -4021,7 +4021,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4035,7 +4035,7 @@
 									Metro Rail Corporation Limited has released the latest notification for the MAHA
 									Metro recruitment &#8230; <a
 										title="MAHA Metro Recruitment 2022 DGM, Manager, Engineer, Asst 23 Post"
-										class="read-more" href="https://www.sarkariresult.app/maha-metro-jobs/"
+										class="read-more" href="maha-metro-jobs/"
 										aria-label="More on MAHA Metro Recruitment 2022 DGM, Manager, Engineer, Asst 23 Post">Read
 										more</a></p>
 							</div>
@@ -4046,11 +4046,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4059,7 +4059,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maha-metro-jobs/#respond">Leave a
+										href="maha-metro-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4070,7 +4070,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-teaching-recruitment/"
+										href="central-railway-teaching-recruitment/"
 										rel="bookmark">Central Railway Teaching Recruitment 2022 Walk In Interview</a>
 								</h2>
 								<div class="entry-meta">
@@ -4079,7 +4079,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4093,7 +4093,7 @@
 									Candidates can go for the &#8230; <a
 										title="Central Railway Teaching Recruitment 2022 Walk In Interview"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-teaching-recruitment/"
+										href="central-railway-teaching-recruitment/"
 										aria-label="More on Central Railway Teaching Recruitment 2022 Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -4104,11 +4104,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4117,7 +4117,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-teaching-recruitment/#respond">Leave
+										href="central-railway-teaching-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4128,7 +4128,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-western-railway/" rel="bookmark">Western
+										href="rrc-western-railway/" rel="bookmark">Western
 										Railway Recruitment 2022 Apply Now 21 Sports Quota Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-09-12T12:30:30+05:30"
@@ -4137,7 +4137,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4150,7 +4150,7 @@
 									candidates who are interested in Western Railway Sports Quota Recruitment 2022 apply
 									online through the official website Western &#8230; <a
 										title="Western Railway Recruitment 2022 Apply Now 21 Sports Quota Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-western-railway/"
+										class="read-more" href="rrc-western-railway/"
 										aria-label="More on Western Railway Recruitment 2022 Apply Now 21 Sports Quota Post">Read
 										more</a></p>
 							</div>
@@ -4161,10 +4161,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4173,7 +4173,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-western-railway/#respond">Leave a
+										href="rrc-western-railway/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4184,7 +4184,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-vacancy/"
+										href="irctc-hospitality-monitor-vacancy/"
 										rel="bookmark">IRCTC Recruitment 2022 Application Form Hospitality Monitor
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4193,7 +4193,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4208,7 +4208,7 @@
 									Candidates can &#8230; <a
 										title="IRCTC Recruitment 2022 Application Form Hospitality Monitor Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-vacancy/"
+										href="irctc-hospitality-monitor-vacancy/"
 										aria-label="More on IRCTC Recruitment 2022 Application Form Hospitality Monitor Post">Read
 										more</a></p>
 							</div>
@@ -4219,11 +4219,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4232,7 +4232,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-vacancy/#respond">Leave
+										href="irctc-hospitality-monitor-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4243,7 +4243,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-eastern-railway-recruitment/"
+										href="rrc-eastern-railway-recruitment/"
 										rel="bookmark">Eastern Railway Recruitment 2022 Group C Sports Quota 21 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4252,7 +4252,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4266,7 +4266,7 @@
 									the official website Eastern &#8230; <a
 										title="Eastern Railway Recruitment 2022 Group C Sports Quota 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-eastern-railway-recruitment/"
+										href="rrc-eastern-railway-recruitment/"
 										aria-label="More on Eastern Railway Recruitment 2022 Group C Sports Quota 21 Post">Read
 										more</a></p>
 							</div>
@@ -4277,10 +4277,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4289,7 +4289,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-eastern-railway-recruitment/#respond">Leave
+										href="rrc-eastern-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4300,7 +4300,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-recruitment/"
+										href="irctc-hospitality-monitor-recruitment/"
 										rel="bookmark">IRCTC Hospitality Monitor Recruitment 2022 Apply 70 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4310,7 +4310,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4324,7 +4324,7 @@
 									can go to the interview from Candidates can go for &#8230; <a
 										title="IRCTC Hospitality Monitor Recruitment 2022 Apply 70 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-recruitment/"
+										href="irctc-hospitality-monitor-recruitment/"
 										aria-label="More on IRCTC Hospitality Monitor Recruitment 2022 Apply 70 Posts">Read
 										more</a></p>
 							</div>
@@ -4335,11 +4335,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4348,7 +4348,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-hospitality-monitor-recruitment/#comments">2
+										href="irctc-hospitality-monitor-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4359,7 +4359,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-recruitment/" rel="bookmark">West
+										href="wcr-recruitment/" rel="bookmark">West
 										Central Railway Recruitment 2022 JE, Staff Nurse 102 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4367,7 +4367,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4380,7 +4380,7 @@
 									Junior Translator Vacancy at 102 Posts. Short Information: Railway Recruitment Cell
 									West Central Railway has released the latest notification for the WCR &#8230; <a
 										title="West Central Railway Recruitment 2022 JE, Staff Nurse 102 Post"
-										class="read-more" href="https://www.sarkariresult.app/wcr-recruitment/"
+										class="read-more" href="wcr-recruitment/"
 										aria-label="More on West Central Railway Recruitment 2022 JE, Staff Nurse 102 Post">Read
 										more</a></p>
 							</div>
@@ -4391,11 +4391,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4404,7 +4404,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-recruitment/#respond">Leave a
+										href="wcr-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4415,7 +4415,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ecr-recruitment/" rel="bookmark">East
+										href="ecr-recruitment/" rel="bookmark">East
 										Central Railway Recruitment 2022 Dresser, OT Asst 13 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-01-24T16:00:52+05:30"
@@ -4424,7 +4424,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4437,7 +4437,7 @@
 									East Central Railway Recruitment 2022 can apply online through the official website
 									ecr.indianrailways.gov.in ECR Jobs from &#8230; <a
 										title="East Central Railway Recruitment 2022 Dresser, OT Asst 13 Post"
-										class="read-more" href="https://www.sarkariresult.app/ecr-recruitment/"
+										class="read-more" href="ecr-recruitment/"
 										aria-label="More on East Central Railway Recruitment 2022 Dresser, OT Asst 13 Post">Read
 										more</a></p>
 							</div>
@@ -4448,10 +4448,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4460,7 +4460,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ecr-recruitment/#respond">Leave a
+										href="ecr-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4471,7 +4471,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-ncr-prayagraj-recruitment/"
+										href="rrc-ncr-prayagraj-recruitment/"
 										rel="bookmark">North Central Railway Recruitment 2022 Apprentice 1659 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4481,7 +4481,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4495,7 +4495,7 @@
 									the official website North &#8230; <a
 										title="North Central Railway Recruitment 2022 Apprentice 1659 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-ncr-prayagraj-recruitment/"
+										href="rrc-ncr-prayagraj-recruitment/"
 										aria-label="More on North Central Railway Recruitment 2022 Apprentice 1659 Posts">Read
 										more</a></p>
 							</div>
@@ -4506,10 +4506,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4518,7 +4518,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-ncr-prayagraj-recruitment/#respond">Leave
+										href="rrc-ncr-prayagraj-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4529,7 +4529,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/integral-coach-factory-recruitment/"
+										href="integral-coach-factory-recruitment/"
 										rel="bookmark">ICF Recruitment 2022 Apply Online Apprentice 876 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-26T23:55:00+05:30"
@@ -4538,7 +4538,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4551,7 +4551,7 @@
 									Vacancy 2022 apply online to icf.indianrailways.gov.in recruitment 2022 through the
 									official website of the ICF Jobs from 27 &#8230; <a
 										title="ICF Recruitment 2022 Apply Online Apprentice 876 Posts" class="read-more"
-										href="https://www.sarkariresult.app/integral-coach-factory-recruitment/"
+										href="integral-coach-factory-recruitment/"
 										aria-label="More on ICF Recruitment 2022 Apply Online Apprentice 876 Posts">Read
 										more</a></p>
 							</div>
@@ -4562,10 +4562,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4574,7 +4574,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/integral-coach-factory-recruitment/#respond">Leave
+										href="integral-coach-factory-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4585,7 +4585,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railtel-engineer-recruitment/"
+										href="railtel-engineer-recruitment/"
 										rel="bookmark">RailTel Engineer Recruitment 2022 Application Form Manager 37
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4595,7 +4595,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4609,7 +4609,7 @@
 									recruitment 2022 of L-1 Engineer, L-2 Engineer, L-3 Engineer, Operation/ &#8230; <a
 										title="RailTel Engineer Recruitment 2022 Application Form Manager 37 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/railtel-engineer-recruitment/"
+										href="railtel-engineer-recruitment/"
 										aria-label="More on RailTel Engineer Recruitment 2022 Application Form Manager 37 Post">Read
 										more</a></p>
 							</div>
@@ -4620,11 +4620,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4633,7 +4633,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railtel-engineer-recruitment/#respond">Leave
+										href="railtel-engineer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4644,7 +4644,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-south-eastern-railway-recruitment/"
+										href="rrc-south-eastern-railway-recruitment/"
 										rel="bookmark">South Eastern Railway Recruitment 2022 Technical Associate 17
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4654,7 +4654,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4668,7 +4668,7 @@
 									online through the official website South Eastern &#8230; <a
 										title="South Eastern Railway Recruitment 2022 Technical Associate 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-south-eastern-railway-recruitment/"
+										href="rrc-south-eastern-railway-recruitment/"
 										aria-label="More on South Eastern Railway Recruitment 2022 Technical Associate 17 Post">Read
 										more</a></p>
 							</div>
@@ -4679,10 +4679,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4691,7 +4691,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-south-eastern-railway-recruitment/#respond">Leave
+										href="rrc-south-eastern-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4702,7 +4702,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-railway-jobs/"
+										href="north-eastern-railway-jobs/"
 										rel="bookmark">North Eastern Railway Recruitment 2022 Technical Associate 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4712,7 +4712,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4726,7 +4726,7 @@
 									online through the official website North Eastern &#8230; <a
 										title="North Eastern Railway Recruitment 2022 Technical Associate 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-railway-jobs/"
+										href="north-eastern-railway-jobs/"
 										aria-label="More on North Eastern Railway Recruitment 2022 Technical Associate 20 Post">Read
 										more</a></p>
 							</div>
@@ -4737,10 +4737,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4749,7 +4749,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-railway-jobs/#comments">1
+										href="north-eastern-railway-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4760,7 +4760,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nfr-vacancy/" rel="bookmark">Northeast
+										href="nfr-vacancy/" rel="bookmark">Northeast
 										Frontier Railway Recruitment 2022 Apply Online 5636 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-30T23:55:02+05:30"
@@ -4769,7 +4769,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4782,7 +4782,7 @@
 									are interested in Northeast Frontier Railway Recruitment 2022 apply online to
 									through the official website nfr.indianrailways.gov.in NFR Jobs from 31 &#8230; <a
 										title="Northeast Frontier Railway Recruitment 2022 Apply Online 5636 Post"
-										class="read-more" href="https://www.sarkariresult.app/nfr-vacancy/"
+										class="read-more" href="nfr-vacancy/"
 										aria-label="More on Northeast Frontier Railway Recruitment 2022 Apply Online 5636 Post">Read
 										more</a></p>
 							</div>
@@ -4793,10 +4793,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4804,7 +4804,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/nfr-vacancy/#respond">Leave
+										</svg></span><a href="nfr-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4815,7 +4815,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-western-railway-vacancy/"
+										href="rrc-western-railway-vacancy/"
 										rel="bookmark">RRC Western Railway Recruitment 2022 Apply Online Apprentice
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4825,7 +4825,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4839,7 +4839,7 @@
 									official website RRC Western Railway Jobs &#8230; <a
 										title="RRC Western Railway Recruitment 2022 Apply Online Apprentice Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-western-railway-vacancy/"
+										href="rrc-western-railway-vacancy/"
 										aria-label="More on RRC Western Railway Recruitment 2022 Apply Online Apprentice Post">Read
 										more</a></p>
 							</div>
@@ -4850,10 +4850,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4862,7 +4862,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-western-railway-vacancy/#respond">Leave
+										href="rrc-western-railway-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4873,7 +4873,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ministry-of-railway-recruitment/"
+										href="ministry-of-railway-recruitment/"
 										rel="bookmark">Ministry of Railway Recruitment 2022 Asst Programmer 17 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4883,7 +4883,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4897,7 +4897,7 @@
 									Recruitment 2022 can apply through the official &#8230; <a
 										title="Ministry of Railway Recruitment 2022 Asst Programmer 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ministry-of-railway-recruitment/"
+										href="ministry-of-railway-recruitment/"
 										aria-label="More on Ministry of Railway Recruitment 2022 Asst Programmer 17 Post">Read
 										more</a></p>
 							</div>
@@ -4908,10 +4908,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4920,7 +4920,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ministry-of-railway-recruitment/#comments">5
+										href="ministry-of-railway-recruitment/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4931,7 +4931,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrb-ntpc-fee-refund/" rel="bookmark">RRB
+										href="rrb-ntpc-fee-refund/" rel="bookmark">RRB
 										NTPC Tier 2 Answer Key 2022 RRB NTPC Level 2, 3, 5 (CBT-2)</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-26T15:44:48+05:30"
@@ -4940,7 +4940,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4953,7 +4953,7 @@
 									Information Uploaded for RRB Railway NTPC 01/2019 Recruitment Answer Key Details.
 									Enrolled candidates &#8230; <a
 										title="RRB NTPC Tier 2 Answer Key 2022 RRB NTPC Level 2, 3, 5 (CBT-2)"
-										class="read-more" href="https://www.sarkariresult.app/rrb-ntpc-fee-refund/"
+										class="read-more" href="rrb-ntpc-fee-refund/"
 										aria-label="More on RRB NTPC Tier 2 Answer Key 2022 RRB NTPC Level 2, 3, 5 (CBT-2)">Read
 										more</a></p>
 							</div>
@@ -4964,10 +4964,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/answer-keys/" rel="category tag">Answer
-										Key</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="answer-keys/" rel="category tag">Answer
+										Key</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4976,7 +4976,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrb-ntpc-fee-refund/#respond">Leave a
+										href="rrb-ntpc-fee-refund/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4987,7 +4987,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-apprentice-job/" rel="bookmark">SECR
+										href="secr-apprentice-job/" rel="bookmark">SECR
 										Apprentice Recruitment 2022 Apply Now 465 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-22T23:55:01+05:30"
@@ -4996,7 +4996,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5009,7 +5009,7 @@
 									Central Railway Recruitment 2022 can apply online through the official website SECR
 									Jobs from 31 May 2022 to &#8230; <a
 										title="SECR Apprentice Recruitment 2022 Apply Now 465 Posts" class="read-more"
-										href="https://www.sarkariresult.app/secr-apprentice-job/"
+										href="secr-apprentice-job/"
 										aria-label="More on SECR Apprentice Recruitment 2022 Apply Now 465 Posts">Read
 										more</a></p>
 							</div>
@@ -5020,10 +5020,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5032,7 +5032,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-apprentice-job/#respond">Leave a
+										href="secr-apprentice-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5043,7 +5043,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mmrda-engineer-recruitment/"
+										href="mmrda-engineer-recruitment/"
 										rel="bookmark">MMRDA Engineer Recruitment 2022 Executive Engineer, AE 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5053,7 +5053,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5068,7 +5068,7 @@
 									Engineer (Civil), Engineer &#8230; <a
 										title="MMRDA Engineer Recruitment 2022  Executive Engineer, AE 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mmrda-engineer-recruitment/"
+										href="mmrda-engineer-recruitment/"
 										aria-label="More on MMRDA Engineer Recruitment 2022  Executive Engineer, AE 15 Post">Read
 										more</a></p>
 							</div>
@@ -5079,11 +5079,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5092,7 +5092,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mmrda-engineer-recruitment/#respond">Leave a
+										href="mmrda-engineer-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5103,7 +5103,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-recruitment/" rel="bookmark">BMRCL
+										href="bmrcl-recruitment/" rel="bookmark">BMRCL
 										Engineer Recruitment 2022 Apply Now Manager, AEE 35 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-10T23:55:05+05:30"
@@ -5112,7 +5112,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5125,7 +5125,7 @@
 									recruitment 2022 of Chief Engineer, Deputy Chief Engineer, Executive Engineer/
 									Manager, Asst. Executive Engineer Vacancy at 35 posts. Those candidates who are
 									&#8230; <a title="BMRCL Engineer Recruitment 2022 Apply Now Manager, AEE 35 Post"
-										class="read-more" href="https://www.sarkariresult.app/bmrcl-recruitment/"
+										class="read-more" href="bmrcl-recruitment/"
 										aria-label="More on BMRCL Engineer Recruitment 2022 Apply Now Manager, AEE 35 Post">Read
 										more</a></p>
 							</div>
@@ -5136,10 +5136,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5148,7 +5148,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-recruitment/#respond">Leave a
+										href="bmrcl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5159,7 +5159,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway-vacancy/"
+										href="south-central-railway-vacancy/"
 										rel="bookmark">South Central Railway Recruitment 2022 Apply Assistant 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5169,7 +5169,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5183,7 +5183,7 @@
 									official website scr.indianrailways.gov.in SCR Jobs from &#8230; <a
 										title="South Central Railway Recruitment 2022 Apply Assistant 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-central-railway-vacancy/"
+										href="south-central-railway-vacancy/"
 										aria-label="More on South Central Railway Recruitment 2022 Apply Assistant 20 Post">Read
 										more</a></p>
 							</div>
@@ -5194,10 +5194,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5206,7 +5206,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway-vacancy/#respond">Leave
+										href="south-central-railway-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5217,7 +5217,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gmrc-recruitment/" rel="bookmark">Gujarat
+										href="gmrc-recruitment/" rel="bookmark">Gujarat
 										Metro Rail Recruitment 2022 Apply Online Apprentice Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-31T23:55:06+05:30"
@@ -5226,7 +5226,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5240,7 +5240,7 @@
 									candidates who are interested in GMRC Apprentice Recruitment can apply through the
 									official &#8230; <a
 										title="Gujarat Metro Rail Recruitment 2022 Apply Online Apprentice Post"
-										class="read-more" href="https://www.sarkariresult.app/gmrc-recruitment/"
+										class="read-more" href="gmrc-recruitment/"
 										aria-label="More on Gujarat Metro Rail Recruitment 2022 Apply Online Apprentice Post">Read
 										more</a></p>
 							</div>
@@ -5251,10 +5251,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5263,7 +5263,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gmrc-recruitment/#respond">Leave a
+										href="gmrc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5274,7 +5274,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northern-railway-senior-resident-recruitment/"
+										href="northern-railway-senior-resident-recruitment/"
 										rel="bookmark">Northern Railway Recruitment 2022 Apply Senior Resident 31
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5284,7 +5284,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5298,7 +5298,7 @@
 									can go to the interview from 24 May 2022 &#8230; <a
 										title="Northern Railway Recruitment 2022 Apply Senior Resident 31 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/northern-railway-senior-resident-recruitment/"
+										href="northern-railway-senior-resident-recruitment/"
 										aria-label="More on Northern Railway Recruitment 2022 Apply Senior Resident 31 Post">Read
 										more</a></p>
 							</div>
@@ -5309,10 +5309,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5321,7 +5321,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northern-railway-senior-resident-recruitment/#respond">Leave
+										href="northern-railway-senior-resident-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5332,7 +5332,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cris-vacancy/" rel="bookmark">CRIS
+										href="cris-vacancy/" rel="bookmark">CRIS
 										Recruitment 2022 Apply Now ASE &#038; ADA 150 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-24T23:55:16+05:30"
@@ -5341,7 +5341,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5354,7 +5354,7 @@
 									(ASE), Assistant Data Analyst (ADA) Vacancy at 150 posts. Those candidates who are
 									interested in CRIS Recruitment 2022 apply &#8230; <a
 										title="CRIS Recruitment 2022 Apply Now ASE &#038; ADA 150 Posts"
-										class="read-more" href="https://www.sarkariresult.app/cris-vacancy/"
+										class="read-more" href="cris-vacancy/"
 										aria-label="More on CRIS Recruitment 2022 Apply Now ASE &#038; ADA 150 Posts">Read
 										more</a></p>
 							</div>
@@ -5365,10 +5365,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5376,7 +5376,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/cris-vacancy/#respond">Leave
+										</svg></span><a href="cris-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5387,7 +5387,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-apprentice-vacancy/"
+										href="secr-apprentice-vacancy/"
 										rel="bookmark">SECR Apprentice Recruitment 2022 Apply Online 1033 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-24T23:55:16+05:30"
@@ -5396,7 +5396,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5409,7 +5409,7 @@
 									SECR Recruitment 2022 can apply online through the official website SECR Jobs
 									secr.indianrailways.gov.in from 28 April 2022 to &#8230; <a
 										title="SECR Apprentice Recruitment 2022 Apply Online 1033 Posts"
-										class="read-more" href="https://www.sarkariresult.app/secr-apprentice-vacancy/"
+										class="read-more" href="secr-apprentice-vacancy/"
 										aria-label="More on SECR Apprentice Recruitment 2022 Apply Online 1033 Posts">Read
 										more</a></p>
 							</div>
@@ -5420,10 +5420,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5432,7 +5432,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-apprentice-vacancy/#respond">Leave a
+										href="secr-apprentice-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5443,7 +5443,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-office-asst-recruitment/"
+										href="konkan-railway-office-asst-recruitment/"
 										rel="bookmark">KRCL Office Assistant Recruitment 2022 Walk In Interview</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-18T23:55:09+05:30"
@@ -5452,7 +5452,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5466,7 +5466,7 @@
 									Recruitment 2022 can go to the interview on 17 May &#8230; <a
 										title="KRCL Office Assistant Recruitment 2022 Walk In Interview"
 										class="read-more"
-										href="https://www.sarkariresult.app/konkan-railway-office-asst-recruitment/"
+										href="konkan-railway-office-asst-recruitment/"
 										aria-label="More on KRCL Office Assistant Recruitment 2022 Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -5477,11 +5477,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5490,7 +5490,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-office-asst-recruitment/#respond">Leave
+										href="konkan-railway-office-asst-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5501,7 +5501,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cmrl-jobs/" rel="bookmark">CMRL Recruitment
+										href="cmrl-jobs/" rel="bookmark">CMRL Recruitment
 										2022 Application Form Manager, DGM, JGM 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -5509,7 +5509,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5524,7 +5524,7 @@
 									General Manager (Marketing), Deputy Manager (Transport Planning), Chief Vigilance
 									Officer &#8230; <a
 										title="CMRL Recruitment 2022 Application Form Manager, DGM, JGM 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/cmrl-jobs/"
+										class="read-more" href="cmrl-jobs/"
 										aria-label="More on CMRL Recruitment 2022 Application Form Manager, DGM, JGM 14 Post">Read
 										more</a></p>
 							</div>
@@ -5535,10 +5535,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5546,7 +5546,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/cmrl-jobs/#respond">Leave a
+										</svg></span><a href="cmrl-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5557,7 +5557,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-jobs/" rel="bookmark">Konkan
+										href="konkan-railway-jobs/" rel="bookmark">Konkan
 										Railway Recruitment 2022 Apply Technical Assistant Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-05-14T23:55:07+05:30"
@@ -5566,7 +5566,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5579,7 +5579,7 @@
 									Technical Assistant (Civil), Jr. Technical Assistant (Civil) Vacancy at 26 posts.
 									Those candidates who are interested in KRCL Technical Assistant &#8230; <a
 										title="Konkan Railway Recruitment 2022 Apply Technical Assistant Post"
-										class="read-more" href="https://www.sarkariresult.app/konkan-railway-jobs/"
+										class="read-more" href="konkan-railway-jobs/"
 										aria-label="More on Konkan Railway Recruitment 2022 Apply Technical Assistant Post">Read
 										more</a></p>
 							</div>
@@ -5590,10 +5590,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5602,7 +5602,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-jobs/#respond">Leave a
+										href="konkan-railway-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5613,7 +5613,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/eastern-railway-apprentice-recruitment/"
+										href="eastern-railway-apprentice-recruitment/"
 										rel="bookmark">Eastern Railway Apprentice Recruitment 2022 Apply Now 2972
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5623,7 +5623,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5637,7 +5637,7 @@
 									Eastern Railway Jobs er.indianrailways.gov.in from 31 March 2022 &#8230; <a
 										title="Eastern Railway Apprentice Recruitment 2022 Apply Now 2972 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/eastern-railway-apprentice-recruitment/"
+										href="eastern-railway-apprentice-recruitment/"
 										aria-label="More on Eastern Railway Apprentice Recruitment 2022 Apply Now 2972 Post">Read
 										more</a></p>
 							</div>
@@ -5648,10 +5648,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5660,7 +5660,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/eastern-railway-apprentice-recruitment/#respond">Leave
+										href="eastern-railway-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5671,7 +5671,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-east-central-railway-recruitment/"
+										href="south-east-central-railway-recruitment/"
 										rel="bookmark">SECR Recruitment 2022 Fitter, Electrician, Stenographer 2077
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5680,7 +5680,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5694,7 +5694,7 @@
 									who are interested in South East Central Railway Recruitment 2022 &#8230; <a
 										title="SECR Recruitment 2022 Fitter, Electrician, Stenographer 2077 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-east-central-railway-recruitment/"
+										href="south-east-central-railway-recruitment/"
 										aria-label="More on SECR Recruitment 2022 Fitter, Electrician, Stenographer 2077 Post">Read
 										more</a></p>
 							</div>
@@ -5705,10 +5705,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5717,7 +5717,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-east-central-railway-recruitment/#respond">Leave
+										href="south-east-central-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5728,7 +5728,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/blw-railway-apprentice-recruitment/"
+										href="blw-railway-apprentice-recruitment/"
 										rel="bookmark">BLW Railway Apprentice Recruitment 2022 Apply Online 374 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5738,7 +5738,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5752,7 +5752,7 @@
 									website kpsc.kar.nic.in BLW Railway Jobs from 28 &#8230; <a
 										title="BLW Railway Apprentice Recruitment 2022 Apply Online 374 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/blw-railway-apprentice-recruitment/"
+										href="blw-railway-apprentice-recruitment/"
 										aria-label="More on BLW Railway Apprentice Recruitment 2022 Apply Online 374 Post">Read
 										more</a></p>
 							</div>
@@ -5763,10 +5763,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5775,7 +5775,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/blw-railway-apprentice-recruitment/#comments">2
+										href="blw-railway-apprentice-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -5786,7 +5786,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ner-sports-quota-recruitment/"
+										href="ner-sports-quota-recruitment/"
 										rel="bookmark">NER Sports Quota Recruitment 2022 Application Form 21 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5796,7 +5796,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5810,7 +5810,7 @@
 									ner.indianrailways.gov.in from 24 March &#8230; <a
 										title="NER Sports Quota Recruitment 2022 Application Form 21 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ner-sports-quota-recruitment/"
+										href="ner-sports-quota-recruitment/"
 										aria-label="More on NER Sports Quota Recruitment 2022 Application Form 21 Posts">Read
 										more</a></p>
 							</div>
@@ -5821,10 +5821,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5833,7 +5833,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ner-sports-quota-recruitment/#respond">Leave
+										href="ner-sports-quota-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5844,7 +5844,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-western-railway-vacancy/"
+										href="south-western-railway-vacancy/"
 										rel="bookmark">South Western Railway Recruitment 2022 Goods Train Manager 147
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5854,7 +5854,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5868,7 +5868,7 @@
 									online &#8230; <a
 										title="South Western Railway Recruitment 2022 Goods Train Manager 147 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-western-railway-vacancy/"
+										href="south-western-railway-vacancy/"
 										aria-label="More on South Western Railway Recruitment 2022 Goods Train Manager 147 Post">Read
 										more</a></p>
 							</div>
@@ -5879,10 +5879,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5891,7 +5891,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-western-railway-vacancy/#comments">1
+										href="south-western-railway-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5902,7 +5902,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-central-railway-jta-recruitment/"
+										href="north-central-railway-jta-recruitment/"
 										rel="bookmark">North Central Railway Recruitment 2022 Apply Online JTA 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5912,7 +5912,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5926,7 +5926,7 @@
 									through the official website North Central &#8230; <a
 										title="North Central Railway Recruitment 2022 Apply Online JTA 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-central-railway-jta-recruitment/"
+										href="north-central-railway-jta-recruitment/"
 										aria-label="More on North Central Railway Recruitment 2022 Apply Online JTA 20 Post">Read
 										more</a></p>
 							</div>
@@ -5937,10 +5937,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5949,7 +5949,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-central-railway-jta-recruitment/#respond">Leave
+										href="north-central-railway-jta-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5960,7 +5960,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railtel-apprentice-trainee-recruitment/"
+										href="railtel-apprentice-trainee-recruitment/"
 										rel="bookmark">RailTel Apprentice Trainee Recruitment 2022 Apply Online 103
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5970,7 +5970,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5984,7 +5984,7 @@
 									RailTel.co.in through the official website RailTel Jobs from 14 March &#8230; <a
 										title="RailTel Apprentice Trainee Recruitment 2022 Apply Online 103 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/railtel-apprentice-trainee-recruitment/"
+										href="railtel-apprentice-trainee-recruitment/"
 										aria-label="More on RailTel Apprentice Trainee Recruitment 2022 Apply Online 103 Post">Read
 										more</a></p>
 							</div>
@@ -5995,10 +5995,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6007,7 +6007,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railtel-apprentice-trainee-recruitment/#comments">1
+										href="railtel-apprentice-trainee-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6018,7 +6018,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northeast-frontier-railway-vacancy/"
+										href="northeast-frontier-railway-vacancy/"
 										rel="bookmark">Northeast Frontier Railway Recruitment 2022 Apply Teacher 52
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6028,7 +6028,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6042,7 +6042,7 @@
 									Teacher Recruitment 2022 can go to &#8230; <a
 										title="Northeast Frontier Railway Recruitment 2022 Apply Teacher 52 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/northeast-frontier-railway-vacancy/"
+										href="northeast-frontier-railway-vacancy/"
 										aria-label="More on Northeast Frontier Railway Recruitment 2022 Apply Teacher 52 Post">Read
 										more</a></p>
 							</div>
@@ -6053,13 +6053,13 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/teacher-vacancy/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="teacher-vacancy/"
 										rel="category tag">Teacher Jobs</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6068,7 +6068,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northeast-frontier-railway-vacancy/#respond">Leave
+										href="northeast-frontier-railway-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6079,7 +6079,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-vacancy/"
+										href="konkan-railway-vacancy/"
 										rel="bookmark">Konkan Railway Recruitment 2022 Apply Project Engineer, STA
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6089,7 +6089,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6103,7 +6103,7 @@
 									Senior Technical Assistant, Deputy Chief Engineer Vacancy at 09 posts. Those
 									candidates who &#8230; <a
 										title="Konkan Railway Recruitment 2022 Apply Project Engineer, STA Post"
-										class="read-more" href="https://www.sarkariresult.app/konkan-railway-vacancy/"
+										class="read-more" href="konkan-railway-vacancy/"
 										aria-label="More on Konkan Railway Recruitment 2022 Apply Project Engineer, STA Post">Read
 										more</a></p>
 							</div>
@@ -6114,12 +6114,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/engineer/" rel="category tag">Engineer</a>,
-									<a href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt Jobs</a>,
-									<a href="https://www.sarkariresult.app/latest-notification/"
+										href="engineer/" rel="category tag">Engineer</a>,
+									<a href="govt-jobs/" rel="category tag">Govt Jobs</a>,
+									<a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6128,7 +6128,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-vacancy/#respond">Leave a
+										href="konkan-railway-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6139,7 +6139,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rcf-clerk-recruitment/" rel="bookmark">RCF
+										href="rcf-clerk-recruitment/" rel="bookmark">RCF
 										Clerk Recruitment 2022 Apply Now Technician, Typist 10 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-21T23:55:03+05:30"
@@ -6148,7 +6148,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6161,7 +6161,7 @@
 									cum Typist Vacancy at 10 Posts. Those candidates who are interested in RCF
 									Recruitment 2022 can apply online form &#8230; <a
 										title="RCF Clerk Recruitment 2022 Apply Now Technician, Typist 10 Post"
-										class="read-more" href="https://www.sarkariresult.app/rcf-clerk-recruitment/"
+										class="read-more" href="rcf-clerk-recruitment/"
 										aria-label="More on RCF Clerk Recruitment 2022 Apply Now Technician, Typist 10 Post">Read
 										more</a></p>
 							</div>
@@ -6172,10 +6172,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6184,7 +6184,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rcf-clerk-recruitment/#respond">Leave a
+										href="rcf-clerk-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6195,7 +6195,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-wcr-recruitment/" rel="bookmark">West
+										href="rrc-wcr-recruitment/" rel="bookmark">West
 										Central Railway Recruitment 2022 Apply Now STA, JTA 20 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-17T23:55:15+05:30"
@@ -6204,7 +6204,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6217,7 +6217,7 @@
 									Recruitment 2022 of Senior Technical Associate (STA) &amp; Junior Technical
 									Associate (JTA) Vacancy at 20 posts. Those candidates who are interested in RRC
 									&#8230; <a title="West Central Railway Recruitment 2022 Apply Now STA, JTA 20 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-wcr-recruitment/"
+										class="read-more" href="rrc-wcr-recruitment/"
 										aria-label="More on West Central Railway Recruitment 2022 Apply Now STA, JTA 20 Post">Read
 										more</a></p>
 							</div>
@@ -6228,10 +6228,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6240,7 +6240,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-wcr-recruitment/#respond">Leave a
+										href="rrc-wcr-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6251,7 +6251,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-jta-recruitment/"
+										href="central-railway-jta-recruitment/"
 										rel="bookmark">Central Railway JTA Recruitment 2022 Technical Associate 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6261,7 +6261,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6275,7 +6275,7 @@
 									cr.indianrailways.gov.in through the official &#8230; <a
 										title="Central Railway JTA Recruitment 2022 Technical Associate 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-jta-recruitment/"
+										href="central-railway-jta-recruitment/"
 										aria-label="More on Central Railway JTA Recruitment 2022 Technical Associate 20 Post">Read
 										more</a></p>
 							</div>
@@ -6286,10 +6286,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6298,7 +6298,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-jta-recruitment/#respond">Leave
+										href="central-railway-jta-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6309,7 +6309,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cmrl-recruitment/" rel="bookmark">CMRL
+										href="cmrl-recruitment/" rel="bookmark">CMRL
 										Recruitment 2022 Application Form Manager, GDM, GM 19 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-11T23:55:22+05:30"
@@ -6318,7 +6318,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6331,7 +6331,7 @@
 									Deputy Manager, Deputy General Manager Vacancy at 19 Posts. Those candidates who are
 									interested in CMRL Manager Recruitment 2022 &#8230; <a
 										title="CMRL Recruitment 2022 Application Form Manager, GDM, GM 19 Post"
-										class="read-more" href="https://www.sarkariresult.app/cmrl-recruitment/"
+										class="read-more" href="cmrl-recruitment/"
 										aria-label="More on CMRL Recruitment 2022 Application Form Manager, GDM, GM 19 Post">Read
 										more</a></p>
 							</div>
@@ -6342,10 +6342,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6354,7 +6354,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cmrl-recruitment/#respond">Leave a
+										href="cmrl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6365,7 +6365,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/east-coast-railway-apprentice-recruitment/"
+										href="east-coast-railway-apprentice-recruitment/"
 										rel="bookmark">East Coast Railway Apprentice Recruitment 2022 Apply 756
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6375,7 +6375,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6389,7 +6389,7 @@
 									official website East Coast Railway Jobs eastcoastrail.indianrailways.gov.in from
 									&#8230; <a title="East Coast Railway Apprentice Recruitment 2022 Apply 756 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/east-coast-railway-apprentice-recruitment/"
+										href="east-coast-railway-apprentice-recruitment/"
 										aria-label="More on East Coast Railway Apprentice Recruitment 2022 Apply 756 Posts">Read
 										more</a></p>
 							</div>
@@ -6400,10 +6400,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6412,7 +6412,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/east-coast-railway-apprentice-recruitment/#respond">Leave
+										href="east-coast-railway-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6423,7 +6423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-sports-quota-recruitment/"
+										href="secr-sports-quota-recruitment/"
 										rel="bookmark">SECR Sports Quota Recruitment 2022 Apply Online 21 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-05T23:55:17+05:30"
@@ -6432,7 +6432,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6446,7 +6446,7 @@
 									secr.indianrailways.gov.in from 21 &#8230; <a
 										title="SECR Sports Quota Recruitment 2022 Apply Online 21 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/secr-sports-quota-recruitment/"
+										href="secr-sports-quota-recruitment/"
 										aria-label="More on SECR Sports Quota Recruitment 2022 Apply Online 21 Posts">Read
 										more</a></p>
 							</div>
@@ -6457,10 +6457,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6469,7 +6469,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-sports-quota-recruitment/#respond">Leave
+										href="secr-sports-quota-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6480,7 +6480,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-para-medical-staff-recruitment/"
+										href="western-railway-para-medical-staff-recruitment/"
 										rel="bookmark">Western Railway Recruitment 2022 Apply Para Medical Staff 20
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6490,7 +6490,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6504,7 +6504,7 @@
 									interested in Western Railway Para Medical Staff Recruitment 2022 can go to &#8230;
 									<a title="Western Railway Recruitment 2022 Apply Para Medical Staff 20 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/western-railway-para-medical-staff-recruitment/"
+										href="western-railway-para-medical-staff-recruitment/"
 										aria-label="More on Western Railway Recruitment 2022 Apply Para Medical Staff 20 Post">Read
 										more</a></p>
 							</div>
@@ -6515,11 +6515,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6528,7 +6528,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-para-medical-staff-recruitment/#respond">Leave
+										href="western-railway-para-medical-staff-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6539,7 +6539,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rail-coach-factory-vacancy/"
+										href="rail-coach-factory-vacancy/"
 										rel="bookmark">RCF Apprentice Recruitment 2022 Rail Coach Factory 56 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6549,7 +6549,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6564,7 +6564,7 @@
 									Mechanic (Motor &#8230; <a
 										title="RCF Apprentice Recruitment 2022 Rail Coach Factory 56 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rail-coach-factory-vacancy/"
+										href="rail-coach-factory-vacancy/"
 										aria-label="More on RCF Apprentice Recruitment 2022 Rail Coach Factory 56 Post">Read
 										more</a></p>
 							</div>
@@ -6575,10 +6575,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6587,7 +6587,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rail-coach-factory-vacancy/#respond">Leave a
+										href="rail-coach-factory-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6598,7 +6598,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-paramedical-staff-recruitment/"
+										href="secr-paramedical-staff-recruitment/"
 										rel="bookmark">SECR Paramedical Staff Recruitment 2022 Walk In Interview 75
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6608,7 +6608,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6623,7 +6623,7 @@
 									Technician, Dental Hygienist, Lab &#8230; <a
 										title="SECR Paramedical Staff Recruitment 2022 Walk In Interview 75 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/secr-paramedical-staff-recruitment/"
+										href="secr-paramedical-staff-recruitment/"
 										aria-label="More on SECR Paramedical Staff Recruitment 2022 Walk In Interview 75 Post">Read
 										more</a></p>
 							</div>
@@ -6634,10 +6634,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6646,7 +6646,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-paramedical-staff-recruitment/#comments">2
+										href="secr-paramedical-staff-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6657,7 +6657,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-sports-quota-recruitment/"
+										href="wcr-sports-quota-recruitment/"
 										rel="bookmark">WCR Sports Quota Recruitment 2022 Application Form 21 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6667,7 +6667,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6681,7 +6681,7 @@
 									website WCR Jobs wcr.indianrailways.gov.in from 21 &#8230; <a
 										title="WCR Sports Quota Recruitment 2022 Application Form 21 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wcr-sports-quota-recruitment/"
+										href="wcr-sports-quota-recruitment/"
 										aria-label="More on WCR Sports Quota Recruitment 2022 Application Form 21 Posts">Read
 										more</a></p>
 							</div>
@@ -6692,10 +6692,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6704,7 +6704,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-sports-quota-recruitment/#respond">Leave
+										href="wcr-sports-quota-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6715,7 +6715,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-railway-gateman-recruitment/"
+										href="north-eastern-railway-gateman-recruitment/"
 										rel="bookmark">North Eastern Railway Gateman Recruitment 2022 Apply Now 323
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6725,7 +6725,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6739,7 +6739,7 @@
 									Railway Jobs ner.indianrailways.gov.in from 11 January &#8230; <a
 										title="North Eastern Railway Gateman Recruitment 2022 Apply Now 323 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-railway-gateman-recruitment/"
+										href="north-eastern-railway-gateman-recruitment/"
 										aria-label="More on North Eastern Railway Gateman Recruitment 2022 Apply Now 323 Post">Read
 										more</a></p>
 							</div>
@@ -6750,10 +6750,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6762,7 +6762,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-railway-gateman-recruitment/#comments">2
+										href="north-eastern-railway-gateman-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6773,7 +6773,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-engineer-recruitment/"
+										href="bmrcl-engineer-recruitment/"
 										rel="bookmark">BMRCL Recruitment 2022 Apply Manager, Engineer, AEE, DGM 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6783,7 +6783,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6798,7 +6798,7 @@
 									notification for the BMRCL recruitment &#8230; <a
 										title="BMRCL Recruitment 2022 Apply Manager, Engineer, AEE, DGM 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bmrcl-engineer-recruitment/"
+										href="bmrcl-engineer-recruitment/"
 										aria-label="More on BMRCL Recruitment 2022 Apply Manager, Engineer, AEE, DGM 19 Post">Read
 										more</a></p>
 							</div>
@@ -6809,10 +6809,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6821,7 +6821,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-engineer-recruitment/#comments">2
+										href="bmrcl-engineer-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6832,7 +6832,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-central-railway-group-c-recruitment/"
+										href="north-central-railway-group-c-recruitment/"
 										rel="bookmark">North Central Railway Group C Recruitment 2021 Apply Now 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6842,7 +6842,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6856,7 +6856,7 @@
 									through the official website North &#8230; <a
 										title="North Central Railway Group C Recruitment 2021 Apply Now 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-central-railway-group-c-recruitment/"
+										href="north-central-railway-group-c-recruitment/"
 										aria-label="More on North Central Railway Group C Recruitment 2021 Apply Now 21 Post">Read
 										more</a></p>
 							</div>
@@ -6867,10 +6867,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6879,7 +6879,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-central-railway-group-c-recruitment/#comments">1
+										href="north-central-railway-group-c-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6890,7 +6890,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ser-goods-guard-recruitment/"
+										href="ser-goods-guard-recruitment/"
 										rel="bookmark">SER Goods Guard Recruitment 2021 Apply Online 520 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-12-23T23:55:42+05:30"
@@ -6899,7 +6899,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6913,7 +6913,7 @@
 									rrcser.co.in through the official website &#8230; <a
 										title="SER Goods Guard Recruitment 2021 Apply Online 520 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ser-goods-guard-recruitment/"
+										href="ser-goods-guard-recruitment/"
 										aria-label="More on SER Goods Guard Recruitment 2021 Apply Online 520 Posts">Read
 										more</a></p>
 							</div>
@@ -6924,10 +6924,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6936,7 +6936,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ser-goods-guard-recruitment/#comments">1
+										href="ser-goods-guard-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6947,7 +6947,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-jobs-apply/"
+										href="central-railway-jobs-apply/"
 										rel="bookmark">Central Railway Recruitment 2021 Apply Now Level 1, Level 2
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6957,7 +6957,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6970,7 +6970,7 @@
 									Recruitment 2021 apply online to the rrccr.com through the official website Central
 									&#8230; <a title="Central Railway Recruitment 2021 Apply Now Level 1, Level 2 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-jobs-apply/"
+										href="central-railway-jobs-apply/"
 										aria-label="More on Central Railway Recruitment 2021 Apply Now Level 1, Level 2 Post">Read
 										more</a></p>
 							</div>
@@ -6981,10 +6981,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6993,7 +6993,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-jobs-apply/#comments">1
+										href="central-railway-jobs-apply/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7004,7 +7004,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-eastern-railway-apprentice-recruitment/"
+										href="south-eastern-railway-apprentice-recruitment/"
 										rel="bookmark">South Eastern Railway Apprentice Recruitment 2021 Apply 1785
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7014,7 +7014,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7028,7 +7028,7 @@
 									rrcser.co.in through the official website South &#8230; <a
 										title="South Eastern Railway Apprentice Recruitment 2021 Apply 1785 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-eastern-railway-apprentice-recruitment/"
+										href="south-eastern-railway-apprentice-recruitment/"
 										aria-label="More on South Eastern Railway Apprentice Recruitment 2021 Apply 1785 Post">Read
 										more</a></p>
 							</div>
@@ -7039,10 +7039,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7051,7 +7051,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-eastern-railway-apprentice-recruitment/#comments">6
+										href="south-eastern-railway-apprentice-recruitment/#comments">6
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7062,7 +7062,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/eastern-railway-group-c-recruitment/"
+										href="eastern-railway-group-c-recruitment/"
 										rel="bookmark">Eastern Railway Group C Recruitment 2021 Appy Online 21 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7072,7 +7072,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7086,7 +7086,7 @@
 									online to er.indianrailways.gov.in through the official &#8230; <a
 										title="Eastern Railway Group C Recruitment 2021 Appy Online 21 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/eastern-railway-group-c-recruitment/"
+										href="eastern-railway-group-c-recruitment/"
 										aria-label="More on Eastern Railway Group C Recruitment 2021 Appy Online 21 Posts">Read
 										more</a></p>
 							</div>
@@ -7097,10 +7097,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7109,7 +7109,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/eastern-railway-group-c-recruitment/#comments">2
+										href="eastern-railway-group-c-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7120,7 +7120,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ncr-prayagraj-recruitment/"
+										href="ncr-prayagraj-recruitment/"
 										rel="bookmark">NCR Prayagraj Recruitment 2021 Apply RRC Prayagraj Apprentice
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7130,7 +7130,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7144,7 +7144,7 @@
 									Prayagraj Recruitment 2021 apply online the rrcpryj.org &#8230; <a
 										title="NCR Prayagraj Recruitment 2021 Apply RRC Prayagraj Apprentice Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ncr-prayagraj-recruitment/"
+										href="ncr-prayagraj-recruitment/"
 										aria-label="More on NCR Prayagraj Recruitment 2021 Apply RRC Prayagraj Apprentice Post">Read
 										more</a></p>
 							</div>
@@ -7155,10 +7155,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7167,7 +7167,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ncr-prayagraj-recruitment/#comments">4
+										href="ncr-prayagraj-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7178,7 +7178,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-teacher-recruitment/"
+										href="central-railway-teacher-recruitment/"
 										rel="bookmark">Central Railway Teacher Recruitment 2021 Walk In PGT, TGT 10
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7188,7 +7188,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7202,7 +7202,7 @@
 									10 posts. Those candidates who are interested in Central &#8230; <a
 										title="Central Railway Teacher Recruitment 2021 Walk In PGT, TGT 10 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-teacher-recruitment/"
+										href="central-railway-teacher-recruitment/"
 										aria-label="More on Central Railway Teacher Recruitment 2021 Walk In PGT, TGT 10 Post">Read
 										more</a></p>
 							</div>
@@ -7213,11 +7213,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/teacher-vacancy/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="teacher-vacancy/"
 										rel="category tag">Teacher Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7226,7 +7226,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-teacher-recruitment/#comments">1
+										href="central-railway-teacher-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7237,7 +7237,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ser-instructor-recruitment/"
+										href="ser-instructor-recruitment/"
 										rel="bookmark">SER Instructor Recruitment 2021 Application Form 11 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7247,7 +7247,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7261,7 +7261,7 @@
 									indianrailways.gov.in recruitment through the official website South Eastern Railway
 									Jobs &#8230; <a title="SER Instructor Recruitment 2021 Application Form 11 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ser-instructor-recruitment/"
+										href="ser-instructor-recruitment/"
 										aria-label="More on SER Instructor Recruitment 2021 Application Form 11 Posts">Read
 										more</a></p>
 							</div>
@@ -7272,10 +7272,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7284,7 +7284,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ser-instructor-recruitment/#respond">Leave a
+										href="ser-instructor-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7295,7 +7295,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-western-railway-je-recruitment/"
+										href="rrc-western-railway-je-recruitment/"
 										rel="bookmark">RRC Western Railway JE Recruitment 2021 Steno, Translator 80
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7305,7 +7305,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7319,7 +7319,7 @@
 									Technician-III against GDCE Quota as per Vacancies at 80 posts. Those candidates
 									&#8230; <a title="RRC Western Railway JE Recruitment 2021 Steno, Translator 80 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-western-railway-je-recruitment/"
+										href="rrc-western-railway-je-recruitment/"
 										aria-label="More on RRC Western Railway JE Recruitment 2021 Steno, Translator 80 Post">Read
 										more</a></p>
 							</div>
@@ -7330,10 +7330,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7342,7 +7342,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-western-railway-je-recruitment/#respond">Leave
+										href="rrc-western-railway-je-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7353,7 +7353,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bmrcl-assistant-security-officer-recruitment/"
+										href="bmrcl-assistant-security-officer-recruitment/"
 										rel="bookmark">BMRCL Assistant Security Officer Recruitment 2021 Apply 37
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7363,7 +7363,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7377,7 +7377,7 @@
 									english.bmrc.co.in for BMRCL Jobs can apply online from 18 October &#8230; <a
 										title="BMRCL Assistant Security Officer Recruitment 2021 Apply 37 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bmrcl-assistant-security-officer-recruitment/"
+										href="bmrcl-assistant-security-officer-recruitment/"
 										aria-label="More on BMRCL Assistant Security Officer Recruitment 2021 Apply 37 Post">Read
 										more</a></p>
 							</div>
@@ -7388,10 +7388,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7400,7 +7400,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bmrcl-assistant-security-officer-recruitment/#comments">1
+										href="bmrcl-assistant-security-officer-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7411,7 +7411,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/west-central-railway-recruitment/"
+										href="west-central-railway-recruitment/"
 										rel="bookmark">West Central Railway Apprentice Recruitment 2021 Apply 2226
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -7421,7 +7421,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7435,7 +7435,7 @@
 									wcr.indianrailways.gov.in through the official website West &#8230; <a
 										title="West Central Railway Apprentice Recruitment 2021 Apply 2226 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/west-central-railway-recruitment/"
+										href="west-central-railway-recruitment/"
 										aria-label="More on West Central Railway Apprentice Recruitment 2021 Apply 2226 Posts">Read
 										more</a></p>
 							</div>
@@ -7446,10 +7446,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7458,7 +7458,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/west-central-railway-recruitment/#respond">Leave
+										href="west-central-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7469,7 +7469,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-swr-apprentice-recruitment/"
+										href="rrc-swr-apprentice-recruitment/"
 										rel="bookmark">RRC SWR Apprentice Recruitment 2021 Apply Online 904 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7479,7 +7479,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7493,7 +7493,7 @@
 									Vacancy at 904 posts of the Apprentice &#8230; <a
 										title="RRC SWR Apprentice Recruitment 2021 Apply Online 904 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-swr-apprentice-recruitment/"
+										href="rrc-swr-apprentice-recruitment/"
 										aria-label="More on RRC SWR Apprentice Recruitment 2021 Apply Online 904 Posts">Read
 										more</a></p>
 							</div>
@@ -7504,10 +7504,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7516,7 +7516,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-swr-apprentice-recruitment/#respond">Leave
+										href="rrc-swr-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7527,7 +7527,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-er-apprentice-recruitment/"
+										href="rrc-er-apprentice-recruitment/"
 										rel="bookmark">RRC ER Apprentice Recruitment 2021 Apply Online 2945 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7537,7 +7537,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7551,7 +7551,7 @@
 									Apprentice Jobs Vacancy at 2945 posts of the Apprentice &#8230; <a
 										title="RRC ER Apprentice Recruitment 2021 Apply Online 2945 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-er-apprentice-recruitment/"
+										href="rrc-er-apprentice-recruitment/"
 										aria-label="More on RRC ER Apprentice Recruitment 2021 Apply Online 2945 Posts">Read
 										more</a></p>
 							</div>
@@ -7562,10 +7562,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7574,7 +7574,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-er-apprentice-recruitment/#respond">Leave
+										href="rrc-er-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7585,7 +7585,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway-apprentice-recruitment/"
+										href="south-central-railway-apprentice-recruitment/"
 										rel="bookmark">South Central Railway Apprentice Recruitment 2021 Apply 4103
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7595,7 +7595,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7609,7 +7609,7 @@
 									scr.indianrailways.gov.in recruitment through the official website South Central
 									&#8230; <a title="South Central Railway Apprentice Recruitment 2021 Apply 4103 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-central-railway-apprentice-recruitment/"
+										href="south-central-railway-apprentice-recruitment/"
 										aria-label="More on South Central Railway Apprentice Recruitment 2021 Apply 4103 Post">Read
 										more</a></p>
 							</div>
@@ -7620,10 +7620,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7632,7 +7632,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway-apprentice-recruitment/#respond">Leave
+										href="south-central-railway-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7643,7 +7643,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrb-ministerial-and-isolated-admit-card/"
+										href="rrb-ministerial-and-isolated-admit-card/"
 										rel="bookmark">RRB Ministerial and Isolated Skill Test Admit Card 2021 Check RRB
 										MI Skill Test Date</a></h2>
 								<div class="entry-meta">
@@ -7653,7 +7653,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7667,7 +7667,7 @@
 									has already been declared. RRB MI Stenography Skill Test for &#8230; <a
 										title="RRB Ministerial and Isolated Skill Test Admit Card 2021 Check RRB MI Skill Test Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrb-ministerial-and-isolated-admit-card/"
+										href="rrb-ministerial-and-isolated-admit-card/"
 										aria-label="More on RRB Ministerial and Isolated Skill Test Admit Card 2021 Check RRB MI Skill Test Date">Read
 										more</a></p>
 							</div>
@@ -7678,10 +7678,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/hall-ticket/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="hall-ticket/"
 										rel="category tag">Admit Card</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7690,7 +7690,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrb-ministerial-and-isolated-admit-card/#comments">1
+										href="rrb-ministerial-and-isolated-admit-card/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7701,7 +7701,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northern-railway-apprentice-recruitment/"
+										href="northern-railway-apprentice-recruitment/"
 										rel="bookmark">Northern Railway Apprentice Recruitment 2021 Apply 3093 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7711,7 +7711,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7725,7 +7725,7 @@
 									Northern Railway Apprentice Jobs Vacancy at 3093 posts of the &#8230; <a
 										title="Northern Railway Apprentice Recruitment 2021 Apply 3093 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/northern-railway-apprentice-recruitment/"
+										href="northern-railway-apprentice-recruitment/"
 										aria-label="More on Northern Railway Apprentice Recruitment 2021 Apply 3093 Posts">Read
 										more</a></p>
 							</div>
@@ -7736,10 +7736,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7748,7 +7748,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northern-railway-apprentice-recruitment/#comments">2
+										href="northern-railway-apprentice-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7759,7 +7759,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-apprentice-job-apply/"
+										href="secr-apprentice-job-apply/"
 										rel="bookmark">SECR Apprentice Recruitment 2021 Apply Online 339 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-10-13T15:34:46+05:30"
@@ -7768,7 +7768,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7782,7 +7782,7 @@
 									September 2021 to 5 October 2021. &#8230; <a
 										title="SECR Apprentice Recruitment 2021 Apply Online 339 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/secr-apprentice-job-apply/"
+										href="secr-apprentice-job-apply/"
 										aria-label="More on SECR Apprentice Recruitment 2021 Apply Online 339 Posts">Read
 										more</a></p>
 							</div>
@@ -7793,10 +7793,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7805,7 +7805,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-apprentice-job-apply/#respond">Leave a
+										href="secr-apprentice-job-apply/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7816,7 +7816,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/clw-apprentice-recruitment/"
+										href="clw-apprentice-recruitment/"
 										rel="bookmark">CLW Apprentice Recruitment 2021 Apply Online 492 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-10-13T15:32:42+05:30"
@@ -7825,7 +7825,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7838,7 +7838,7 @@
 									website clw.indianrailways.gov.in recruitment 2021 for CLW Apprentice Jobs Vacancy
 									at 492 posts of the Apprentice Post can apply by &#8230; <a
 										title="CLW Apprentice Recruitment 2021 Apply Online 492 Posts" class="read-more"
-										href="https://www.sarkariresult.app/clw-apprentice-recruitment/"
+										href="clw-apprentice-recruitment/"
 										aria-label="More on CLW Apprentice Recruitment 2021 Apply Online 492 Posts">Read
 										more</a></p>
 							</div>
@@ -7849,10 +7849,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7861,7 +7861,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/clw-apprentice-recruitment/#respond">Leave a
+										href="clw-apprentice-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7872,7 +7872,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/irctc-recruitment/" rel="bookmark">IRCTC
+										href="irctc-recruitment/" rel="bookmark">IRCTC
 										Recruitment 2021 Apply Now Computer Operator 150 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7880,7 +7880,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7893,7 +7893,7 @@
 									Operator and Programming Assistant Vacancy at 150 posts. Candidates wishing to apply
 									through the official website irctc.com recruitment 2021 for &#8230; <a
 										title="IRCTC Recruitment 2021 Apply Now Computer Operator 150 Post"
-										class="read-more" href="https://www.sarkariresult.app/irctc-recruitment/"
+										class="read-more" href="irctc-recruitment/"
 										aria-label="More on IRCTC Recruitment 2021 Apply Now Computer Operator 150 Post">Read
 										more</a></p>
 							</div>
@@ -7904,10 +7904,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7917,7 +7917,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/irctc-recruitment/#respond">Leave a
+										href="irctc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7928,7 +7928,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/east-central-railway-vacancy/"
+										href="east-central-railway-vacancy/"
 										rel="bookmark">East Central Railways Recruitment 2021 Mechanic Diesel 30
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -7937,7 +7937,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7951,7 +7951,7 @@
 									official website East Central Railways Jobs from 30 August 2021. &#8230; <a
 										title="East Central Railways Recruitment 2021 Mechanic Diesel 30 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/east-central-railway-vacancy/"
+										href="east-central-railway-vacancy/"
 										aria-label="More on East Central Railways Recruitment 2021 Mechanic Diesel 30 Posts">Read
 										more</a></p>
 							</div>
@@ -7962,10 +7962,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7975,7 +7975,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/east-central-railway-vacancy/#respond">Leave
+										href="east-central-railway-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7986,7 +7986,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway-technician-recruitment/"
+										href="south-central-railway-technician-recruitment/"
 										rel="bookmark">South Central Railway Recruitment 2021 Apply Technician 21
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7995,7 +7995,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8009,7 +8009,7 @@
 									recruitment through the official website South Central Railway Jobs &#8230; <a
 										title="South Central Railway Recruitment 2021 Apply Technician 21 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-central-railway-technician-recruitment/"
+										href="south-central-railway-technician-recruitment/"
 										aria-label="More on South Central Railway Recruitment 2021 Apply Technician 21 Post">Read
 										more</a></p>
 							</div>
@@ -8020,10 +8020,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8033,7 +8033,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway-technician-recruitment/#respond">Leave
+										href="south-central-railway-technician-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8044,7 +8044,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-walk-in-interview/"
+										href="konkan-railway-walk-in-interview/"
 										rel="bookmark">Konkan Railway Recruitment 2021 Technical Asst Walk In
 										Interview</a></h2>
 								<div class="entry-meta">
@@ -8053,7 +8053,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8067,7 +8067,7 @@
 									can go to the interview on &#8230; <a
 										title="Konkan Railway Recruitment 2021 Technical Asst Walk In Interview"
 										class="read-more"
-										href="https://www.sarkariresult.app/konkan-railway-walk-in-interview/"
+										href="konkan-railway-walk-in-interview/"
 										aria-label="More on Konkan Railway Recruitment 2021 Technical Asst Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -8078,10 +8078,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8091,7 +8091,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-walk-in-interview/#respond">Leave
+										href="konkan-railway-walk-in-interview/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8102,7 +8102,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-teacher-recruitment/" rel="bookmark">WCR
+										href="wcr-teacher-recruitment/" rel="bookmark">WCR
 										Teacher Recruitment 2021 Direct Interview TGT &#038; PGT Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8110,7 +8110,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8123,7 +8123,7 @@
 									&amp; Post Graduate Teacher (PGT) Vacancy at 11 posts in WCR Jobs. Those candidates
 									who are interested in &#8230; <a
 										title="WCR Teacher Recruitment 2021 Direct Interview TGT &#038; PGT Post"
-										class="read-more" href="https://www.sarkariresult.app/wcr-teacher-recruitment/"
+										class="read-more" href="wcr-teacher-recruitment/"
 										aria-label="More on WCR Teacher Recruitment 2021 Direct Interview TGT &#038; PGT Post">Read
 										more</a></p>
 							</div>
@@ -8134,12 +8134,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/walk-in-jobs/" rel="category tag">Walk In
+										href="walk-in-jobs/" rel="category tag">Walk In
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8148,7 +8148,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-teacher-recruitment/#respond">Leave a
+										href="wcr-teacher-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8159,7 +8159,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-central-railway/" rel="bookmark">North
+										href="north-central-railway/" rel="bookmark">North
 										Central Railway Recruitment 2021 Apply Apprentice 1664 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8167,7 +8167,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8180,7 +8180,7 @@
 									Central Railway Recruitment 2021 apply online to the ncr.indianrailways.gov.in
 									through the official website North Central Railway Jobs &#8230; <a
 										title="North Central Railway Recruitment 2021 Apply Apprentice 1664 Post"
-										class="read-more" href="https://www.sarkariresult.app/north-central-railway/"
+										class="read-more" href="north-central-railway/"
 										aria-label="More on North Central Railway Recruitment 2021 Apply Apprentice 1664 Post">Read
 										more</a></p>
 							</div>
@@ -8191,10 +8191,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8204,7 +8204,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-central-railway/#comments">1
+										href="north-central-railway/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8215,7 +8215,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-western-railway-recruitment/"
+										href="rrc-western-railway-recruitment/"
 										rel="bookmark">RRC Western Railway Recruitment 2021 Apply Now Group C Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8224,7 +8224,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8238,7 +8238,7 @@
 									online the rrc-wr.com rough &#8230; <a
 										title="RRC Western Railway Recruitment 2021 Apply Now Group C Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-western-railway-recruitment/"
+										href="rrc-western-railway-recruitment/"
 										aria-label="More on RRC Western Railway Recruitment 2021 Apply Now Group C Post">Read
 										more</a></p>
 							</div>
@@ -8249,10 +8249,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8262,7 +8262,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-western-railway-recruitment/#comments">3
+										href="rrc-western-railway-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8273,7 +8273,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-station-master-recruitment/"
+										href="wcr-station-master-recruitment/"
 										rel="bookmark">WCR Station Master Recruitment 2021 Apply Online 38 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8282,7 +8282,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8296,7 +8296,7 @@
 									recruitment can apply online &#8230; <a
 										title="WCR Station Master Recruitment 2021 Apply Online 38 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wcr-station-master-recruitment/"
+										href="wcr-station-master-recruitment/"
 										aria-label="More on WCR Station Master Recruitment 2021 Apply Online 38 Posts">Read
 										more</a></p>
 							</div>
@@ -8307,10 +8307,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8320,7 +8320,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-station-master-recruitment/#comments">1
+										href="wcr-station-master-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8331,7 +8331,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-teacher-recruitment/"
+										href="western-railway-teacher-recruitment/"
 										rel="bookmark">Western Railway Teacher Recruitment 2021 Apply Now TGT 11
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8340,7 +8340,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8354,7 +8354,7 @@
 									Western Railway recruitment can apply online through the official website &#8230; <a
 										title="Western Railway Teacher Recruitment 2021 Apply Now TGT 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/western-railway-teacher-recruitment/"
+										href="western-railway-teacher-recruitment/"
 										aria-label="More on Western Railway Teacher Recruitment 2021 Apply Now TGT 11 Post">Read
 										more</a></p>
 							</div>
@@ -8365,13 +8365,13 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
-										Jobs</a>, <a href="https://www.sarkariresult.app/walk-in-jobs/"
+										href="teacher-vacancy/" rel="category tag">Teacher
+										Jobs</a>, <a href="walk-in-jobs/"
 										rel="category tag">Walk In Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8380,7 +8380,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-teacher-recruitment/#comments">1
+										href="western-railway-teacher-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8391,7 +8391,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/krcl-vacancy/" rel="bookmark">Konkan Railway
+										href="krcl-vacancy/" rel="bookmark">Konkan Railway
 										Recruitment 2021 Manager, Accounts Asst 12 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8399,7 +8399,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8413,7 +8413,7 @@
 									Officer, Section Officer, Accounts Assistant Vacancy at 12 posts. Those candidates
 									who are interested &#8230; <a
 										title="Konkan Railway Recruitment 2021 Manager, Accounts Asst 12 Post"
-										class="read-more" href="https://www.sarkariresult.app/krcl-vacancy/"
+										class="read-more" href="krcl-vacancy/"
 										aria-label="More on Konkan Railway Recruitment 2021 Manager, Accounts Asst 12 Post">Read
 										more</a></p>
 							</div>
@@ -8424,10 +8424,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8436,7 +8436,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/krcl-vacancy/#respond">Leave
+										</svg></span><a href="krcl-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8447,7 +8447,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-apprentice-recruitment/"
+										href="southern-railway-apprentice-recruitment/"
 										rel="bookmark">Southern Railway Apprentice Recruitment 2021 Apply 3378 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8456,7 +8456,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8471,7 +8471,7 @@
 									Recruitment &#8230; <a
 										title="Southern Railway Apprentice Recruitment 2021 Apply 3378 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-apprentice-recruitment/"
+										href="southern-railway-apprentice-recruitment/"
 										aria-label="More on Southern Railway Apprentice Recruitment 2021 Apply 3378 Posts">Read
 										more</a></p>
 							</div>
@@ -8482,10 +8482,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8495,7 +8495,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-apprentice-recruitment/#comments">1
+										href="southern-railway-apprentice-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8506,7 +8506,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-apprentice-recruitment/"
+										href="western-railway-apprentice-recruitment/"
 										rel="bookmark">Western Railway Apprentice Recruitment 2021 Apply Now 3591
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8515,7 +8515,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8529,7 +8529,7 @@
 									official website Western Railway Jobs wr.indianrailways.gov.in from 25 May 2021 to
 									&#8230; <a title="Western Railway Apprentice Recruitment 2021 Apply Now 3591 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/western-railway-apprentice-recruitment/"
+										href="western-railway-apprentice-recruitment/"
 										aria-label="More on Western Railway Apprentice Recruitment 2021 Apply Now 3591 Post">Read
 										more</a></p>
 							</div>
@@ -8540,10 +8540,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8553,7 +8553,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-apprentice-recruitment/#comments">4
+										href="western-railway-apprentice-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8564,7 +8564,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrb-ntpc-admit-card/" rel="bookmark">RRB
+										href="rrb-ntpc-admit-card/" rel="bookmark">RRB
 										NTPC Admit Card 2021 Check Phase VI Exam Date RRB/CEN/1/2019</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-05-18T18:56:49+05:30"
@@ -8573,7 +8573,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8586,7 +8586,7 @@
 									phase CBT for 35208 vacancies under Advance Number-RRB/CEN/1/2019 Exam Date of
 									Non-Technical Popular Categories (NTPC). &#8230; <a
 										title="RRB NTPC Admit Card 2021 Check Phase VI Exam Date RRB/CEN/1/2019"
-										class="read-more" href="https://www.sarkariresult.app/rrb-ntpc-admit-card/"
+										class="read-more" href="rrb-ntpc-admit-card/"
 										aria-label="More on RRB NTPC Admit Card 2021 Check Phase VI Exam Date RRB/CEN/1/2019">Read
 										more</a></p>
 							</div>
@@ -8597,10 +8597,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8609,7 +8609,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrb-ntpc-admit-card/#comments">4
+										href="rrb-ntpc-admit-card/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8620,7 +8620,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway-jobs/"
+										href="south-central-railway-jobs/"
 										rel="bookmark">SCR Paramedical Staff Recruitment 2021 Application Form 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8630,7 +8630,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8644,7 +8644,7 @@
 									Superintendent, Lab Assistants, Hospital Attendant) Vacancy at 40 posts. &#8230; <a
 										title="SCR Paramedical Staff Recruitment 2021 Application Form 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-central-railway-jobs/"
+										href="south-central-railway-jobs/"
 										aria-label="More on SCR Paramedical Staff Recruitment 2021 Application Form 40 Post">Read
 										more</a></p>
 							</div>
@@ -8655,10 +8655,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8668,7 +8668,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway-jobs/#comments">3
+										href="south-central-railway-jobs/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8679,7 +8679,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/integral-coach-factory/" rel="bookmark">ICF
+										href="integral-coach-factory/" rel="bookmark">ICF
 										Recruitment 2021 Apply Online Staff Nurse, Assistant 39 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8687,7 +8687,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8700,7 +8700,7 @@
 									Contract Medical Practitioner (GDMOs), Staff Nurse, House Keeping Assistant Vacancy
 									at 39 posts. Those candidates who are interested in ICF &#8230; <a
 										title="ICF Recruitment 2021 Apply Online Staff Nurse, Assistant 39 Post"
-										class="read-more" href="https://www.sarkariresult.app/integral-coach-factory/"
+										class="read-more" href="integral-coach-factory/"
 										aria-label="More on ICF Recruitment 2021 Apply Online Staff Nurse, Assistant 39 Post">Read
 										more</a></p>
 							</div>
@@ -8711,10 +8711,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8724,7 +8724,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/integral-coach-factory/#comments">1
+										href="integral-coach-factory/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8735,7 +8735,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-jobs/"
+										href="western-railway-jobs/"
 										rel="bookmark">Western Railway Recruitment 2021 Attendant, Nursing 27 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8744,7 +8744,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8757,7 +8757,7 @@
 									wishing to apply through the official website wr.indianrailways.gov.in Western
 									Railway by 11 May 2021. Western Railway Jobs 2021 &#8211; Apply Online &#8230; <a
 										title="Western Railway Recruitment 2021 Attendant, Nursing 27 Post"
-										class="read-more" href="https://www.sarkariresult.app/western-railway-jobs/"
+										class="read-more" href="western-railway-jobs/"
 										aria-label="More on Western Railway Recruitment 2021 Attendant, Nursing 27 Post">Read
 										more</a></p>
 							</div>
@@ -8768,10 +8768,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8781,7 +8781,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-jobs/#respond">Leave a
+										href="western-railway-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8792,7 +8792,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nfr-paramedical-staff-recruitment/"
+										href="nfr-paramedical-staff-recruitment/"
 										rel="bookmark">NFR Paramedical Staff Recruitment 2021 Apply Online 15 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8801,7 +8801,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8815,7 +8815,7 @@
 									Staff (Nurses, Lab Technician, HA-Ayah &amp; Data Entry Operator (DEO) &#8230; <a
 										title="NFR Paramedical Staff Recruitment 2021 Apply Online 15 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/nfr-paramedical-staff-recruitment/"
+										href="nfr-paramedical-staff-recruitment/"
 										aria-label="More on NFR Paramedical Staff Recruitment 2021 Apply Online 15 Posts">Read
 										more</a></p>
 							</div>
@@ -8826,10 +8826,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8839,7 +8839,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nfr-paramedical-staff-recruitment/#comments">7
+										href="nfr-paramedical-staff-recruitment/#comments">7
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8850,7 +8850,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chennai-metro/" rel="bookmark">CMRL
+										href="chennai-metro/" rel="bookmark">CMRL
 										Recruitment 2021 Manager, DGM, AGM, Officer 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8858,7 +8858,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8871,7 +8871,7 @@
 									for the CMRL recruitment 2021 of General Manager (Electrical), Chief Vigilance
 									Officer, DGM/ JGM/ AGM (Electrical), DGM/ JGM (Civil), Manager (Electrical) Vacancy
 									&#8230; <a title="CMRL Recruitment 2021 Manager, DGM, AGM, Officer 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/chennai-metro/"
+										class="read-more" href="chennai-metro/"
 										aria-label="More on CMRL Recruitment 2021 Manager, DGM, AGM, Officer 11 Post">Read
 										more</a></p>
 							</div>
@@ -8882,10 +8882,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8894,7 +8894,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/chennai-metro/#comments">1
+										</svg></span><a href="chennai-metro/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8905,7 +8905,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northern-railway-vacancy/"
+										href="northern-railway-vacancy/"
 										rel="bookmark">Northern Railway Recruitment 2021 Paramedical Staff 80 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8915,7 +8915,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8929,7 +8929,7 @@
 									Information: Northern Railway has released the latest notification for the Northern
 									Railway Group &#8230; <a
 										title="Northern Railway Recruitment 2021 Paramedical Staff 80 Posts"
-										class="read-more" href="https://www.sarkariresult.app/northern-railway-vacancy/"
+										class="read-more" href="northern-railway-vacancy/"
 										aria-label="More on Northern Railway Recruitment 2021 Paramedical Staff 80 Posts">Read
 										more</a></p>
 							</div>
@@ -8940,10 +8940,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8953,7 +8953,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northern-railway-vacancy/#comments">1
+										href="northern-railway-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8964,7 +8964,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-job-vacancy/"
+										href="southern-railway-job-vacancy/"
 										rel="bookmark">Southern Railway Recruitment 2021 Para Medical Staff 191 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8973,7 +8973,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8988,7 +8988,7 @@
 									Physiotherapist, ECG Technician, Haemodialysis Technician, Hospital Assistant,
 									&#8230; <a title="Southern Railway Recruitment 2021 Para Medical Staff 191 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-job-vacancy/"
+										href="southern-railway-job-vacancy/"
 										aria-label="More on Southern Railway Recruitment 2021 Para Medical Staff 191 Post">Read
 										more</a></p>
 							</div>
@@ -8999,10 +8999,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9012,7 +9012,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-job-vacancy/#respond">Leave
+										href="southern-railway-job-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9023,7 +9023,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maha-metro-vacancy/" rel="bookmark">Maha
+										href="maha-metro-vacancy/" rel="bookmark">Maha
 										Metro Recruitment 2021 Apply Now JE, Manager 14 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9031,7 +9031,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9044,7 +9044,7 @@
 									Metro Rail Corporation Limited has released the latest notification for the Maha
 									Metro recruitment 2021 of Deputy General Manager, Jr. Engineer &#8230; <a
 										title="Maha Metro Recruitment 2021 Apply Now JE, Manager 14 Post"
-										class="read-more" href="https://www.sarkariresult.app/maha-metro-vacancy/"
+										class="read-more" href="maha-metro-vacancy/"
 										aria-label="More on Maha Metro Recruitment 2021 Apply Now JE, Manager 14 Post">Read
 										more</a></p>
 							</div>
@@ -9055,10 +9055,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9068,7 +9068,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maha-metro-vacancy/#respond">Leave a
+										href="maha-metro-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9079,7 +9079,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/"
+										href="railway-blw-apprentice-recruitment/"
 										rel="bookmark">Railway BLW Apprentice Result 2021 Check Merit List, Cut Off</a>
 								</h2>
 								<div class="entry-meta">
@@ -9089,7 +9089,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9103,7 +9103,7 @@
 									Locomotive Works Recruitment 2021 can download Railway BLW &#8230; <a
 										title="Railway BLW Apprentice Result 2021 Check Merit List, Cut Off"
 										class="read-more"
-										href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/"
+										href="railway-blw-apprentice-recruitment/"
 										aria-label="More on Railway BLW Apprentice Result 2021 Check Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -9114,12 +9114,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/high-court-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="high-court-vacancy/"
 										rel="category tag">High Court Jobs</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9128,7 +9128,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/#comments">1
+										href="railway-blw-apprentice-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9139,7 +9139,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-kota-apprentice-recruitment/"
+										href="wcr-kota-apprentice-recruitment/"
 										rel="bookmark">WCR Kota Apprentice Recruitment 2021 Steno, Mechanic 716 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9148,7 +9148,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9163,7 +9163,7 @@
 									released the latest notification &#8230; <a
 										title="WCR Kota Apprentice Recruitment 2021 Steno, Mechanic 716 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wcr-kota-apprentice-recruitment/"
+										href="wcr-kota-apprentice-recruitment/"
 										aria-label="More on WCR Kota Apprentice Recruitment 2021 Steno, Mechanic 716 Post">Read
 										more</a></p>
 							</div>
@@ -9174,10 +9174,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9187,7 +9187,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-kota-apprentice-recruitment/#respond">Leave
+										href="wcr-kota-apprentice-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9198,7 +9198,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northeast-frontier-railway/"
+										href="northeast-frontier-railway/"
 										rel="bookmark">Northeast Frontier Railway Recruitment 2021 JE, Helper 370
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -9207,7 +9207,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9221,7 +9221,7 @@
 									posts. Those candidates who are interested in Northeast Frontier Railway Vacancy
 									&#8230; <a title="Northeast Frontier Railway Recruitment 2021 JE, Helper 370 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/northeast-frontier-railway/"
+										href="northeast-frontier-railway/"
 										aria-label="More on Northeast Frontier Railway Recruitment 2021 JE, Helper 370 Posts">Read
 										more</a></p>
 							</div>
@@ -9232,10 +9232,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9245,7 +9245,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northeast-frontier-railway/#respond">Leave a
+										href="northeast-frontier-railway/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9256,7 +9256,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/east-central-railway-recruitment/"
+										href="east-central-railway-recruitment/"
 										rel="bookmark">East Central Railway Recruitment 2021 Ticket Clerk 61 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9265,7 +9265,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9279,7 +9279,7 @@
 									30/04/2021. East Central Railway Jobs 2021 &#8211; Apply Online Commercial &#8230;
 									<a title="East Central Railway Recruitment 2021 Ticket Clerk 61 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/east-central-railway-recruitment/"
+										href="east-central-railway-recruitment/"
 										aria-label="More on East Central Railway Recruitment 2021 Ticket Clerk 61 Posts">Read
 										more</a></p>
 							</div>
@@ -9290,10 +9290,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9303,7 +9303,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/east-central-railway-recruitment/#comments">2
+										href="east-central-railway-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9314,7 +9314,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-paramedical-staff-recruitment/"
+										href="central-railway-paramedical-staff-recruitment/"
 										rel="bookmark">Central Railway Recruitment 2021 Apply Paramedical Staff 52
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9323,7 +9323,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9337,7 +9337,7 @@
 									Candidates who are interested in Central Railway Staff &#8230; <a
 										title="Central Railway Recruitment 2021 Apply Paramedical Staff 52 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-paramedical-staff-recruitment/"
+										href="central-railway-paramedical-staff-recruitment/"
 										aria-label="More on Central Railway Recruitment 2021 Apply Paramedical Staff 52 Post">Read
 										more</a></p>
 							</div>
@@ -9348,10 +9348,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9361,7 +9361,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-paramedical-staff-recruitment/#comments">1
+										href="central-railway-paramedical-staff-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9372,7 +9372,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wcr-apprentice-recruitment/"
+										href="wcr-apprentice-recruitment/"
 										rel="bookmark">WCR Apprentice Recruitment 2021 Apply Online 680 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9380,7 +9380,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9394,7 +9394,7 @@
 									Civil) Vacancy at 680 Posts. Short Information: West Central Railway has released
 									the latest notification for the &#8230; <a
 										title="WCR Apprentice Recruitment 2021 Apply Online 680 Posts" class="read-more"
-										href="https://www.sarkariresult.app/wcr-apprentice-recruitment/"
+										href="wcr-apprentice-recruitment/"
 										aria-label="More on WCR Apprentice Recruitment 2021 Apply Online 680 Posts">Read
 										more</a></p>
 							</div>
@@ -9405,10 +9405,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9418,7 +9418,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wcr-apprentice-recruitment/#respond">Leave a
+										href="wcr-apprentice-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9429,7 +9429,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-ser-recruitment/" rel="bookmark">RRC SCR
+										href="rrc-ser-recruitment/" rel="bookmark">RRC SCR
 										Recruitment 2021 Apply JE, Steno, Translator 96 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9437,7 +9437,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9450,7 +9450,7 @@
 									Machine), Jr. Translator, Stenographer posts Advertisement No GDCE Notification No.
 									RRC/ SCR/ GDCE/ 01/ 2021. Those candidates who are &#8230; <a
 										title="RRC SCR Recruitment 2021 Apply JE, Steno, Translator 96 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-ser-recruitment/"
+										class="read-more" href="rrc-ser-recruitment/"
 										aria-label="More on RRC SCR Recruitment 2021 Apply JE, Steno, Translator 96 Post">Read
 										more</a></p>
 							</div>
@@ -9461,10 +9461,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9474,7 +9474,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-ser-recruitment/#comments">2
+										href="rrc-ser-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9485,7 +9485,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-technical-asst-recruitment/"
+										href="konkan-railway-technical-asst-recruitment/"
 										rel="bookmark">Konkan Railway Technical Asst Recruitment 2021 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9493,7 +9493,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9507,7 +9507,7 @@
 									interview through the official website Konkan Railway Jobs konkanrailway.com &#8230;
 									<a title="Konkan Railway Technical Asst Recruitment 2021 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/konkan-railway-technical-asst-recruitment/"
+										href="konkan-railway-technical-asst-recruitment/"
 										aria-label="More on Konkan Railway Technical Asst Recruitment 2021 Apply Now">Read
 										more</a></p>
 							</div>
@@ -9518,10 +9518,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9531,7 +9531,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-technical-asst-recruitment/#respond">Leave
+										href="konkan-railway-technical-asst-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9542,7 +9542,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/dmw-patiala-recruitment/" rel="bookmark">DMW
+										href="dmw-patiala-recruitment/" rel="bookmark">DMW
 										Patiala Recruitment 2021 Apply Online Apprentice 182 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9550,7 +9550,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9563,7 +9563,7 @@
 									Online Registration starts on 9 March 2021. Those candidates can who are interested
 									in DMW Patiala Recruitment 2021 can apply online &#8230; <a
 										title="DMW Patiala Recruitment 2021 Apply Online Apprentice 182 Post"
-										class="read-more" href="https://www.sarkariresult.app/dmw-patiala-recruitment/"
+										class="read-more" href="dmw-patiala-recruitment/"
 										aria-label="More on DMW Patiala Recruitment 2021 Apply Online Apprentice 182 Post">Read
 										more</a></p>
 							</div>
@@ -9574,10 +9574,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9587,7 +9587,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/dmw-patiala-recruitment/#respond">Leave a
+										href="dmw-patiala-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9598,7 +9598,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-apprentice-recruitment/"
+										href="central-railway-apprentice-recruitment/"
 										rel="bookmark">Central Railway Apprentice Recruitment 2021 Apply 2532 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9607,7 +9607,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9621,7 +9621,7 @@
 									Candidates who are interested in Central Railway Recruitment 2021 can apply &#8230;
 									<a title="Central Railway Apprentice Recruitment 2021 Apply 2532 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-apprentice-recruitment/"
+										href="central-railway-apprentice-recruitment/"
 										aria-label="More on Central Railway Apprentice Recruitment 2021 Apply 2532 Post">Read
 										more</a></p>
 							</div>
@@ -9632,10 +9632,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9645,7 +9645,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-apprentice-recruitment/#comments">1
+										href="central-railway-apprentice-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9656,7 +9656,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-recruitment/" rel="bookmark">SECR
+										href="secr-recruitment/" rel="bookmark">SECR
 										Recruitment 2021 Apply Sports Quota Group C 26 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9664,7 +9664,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9677,7 +9677,7 @@
 									official website secr.indianrailways.gov.in recruitment 2021 for SECR Jobs Vacancy
 									at 26 posts of &#8230; <a
 										title="SECR Recruitment 2021 Apply Sports Quota Group C 26 Posts"
-										class="read-more" href="https://www.sarkariresult.app/secr-recruitment/"
+										class="read-more" href="secr-recruitment/"
 										aria-label="More on SECR Recruitment 2021 Apply Sports Quota Group C 26 Posts">Read
 										more</a></p>
 							</div>
@@ -9688,10 +9688,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9701,7 +9701,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-recruitment/#respond">Leave a
+										href="secr-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9712,7 +9712,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-je-recruitment/"
+										href="konkan-railway-je-recruitment/"
 										rel="bookmark">Konkan Railway JE Recruitment 2021 Junior Engineer 10 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9721,7 +9721,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9735,7 +9735,7 @@
 									at 10 posts of the Junior Engineer Post can apply &#8230; <a
 										title="Konkan Railway JE Recruitment 2021 Junior Engineer 10 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/konkan-railway-je-recruitment/"
+										href="konkan-railway-je-recruitment/"
 										aria-label="More on Konkan Railway JE Recruitment 2021 Junior Engineer 10 Posts">Read
 										more</a></p>
 							</div>
@@ -9746,10 +9746,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9759,7 +9759,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-je-recruitment/#comments">1
+										href="konkan-railway-je-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9770,7 +9770,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/swr-apprentice-recruitment/"
+										href="swr-apprentice-recruitment/"
 										rel="bookmark">SWR Apprentice Recruitment 2021 RRC Hubli Apprentice 1004
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9779,7 +9779,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9793,7 +9793,7 @@
 									Recruitment 2021. The link to apply online for &#8230; <a
 										title="SWR Apprentice Recruitment 2021 RRC Hubli Apprentice 1004 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/swr-apprentice-recruitment/"
+										href="swr-apprentice-recruitment/"
 										aria-label="More on SWR Apprentice Recruitment 2021 RRC Hubli Apprentice 1004 Post">Read
 										more</a></p>
 							</div>
@@ -9804,10 +9804,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9817,7 +9817,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/swr-apprentice-recruitment/#respond">Leave a
+										href="swr-apprentice-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9828,7 +9828,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-western-railway-recruitment/"
+										href="south-western-railway-recruitment/"
 										rel="bookmark">South Western Railway Recruitment 2020 Apply Group C 21 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9837,7 +9837,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9851,7 +9851,7 @@
 									South Western Railway Jobs Vacancy at &#8230; <a
 										title="South Western Railway Recruitment 2020 Apply Group C 21 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-western-railway-recruitment/"
+										href="south-western-railway-recruitment/"
 										aria-label="More on South Western Railway Recruitment 2020 Apply Group C 21 Posts">Read
 										more</a></p>
 							</div>
@@ -9862,10 +9862,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9875,7 +9875,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-western-railway-recruitment/#comments">1
+										href="south-western-railway-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9886,7 +9886,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mcf-raebareli-recruitment/"
+										href="mcf-raebareli-recruitment/"
 										rel="bookmark">MCF Raebareli Recruitment 2020 Apply Online Apprentice 110
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9896,7 +9896,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9911,7 +9911,7 @@
 									Modern Coach Factory Raebareli &#8230; <a
 										title="MCF Raebareli Recruitment 2020 Apply Online Apprentice 110 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mcf-raebareli-recruitment/"
+										href="mcf-raebareli-recruitment/"
 										aria-label="More on MCF Raebareli Recruitment 2020 Apply Online Apprentice 110 Post">Read
 										more</a></p>
 							</div>
@@ -9922,10 +9922,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9935,7 +9935,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mcf-raebareli-recruitment/#comments">1
+										href="mcf-raebareli-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9946,7 +9946,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-east-central-railway/"
+										href="south-east-central-railway/"
 										rel="bookmark">South East Central Railway Recruitment 2020 Apprentice 432
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -9956,7 +9956,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9970,7 +9970,7 @@
 									East Central Railway Apprentice Jobs Vacancy at 432 posts of &#8230; <a
 										title="South East Central Railway Recruitment 2020 Apprentice 432 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-east-central-railway/"
+										href="south-east-central-railway/"
 										aria-label="More on South East Central Railway Recruitment 2020 Apprentice 432 Posts">Read
 										more</a></p>
 							</div>
@@ -9981,10 +9981,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9994,7 +9994,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-east-central-railway/#respond">Leave a
+										href="south-east-central-railway/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10005,7 +10005,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-apprentice-recruitment/"
+										href="secr-apprentice-recruitment/"
 										rel="bookmark">SECR Apprentice Recruitment 2020 Apply Online 413 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10013,7 +10013,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10027,7 +10027,7 @@
 									Online through the official website secr.indianrailways.gov.in SECR Railway
 									Apprentice Recruitment &#8230; <a
 										title="SECR Apprentice Recruitment 2020 Apply Online 413 Post" class="read-more"
-										href="https://www.sarkariresult.app/secr-apprentice-recruitment/"
+										href="secr-apprentice-recruitment/"
 										aria-label="More on SECR Apprentice Recruitment 2020 Apply Online 413 Post">Read
 										more</a></p>
 							</div>
@@ -10038,10 +10038,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10051,7 +10051,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-apprentice-recruitment/#comments">1
+										href="secr-apprentice-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10062,7 +10062,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/konkan-railway-recruitment/"
+										href="konkan-railway-recruitment/"
 										rel="bookmark">Konkan Railway Recruitment 2020 KRCL Technician 58 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10070,7 +10070,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10084,7 +10084,7 @@
 									posts of the Technician Post can apply by 27 &#8230; <a
 										title="Konkan Railway Recruitment 2020 KRCL Technician 58 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/konkan-railway-recruitment/"
+										href="konkan-railway-recruitment/"
 										aria-label="More on Konkan Railway Recruitment 2020 KRCL Technician 58 Post">Read
 										more</a></p>
 							</div>
@@ -10095,10 +10095,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10108,7 +10108,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/konkan-railway-recruitment/#comments">2
+										href="konkan-railway-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10119,7 +10119,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secl-recruitment/" rel="bookmark">SECL
+										href="secl-recruitment/" rel="bookmark">SECL
 										Recruitment 2020 DEO, Staff Nurse, Inspector 310 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2020-10-11T13:18:29+05:30"
@@ -10128,7 +10128,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10142,7 +10142,7 @@
 									recruitment of paramedical and DEO, Staff Nurse, Pharmacist, Technician,
 									Physiotherapist, Technical Inspector, Chemist &#8230; <a
 										title="SECL Recruitment 2020 DEO, Staff Nurse, Inspector 310 Post"
-										class="read-more" href="https://www.sarkariresult.app/secl-recruitment/"
+										class="read-more" href="secl-recruitment/"
 										aria-label="More on SECL Recruitment 2020 DEO, Staff Nurse, Inspector 310 Post">Read
 										more</a></p>
 							</div>
@@ -10153,10 +10153,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10166,7 +10166,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secl-recruitment/#comments">8
+										href="secl-recruitment/#comments">8
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10177,7 +10177,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-junior-clerk-vacancy/"
+										href="central-railway-junior-clerk-vacancy/"
 										rel="bookmark">Central Railway Recruitment 2020 Apply Junior Clerk 251 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10186,7 +10186,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10200,7 +10200,7 @@
 									Central Railway Jobs &#8211; Apply Online Junior Clerk &#8230; <a
 										title="Central Railway Recruitment 2020 Apply Junior Clerk 251 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-junior-clerk-vacancy/"
+										href="central-railway-junior-clerk-vacancy/"
 										aria-label="More on Central Railway Recruitment 2020 Apply Junior Clerk 251 Post">Read
 										more</a></p>
 							</div>
@@ -10211,10 +10211,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10223,7 +10223,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-junior-clerk-vacancy/#comments">15
+										href="central-railway-junior-clerk-vacancy/#comments">15
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10234,7 +10234,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrb-ntpc-application-status/"
+										href="rrb-ntpc-application-status/"
 										rel="bookmark">RRB NTPC Application Status 2020 Link Check CEN 01/2019 Status
 										Date</a></h2>
 								<div class="entry-meta">
@@ -10243,7 +10243,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10257,7 +10257,7 @@
 									Popular Categories. The application status can be &#8230; <a
 										title="RRB NTPC Application Status 2020 Link Check CEN 01/2019 Status Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrb-ntpc-application-status/"
+										href="rrb-ntpc-application-status/"
 										aria-label="More on RRB NTPC Application Status 2020 Link Check CEN 01/2019 Status Date">Read
 										more</a></p>
 							</div>
@@ -10268,10 +10268,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10280,7 +10280,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrb-ntpc-application-status/#comments">5
+										href="rrb-ntpc-application-status/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10291,7 +10291,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-railway-recruitment/"
+										href="north-eastern-railway-recruitment/"
 										rel="bookmark">North Eastern Railway PGT, TGT Interview Result 2020 Check
 										Here</a></h2>
 								<div class="entry-meta">
@@ -10301,7 +10301,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10315,7 +10315,7 @@
 									2020 &#8211; Download PGT, TGT Selected Candidates List &#8230; <a
 										title="North Eastern Railway PGT, TGT Interview Result 2020 Check Here"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-railway-recruitment/"
+										href="north-eastern-railway-recruitment/"
 										aria-label="More on North Eastern Railway PGT, TGT Interview Result 2020 Check Here">Read
 										more</a></p>
 							</div>
@@ -10326,10 +10326,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="railway-vacancy/" rel="category tag">Railway
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -10339,7 +10339,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-railway-recruitment/#comments">4
+										href="north-eastern-railway-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10350,7 +10350,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railway-jobs/" rel="bookmark">Railway
+										href="railway-jobs/" rel="bookmark">Railway
 										Recruitment 2023 Apply Online Group D, RRB, RRC Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10358,7 +10358,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10377,8 +10377,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/railway-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="railway-vacancy/"
 										rel="category tag">Railway Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10386,7 +10386,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/railway-jobs/#comments">17
+										</svg></span><a href="railway-jobs/#comments">17
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10397,7 +10397,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-ser-instructor-vacancy/"
+										href="rrc-ser-instructor-vacancy/"
 										rel="bookmark">South Eastern Railway Instructor Recruitment 2020 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -10406,7 +10406,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10420,7 +10420,7 @@
 									freejobalert through online mode sr.indianrailways.gov.in  before 16 September
 									&#8230; <a title="South Eastern Railway Instructor Recruitment 2020 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-ser-instructor-vacancy/"
+										href="rrc-ser-instructor-vacancy/"
 										aria-label="More on South Eastern Railway Instructor Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -10431,10 +10431,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10443,7 +10443,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-ser-instructor-vacancy/#respond">Leave a
+										href="rrc-ser-instructor-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10454,7 +10454,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-paramedical-recruitment/"
+										href="southern-railway-paramedical-recruitment/"
 										rel="bookmark">Southern Railway Recruitment 2020 Apply Paramedical 201 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10463,7 +10463,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10477,7 +10477,7 @@
 									COVID-19 epidemic-related diligence. Eligible and interested candidates can apply
 									&#8230; <a title="Southern Railway Recruitment 2020 Apply Paramedical 201 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-paramedical-recruitment/"
+										href="southern-railway-paramedical-recruitment/"
 										aria-label="More on Southern Railway Recruitment 2020 Apply Paramedical 201 Post">Read
 										more</a></p>
 							</div>
@@ -10488,10 +10488,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10500,7 +10500,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-paramedical-recruitment/#respond">Leave
+										href="southern-railway-paramedical-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10511,7 +10511,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-jta-recruitment/"
+										href="western-railway-jta-recruitment/"
 										rel="bookmark">Western Railway JTA Recruitment 2020 Technical Associate Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10520,7 +10520,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10534,7 +10534,7 @@
 									2020 can apply &#8230; <a
 										title="Western Railway JTA Recruitment 2020 Technical Associate Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/western-railway-jta-recruitment/"
+										href="western-railway-jta-recruitment/"
 										aria-label="More on Western Railway JTA Recruitment 2020 Technical Associate Post">Read
 										more</a></p>
 							</div>
@@ -10545,10 +10545,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10557,7 +10557,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-jta-recruitment/#comments">1
+										href="western-railway-jta-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10568,7 +10568,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-central-railway/" rel="bookmark">South
+										href="south-central-railway/" rel="bookmark">South
 										Central Railway Recruitment 2020 Apply Online 110 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10576,7 +10576,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10589,7 +10589,7 @@
 									Superintendent, Lab Assistant, Hospital Attendant, Medical Officer Job Vacancy at
 									110 posts. Candidates wishing to apply for South Central Railway posts of &#8230; <a
 										title="South Central Railway Recruitment 2020 Apply Online 110 Posts"
-										class="read-more" href="https://www.sarkariresult.app/south-central-railway/"
+										class="read-more" href="south-central-railway/"
 										aria-label="More on South Central Railway Recruitment 2020 Apply Online 110 Posts">Read
 										more</a></p>
 							</div>
@@ -10600,8 +10600,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/railway-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="railway-vacancy/"
 										rel="category tag">Railway Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10610,7 +10610,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-central-railway/#respond">Leave a
+										href="south-central-railway/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10621,7 +10621,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/railway-clerk-alp-tc-jobs/"
+										href="railway-clerk-alp-tc-jobs/"
 										rel="bookmark">South Eastern Railway Clerk Recruitment 2020 Apply 617 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10630,7 +10630,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10644,7 +10644,7 @@
 									Junior Clerk cum Typist, &#8230; <a
 										title="South Eastern Railway Clerk Recruitment 2020 Apply 617 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/railway-clerk-alp-tc-jobs/"
+										href="railway-clerk-alp-tc-jobs/"
 										aria-label="More on South Eastern Railway Clerk Recruitment 2020 Apply 617 Post">Read
 										more</a></p>
 							</div>
@@ -10655,10 +10655,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10667,7 +10667,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/railway-clerk-alp-tc-jobs/#respond">Leave a
+										href="railway-clerk-alp-tc-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10678,7 +10678,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-jaipur-vacancy/" rel="bookmark">RRC
+										href="rrc-jaipur-vacancy/" rel="bookmark">RRC
 										Jaipur Para Medical Staff Recruitment 2020 Apply 184 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10686,7 +10686,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10699,7 +10699,7 @@
 									Western Railway Jaipur has issued a latest notification for the RRC Jaipur
 									recruitment of Para Medical Staff (Para Medical Staff (Staff Nurse, Hospital &#8230;
 									<a title="RRC Jaipur Para Medical Staff Recruitment 2020 Apply 184 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-jaipur-vacancy/"
+										class="read-more" href="rrc-jaipur-vacancy/"
 										aria-label="More on RRC Jaipur Para Medical Staff Recruitment 2020 Apply 184 Post">Read
 										more</a></p>
 							</div>
@@ -10710,10 +10710,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10722,7 +10722,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-jaipur-vacancy/#comments">1
+										href="rrc-jaipur-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10733,7 +10733,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-central-railway-recruitment/"
+										href="north-central-railway-recruitment/"
 										rel="bookmark">North Central Railway Recruitment 2020 Apprentice 196 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -10742,7 +10742,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10756,7 +10756,7 @@
 									&#8211; Apply &#8230; <a
 										title="North Central Railway Recruitment 2020 Apprentice 196 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-central-railway-recruitment/"
+										href="north-central-railway-recruitment/"
 										aria-label="More on North Central Railway Recruitment 2020 Apprentice 196 Posts">Read
 										more</a></p>
 							</div>
@@ -10767,10 +10767,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10779,7 +10779,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-central-railway-recruitment/#respond">Leave
+										href="north-central-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10790,7 +10790,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-wr-recruitment/" rel="bookmark">RRC WR
+										href="rrc-wr-recruitment/" rel="bookmark">RRC WR
 										Clerk Recruitment 2020 Apply Now Group C &#038; D 42 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10798,7 +10798,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10811,7 +10811,7 @@
 									posts. Candidates wishing to apply for RRC WR Vacancy can apply by 13/06/2020.
 									Western Railway Jobs 2020 &#8211; Apply Online &#8230; <a
 										title="RRC WR Clerk Recruitment 2020 Apply Now Group C &#038; D 42 Post"
-										class="read-more" href="https://www.sarkariresult.app/rrc-wr-recruitment/"
+										class="read-more" href="rrc-wr-recruitment/"
 										aria-label="More on RRC WR Clerk Recruitment 2020 Apply Now Group C &#038; D 42 Post">Read
 										more</a></p>
 							</div>
@@ -10822,10 +10822,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10834,7 +10834,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-wr-recruitment/#comments">2
+										href="rrc-wr-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10845,7 +10845,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-para-medical-staff-recruitment/"
+										href="southern-railway-para-medical-staff-recruitment/"
 										rel="bookmark">Southern Railway Para Medical Staff Recruitment 2020 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -10854,7 +10854,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10870,7 +10870,7 @@
 									Attendant/House Keeping &#8230; <a
 										title="Southern Railway Para Medical Staff Recruitment 2020 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-para-medical-staff-recruitment/"
+										href="southern-railway-para-medical-staff-recruitment/"
 										aria-label="More on Southern Railway Para Medical Staff Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -10881,10 +10881,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10893,7 +10893,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-para-medical-staff-recruitment/#comments">3
+										href="southern-railway-para-medical-staff-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10904,7 +10904,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/western-railway-recruitment/"
+										href="western-railway-recruitment/"
 										rel="bookmark">Western Railway Staff Nurse Recruitment 2020 Apply 18 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -10913,7 +10913,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10926,7 +10926,7 @@
 									at 18 posts of the RRC WR Jobs 2020 can apply by 19 April 2020. &#8230; <a
 										title="Western Railway Staff Nurse Recruitment 2020 Apply 18 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/western-railway-recruitment/"
+										href="western-railway-recruitment/"
 										aria-label="More on Western Railway Staff Nurse Recruitment 2020 Apply 18 Posts">Read
 										more</a></p>
 							</div>
@@ -10937,10 +10937,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10949,7 +10949,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/western-railway-recruitment/#comments">1
+										href="western-railway-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10960,7 +10960,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northern-railway-job-vacancy/"
+										href="northern-railway-job-vacancy/"
 										rel="bookmark">Northern Railway Recruitment 2020 GDMO,Staff Nurse 134 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10969,7 +10969,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10983,7 +10983,7 @@
 									Specialist, Staff Nurse Vacancy at 134 &#8230; <a
 										title="Northern Railway Recruitment 2020 GDMO,Staff Nurse 134 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/northern-railway-job-vacancy/"
+										href="northern-railway-job-vacancy/"
 										aria-label="More on Northern Railway Recruitment 2020 GDMO,Staff Nurse 134 Post">Read
 										more</a></p>
 							</div>
@@ -10994,10 +10994,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11006,7 +11006,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northern-railway-job-vacancy/#comments">1
+										href="northern-railway-job-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11017,7 +11017,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-central-railway-recruitment/"
+										href="rrc-central-railway-recruitment/"
 										rel="bookmark">RRC Central Railway Recruitment 2020 Attendant, Asst 92 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -11026,7 +11026,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11040,7 +11040,7 @@
 									Assistant Vacancy at 92 posts. Candidates wishing to apply for Open Market &#8230;
 									<a title="RRC Central Railway Recruitment 2020 Attendant, Asst 92 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rrc-central-railway-recruitment/"
+										href="rrc-central-railway-recruitment/"
 										aria-label="More on RRC Central Railway Recruitment 2020 Attendant, Asst 92 Post">Read
 										more</a></p>
 							</div>
@@ -11051,10 +11051,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11063,7 +11063,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-central-railway-recruitment/#comments">1
+										href="rrc-central-railway-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11074,7 +11074,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/southern-railway-paramedical-jobs/"
+										href="southern-railway-paramedical-jobs/"
 										rel="bookmark">Southern Railway Paramedical Recruitment 2020 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11082,7 +11082,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11097,7 +11097,7 @@
 									(Doctors), Nursing Staff, Lab Assistant, Radiographer, &#8230; <a
 										title="Southern Railway Paramedical Recruitment 2020 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/southern-railway-paramedical-jobs/"
+										href="southern-railway-paramedical-jobs/"
 										aria-label="More on Southern Railway Paramedical Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -11108,10 +11108,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11120,7 +11120,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/southern-railway-paramedical-jobs/#respond">Leave
+										href="southern-railway-paramedical-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11131,7 +11131,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rrc-bilaspur-recruitment/"
+										href="rrc-bilaspur-recruitment/"
 										rel="bookmark">RRC Bilaspur Recruitment 2020 RRC SECR Group C 103 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11139,7 +11139,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11152,7 +11152,7 @@
 									a latest notification for the RRC SECR Bilaspur recruitment of (Paramedical Staff)
 									Staff Nurse, Dresser, Pharmacist, Lab Technician, X-Ray Technician and &#8230; <a
 										title="RRC Bilaspur Recruitment 2020 RRC SECR Group C 103 Posts"
-										class="read-more" href="https://www.sarkariresult.app/rrc-bilaspur-recruitment/"
+										class="read-more" href="rrc-bilaspur-recruitment/"
 										aria-label="More on RRC Bilaspur Recruitment 2020 RRC SECR Group C 103 Posts">Read
 										more</a></p>
 							</div>
@@ -11163,10 +11163,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11175,7 +11175,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rrc-bilaspur-recruitment/#respond">Leave a
+										href="rrc-bilaspur-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11186,7 +11186,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/secr-staff-nurse-recruitment/"
+										href="secr-staff-nurse-recruitment/"
 										rel="bookmark">RRC SECR Staff Nurse Recruitment 2020 Apply Online 31 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -11195,7 +11195,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11209,7 +11209,7 @@
 									Vacancy at 31 posts. Candidates wishing to apply for Staff Nurse, &#8230; <a
 										title="RRC SECR Staff Nurse Recruitment 2020 Apply Online 31 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/secr-staff-nurse-recruitment/"
+										href="secr-staff-nurse-recruitment/"
 										aria-label="More on RRC SECR Staff Nurse Recruitment 2020 Apply Online 31 Post">Read
 										more</a></p>
 							</div>
@@ -11220,10 +11220,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11232,7 +11232,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/secr-staff-nurse-recruitment/#respond">Leave
+										href="secr-staff-nurse-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11243,7 +11243,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/northern-railway-recruitment/"
+										href="northern-railway-recruitment/"
 										rel="bookmark">Northern Railway Staff Nurse Recruitment 2020 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -11251,7 +11251,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11265,7 +11265,7 @@
 									apply for Para Medical Staff &#8230; <a
 										title="Northern Railway Staff Nurse Recruitment 2020 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/northern-railway-recruitment/"
+										href="northern-railway-recruitment/"
 										aria-label="More on Northern Railway Staff Nurse Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -11276,10 +11276,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11288,7 +11288,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/northern-railway-recruitment/#comments">1
+										href="northern-railway-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -11299,7 +11299,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/central-railway-recruitment/"
+										href="central-railway-recruitment/"
 										rel="bookmark">Central Railway Recruitment 2020 Apply Online JTO 37 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -11308,7 +11308,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11322,7 +11322,7 @@
 									March 2020. RRC Central Railway Recruitment 2020 &#8211; Apply Online &#8230; <a
 										title="Central Railway Recruitment 2020 Apply Online JTO 37 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/central-railway-recruitment/"
+										href="central-railway-recruitment/"
 										aria-label="More on Central Railway Recruitment 2020 Apply Online JTO 37 Posts">Read
 										more</a></p>
 							</div>
@@ -11333,10 +11333,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11345,7 +11345,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/central-railway-recruitment/#respond">Leave
+										href="central-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11356,7 +11356,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/south-eastern-railway-recruitment/"
+										href="south-eastern-railway-recruitment/"
 										rel="bookmark">South Eastern Railway Recruitment 2020 Apply Online 158 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -11365,7 +11365,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11380,7 +11380,7 @@
 									158 Posts Those Candidates &#8230; <a
 										title="South Eastern Railway Recruitment 2020 Apply Online 158 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/south-eastern-railway-recruitment/"
+										href="south-eastern-railway-recruitment/"
 										aria-label="More on South Eastern Railway Recruitment 2020 Apply Online 158 Posts">Read
 										more</a></p>
 							</div>
@@ -11391,10 +11391,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11403,7 +11403,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/south-eastern-railway-recruitment/#respond">Leave
+										href="south-eastern-railway-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -11414,7 +11414,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ecr-group-d-jobs/" rel="bookmark">East
+										href="ecr-group-d-jobs/" rel="bookmark">East
 										Central Railway Recruitment 2020 Group D 447 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-06-01T14:47:57+05:30"
@@ -11423,7 +11423,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -11435,7 +11435,7 @@
 									notification for the East Central Railway Group D Vacancy 447 posts of ECR Railway
 									Post Clerk, Steno/ CA/ Typist, JE, Driver, Group D, Peon Vacancy. In East &#8230; <a
 										title="East Central Railway Recruitment 2020 Group D 447 Post" class="read-more"
-										href="https://www.sarkariresult.app/ecr-group-d-jobs/"
+										href="ecr-group-d-jobs/"
 										aria-label="More on East Central Railway Recruitment 2020 Group D 447 Post">Read
 										more</a></p>
 							</div>
@@ -11446,10 +11446,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/railway-vacancy/" rel="category tag">Railway
+										href="railway-vacancy/" rel="category tag">Railway
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -11458,7 +11458,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ecr-group-d-jobs/#respond">Leave a
+										href="ecr-group-d-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -11470,14 +11470,14 @@
 									<path
 										d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z" />
 								</svg></span> <span class="prev" title="Previous"><a
-									href="https://www.sarkariresult.app/railway-vacancy/page/2/">Older posts</a></span>
+									href="railway-vacancy/page/2/">Older posts</a></span>
 						</div>
 						<div class="nav-links"><span aria-current="page" class="page-numbers current"><span
 									class="screen-reader-text">Page</span>1</span>
-							<a class="page-numbers" href="https://www.sarkariresult.app/railway-vacancy/page/2/"><span
+							<a class="page-numbers" href="railway-vacancy/page/2/"><span
 									class="screen-reader-text">Page</span>2</a>
 							<a class="next page-numbers"
-								href="https://www.sarkariresult.app/railway-vacancy/page/2/">Next <span
+								href="railway-vacancy/page/2/">Next <span
 									aria-hidden="true">&rarr;</span></a>
 						</div>
 					</nav>
@@ -11501,83 +11501,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -11745,7 +11745,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

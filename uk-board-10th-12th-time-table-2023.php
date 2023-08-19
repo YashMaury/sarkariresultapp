@@ -19,7 +19,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -31,7 +31,7 @@
 									Wise Date Live UKdate UK Board High School/Intermediate Date Sheet 2023 Download
 									10th, 12th ka time table Link UK Board Exam Date 2023 Class 10, 12 New Update
 									Declared <a
-										href="https://www.sarkariresult.app/uk-board-10th-12th-time-table-2023/">UK
+										href="uk-board-10th-12th-time-table-2023/">UK
 										Board Time Table 2023</a> for Class 10th and 12th Check ubse.uk.gov.in UK Board
 									10, 12th ka Time Table.</p>
 								<p><span style="color: #000000;"><strong>Short Information:</strong></span>
@@ -40,17 +40,17 @@
 									and 12 today. Uttarakhand Board Class 10, 12 Subject Wise Date will end today. UK
 									Board 10th exam will be conducted from 17 March 2023 to 6 April 2023. UK Board Exam
 									2023 Date Class 10, 12 today on the official websites of ubse.uk.gov.in <a
-										href="https://www.sarkariresult.app/uk-board-10th-12th-time-table-2023/">10th
+										href="uk-board-10th-12th-time-table-2023/">10th
 										Date Sheet</a> and 2023 ka Time Table. UK Board 10th, 12th Date Sheet 2023 will
 									be available to the student on the websites. To download the UKMSP High School,
 									Intermediate Time Table 2023, students will need their roll number. Roll Number has
 									to be downloaded from the official website of the UK Board. <a
-										href="https://www.sarkariresult.app/uk-board-10th-12th-time-table-2023/">UK
+										href="uk-board-10th-12th-time-table-2023/">UK
 										Board 12th Time Table 2023 Subject Wise</a> and UK Board Time Table 2023 Class
 									12 will be made available online mode through the website UKmsp.edu.in 10th time
 									table 2023 link. Students can check their Sarkari Result 10th, 12th 2023 UK Board
 									Date Sheet 2023 and <a
-										href="https://www.sarkariresult.app/uk-board-10th-12th-time-table-2023/">UK
+										href="uk-board-10th-12th-time-table-2023/">UK
 										Board Class 10, 12 Date Sheet 2023 </a>by visiting the official website UK Board
 									high school/inter time table 2023 Subject Wise. Here we have also provided a 12th
 									date sheet 2023 Uttarakhand Board Class 10, 12 ka time table link UKmsp.edu.in 2023
@@ -67,7 +67,7 @@
 									12th Ka Time Table 2023 Click Here Today. UK Board Time Table 2023 Class 10 and
 									Class 12 Date Check Now UK Board High School/inter Result 2023 available here when
 									published ubse.uk.gov.in 2023 <a
-										href="https://www.sarkariresult.app/uk-board-10th-12th-time-table-2023/">10th,
+										href="uk-board-10th-12th-time-table-2023/">10th,
 										12th time table link</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -85,7 +85,7 @@
 								</div> / Class 10, 12th time table subject wise on the Class 10th Time Table and Class
 								12 Time Table 2023 UK Board Online Check ubse.uk.gov.in 12thExam Time Table Notification
 								UK Board 10th ka exam kab se hai 2023 for UK Board 12th Date Sheet List Check from here
-								<a href="https://www.sarkariresult.app/uk-board-10th-12th-time-table-2023/">Uttarakhand
+								<a href="uk-board-10th-12th-time-table-2023/">Uttarakhand
 									Board Class 10, 12 Subject Wise Date 2023 Online</a> Sarkari Result UK Board 10th,
 								12th 2023:–</p>
 								<h3 style="text-align: center;">UK Board 10th, 12 Time Date 2023 Live Update<br />
@@ -311,7 +311,7 @@
 									</li>
 									<li><strong>Step 3: </strong>Enter your valid required details.</li>
 									<li><strong>Step 4: </strong>Click Submit to get your <a
-											href="https://www.sarkariresult.app/" rel="noopener noreferrer">UK Board
+											href="" rel="noopener noreferrer">UK Board
 											Class 10, 12th Date Sheet 2023</a></li>
 									<li><strong>Step 5: </strong>Download your 12th ka time table 2023.</li>
 									<li><strong>Step 6</strong>: Download the PDF/take a printout of the UK Board Time
@@ -349,8 +349,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -362,7 +362,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/wapcos-application-form/"
+												href="wapcos-application-form/"
 												rel="prev">WAPCOS Recruitment 2023 Apply Engineer, Assistant, DEO 161
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -374,7 +374,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/iist-recruitment/" rel="next">IIST
+												href="iist-recruitment/" rel="next">IIST
 												Recruitment 2023 Apply Online Form JRF, SPF, JPF 14 Post</a></span>
 									</div>
 								</nav>
@@ -441,83 +441,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -702,7 +702,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

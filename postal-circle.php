@@ -19,7 +19,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -58,1149 +58,1149 @@
 												<td>
 													<ul class="su-posts su-posts-list-loop">
 														<li id="su-post-163804" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-notification/">WB
+																href="wb-postal-circle-notification/">WB
 																Postal Circle GDS Recruitment 2023 Apply Now 2127
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163800" class="su-post"><a
-																href="https://www.sarkariresult.app/tn-postal-circle-notification/">TN
+																href="tn-postal-circle-notification/">TN
 																Postal Circle GDS Recruitment 2023 Apply Online 2994
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163796" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-notification/">Uttarakhand
+																href="uttarakhand-postal-circle-notification/">Uttarakhand
 																Postal Circle GDS Recruitment 2023 Apply Now 519
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163790" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-notification/">Telangana
+																href="telangana-postal-circle-notification/">Telangana
 																Postal Circle GDS Recruitment 2023 Apply Online 961
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163785" class="su-post"><a
-																href="https://www.sarkariresult.app/kerala-postal-circle-notification/">Kerala
+																href="kerala-postal-circle-notification/">Kerala
 																Postal Circle GDS Recruitment 2023 Apply Now 1508
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163780" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-postal-circle-notification/">Karnataka
+																href="karnataka-postal-circle-notification/">Karnataka
 																Postal Circle GDS Recruitment 2023 Apply Now 1714
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163767" class="su-post"><a
-																href="https://www.sarkariresult.app/jharkhand-postal-circle-notification/">Jharkhand
+																href="jharkhand-postal-circle-notification/">Jharkhand
 																Postal Circle GDS Recruitment 2023 Apply Online 530
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163752" class="su-post"><a
-																href="https://www.sarkariresult.app/jk-postal-circle-notification/">JK
+																href="jk-postal-circle-notification/">JK
 																Postal Circle GDS Recruitment 2023 Apply Now 300
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163738" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle-notification/">Gujarat
+																href="gujarat-postal-circle-notification/">Gujarat
 																Postal Circle GDS Recruitment 2023 Apply Online 1850
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163727" class="su-post"><a
-																href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-recruitment/">Chhattisgarh
+																href="chhattisgarh-postal-circle-gds-recruitment/">Chhattisgarh
 																Postal Circle GDS Recruitment 2023 Apply Now 721
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163721" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-postal-circle-notification/">Bihar
+																href="bihar-postal-circle-notification/">Bihar
 																Postal Circle GDS Recruitment 2023 Apply Now 2300
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163718" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-postal-circle-notification/">Assam
+																href="assam-postal-circle-notification/">Assam
 																Postal Circle GDS Recruitment 2023 Apply Online 855
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163714" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-postal-circle-notifcation/">Maharashtra
+																href="maharashtra-postal-circle-notifcation/">Maharashtra
 																Postal Circle GDS Recruitment 2023 Apply Online 3154
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163709" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-postal-circle-notification/">MP
+																href="mp-postal-circle-notification/">MP
 																Postal Circle GDS Recruitment 2023 Apply Online 1556
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163679" class="su-post"><a
-																href="https://www.sarkariresult.app/delhi-postal-circle-notification/">Delhi
+																href="delhi-postal-circle-notification/">Delhi
 																Postal Circle GDS Recruitment 2023 Apply Online 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163663" class="su-post"><a
-																href="https://www.sarkariresult.app/hp-postal-circle-notification/">HP
+																href="hp-postal-circle-notification/">HP
 																Postal Circle GDS Recruitment 2023 Apply Online 418
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163570" class="su-post"><a
-																href="https://www.sarkariresult.app/up-postal-circle-notification/">UP
+																href="up-postal-circle-notification/">UP
 																Postal Circle GDS Recruitment 2023 Apply Online 3084
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163644" class="su-post"><a
-																href="https://www.sarkariresult.app/rajasthan-postal-circle-notification/">Rajasthan
+																href="rajasthan-postal-circle-notification/">Rajasthan
 																Postal Circle GDS Recruitment 2023 Apply Now 2031
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163539" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-postal-circle-notification/">Punjab
+																href="punjab-postal-circle-notification/">Punjab
 																Postal Circle GDS Recruitment 2023 Apply Now 336
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163534" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-postal-circle-notification/">Haryana
+																href="haryana-postal-circle-notification/">Haryana
 																Postal Circle GDS Recruitment 2023 Apply Online 215
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163322" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-post-office-recruitment/">AP
+																href="ap-post-office-recruitment/">AP
 																Postal Circle GDS Recruitment 2023 Apply Now 1058
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-163242" class="su-post"><a
-																href="https://www.sarkariresult.app/post-office-jobs/">India
+																href="post-office-jobs/">India
 																Post GDS Recruitment 2023 Apply Gramin Dak Sevak 30041
 																Post</a>
 															<span style="color:#ab183d">Last Date: 23 August 2023
 															</span>
 														</li>
 														<li id="su-post-162810" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-executive-recruitment-apply-online/">IPPB
+																href="ippb-executive-recruitment-apply-online/">IPPB
 																Executive Recruitment 2023 Apply Online Executive 132
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 6 August 2023 </span>
 														</li>
 														<li id="su-post-162410" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-bengaluru-skilled-artisans-jobs/">Mail
+																href="mail-motor-service-bengaluru-skilled-artisans-jobs/">Mail
 																Motor Service Bengaluru Recruitment 2023 Skilled
 																Artisans 05 Post</a>
 															<span style="color:#ab183d">Last Date: 5 August 2023 </span>
 														</li>
 														<li id="su-post-158641" class="su-post"><a
-																href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-1408-post-apply-online/">Rajasthan
+																href="rajasthan-postal-circle-gds-1408-post-apply-online/">Rajasthan
 																Postal Circle GDS Recruitment 2023 Apply Now 1408
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158688" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-postal-circle-job/">Maharashtra
+																href="maharashtra-postal-circle-job/">Maharashtra
 																Postal Circle Recruitment 2023 Apply Online 620 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158689" class="su-post"><a
-																href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment-online-form/">Odisha
+																href="odisha-postal-circle-gds-recruitment-online-form/">Odisha
 																Postal Circle GDS Recruitment 2023 Online Form 948
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158681" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-postal-circle-gds-job/">MP
+																href="mp-postal-circle-gds-job/">MP
 																Postal Circle GDS Recruitment 2023 Apply Online 2992
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158679" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs-apply-online/">WB
+																href="wb-postal-circle-gds-jobs-apply-online/">WB
 																Postal Circle GDS Recruitment 2023 Apply Gramin Dak
 																Sevak 45 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158676" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-postal-circle-gds-job/">Karnataka
+																href="karnataka-postal-circle-gds-job/">Karnataka
 																Postal Circle GDS Recruitment 2023 Apply 48 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158673" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment-apply-now/">Telangana
+																href="telangana-postal-circle-gds-recruitment-apply-now/">Telangana
 																Postal Circle GDS Recruitment 2023 Apply Now 96 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158666" class="su-post"><a
-																href="https://www.sarkariresult.app/jharkhand-postal-circle-job/">Jharkhand
+																href="jharkhand-postal-circle-job/">Jharkhand
 																Postal Circle GDS Recruitment 2023 Apply 1125 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158667" class="su-post"><a
-																href="https://www.sarkariresult.app/uttar-pradesh-postal-circle-gds-online-form/">UP
+																href="uttar-pradesh-postal-circle-gds-online-form/">UP
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 160
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158663" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-postal-circle-gramin-dak-sevak-online-form/">Punjab
+																href="punjab-postal-circle-gramin-dak-sevak-online-form/">Punjab
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 13
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158660" class="su-post"><a
-																href="https://www.sarkariresult.app/jk-postal-circle-gds-job/">JK
+																href="jk-postal-circle-gds-job/">JK
 																Postal Circle GDS Recruitment 2023 Apply Online 89
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158654" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-recruitment/">North
+																href="north-eastern-postal-circle-gds-recruitment/">North
 																Eastern Postal Circle GDS Recruitment 2023 Apply Now
 																4384 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158653" class="su-post"><a
-																href="https://www.sarkariresult.app/hp-postal-circle-gds-vacancy/">HP
+																href="hp-postal-circle-gds-vacancy/">HP
 																Postal Circle GDS Recruitment 2023 Apply Online 37
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158645" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle-gramin-dak-sevaks-job/">Gujarat
+																href="gujarat-postal-circle-gramin-dak-sevaks-job/">Gujarat
 																Postal Circle GDS Recruitment 2023 Apply Online 110
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158617" class="su-post"><a
-																href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-job/">Chhattisgarh
+																href="chhattisgarh-postal-circle-gds-job/">Chhattisgarh
 																Postal Circle Recruitment 2023 Apply Online 342 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158613" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-postal-circle-gds-jobs-apply-online/">Haryana
+																href="haryana-postal-circle-gds-jobs-apply-online/">Haryana
 																Postal Circle GDS Recruitment 2023 Apply Online 08
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158585" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-postal-circle-gramin-dak-sevaks-job/">Bihar
+																href="bihar-postal-circle-gramin-dak-sevaks-job/">Bihar
 																Postal Circle GDS Recruitment 2023 Apply Online 76
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158546" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-postal-circle-gds-job/">Assam
+																href="assam-postal-circle-gds-job/">Assam
 																Postal Circle GDS Recruitment 2023 Apply Online 151
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 May 2023 </span>
 														</li>
 														<li id="su-post-158510" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-postal-circle-gds-online/">AP
+																href="ap-postal-circle-gds-online/">AP
 																Postal Circle GDS Recruitment 2023 Apply Online 118
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-158383" class="su-post"><a
-																href="https://www.sarkariresult.app/india-post-gds-apply-online/">India
+																href="india-post-gds-apply-online/">India
 																Post GDS Recruitment 2023 Apply Online, Vacancy
 																Notification for 12828 Post</a>
 															<span style="color:#ab183d">Last Date: 14 June 2023 </span>
 														</li>
 														<li id="su-post-138180" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-tn-driver-jobs-application-form/">Mail
+																href="mail-motor-service-tn-driver-jobs-application-form/">Mail
 																Motor Service TN Recruitment 2023 Staff Car Driver 58
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 March 2023 </span>
 														</li>
 														<li id="su-post-127106" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-postal-circle-gds-online-form/">Punjab
+																href="punjab-postal-circle-gds-online-form/">Punjab
 																Postal Circle GDS Recruitment 2023 Apply Now 766
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127104" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-bharti-apply-online/">North
+																href="north-eastern-postal-circle-gds-bharti-apply-online/">North
 																Eastern Postal Circle GDS Recruitment 2023 Apply 923
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127108" class="su-post"><a
-																href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment/">Odisha
+																href="odisha-postal-circle-gds-recruitment/">Odisha
 																Postal Circle GDS Recruitment 2023 Apply Online 1382
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127093" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-online-form/">Maharashtra
+																href="maharashtra-postal-circle-gds-online-form/">Maharashtra
 																Postal Circle GDS Recruitment 2023 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127097" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs/">WB
+																href="wb-postal-circle-gds-jobs/">WB
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 2127
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127084" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-post-office-gds-online-form/">MP
+																href="mp-post-office-gds-online-form/">MP
 																Postal Circle GDS Recruitment 2023 Apply Now 1841
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127089" class="su-post"><a
-																href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-recruitment/">Rajasthan
+																href="rajasthan-postal-circle-gds-recruitment/">Rajasthan
 																Postal Circle GDS Recruitment 2023 Apply Now 1684
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127067" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-postal-circle-gds-online-form/">Karnataka
+																href="karnataka-postal-circle-gds-online-form/">Karnataka
 																Postal Circle GDS Recruitment 2023 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127080" class="su-post"><a
-																href="https://www.sarkariresult.app/kerala-postal-circle-gds-jobs-apply/">Kerala
+																href="kerala-postal-circle-gds-jobs-apply/">Kerala
 																Postal Circle GDS Recruitment 2023 Apply Online 2462
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127077" class="su-post"><a
-																href="https://www.sarkariresult.app/tn-postal-circle-gds-recruitment/">TN
+																href="tn-postal-circle-gds-recruitment/">TN
 																Postal Circle GDS Recruitment 2023 » Gramin Dak Sevak
 																3167 Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127066" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-gds-jobs/">Telangana
+																href="telangana-postal-circle-gds-jobs/">Telangana
 																Postal Circle GDS Recruitment 2023 Apply Now 1266
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127065" class="su-post"><a
-																href="https://www.sarkariresult.app/jk-postal-circle-gds-online-form/">JK
+																href="jk-postal-circle-gds-online-form/">JK
 																Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 300
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127055" class="su-post"><a
-																href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-job/">Jharkhand
+																href="jharkhand-postal-circle-gds-job/">Jharkhand
 																Postal Circle GDS Recruitment 2023 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127058" class="su-post"><a
-																href="https://www.sarkariresult.app/up-postal-circle-gds-jobs/">UP
+																href="up-postal-circle-gds-jobs/">UP
 																Postal Circle GDS Recruitment 2023 Online Application
 																7987 Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127046" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-vacancy/">Uttarakhand
+																href="uttarakhand-postal-circle-gds-vacancy/">Uttarakhand
 																Postal Circle GDS Recruitment 2023 Apply Now 889
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127042" class="su-post"><a
-																href="https://www.sarkariresult.app/hp-postal-circle-gds-job/">HP
+																href="hp-postal-circle-gds-job/">HP
 																Postal Circle GDS Recruitment 2023 Apply Now 603
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127035" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-postal-circle-gds-apply-online/">Haryana
+																href="haryana-postal-circle-gds-apply-online/">Haryana
 																Postal Circle GDS Recruitment 2023 Apply Now 354
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127025" class="su-post"><a
-																href="https://www.sarkariresult.app/delhi-postal-gds-online-form/">Delhi
+																href="delhi-postal-gds-online-form/">Delhi
 																Postal Circle GDS Recruitment 2023 Apply Online 46
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127027" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle-gds-apply-online/">Gujarat
+																href="gujarat-postal-circle-gds-apply-online/">Gujarat
 																Postal Circle GDS Recruitment 2023 Apply Now 2017
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127018" class="su-post"><a
-																href="https://www.sarkariresult.app/cg-postal-circle-gds-online-form/">Chattisgarh
+																href="cg-postal-circle-gds-online-form/">Chattisgarh
 																Postal Circle GDS Recruitment 2023 Apply Online</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-127020" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-postal-circle-gds-apply-online/">Bihar
+																href="bihar-postal-circle-gds-apply-online/">Bihar
 																Postal Circle GDS Recruitment 2023 Apply Now 1461
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-126990" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-post-gds-recruitment/">Assam
+																href="assam-post-gds-recruitment/">Assam
 																Postal Circle GDS Recruitment 2023 Apply Online 407
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-126994" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-post-office-gds-recruitment/">AP
+																href="ap-post-office-gds-recruitment/">AP
 																Postal Circle GDS Recruitment 2023 Apply Online 2480
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-126958" class="su-post"><a
-																href="https://www.sarkariresult.app/india-post-gds-online-form/">India
+																href="india-post-gds-online-form/">India
 																Post GDS Recruitment 2023 Apply Gramin Dak Sevak 40889
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 February 2023
 															</span>
 														</li>
 														<li id="su-post-121584" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-chennai-jobs/">Mail
+																href="mail-motor-service-chennai-jobs/">Mail
 																Motor Service Chennai Recruitment 2023 Skilled Artisan
 																07 Post</a>
 															<span style="color:#ab183d">Last Date: 9 January 2023
 															</span>
 														</li>
 														<li id="su-post-116790" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-manager-jobs/">IPPB
+																href="ippb-manager-jobs/">IPPB
 																Manager Recruitment 2022 Apply Online Asst Manager 41
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 November 2022
 															</span>
 														</li>
 														<li id="su-post-115860" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle-sports-quota-recruitment/">Gujarat
+																href="gujarat-postal-circle-sports-quota-recruitment/">Gujarat
 																Postal Circle Sports Quota Recruitment 2022 Apply 188
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 November 2022
 															</span>
 														</li>
 														<li id="su-post-113143" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-madurai-recruitment/">Mail
+																href="mail-motor-service-madurai-recruitment/">Mail
 																Motor Service Madurai Recruitment 2022 Skilled Artisan
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 October 2022
 															</span>
 														</li>
 														<li id="su-post-113077" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-chennai-recruitment/">Mail
+																href="mail-motor-service-chennai-recruitment/">Mail
 																Motor Service Chennai Recruitment 2022 Skilled Artisan
 																Post</a>
 															<span style="color:#ab183d">Last Date: 19 October 2022
 															</span>
 														</li>
 														<li id="su-post-112217" class="su-post"><a
-																href="https://www.sarkariresult.app/ippb-manager-recruitment/">IPPB
+																href="ippb-manager-recruitment/">IPPB
 																Manager Recruitment 2022 Online Application AGM, DGM 13
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 September 2022
 															</span>
 														</li>
 														<li id="su-post-110945" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-bengaluru-vacancy/">Mail
+																href="mail-motor-service-bengaluru-vacancy/">Mail
 																Motor Service Bengaluru Recruitment 2022 Driver 19
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 26 September 2022
 															</span>
 														</li>
 														<li id="su-post-107358" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-postal-circle-recruitment/">Karnataka
+																href="karnataka-postal-circle-recruitment/">Karnataka
 																Postal Circle Recruitment 2022 Postman, MTS, Guard
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 August 2022
 															</span>
 														</li>
 														<li id="su-post-106889" class="su-post"><a
-																href="https://www.sarkariresult.app/tamilnadu-postal-circle-jobs/">TN
+																href="tamilnadu-postal-circle-jobs/">TN
 																Postal Circle Recruitment 2022 Postman, Guard, MTS 100
 																Post</a>
 															<span style="color:#ab183d">Last Date: 8 August 2022 </span>
 														</li>
 														<li id="su-post-97262" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-pune-recruitment/">Mail
+																href="mail-motor-service-pune-recruitment/">Mail
 																Motor Service Pune Recruitment 2022 Skilled Artisan
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 30 July 2022 </span>
 														</li>
 														<li id="su-post-94480" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-tn-recruitment/">Mail
+																href="mail-motor-service-tn-recruitment/">Mail
 																Motor Service TN Recruitment 2022 Apply Now Driver 24
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 July 2022 </span>
 														</li>
 														<li id="su-post-99472" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-postal-circle-bharti/">Assam
+																href="assam-postal-circle-bharti/">Assam
 																Postal Circle Recruitment 2022 Asst, Postman, MTS 17
 																Post</a>
 															</span></li>
 														<li id="su-post-10341" class="su-post"><a
-																href="https://www.sarkariresult.app/postal-circle/">Post
+																href="postal-circle/">Post
 																Office Recruitment 2023 Apply Online Postal Circle
 																Jobs</a>
 															</span></li>
 														<li id="su-post-97235" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-raipur/">Mail
+																href="mail-motor-service-raipur/">Mail
 																Motor Service Raipur Recruitment 2022 Apply Now Driver
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 July 2022 </span>
 														</li>
 														<li id="su-post-87681" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-mumbai-vacancy/">Mail
+																href="mail-motor-service-mumbai-vacancy/">Mail
 																Motor Service Mumbai Recruitment 2022 Apply Driver 17
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-98098" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-ambala-recruitment/">Mail
+																href="mail-motor-service-ambala-recruitment/">Mail
 																Motor Service Ambala Recruitment 2022 Apply Now Driver
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 July 2022 </span>
 														</li>
 														<li id="su-post-97036" class="su-post"><a
-																href="https://www.sarkariresult.app/india-post-gds-result-2022-state-wise-link/">India
+																href="india-post-gds-result-2022-state-wise-link/">India
 																Post GDS Result 2022 State Wise Link for Gramin Dak
 																Sevak 38926 Post</a>
 															</span></li>
 														<li id="su-post-79420" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-online-form/">North
+																href="north-eastern-postal-circle-gds-online-form/">North
 																Eastern Postal Circle GDS Recruitment 2022 Apply 385
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79457" class="su-post"><a
-																href="https://www.sarkariresult.app/tn-postal-circle-gds-online-form/">TN
+																href="tn-postal-circle-gds-online-form/">TN
 																Postal Circle GDS Recruitment 2022 Gramin Dak Sevak 4310
 																Post</a>
 															</span></li>
 														<li id="su-post-79342" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-postal-circle-gds-vacancy/">Bihar
+																href="bihar-postal-circle-gds-vacancy/">Bihar
 																Postal Circle GDS Recruitment 2022 Apply Online 990
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79400" class="su-post"><a
-																href="https://www.sarkariresult.app/jk-postal-circle-gds-vacancy/">JK
+																href="jk-postal-circle-gds-vacancy/">JK
 																Postal Circle GDS Recruitment 2022 Apply Now 265
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79412" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-vacancy/">Maharashtra
+																href="maharashtra-postal-circle-gds-vacancy/">Maharashtra
 																Postal Circle GDS Recruitment 2022 Apply 3026 Posts</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79435" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-postal-circle-gds-vacancy/">Punjab
+																href="punjab-postal-circle-gds-vacancy/">Punjab
 																Postal Circle GDS Recruitment 2022 Apply Now 969
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79333" class="su-post"><a
-																href="https://www.sarkariresult.app/chattisgarh-postal-circle-gds-online-form/">Chhattisgarh
+																href="chattisgarh-postal-circle-gds-online-form/">Chhattisgarh
 																Postal Circle GDS Recruitment 2022 Apply Now 1253
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79403" class="su-post"><a
-																href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-online-form/">Jharkhand
+																href="jharkhand-postal-circle-gds-online-form/">Jharkhand
 																Postal Circle GDS Recruitment 2022 Apply Now 610
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79461" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-jobs/">Uttarakhand
+																href="uttarakhand-postal-circle-gds-jobs/">Uttarakhand
 																Postal Circle GDS Recruitment 2022 Apply Now 353
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79439" class="su-post"><a
-																href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-online-form/">Rajasthan
+																href="rajasthan-postal-circle-gds-online-form/">Rajasthan
 																Postal Circle GDS Recruitment 2022 Apply Now 2390
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79377" class="su-post"><a
-																href="https://www.sarkariresult.app/delhi-postal-circle-gds-vacancy/">Delhi
+																href="delhi-postal-circle-gds-vacancy/">Delhi
 																Postal Circle GDS Recruitment 2022 Apply Online 60
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79350" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-gds-online-form/">Telangana
+																href="telangana-postal-circle-gds-online-form/">Telangana
 																Postal Circle GDS Recruitment 2022 Apply Now 1226
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79322" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle-gds-online-form/">Gujarat
+																href="gujarat-postal-circle-gds-online-form/">Gujarat
 																Postal Circle GDS Recruitment 2022 Apply Online 1901
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79335" class="su-post"><a
-																href="https://www.sarkariresult.app/kerala-postal-circle-gds-vacancy/">Kerala
+																href="kerala-postal-circle-gds-vacancy/">Kerala
 																Postal Circle GDS Recruitment 2022 Apply Now 2203
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79451" class="su-post"><a
-																href="https://www.sarkariresult.app/up-postal-circle-gds-vacancy/">UP
+																href="up-postal-circle-gds-vacancy/">UP
 																Postal Circle GDS Recruitment 2022 Apply Now 2519
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79426" class="su-post"><a
-																href="https://www.sarkariresult.app/odisha-postal-circle-gds-jobs/">Odisha
+																href="odisha-postal-circle-gds-jobs/">Odisha
 																Postal Circle GDS Recruitment 2022 Apply Now 3066
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79321" class="su-post"><a
-																href="https://www.sarkariresult.app/hp-postal-circle-gds-recruitment/">HP
+																href="hp-postal-circle-gds-recruitment/">HP
 																Postal Circle GDS Recruitment 2022 Apply Now 1007
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79470" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-gds-online-form/">WB
+																href="wb-postal-circle-gds-online-form/">WB
 																Postal Circle GDS Recruitment 2022 Apply Online 1963
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79328" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-postal-circle-gds-vacancy/">Karnataka
+																href="karnataka-postal-circle-gds-vacancy/">Karnataka
 																Postal Circle GDS Recruitment 2022 Apply Now 2410
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79357" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-postal-circle-gds-recruitment/">Assam
+																href="assam-postal-circle-gds-recruitment/">Assam
 																Postal Circle GDS Recruitment 2022 Apply Online 1143
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-79348" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-postal-circle-gds-recruitment/">MP
+																href="mp-postal-circle-gds-recruitment/">MP
 																Postal Circle GDS Recruitment 2022 Apply Now 4047
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-78916" class="su-post"><a
-																href="https://www.sarkariresult.app/india-post-gds-recruitment/">India
+																href="india-post-gds-recruitment/">India
 																Post GDS Recruitment 2022 » Gramin Dak Sevak 38926
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 June 2022 </span>
 														</li>
 														<li id="su-post-66655" class="su-post"><a
-																href="https://www.sarkariresult.app/mumbai-postal-circle-vacancy/">Mumbai
+																href="mumbai-postal-circle-vacancy/">Mumbai
 																Postal Circle Recruitment 2022 Skilled Artisan 09
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 May 2022 </span>
 														</li>
 														<li id="su-post-66115" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-kolkata-vacancy/">Mail
+																href="mail-motor-service-kolkata-vacancy/">Mail
 																Motor Service Kolkata Recruitment 2022 Apply Driver 28
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-37250" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-vacancy/">WB
+																href="wb-postal-circle-vacancy/">WB
 																Postal Circle Recruitment 2021 Postman, Postal Asst 124
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 24 December 2021
 															</span>
 														</li>
 														<li id="su-post-34196" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-apply/">Uttarakhand
+																href="uttarakhand-postal-circle-apply/">Uttarakhand
 																Postal Circle Recruitment 2021 Apply PA, MTS 13 Post</a>
 															<span style="color:#ab183d">Last Date: 22 December 2021
 															</span>
 														</li>
 														<li id="su-post-38547" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-postal-circle-vacancy/">Bihar
+																href="bihar-postal-circle-vacancy/">Bihar
 																Postal Circle Recruitment 2021 MTS, PA, Postman 60
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 December 2021
 															</span>
 														</li>
 														<li id="su-post-38724" class="su-post"><a
-																href="https://www.sarkariresult.app/jammu-postal-circle-recruitment/">Jammu
+																href="jammu-postal-circle-recruitment/">Jammu
 																Postal Circle Recruitment 2021 Postal Assistant
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 20 December 2021
 															</span>
 														</li>
 														<li id="su-post-31939" class="su-post"><a
-																href="https://www.sarkariresult.app/delhi-postal-circle-job/">Delhi
+																href="delhi-postal-circle-job/">Delhi
 																Postal Circle Recruitment 2021 Skilled Artisans 17
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 December 2021
 															</span>
 														</li>
 														<li id="su-post-33251" class="su-post"><a
-																href="https://www.sarkariresult.app/rajasthan-postal-circle-jobs-apply/">Rajasthan
+																href="rajasthan-postal-circle-jobs-apply/">Rajasthan
 																Postal Circle Recruitment 2021 PA, MTS, Postman 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 December 2021
 															</span>
 														</li>
 														<li id="su-post-33294" class="su-post"><a
-																href="https://www.sarkariresult.app/chhattisgarh-postal-circle-recruitment/">Chhattisgarh
+																href="chhattisgarh-postal-circle-recruitment/">Chhattisgarh
 																Postal Circle Recruitment 2021 PA, MTS, Postman Post</a>
 															<span style="color:#ab183d">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33069" class="su-post"><a
-																href="https://www.sarkariresult.app/kerala-postal-circle-job/">Kerala
+																href="kerala-postal-circle-job/">Kerala
 																Postal Circle Recruitment 2021 Guard, PA, MTS 95
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-35650" class="su-post"><a
-																href="https://www.sarkariresult.app/north-east-postal-circle-recruitment/">North
+																href="north-east-postal-circle-recruitment/">North
 																East Postal Circle Recruitment 2021 PA, Postman, MTS
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33645" class="su-post"><a
-																href="https://www.sarkariresult.app/odisha-postal-circle-jobs/">Odisha
+																href="odisha-postal-circle-jobs/">Odisha
 																Postal Circle Recruitment 2021 MTS, PA, Postman 42
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33630" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-postal-circle-vacancy/">MP
+																href="mp-postal-circle-vacancy/">MP
 																Postal Circle Recruitment 2021 PA, Postman, MTS 44
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 December 2021
 															</span>
 														</li>
 														<li id="su-post-33739" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-postal-circle-vacancy/">AP
+																href="ap-postal-circle-vacancy/">AP
 																Postal Circle Recruitment 2021 PA, Postman, MTS 75
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-33723" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-postal-circle-vacancy/">Maharashtra
+																href="maharashtra-postal-circle-vacancy/">Maharashtra
 																Postal Circle Recruitment 2021 MTS, PA 257 Post</a>
 															<span style="color:#ab183d">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-33511" class="su-post"><a
-																href="https://www.sarkariresult.app/jharkhand-postal-circle-recruitment/">Jharkhand
+																href="jharkhand-postal-circle-recruitment/">Jharkhand
 																Postal Circle Recruitment 2021 PA, MTS, Postman 19
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 November 2021
 															</span>
 														</li>
 														<li id="su-post-35687" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-postal-circle-gds-vacancy/">AP
+																href="ap-postal-circle-gds-vacancy/">AP
 																Postal Circle GDS Recruitment 2021 Apply Online 2296
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 November 2021
 															</span>
 														</li>
 														<li id="su-post-35679" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-gds-vacancy/">Telangana
+																href="telangana-postal-circle-gds-vacancy/">Telangana
 																Postal Circle GDS Recruitment 2021 Apply 1150 Post</a>
 															<span style="color:#ab183d">Last Date: 18 November 2021
 															</span>
 														</li>
 														<li id="su-post-33644" class="su-post"><a
-																href="https://www.sarkariresult.app/hp-postal-circle-recruitment/">HP
+																href="hp-postal-circle-recruitment/">HP
 																Postal Circle Recruitment 2021 Apply PA, MTS, Postman 18
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2021
 															</span>
 														</li>
 														<li id="su-post-27611" class="su-post"><a
-																href="https://www.sarkariresult.app/delhi-postal-circle-recruitment/">Delhi
+																href="delhi-postal-circle-recruitment/">Delhi
 																Postal Circle Recruitment 2021 MTS, Postman 221
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 12 November 2021
 															</span>
 														</li>
 														<li id="su-post-26978" class="su-post"><a
-																href="https://www.sarkariresult.app/up-post-office-recruitment/">UP
+																href="up-post-office-recruitment/">UP
 																Postal Circle Recruitment 2021 Asst, Postman, MTS 46
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 November 2021
 															</span>
 														</li>
 														<li id="su-post-27412" class="su-post"><a
-																href="https://www.sarkariresult.app/jk-postal-circle-gds-recruitment/">JK
+																href="jk-postal-circle-gds-recruitment/">JK
 																Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 266
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 29 October 2021
 															</span>
 														</li>
 														<li id="su-post-29558" class="su-post"><a
-																href="https://www.sarkariresult.app/tn-postal-circle-vacancy/">TN
+																href="tn-postal-circle-vacancy/">TN
 																Postal Circle Recruitment 2021 Apply Now Postman 501
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 October 2021
 															</span>
 														</li>
 														<li id="su-post-22318" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-postal-circle-vacancy/">Haryana
+																href="haryana-postal-circle-vacancy/">Haryana
 																Postal Circle Recruitment 2021 PA, LDC, MTS 75 Posts</a>
 															<span style="color:#ab183d">Last Date: 29 September 2021
 															</span>
 														</li>
 														<li id="su-post-22478" class="su-post"><a
-																href="https://www.sarkariresult.app/up-postal-circle-gds-recruitment/">UP
+																href="up-postal-circle-gds-recruitment/">UP
 																Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 4264
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-22480" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-recruitment/">Uttarakhand
+																href="uttarakhand-postal-circle-gds-recruitment/">Uttarakhand
 																Postal Circle GDS Recruitment 2021 Apply 581 Post</a>
 															<span style="color:#ab183d">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-25222" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment-2/">Mail
+																href="mail-motor-service-chandigarh-recruitment-2/">Mail
 																Motor Service Chandigarh Recruitment 2021 Driver 11
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-22859" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-job/">Telangana
+																href="telangana-postal-circle-job/">Telangana
 																Postal Circle Recruitment 2021 PA, MTS, Guard 55
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 September 2021
 															</span>
 														</li>
 														<li id="su-post-22391" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment/">Mail
+																href="mail-motor-service-chandigarh-recruitment/">Mail
 																Motor Service Chandigarh Recruitment 2021 Application
 																Form</a>
 															<span style="color:#ab183d">Last Date: 20 September 2021
 															</span>
 														</li>
 														<li id="su-post-20164" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-gds-vacancy/">WB
+																href="wb-postal-circle-gds-vacancy/">WB
 																Postal Circle GDS Recruitment 2021 Apply Now 2357
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 22 August 2021
 															</span>
 														</li>
 														<li id="su-post-19606" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-postal-circle-recruitment/">Punjab
+																href="punjab-postal-circle-recruitment/">Punjab
 																Postal Circle Recruitment 2021 MTS, Postal Asst 57
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 18 August 2021
 															</span>
 														</li>
 														<li id="su-post-16903" class="su-post"><a
-																href="https://www.sarkariresult.app/bihar-postal-circle-gds-recruitment/">Bihar
+																href="bihar-postal-circle-gds-recruitment/">Bihar
 																Postal Circle GDS Recruitment 2021 Apply Now 1940
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 July 2021 </span>
 														</li>
 														<li id="su-post-18885" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-bengaluru-recruitment/">Mail
+																href="mail-motor-service-bengaluru-recruitment/">Mail
 																Motor Service Recruitment 2021 Staff Car Driver 15
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 30 Days </span>
 														</li>
 														<li id="su-post-11167" class="su-post"><a
-																href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-recruitment/">Jharkhand
+																href="jharkhand-postal-circle-gds-recruitment/">Jharkhand
 																Postal Circle GDS Result 2021 Check Merit List</a>
 															</span></li>
 														<li id="su-post-17336" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-recruitment/">Mail
+																href="mail-motor-service-recruitment/">Mail
 																Motor Service Recruitment 2021 Staff Car Driver 25
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 26 May 2021 </span>
 														</li>
 														<li id="su-post-17265" class="su-post"><a
-																href="https://www.sarkariresult.app/tamilnadu-postal-circle-vacancy/">Tamilnadu
+																href="tamilnadu-postal-circle-vacancy/">Tamilnadu
 																Postal Circle Recruitment 2021 Apply Now 35 Post</a>
 															<span style="color:#ab183d">Last Date: 25 May 2021 </span>
 														</li>
 														<li id="su-post-16905" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-recruitment/">Maharashtra
+																href="maharashtra-postal-circle-gds-recruitment/">Maharashtra
 																Postal Circle GDS Recruitment 2021 Apply 2428 Post</a>
 															<span style="color:#ab183d">Last Date: 26 May 2021 </span>
 														</li>
 														<li id="su-post-15035" class="su-post"><a
-																href="https://www.sarkariresult.app/cg-postal-circle-gds-recruitment/">CG
+																href="cg-postal-circle-gds-recruitment/">CG
 																Postal Circle GDS Recruitment 2021 Apply Online 1137
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 April 2021 </span>
 														</li>
 														<li id="su-post-15030" class="su-post"><a
-																href="https://www.sarkariresult.app/kerala-postal-circle-gds-recruitment/">Kerala
+																href="kerala-postal-circle-gds-recruitment/">Kerala
 																Postal Circle GDS Recruitment 2021 Apply Now 1421
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 April 2021 </span>
 														</li>
 														<li id="su-post-13795" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment/">Telangana
+																href="telangana-postal-circle-gds-recruitment/">Telangana
 																Postal Circle GDS Recruitment 2021 Apply 1150 Posts</a>
 															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-13798" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-postal-circle-gds-recruitment/">AP
+																href="ap-postal-circle-gds-recruitment/">AP
 																Postal Circle GDS Recruitment 2021 Apply Online 2296
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-13800" class="su-post"><a
-																href="https://www.sarkariresult.app/delhi-postal-circle-gds-recruitment/">Delhi
+																href="delhi-postal-circle-gds-recruitment/">Delhi
 																Postal Circle GDS Recruitment 2021 Apply Now 233
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 1 March 2021 </span>
 														</li>
 														<li id="su-post-14438" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-delhi-recruitment/">Mail
+																href="mail-motor-service-delhi-recruitment/">Mail
 																Motor Service Delhi Recruitment 2021 Staff Car Driver 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 45 Days </span>
 														</li>
 														<li id="su-post-14078" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-staff-car-driver-recruitment/">Mail
+																href="mail-motor-service-staff-car-driver-recruitment/">Mail
 																Motor Service Staff Car Driver Recruitment 2021 Apply 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 March 2021 </span>
 														</li>
 														<li id="su-post-13188" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver-recruitment/">Mail
+																href="mail-motor-service-mumbai-driver-recruitment/">Mail
 																Motor Service Mumbai Driver Recruitment 2021 Apply 16
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 February 2021
 															</span>
 														</li>
 														<li id="su-post-12678" class="su-post"><a
-																href="https://www.sarkariresult.app/karnataka-postal-circle-gds-recruitment/">Karnataka
+																href="karnataka-postal-circle-gds-recruitment/">Karnataka
 																Postal Circle GDS Recruitment 2021 Apply Now 2443
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 January 2021
 															</span>
 														</li>
 														<li id="su-post-12658" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle-gds-recruitment/">Gujarat
+																href="gujarat-postal-circle-gds-recruitment/">Gujarat
 																Postal Circle GDS Recruitment 2021 Apply Now 1826
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 January 2021
 															</span>
 														</li>
 														<li id="su-post-11161" class="su-post"><a
-																href="https://www.sarkariresult.app/punjab-postal-circle-gds-recruitment/">Punjab
+																href="punjab-postal-circle-gds-recruitment/">Punjab
 																Postal Circle GDS Recruitment 2020 Apply Now 516
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 December 2020
 															</span>
 														</li>
 														<li id="su-post-11180" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-postal-circle-recruitment/">North
+																href="north-eastern-postal-circle-recruitment/">North
 																Eastern Postal Circle Recruitment 2020 Apply GDS
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 December 2020
 															</span>
 														</li>
 														<li id="su-post-9715" class="su-post"><a
-																href="https://www.sarkariresult.app/hp-post-office-gds-recruitment/">HP
+																href="hp-post-office-gds-recruitment/">HP
 																Post Office GDS Recruitment 2020 Apply Online 634
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 6 November 2020
 															</span>
 														</li>
 														<li id="su-post-4986" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-postal-circle/">Haryana
+																href="haryana-postal-circle/">Haryana
 																Postal Circle Result 2020 Check Haryana GDS Merit List,
 																Cut Off</a>
 															</span></li>
 														<li id="su-post-9662" class="su-post"><a
-																href="https://www.sarkariresult.app/india-post-skilled-artisan-recruitment/">India
+																href="india-post-skilled-artisan-recruitment/">India
 																Post Skilled Artisan Recruitment 2020 Application
 																Form</a>
 															<span style="color:#ab183d">Last Date: 2 November 2020
 															</span>
 														</li>
 														<li id="su-post-9421" class="su-post"><a
-																href="https://www.sarkariresult.app/maharashtra-post-office-recruitment/">Maharashtra
+																href="maharashtra-post-office-recruitment/">Maharashtra
 																Postal Circle Recruitment 2020 MTS,Postman 1371
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 3 November 2020
 															</span>
 														</li>
 														<li id="su-post-9482" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-kolkata-recruitment/">Mail
+																href="mail-motor-service-kolkata-recruitment/">Mail
 																Motor Service Kolkata Recruitment 2020 Apply Now 19
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 November 2020
 															</span>
 														</li>
 														<li id="su-post-8368" class="su-post"><a
-																href="https://www.sarkariresult.app/odisha-postal-circle-recruitment/">Odisha
+																href="odisha-postal-circle-recruitment/">Odisha
 																Postal Circle Recruitment 2020 Apply Online GDS 2060
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 September 2020
 															</span>
 														</li>
 														<li id="su-post-5415" class="su-post"><a
-																href="https://www.sarkariresult.app/rajasthan-postal-circle-recruitment/">Rajasthan
+																href="rajasthan-postal-circle-recruitment/">Rajasthan
 																Postal Circle Recruitment 2020 Apply GDS 3262 Posts</a>
 															<span style="color:#ab183d">Last Date: 12 August 2020
 															</span>
 														</li>
 														<li id="su-post-6538" class="su-post"><a
-																href="https://www.sarkariresult.app/haryana-postal-circle-recruitment/">Haryana
+																href="haryana-postal-circle-recruitment/">Haryana
 																Postal Circle Recruitment 2020 MTS, Postman 58 Posts</a>
 															<span style="color:#ab183d">Last Date: 2 September 2020
 															</span>
 														</li>
 														<li id="su-post-2311" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-postal-circle/">Gujarat
+																href="gujarat-postal-circle/">Gujarat
 																Postal Circle Recruitment 2020 MTS, Postman 144 Post</a>
 															<span style="color:#ab183d">Last Date: 31 July 2020 </span>
 														</li>
 														<li id="su-post-5712" class="su-post"><a
-																href="https://www.sarkariresult.app/jk-postal-circle-recruitment/">JK
+																href="jk-postal-circle-recruitment/">JK
 																Postal Circle GDS Recruitment 2020 Apply Online 442
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 August 2020 </span>
 														</li>
 														<li id="su-post-5566" class="su-post"><a
-																href="https://www.sarkariresult.app/kerala-postal-circle-recruitment/">Kerala
+																href="kerala-postal-circle-recruitment/">Kerala
 																Postal Circle MTS Recruitment 2020 Apply Now 80
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 10 July 2020 </span>
 														</li>
 														<li id="su-post-5015" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-vacancy/">Uttarakhand
+																href="uttarakhand-postal-circle-vacancy/">Uttarakhand
 																Postal Circle GDS Recruitment 2020 Apply Online</a>
 															<span style="color:#ab183d">Last Date: 7 July 2020 </span>
 														</li>
 														<li id="su-post-5009" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-postal-circle-recruitment/">MP
+																href="mp-postal-circle-recruitment/">MP
 																Postal Circle GDS Recruitment 2020 Apply Online 2834
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 July 2020 </span>
 														</li>
 														<li id="su-post-2675" class="su-post"><a
-																href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver/">Mail
+																href="mail-motor-service-mumbai-driver/">Mail
 																Motor Service Mumbai Driver Recruitment 2020 Apply
 																Now</a>
 															<span style="color:#ab183d">Last Date: 30 March 2020 </span>
 														</li>
 														<li id="su-post-1964" class="su-post"><a
-																href="https://www.sarkariresult.app/tn-postal-circle/">TN
+																href="tn-postal-circle/">TN
 																Postal Circle MTS Recruitment 2020 Apply Now 37750
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 February 2020
 															</span>
 														</li>
 														<li id="su-post-2417" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-gds-recruitment/">WB
+																href="wb-postal-circle-gds-recruitment/">WB
 																Postal Circle GDS Recruitment 2020 Apply Online 2021
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 March 2020 </span>
 														</li>
 														<li id="su-post-1977" class="su-post"><a
-																href="https://www.sarkariresult.app/wb-postal-circle-mts-recruitment/">WB
+																href="wb-postal-circle-mts-recruitment/">WB
 																Postal Circle MTS Recruitment 2020 Apply Now 223
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 February 2020
 															</span>
 														</li>
 														<li id="su-post-1732" class="su-post"><a
-																href="https://www.sarkariresult.app/assam-postal-circle/">Assam
+																href="assam-postal-circle/">Assam
 																Postal Circle GDS Recruitment 2020 Apply 919 Post</a>
 															<span style="color:#ab183d">Last Date: 9 February 2020
 															</span>
 														</li>
 														<li id="su-post-459" class="su-post"><a
-																href="https://www.sarkariresult.app/cg-postal-circle-recruitment/">CG
+																href="cg-postal-circle-recruitment/">CG
 																Postal Circle GDS Result 2020 Merit List, Cut Off
 																Marks</a>
 															</span></li>
 														<li id="su-post-465" class="su-post"><a
-																href="https://www.sarkariresult.app/telangana-postal-circle-recruitment/">Telangana
+																href="telangana-postal-circle-recruitment/">Telangana
 																Postal Circle GDS Result 2020 Merit List, Cut Off</a>
 															</span></li>
 														<li id="su-post-456" class="su-post"><a
-																href="https://www.sarkariresult.app/ap-gds-form/">AP
+																href="ap-gds-form/">AP
 																Postal Circle GDS Result 2020 Merit List, Cut Off</a>
 															</span></li>
 														<li id="su-post-1080" class="su-post"><a
-																href="https://www.sarkariresult.app/tn-postal-circle-recruitment/">TN
+																href="tn-postal-circle-recruitment/">TN
 																Postal Circle Recruitment 2019 Apply MTS 231 Post</a>
 															<span style="color:#ab183d">Last Date: 31 December 2019
 															</span>
 														</li>
 														<li id="su-post-877" class="su-post"><a
-																href="https://www.sarkariresult.app/uttarakhand-postal-circle-recruitment/">Uttarakhand
+																href="uttarakhand-postal-circle-recruitment/">Uttarakhand
 																Postal Circle Recruitment 2019 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 20 December 2019
 															</span>
 														</li>
 														<li id="su-post-500" class="su-post"><a
-																href="https://www.sarkariresult.app/ksp-sub-inspector/">KSP
+																href="ksp-sub-inspector/">KSP
 																Sub Inspector (SI) Online Form for 300 Post</a>
 															<span style="color:#ab183d">Last Date: 6 November 2019
 															</span>
@@ -1210,7 +1210,7 @@
 															style="color: #0000ff;"><strong
 																style="float: right; padding: 0px 6px;"><a
 																	style="color: #0000ee; text-decoration: underline;"
-																	href="https://www.sarkariresult.app/postal-circle/"
+																	href="postal-circle/"
 																	target="_blank" rel="noopener noreferrer">More
 																	»</a></strong></span></span>
 												</td>
@@ -1227,8 +1227,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -1240,7 +1240,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/icpr-recruitment/" rel="prev">ICPR
+												href="icpr-recruitment/" rel="prev">ICPR
 												Recruitment 2022 Online Application Assistant Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
 												viewBox="0 0 192 512" aria-hidden="true"
@@ -1251,7 +1251,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/ibps-rrb-xi-recruitment/"
+												href="ibps-rrb-xi-recruitment/"
 												rel="next">IBPS RRB XI Office Assistant Admit Card 2022 Download Exam
 												Date</a></span></div>
 								</nav>
@@ -1284,7 +1284,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-10623">
+														href="postal-circle/#comment-10623">
 														<time datetime="2020-12-18T18:52:35+05:30"
 															itemprop="datePublished">
 															18 Dec 2020 at 18:52 </time>
@@ -1323,7 +1323,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-12182">
+														href="postal-circle/#comment-12182">
 														<time datetime="2021-01-20T13:47:08+05:30"
 															itemprop="datePublished">
 															20 Jan 2021 at 13:47 </time>
@@ -1362,7 +1362,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-34072">
+														href="postal-circle/#comment-34072">
 														<time datetime="2022-01-28T16:38:38+05:30"
 															itemprop="datePublished">
 															28 Jan 2022 at 16:38 </time>
@@ -1406,7 +1406,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-34073">
+														href="postal-circle/#comment-34073">
 														<time datetime="2022-01-28T18:53:22+05:30"
 															itemprop="datePublished">
 															28 Jan 2022 at 18:53 </time>
@@ -1446,7 +1446,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-36363">
+														href="postal-circle/#comment-36363">
 														<time datetime="2022-03-24T21:14:47+05:30"
 															itemprop="datePublished">
 															24 Mar 2022 at 21:14 </time>
@@ -1488,7 +1488,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-37025">
+														href="postal-circle/#comment-37025">
 														<time datetime="2022-04-12T09:02:50+05:30"
 															itemprop="datePublished">
 															12 Apr 2022 at 09:02 </time>
@@ -1527,7 +1527,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-37179">
+														href="postal-circle/#comment-37179">
 														<time datetime="2022-04-14T23:14:07+05:30"
 															itemprop="datePublished">
 															14 Apr 2022 at 23:14 </time>
@@ -1566,7 +1566,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/postal-circle/#comment-38413">
+														href="postal-circle/#comment-38413">
 														<time datetime="2022-05-12T11:40:56+05:30"
 															itemprop="datePublished">
 															12 May 2022 at 11:40 </time>
@@ -1647,84 +1647,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(18 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(18 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (18 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/esic-bihta-junior-resident-job/">ESIC Bihta
+								<a href="esic-bihta-junior-resident-job/">ESIC Bihta
 									Recruitment 2023 Direct Interview Jr Resident 18 Post</a>
 							</li>
 							<li>
 								<a
-									href="https://www.sarkariresult.app/isec-walk-in-interview-for-listers-mappers-post/">ISEC
+									href="isec-walk-in-interview-for-listers-mappers-post/">ISEC
 									Recruitment 2023 Walk In Interview for Listers, Mappers Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (18
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (18
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 						</ul>
@@ -1909,7 +1909,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+			href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-notification/"
+										href="wb-postal-circle-notification/"
 										rel="bookmark">WB Postal Circle GDS Recruitment 2023 Apply Now 2127 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -25,7 +25,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -39,7 +39,7 @@
 									Dak Sevak is a recruitment program &#8230; <a
 										title="WB Postal Circle GDS Recruitment 2023 Apply Now 2127 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-notification/"
+										href="wb-postal-circle-notification/"
 										aria-label="More on WB Postal Circle GDS Recruitment 2023 Apply Now 2127 Post">Read
 										more</a></p>
 							</div>
@@ -50,10 +50,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -63,7 +63,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-notification/#respond">Leave
+										href="wb-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -74,7 +74,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-postal-circle-notification/"
+										href="tn-postal-circle-notification/"
 										rel="bookmark">TN Postal Circle GDS Recruitment 2023 Apply Online 2994 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -83,7 +83,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -97,7 +97,7 @@
 									a recruitment program by &#8230; <a
 										title="TN Postal Circle GDS Recruitment 2023 Apply Online 2994 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tn-postal-circle-notification/"
+										href="tn-postal-circle-notification/"
 										aria-label="More on TN Postal Circle GDS Recruitment 2023 Apply Online 2994 Post">Read
 										more</a></p>
 							</div>
@@ -108,10 +108,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -121,7 +121,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-postal-circle-notification/#respond">Leave
+										href="tn-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -132,7 +132,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-notification/"
+										href="uttarakhand-postal-circle-notification/"
 										rel="bookmark">Uttarakhand Postal Circle GDS Recruitment 2023 Apply Now 519
 										Post</a></h2>
 								<div class="entry-meta">
@@ -141,7 +141,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -155,7 +155,7 @@
 									Gramin Dak Sevak is a recruitment program by the &#8230; <a
 										title="Uttarakhand Postal Circle GDS Recruitment 2023 Apply Now 519 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-notification/"
+										href="uttarakhand-postal-circle-notification/"
 										aria-label="More on Uttarakhand Postal Circle GDS Recruitment 2023 Apply Now 519 Post">Read
 										more</a></p>
 							</div>
@@ -166,10 +166,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -179,7 +179,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-notification/#respond">Leave
+										href="uttarakhand-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -190,7 +190,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-notification/"
+										href="telangana-postal-circle-notification/"
 										rel="bookmark">Telangana Postal Circle GDS Recruitment 2023 Apply Online 961
 										Post</a></h2>
 								<div class="entry-meta">
@@ -200,7 +200,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -214,7 +214,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Telangana Postal Circle GDS Recruitment 2023 Apply Online 961 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-notification/"
+										href="telangana-postal-circle-notification/"
 										aria-label="More on Telangana Postal Circle GDS Recruitment 2023 Apply Online 961 Post">Read
 										more</a></p>
 							</div>
@@ -225,10 +225,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -238,7 +238,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-notification/#respond">Leave
+										href="telangana-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -249,7 +249,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-notification/"
+										href="kerala-postal-circle-notification/"
 										rel="bookmark">Kerala Postal Circle GDS Recruitment 2023 Apply Now 1508 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -258,7 +258,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -272,7 +272,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Kerala Postal Circle GDS Recruitment 2023 Apply Now 1508 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-postal-circle-notification/"
+										href="kerala-postal-circle-notification/"
 										aria-label="More on Kerala Postal Circle GDS Recruitment 2023 Apply Now 1508 Post">Read
 										more</a></p>
 							</div>
@@ -283,10 +283,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -296,7 +296,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-notification/#respond">Leave
+										href="kerala-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -307,7 +307,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-notification/"
+										href="karnataka-postal-circle-notification/"
 										rel="bookmark">Karnataka Postal Circle GDS Recruitment 2023 Apply Now 1714
 										Post</a></h2>
 								<div class="entry-meta">
@@ -316,7 +316,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -330,7 +330,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Karnataka Postal Circle GDS Recruitment 2023 Apply Now 1714 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-postal-circle-notification/"
+										href="karnataka-postal-circle-notification/"
 										aria-label="More on Karnataka Postal Circle GDS Recruitment 2023 Apply Now 1714 Post">Read
 										more</a></p>
 							</div>
@@ -341,10 +341,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -354,7 +354,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-notification/#respond">Leave
+										href="karnataka-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -365,7 +365,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-notification/"
+										href="jharkhand-postal-circle-notification/"
 										rel="bookmark">Jharkhand Postal Circle GDS Recruitment 2023 Apply Online 530
 										Post</a></h2>
 								<div class="entry-meta">
@@ -374,7 +374,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -388,7 +388,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Jharkhand Postal Circle GDS Recruitment 2023 Apply Online 530 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-notification/"
+										href="jharkhand-postal-circle-notification/"
 										aria-label="More on Jharkhand Postal Circle GDS Recruitment 2023 Apply Online 530 Post">Read
 										more</a></p>
 							</div>
@@ -399,10 +399,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -412,7 +412,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-notification/#respond">Leave
+										href="jharkhand-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -423,7 +423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-postal-circle-notification/"
+										href="jk-postal-circle-notification/"
 										rel="bookmark">JK Postal Circle GDS Recruitment 2023 Apply Now 300 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -431,7 +431,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -445,7 +445,7 @@
 									a recruitment program by &#8230; <a
 										title="JK Postal Circle GDS Recruitment 2023 Apply Now 300 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-postal-circle-notification/"
+										href="jk-postal-circle-notification/"
 										aria-label="More on JK Postal Circle GDS Recruitment 2023 Apply Now 300 Post">Read
 										more</a></p>
 							</div>
@@ -456,10 +456,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -469,7 +469,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-postal-circle-notification/#respond">Leave
+										href="jk-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -480,7 +480,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-notification/"
+										href="gujarat-postal-circle-notification/"
 										rel="bookmark">Gujarat Postal Circle GDS Recruitment 2023 Apply Online 1850
 										Post</a></h2>
 								<div class="entry-meta">
@@ -489,7 +489,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -503,7 +503,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Gujarat Postal Circle GDS Recruitment 2023 Apply Online 1850 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-postal-circle-notification/"
+										href="gujarat-postal-circle-notification/"
 										aria-label="More on Gujarat Postal Circle GDS Recruitment 2023 Apply Online 1850 Post">Read
 										more</a></p>
 							</div>
@@ -514,10 +514,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -527,7 +527,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-notification/#respond">Leave
+										href="gujarat-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -538,7 +538,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-recruitment/"
+										href="chhattisgarh-postal-circle-gds-recruitment/"
 										rel="bookmark">Chhattisgarh Postal Circle GDS Recruitment 2023 Apply Now 721
 										Post</a></h2>
 								<div class="entry-meta">
@@ -547,7 +547,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -561,7 +561,7 @@
 									Dak Sevak is a recruitment program by &#8230; <a
 										title="Chhattisgarh Postal Circle GDS Recruitment 2023 Apply Now 721 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-recruitment/"
+										href="chhattisgarh-postal-circle-gds-recruitment/"
 										aria-label="More on Chhattisgarh Postal Circle GDS Recruitment 2023 Apply Now 721 Post">Read
 										more</a></p>
 							</div>
@@ -572,10 +572,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -585,7 +585,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-recruitment/#respond">Leave
+										href="chhattisgarh-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -596,7 +596,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-notification/"
+										href="bihar-postal-circle-notification/"
 										rel="bookmark">Bihar Postal Circle GDS Recruitment 2023 Apply Now 2300 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -605,7 +605,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -619,7 +619,7 @@
 									Dak Sevak is a recruitment program by &#8230; <a
 										title="Bihar Postal Circle GDS Recruitment 2023 Apply Now 2300 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-postal-circle-notification/"
+										href="bihar-postal-circle-notification/"
 										aria-label="More on Bihar Postal Circle GDS Recruitment 2023 Apply Now 2300 Post">Read
 										more</a></p>
 							</div>
@@ -630,10 +630,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -643,7 +643,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-notification/#respond">Leave
+										href="bihar-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -654,7 +654,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-postal-circle-notification/"
+										href="assam-postal-circle-notification/"
 										rel="bookmark">Assam Postal Circle GDS Recruitment 2023 Apply Online 855
 										Post</a></h2>
 								<div class="entry-meta">
@@ -664,7 +664,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -678,7 +678,7 @@
 									is a recruitment program by &#8230; <a
 										title="Assam Postal Circle GDS Recruitment 2023 Apply Online 855 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-postal-circle-notification/"
+										href="assam-postal-circle-notification/"
 										aria-label="More on Assam Postal Circle GDS Recruitment 2023 Apply Online 855 Post">Read
 										more</a></p>
 							</div>
@@ -689,10 +689,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -702,7 +702,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-postal-circle-notification/#respond">Leave
+										href="assam-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -713,7 +713,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-notifcation/"
+										href="maharashtra-postal-circle-notifcation/"
 										rel="bookmark">Maharashtra Postal Circle GDS Recruitment 2023 Apply Online 3154
 										Post</a></h2>
 								<div class="entry-meta">
@@ -722,7 +722,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -736,7 +736,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Maharashtra Postal Circle GDS Recruitment 2023 Apply Online 3154 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-notifcation/"
+										href="maharashtra-postal-circle-notifcation/"
 										aria-label="More on Maharashtra Postal Circle GDS Recruitment 2023 Apply Online 3154 Post">Read
 										more</a></p>
 							</div>
@@ -747,10 +747,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -760,7 +760,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-notifcation/#respond">Leave
+										href="maharashtra-postal-circle-notifcation/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -771,7 +771,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-postal-circle-notification/"
+										href="mp-postal-circle-notification/"
 										rel="bookmark">MP Postal Circle GDS Recruitment 2023 Apply Online 1556 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -780,7 +780,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -794,7 +794,7 @@
 									a recruitment program by &#8230; <a
 										title="MP Postal Circle GDS Recruitment 2023 Apply Online 1556 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-postal-circle-notification/"
+										href="mp-postal-circle-notification/"
 										aria-label="More on MP Postal Circle GDS Recruitment 2023 Apply Online 1556 Post">Read
 										more</a></p>
 							</div>
@@ -805,10 +805,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -818,7 +818,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-postal-circle-notification/#respond">Leave
+										href="mp-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -829,7 +829,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-notification/"
+										href="delhi-postal-circle-notification/"
 										rel="bookmark">Delhi Postal Circle GDS Recruitment 2023 Apply Online 22 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -838,7 +838,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -852,7 +852,7 @@
 									is a recruitment program by &#8230; <a
 										title="Delhi Postal Circle GDS Recruitment 2023 Apply Online 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-postal-circle-notification/"
+										href="delhi-postal-circle-notification/"
 										aria-label="More on Delhi Postal Circle GDS Recruitment 2023 Apply Online 22 Post">Read
 										more</a></p>
 							</div>
@@ -863,10 +863,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -876,7 +876,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-notification/#respond">Leave
+										href="delhi-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -887,7 +887,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-postal-circle-notification/"
+										href="hp-postal-circle-notification/"
 										rel="bookmark">HP Postal Circle GDS Recruitment 2023 Apply Online 418 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -897,7 +897,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -911,7 +911,7 @@
 									a recruitment program by &#8230; <a
 										title="HP Postal Circle GDS Recruitment 2023 Apply Online 418 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-postal-circle-notification/"
+										href="hp-postal-circle-notification/"
 										aria-label="More on HP Postal Circle GDS Recruitment 2023 Apply Online 418 Post">Read
 										more</a></p>
 							</div>
@@ -922,10 +922,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -935,7 +935,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-postal-circle-notification/#respond">Leave
+										href="hp-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -946,7 +946,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-postal-circle-notification/"
+										href="up-postal-circle-notification/"
 										rel="bookmark">UP Postal Circle GDS Recruitment 2023 Apply Online 3084 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -955,7 +955,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -969,7 +969,7 @@
 									a recruitment program by &#8230; <a
 										title="UP Postal Circle GDS Recruitment 2023 Apply Online 3084 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-postal-circle-notification/"
+										href="up-postal-circle-notification/"
 										aria-label="More on UP Postal Circle GDS Recruitment 2023 Apply Online 3084 Post">Read
 										more</a></p>
 							</div>
@@ -980,10 +980,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -993,7 +993,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-postal-circle-notification/#respond">Leave
+										href="up-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1004,7 +1004,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-notification/"
+										href="rajasthan-postal-circle-notification/"
 										rel="bookmark">Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 2031
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1013,7 +1013,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1027,7 +1027,7 @@
 									Gramin Dak Sevak is a recruitment program by the &#8230; <a
 										title="Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 2031 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-notification/"
+										href="rajasthan-postal-circle-notification/"
 										aria-label="More on Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 2031 Post">Read
 										more</a></p>
 							</div>
@@ -1038,10 +1038,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1051,7 +1051,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-notification/#respond">Leave
+										href="rajasthan-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1062,7 +1062,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-notification/"
+										href="punjab-postal-circle-notification/"
 										rel="bookmark">Punjab Postal Circle GDS Recruitment 2023 Apply Now 336 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1072,7 +1072,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1086,7 +1086,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Punjab Postal Circle GDS Recruitment 2023 Apply Now 336 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-postal-circle-notification/"
+										href="punjab-postal-circle-notification/"
 										aria-label="More on Punjab Postal Circle GDS Recruitment 2023 Apply Now 336 Post">Read
 										more</a></p>
 							</div>
@@ -1097,10 +1097,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1110,7 +1110,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-notification/#respond">Leave
+										href="punjab-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1121,7 +1121,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-notification/"
+										href="haryana-postal-circle-notification/"
 										rel="bookmark">Haryana Postal Circle GDS Recruitment 2023 Apply Online 215
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1130,7 +1130,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1144,7 +1144,7 @@
 									Gramin Dak Sevak is a recruitment program by &#8230; <a
 										title="Haryana Postal Circle GDS Recruitment 2023 Apply Online 215 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-postal-circle-notification/"
+										href="haryana-postal-circle-notification/"
 										aria-label="More on Haryana Postal Circle GDS Recruitment 2023 Apply Online 215 Post">Read
 										more</a></p>
 							</div>
@@ -1155,10 +1155,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1168,7 +1168,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-notification/#respond">Leave
+										href="haryana-postal-circle-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1179,7 +1179,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-post-office-recruitment/"
+										href="ap-post-office-recruitment/"
 										rel="bookmark">AP Postal Circle GDS Recruitment 2023 Apply Now 1058 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -1189,7 +1189,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1203,7 +1203,7 @@
 									Dak Sevak is a recruitment program by the Indian &#8230; <a
 										title="AP Postal Circle GDS Recruitment 2023 Apply Now 1058 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-post-office-recruitment/"
+										href="ap-post-office-recruitment/"
 										aria-label="More on AP Postal Circle GDS Recruitment 2023 Apply Now 1058 Posts">Read
 										more</a></p>
 							</div>
@@ -1214,10 +1214,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1227,7 +1227,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-post-office-recruitment/#respond">Leave a
+										href="ap-post-office-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1238,7 +1238,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/post-office-jobs/" rel="bookmark">India Post
+										href="post-office-jobs/" rel="bookmark">India Post
 										GDS Recruitment 2023 Apply Gramin Dak Sevak 30041 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-08-03T17:37:40+05:30"
@@ -1247,7 +1247,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1260,7 +1260,7 @@
 									Assistant Branch Postmaster (ABPM) vacancies on a regular basis. India Postal Gramin
 									Dak Sevak is a recruitment program by &#8230; <a
 										title="India Post GDS Recruitment 2023 Apply Gramin Dak Sevak 30041 Post"
-										class="read-more" href="https://www.sarkariresult.app/post-office-jobs/"
+										class="read-more" href="post-office-jobs/"
 										aria-label="More on India Post GDS Recruitment 2023 Apply Gramin Dak Sevak 30041 Post">Read
 										more</a></p>
 							</div>
@@ -1271,10 +1271,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1284,7 +1284,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/post-office-jobs/#respond">Leave a
+										href="post-office-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1295,7 +1295,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-executive-recruitment-apply-online/"
+										href="ippb-executive-recruitment-apply-online/"
 										rel="bookmark">IPPB Executive Recruitment 2023 Apply Online Executive 132
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -1305,7 +1305,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1319,7 +1319,7 @@
 									IPPB Recruitment application process will be conducted through online mode, &#8230;
 									<a title="IPPB Executive Recruitment 2023 Apply Online Executive 132 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ippb-executive-recruitment-apply-online/"
+										href="ippb-executive-recruitment-apply-online/"
 										aria-label="More on IPPB Executive Recruitment 2023 Apply Online Executive 132 Posts">Read
 										more</a></p>
 							</div>
@@ -1330,10 +1330,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1343,7 +1343,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ippb-executive-recruitment-apply-online/#respond">Leave
+										href="ippb-executive-recruitment-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1354,7 +1354,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-skilled-artisans-jobs/"
+										href="mail-motor-service-bengaluru-skilled-artisans-jobs/"
 										rel="bookmark">Mail Motor Service Bengaluru Recruitment 2023 Skilled Artisans 05
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1364,7 +1364,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1378,7 +1378,7 @@
 									Vacancy 2023 can apply online through &#8230; <a
 										title="Mail Motor Service Bengaluru Recruitment 2023 Skilled Artisans 05 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-skilled-artisans-jobs/"
+										href="mail-motor-service-bengaluru-skilled-artisans-jobs/"
 										aria-label="More on Mail Motor Service Bengaluru Recruitment 2023 Skilled Artisans 05 Post">Read
 										more</a></p>
 							</div>
@@ -1389,10 +1389,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -1402,7 +1402,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-skilled-artisans-jobs/#respond">Leave
+										href="mail-motor-service-bengaluru-skilled-artisans-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1413,7 +1413,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-1408-post-apply-online/"
+										href="rajasthan-postal-circle-gds-1408-post-apply-online/"
 										rel="bookmark">Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 1408
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1423,7 +1423,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1438,7 +1438,7 @@
 									Rajasthan Postal &#8230; <a
 										title="Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 1408 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-1408-post-apply-online/"
+										href="rajasthan-postal-circle-gds-1408-post-apply-online/"
 										aria-label="More on Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 1408 Post">Read
 										more</a></p>
 							</div>
@@ -1449,10 +1449,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1461,7 +1461,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-1408-post-apply-online/#comments">1
+										href="rajasthan-postal-circle-gds-1408-post-apply-online/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1472,7 +1472,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-job/"
+										href="maharashtra-postal-circle-job/"
 										rel="bookmark">Maharashtra Postal Circle Recruitment 2023 Apply Online 620
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1481,7 +1481,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1496,7 +1496,7 @@
 									Maharashtra &#8230; <a
 										title="Maharashtra Postal Circle Recruitment 2023 Apply Online 620 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-job/"
+										href="maharashtra-postal-circle-job/"
 										aria-label="More on Maharashtra Postal Circle Recruitment 2023 Apply Online 620 Post">Read
 										more</a></p>
 							</div>
@@ -1507,10 +1507,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1519,7 +1519,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-job/#respond">Leave
+										href="maharashtra-postal-circle-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1530,7 +1530,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment-online-form/"
+										href="odisha-postal-circle-gds-recruitment-online-form/"
 										rel="bookmark">Odisha Postal Circle GDS Recruitment 2023 Online Form 948
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1539,7 +1539,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1553,7 +1553,7 @@
 									Vacancies at 948 Posts. Candidates who are interested in Odisha &#8230; <a
 										title="Odisha Postal Circle GDS Recruitment 2023 Online Form 948 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment-online-form/"
+										href="odisha-postal-circle-gds-recruitment-online-form/"
 										aria-label="More on Odisha Postal Circle GDS Recruitment 2023 Online Form 948 Post">Read
 										more</a></p>
 							</div>
@@ -1564,10 +1564,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1576,7 +1576,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment-online-form/#respond">Leave
+										href="odisha-postal-circle-gds-recruitment-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1587,7 +1587,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-postal-circle-gds-job/" rel="bookmark">MP
+										href="mp-postal-circle-gds-job/" rel="bookmark">MP
 										Postal Circle GDS Recruitment 2023 Apply Online 2992 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -1595,7 +1595,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1608,7 +1608,7 @@
 									2023 of Gramin Dak Sevaks (GDS) [Branch Postmaster (BPM)/Assistant Branch Postmaster
 									Vacancies at 2992 Posts. Candidates who are interested in &#8230; <a
 										title="MP Postal Circle GDS Recruitment 2023 Apply Online 2992 Post"
-										class="read-more" href="https://www.sarkariresult.app/mp-postal-circle-gds-job/"
+										class="read-more" href="mp-postal-circle-gds-job/"
 										aria-label="More on MP Postal Circle GDS Recruitment 2023 Apply Online 2992 Post">Read
 										more</a></p>
 							</div>
@@ -1619,10 +1619,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1631,7 +1631,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-postal-circle-gds-job/#respond">Leave a
+										href="mp-postal-circle-gds-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1642,7 +1642,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs-apply-online/"
+										href="wb-postal-circle-gds-jobs-apply-online/"
 										rel="bookmark">WB Postal Circle GDS Recruitment 2023 Apply Gramin Dak Sevak 45
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1651,7 +1651,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1665,7 +1665,7 @@
 									Vacancies at 45 Posts. Candidates who are interested in &#8230; <a
 										title="WB Postal Circle GDS Recruitment 2023 Apply Gramin Dak Sevak 45 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs-apply-online/"
+										href="wb-postal-circle-gds-jobs-apply-online/"
 										aria-label="More on WB Postal Circle GDS Recruitment 2023 Apply Gramin Dak Sevak 45 Post">Read
 										more</a></p>
 							</div>
@@ -1676,10 +1676,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1688,7 +1688,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs-apply-online/#respond">Leave
+										href="wb-postal-circle-gds-jobs-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1699,7 +1699,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-job/"
+										href="karnataka-postal-circle-gds-job/"
 										rel="bookmark">Karnataka Postal Circle GDS Recruitment 2023 Apply 48 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1708,7 +1708,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1722,7 +1722,7 @@
 									Vacancies at 48 Posts. Candidates who are interested in Karnataka Postal &#8230; <a
 										title="Karnataka Postal Circle GDS Recruitment 2023 Apply 48 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-job/"
+										href="karnataka-postal-circle-gds-job/"
 										aria-label="More on Karnataka Postal Circle GDS Recruitment 2023 Apply 48 Post">Read
 										more</a></p>
 							</div>
@@ -1733,10 +1733,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1745,7 +1745,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-job/#respond">Leave
+										href="karnataka-postal-circle-gds-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1756,7 +1756,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment-apply-now/"
+										href="telangana-postal-circle-gds-recruitment-apply-now/"
 										rel="bookmark">Telangana Postal Circle GDS Recruitment 2023 Apply Now 96
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1766,7 +1766,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1780,7 +1780,7 @@
 									Vacancies at 96 Posts. Candidates who are interested in Telangana &#8230; <a
 										title="Telangana Postal Circle GDS Recruitment 2023 Apply Now 96 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment-apply-now/"
+										href="telangana-postal-circle-gds-recruitment-apply-now/"
 										aria-label="More on Telangana Postal Circle GDS Recruitment 2023 Apply Now 96 Post">Read
 										more</a></p>
 							</div>
@@ -1791,10 +1791,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1803,7 +1803,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment-apply-now/#respond">Leave
+										href="telangana-postal-circle-gds-recruitment-apply-now/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1814,7 +1814,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-job/"
+										href="jharkhand-postal-circle-job/"
 										rel="bookmark">Jharkhand Postal Circle GDS Recruitment 2023 Apply 1125 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1823,7 +1823,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1838,7 +1838,7 @@
 									Jharkhand Postal &#8230; <a
 										title="Jharkhand Postal Circle GDS Recruitment 2023 Apply 1125 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-job/"
+										href="jharkhand-postal-circle-job/"
 										aria-label="More on Jharkhand Postal Circle GDS Recruitment 2023 Apply 1125 Post">Read
 										more</a></p>
 							</div>
@@ -1849,10 +1849,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1861,7 +1861,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-job/#respond">Leave
+										href="jharkhand-postal-circle-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1872,7 +1872,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttar-pradesh-postal-circle-gds-online-form/"
+										href="uttar-pradesh-postal-circle-gds-online-form/"
 										rel="bookmark">UP Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 160
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -1881,7 +1881,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1895,7 +1895,7 @@
 									Vacancies at 160 Posts. Candidates who are interested in &#8230; <a
 										title="UP Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 160 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttar-pradesh-postal-circle-gds-online-form/"
+										href="uttar-pradesh-postal-circle-gds-online-form/"
 										aria-label="More on UP Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 160 Posts">Read
 										more</a></p>
 							</div>
@@ -1906,10 +1906,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1918,7 +1918,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttar-pradesh-postal-circle-gds-online-form/#respond">Leave
+										href="uttar-pradesh-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1929,7 +1929,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gramin-dak-sevak-online-form/"
+										href="punjab-postal-circle-gramin-dak-sevak-online-form/"
 										rel="bookmark">Punjab Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 13
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1938,7 +1938,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1952,7 +1952,7 @@
 									Vacancies at 13 Posts. Candidates who are interested in Punjab &#8230; <a
 										title="Punjab Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 13 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-postal-circle-gramin-dak-sevak-online-form/"
+										href="punjab-postal-circle-gramin-dak-sevak-online-form/"
 										aria-label="More on Punjab Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 13 Post">Read
 										more</a></p>
 							</div>
@@ -1963,10 +1963,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1975,7 +1975,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gramin-dak-sevak-online-form/#respond">Leave
+										href="punjab-postal-circle-gramin-dak-sevak-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1986,7 +1986,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-job/" rel="bookmark">JK
+										href="jk-postal-circle-gds-job/" rel="bookmark">JK
 										Postal Circle GDS Recruitment 2023 Apply Online 89 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-05-24T10:08:30+05:30"
@@ -1995,7 +1995,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2008,7 +2008,7 @@
 									Recruitment 2023 of Gramin Dak Sevaks (GDS) [Branch Postmaster (BPM)/Assistant
 									Branch Postmaster Vacancies at 89 Posts. Candidates who are interested &#8230; <a
 										title="JK Postal Circle GDS Recruitment 2023 Apply Online 89 Post"
-										class="read-more" href="https://www.sarkariresult.app/jk-postal-circle-gds-job/"
+										class="read-more" href="jk-postal-circle-gds-job/"
 										aria-label="More on JK Postal Circle GDS Recruitment 2023 Apply Online 89 Post">Read
 										more</a></p>
 							</div>
@@ -2019,10 +2019,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2031,7 +2031,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-job/#respond">Leave a
+										href="jk-postal-circle-gds-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2042,7 +2042,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-recruitment/"
+										href="north-eastern-postal-circle-gds-recruitment/"
 										rel="bookmark">North Eastern Postal Circle GDS Recruitment 2023 Apply Now 4384
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2051,7 +2051,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2065,7 +2065,7 @@
 									Branch Postmaster Vacancies at 4384 Posts. Candidates who are interested &#8230; <a
 										title="North Eastern Postal Circle GDS Recruitment 2023 Apply Now 4384 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-recruitment/"
+										href="north-eastern-postal-circle-gds-recruitment/"
 										aria-label="More on North Eastern Postal Circle GDS Recruitment 2023 Apply Now 4384 Post">Read
 										more</a></p>
 							</div>
@@ -2076,10 +2076,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2088,7 +2088,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-recruitment/#respond">Leave
+										href="north-eastern-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2099,7 +2099,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-vacancy/"
+										href="hp-postal-circle-gds-vacancy/"
 										rel="bookmark">HP Postal Circle GDS Recruitment 2023 Apply Online 37 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2108,7 +2108,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2122,7 +2122,7 @@
 									Vacancies at 37 Posts. Candidates who are interested in HP &#8230; <a
 										title="HP Postal Circle GDS Recruitment 2023 Apply Online 37 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-vacancy/"
+										href="hp-postal-circle-gds-vacancy/"
 										aria-label="More on HP Postal Circle GDS Recruitment 2023 Apply Online 37 Post">Read
 										more</a></p>
 							</div>
@@ -2133,10 +2133,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2145,7 +2145,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-vacancy/#respond">Leave
+										href="hp-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2156,7 +2156,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gramin-dak-sevaks-job/"
+										href="gujarat-postal-circle-gramin-dak-sevaks-job/"
 										rel="bookmark">Gujarat Postal Circle GDS Recruitment 2023 Apply Online 110
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2165,7 +2165,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2179,7 +2179,7 @@
 									Vacancies at 110 Posts. Candidates who are interested in Gujarat &#8230; <a
 										title="Gujarat Postal Circle GDS Recruitment 2023 Apply Online 110 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gramin-dak-sevaks-job/"
+										href="gujarat-postal-circle-gramin-dak-sevaks-job/"
 										aria-label="More on Gujarat Postal Circle GDS Recruitment 2023 Apply Online 110 Post">Read
 										more</a></p>
 							</div>
@@ -2190,10 +2190,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2202,7 +2202,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gramin-dak-sevaks-job/#respond">Leave
+										href="gujarat-postal-circle-gramin-dak-sevaks-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2213,7 +2213,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-job/"
+										href="chhattisgarh-postal-circle-gds-job/"
 										rel="bookmark">Chhattisgarh Postal Circle Recruitment 2023 Apply Online 342
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2222,7 +2222,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2237,7 +2237,7 @@
 									Chhattisgarh Postal &#8230; <a
 										title="Chhattisgarh Postal Circle Recruitment 2023 Apply Online 342 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-job/"
+										href="chhattisgarh-postal-circle-gds-job/"
 										aria-label="More on Chhattisgarh Postal Circle Recruitment 2023 Apply Online 342 Post">Read
 										more</a></p>
 							</div>
@@ -2248,10 +2248,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2260,7 +2260,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-gds-job/#respond">Leave
+										href="chhattisgarh-postal-circle-gds-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2271,7 +2271,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-gds-jobs-apply-online/"
+										href="haryana-postal-circle-gds-jobs-apply-online/"
 										rel="bookmark">Haryana Postal Circle GDS Recruitment 2023 Apply Online 08
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2280,7 +2280,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2294,7 +2294,7 @@
 									Vacancies at 08 Posts. Candidates who are interested in Haryana &#8230; <a
 										title="Haryana Postal Circle GDS Recruitment 2023 Apply Online 08 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-postal-circle-gds-jobs-apply-online/"
+										href="haryana-postal-circle-gds-jobs-apply-online/"
 										aria-label="More on Haryana Postal Circle GDS Recruitment 2023 Apply Online 08 Post">Read
 										more</a></p>
 							</div>
@@ -2305,10 +2305,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2317,7 +2317,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-gds-jobs-apply-online/#respond">Leave
+										href="haryana-postal-circle-gds-jobs-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2328,7 +2328,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gramin-dak-sevaks-job/"
+										href="bihar-postal-circle-gramin-dak-sevaks-job/"
 										rel="bookmark">Bihar Postal Circle GDS Recruitment 2023 Apply Online 76 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2337,7 +2337,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2351,7 +2351,7 @@
 									Vacancies at 76 Posts. Candidates who are interested in Bihar Postal &#8230; <a
 										title="Bihar Postal Circle GDS Recruitment 2023 Apply Online 76 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-postal-circle-gramin-dak-sevaks-job/"
+										href="bihar-postal-circle-gramin-dak-sevaks-job/"
 										aria-label="More on Bihar Postal Circle GDS Recruitment 2023 Apply Online 76 Post">Read
 										more</a></p>
 							</div>
@@ -2362,10 +2362,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2374,7 +2374,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gramin-dak-sevaks-job/#respond">Leave
+										href="bihar-postal-circle-gramin-dak-sevaks-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2385,7 +2385,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-postal-circle-gds-job/"
+										href="assam-postal-circle-gds-job/"
 										rel="bookmark">Assam Postal Circle GDS Recruitment 2023 Apply Online 151
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2395,7 +2395,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2409,7 +2409,7 @@
 									Vacancies at 151 Posts. Candidates who are interested in Assam Postal &#8230; <a
 										title="Assam Postal Circle GDS Recruitment 2023 Apply Online 151 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-postal-circle-gds-job/"
+										href="assam-postal-circle-gds-job/"
 										aria-label="More on Assam Postal Circle GDS Recruitment 2023 Apply Online 151 Post">Read
 										more</a></p>
 							</div>
@@ -2420,10 +2420,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2432,7 +2432,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-postal-circle-gds-job/#respond">Leave
+										href="assam-postal-circle-gds-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2443,7 +2443,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-online/"
+										href="ap-postal-circle-gds-online/"
 										rel="bookmark">AP Postal Circle GDS Recruitment 2023 Apply Online 118 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2452,7 +2452,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2466,7 +2466,7 @@
 									Vacancies at 118 Posts. Candidates who are interested in &#8230; <a
 										title="AP Postal Circle GDS Recruitment 2023 Apply Online 118 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-online/"
+										href="ap-postal-circle-gds-online/"
 										aria-label="More on AP Postal Circle GDS Recruitment 2023 Apply Online 118 Post">Read
 										more</a></p>
 							</div>
@@ -2477,10 +2477,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2489,7 +2489,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-online/#respond">Leave
+										href="ap-postal-circle-gds-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2500,7 +2500,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/india-post-gds-apply-online/"
+										href="india-post-gds-apply-online/"
 										rel="bookmark">India Post GDS Recruitment 2023 Apply Online, Vacancy
 										Notification for 12828 Post</a></h2>
 								<div class="entry-meta">
@@ -2510,7 +2510,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2524,7 +2524,7 @@
 									(ABPM) Vacancies at 12828 Posts in &#8230; <a
 										title="India Post GDS Recruitment 2023 Apply Online, Vacancy Notification for 12828 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/india-post-gds-apply-online/"
+										href="india-post-gds-apply-online/"
 										aria-label="More on India Post GDS Recruitment 2023 Apply Online, Vacancy Notification for 12828 Post">Read
 										more</a></p>
 							</div>
@@ -2535,10 +2535,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2547,7 +2547,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/india-post-gds-apply-online/#respond">Leave
+										href="india-post-gds-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2558,7 +2558,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-tn-driver-jobs-application-form/"
+										href="mail-motor-service-tn-driver-jobs-application-form/"
 										rel="bookmark">Mail Motor Service TN Recruitment 2023 Staff Car Driver 58
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2568,7 +2568,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2582,7 +2582,7 @@
 									official &#8230; <a
 										title="Mail Motor Service TN Recruitment 2023 Staff Car Driver 58 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-tn-driver-jobs-application-form/"
+										href="mail-motor-service-tn-driver-jobs-application-form/"
 										aria-label="More on Mail Motor Service TN Recruitment 2023 Staff Car Driver 58 Post">Read
 										more</a></p>
 							</div>
@@ -2593,10 +2593,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2605,7 +2605,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-tn-driver-jobs-application-form/#comments">6
+										href="mail-motor-service-tn-driver-jobs-application-form/#comments">6
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2616,7 +2616,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-online-form/"
+										href="punjab-postal-circle-gds-online-form/"
 										rel="bookmark">Punjab Postal Circle GDS Recruitment 2023 Apply Now 766 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2626,7 +2626,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2640,7 +2640,7 @@
 									Vacancies at 766 Posts. Candidates who &#8230; <a
 										title="Punjab Postal Circle GDS Recruitment 2023 Apply Now 766 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-online-form/"
+										href="punjab-postal-circle-gds-online-form/"
 										aria-label="More on Punjab Postal Circle GDS Recruitment 2023 Apply Now 766 Post">Read
 										more</a></p>
 							</div>
@@ -2651,10 +2651,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2663,7 +2663,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-online-form/#respond">Leave
+										href="punjab-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2674,7 +2674,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-bharti-apply-online/"
+										href="north-eastern-postal-circle-gds-bharti-apply-online/"
 										rel="bookmark">North Eastern Postal Circle GDS Recruitment 2023 Apply 923
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2684,7 +2684,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2698,7 +2698,7 @@
 									Branch Postmaster (ABPM) Vacancies at 923 Posts. &#8230; <a
 										title="North Eastern Postal Circle GDS Recruitment 2023 Apply 923 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-bharti-apply-online/"
+										href="north-eastern-postal-circle-gds-bharti-apply-online/"
 										aria-label="More on North Eastern Postal Circle GDS Recruitment 2023 Apply 923 Post">Read
 										more</a></p>
 							</div>
@@ -2709,10 +2709,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2721,7 +2721,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-bharti-apply-online/#respond">Leave
+										href="north-eastern-postal-circle-gds-bharti-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2732,7 +2732,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment/"
+										href="odisha-postal-circle-gds-recruitment/"
 										rel="bookmark">Odisha Postal Circle GDS Recruitment 2023 Apply Online 1382
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2742,7 +2742,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2756,7 +2756,7 @@
 									Vacancies at 1382 Posts. Candidates who &#8230; <a
 										title="Odisha Postal Circle GDS Recruitment 2023 Apply Online 1382 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment/"
+										href="odisha-postal-circle-gds-recruitment/"
 										aria-label="More on Odisha Postal Circle GDS Recruitment 2023 Apply Online 1382 Post">Read
 										more</a></p>
 							</div>
@@ -2767,10 +2767,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2779,7 +2779,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-recruitment/#comments">1
+										href="odisha-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2790,7 +2790,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-online-form/"
+										href="maharashtra-postal-circle-gds-online-form/"
 										rel="bookmark">Maharashtra Postal Circle GDS Recruitment 2023 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-16T23:55:08+05:30"
@@ -2799,7 +2799,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2813,7 +2813,7 @@
 									Postmaster (ABPM) Vacancies at 2508 Posts. Candidates who &#8230; <a
 										title="Maharashtra Postal Circle GDS Recruitment 2023 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-online-form/"
+										href="maharashtra-postal-circle-gds-online-form/"
 										aria-label="More on Maharashtra Postal Circle GDS Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -2824,10 +2824,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2836,7 +2836,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-online-form/#respond">Leave
+										href="maharashtra-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2847,7 +2847,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs/"
+										href="wb-postal-circle-gds-jobs/"
 										rel="bookmark">WB Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 2127
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2857,7 +2857,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2871,7 +2871,7 @@
 									(ABPM) Vacancies at 2127 Posts. Candidates who &#8230; <a
 										title="WB Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 2127 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs/"
+										href="wb-postal-circle-gds-jobs/"
 										aria-label="More on WB Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 2127 Post">Read
 										more</a></p>
 							</div>
@@ -2882,10 +2882,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2894,7 +2894,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-jobs/#comments">2
+										href="wb-postal-circle-gds-jobs/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2905,7 +2905,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-post-office-gds-online-form/"
+										href="mp-post-office-gds-online-form/"
 										rel="bookmark">MP Postal Circle GDS Recruitment 2023 Apply Now 1841 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2915,7 +2915,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2929,7 +2929,7 @@
 									(ABPM) Vacancies at 1841 Posts. Candidates &#8230; <a
 										title="MP Postal Circle GDS Recruitment 2023 Apply Now 1841 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-post-office-gds-online-form/"
+										href="mp-post-office-gds-online-form/"
 										aria-label="More on MP Postal Circle GDS Recruitment 2023 Apply Now 1841 Post">Read
 										more</a></p>
 							</div>
@@ -2940,10 +2940,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2952,7 +2952,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-post-office-gds-online-form/#respond">Leave
+										href="mp-post-office-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2963,7 +2963,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-recruitment/"
+										href="rajasthan-postal-circle-gds-recruitment/"
 										rel="bookmark">Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 1684
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2973,7 +2973,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2987,7 +2987,7 @@
 									(ABPM) Vacancies at 1684 Posts. Candidates who &#8230; <a
 										title="Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 1684 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-recruitment/"
+										href="rajasthan-postal-circle-gds-recruitment/"
 										aria-label="More on Rajasthan Postal Circle GDS Recruitment 2023 Apply Now 1684 Post">Read
 										more</a></p>
 							</div>
@@ -2998,10 +2998,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3010,7 +3010,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-recruitment/#respond">Leave
+										href="rajasthan-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3021,7 +3021,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-online-form/"
+										href="karnataka-postal-circle-gds-online-form/"
 										rel="bookmark">Karnataka Postal Circle GDS Recruitment 2023 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-16T23:55:08+05:30"
@@ -3030,7 +3030,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3043,7 +3043,7 @@
 									Gramin Dak Sevak (GDS), Branch Postmaster (BPM), and Assistant Branch Postmaster
 									(ABPM) Vacancies at 3036 Posts. Candidates who &#8230; <a
 										title="Karnataka Postal Circle GDS Recruitment 2023 Apply Now" class="read-more"
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-online-form/"
+										href="karnataka-postal-circle-gds-online-form/"
 										aria-label="More on Karnataka Postal Circle GDS Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -3054,10 +3054,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3066,7 +3066,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-online-form/#respond">Leave
+										href="karnataka-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3077,7 +3077,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-jobs-apply/"
+										href="kerala-postal-circle-gds-jobs-apply/"
 										rel="bookmark">Kerala Postal Circle GDS Recruitment 2023 Apply Online 2462
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3087,7 +3087,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3101,7 +3101,7 @@
 									Vacancies at 2462 Posts. Candidates who &#8230; <a
 										title="Kerala Postal Circle GDS Recruitment 2023 Apply Online 2462 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-jobs-apply/"
+										href="kerala-postal-circle-gds-jobs-apply/"
 										aria-label="More on Kerala Postal Circle GDS Recruitment 2023 Apply Online 2462 Post">Read
 										more</a></p>
 							</div>
@@ -3112,10 +3112,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3124,7 +3124,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-jobs-apply/#respond">Leave
+										href="kerala-postal-circle-gds-jobs-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3135,7 +3135,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-postal-circle-gds-recruitment/"
+										href="tn-postal-circle-gds-recruitment/"
 										rel="bookmark">TN Postal Circle GDS Recruitment 2023 » Gramin Dak Sevak 3167
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3145,7 +3145,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3159,7 +3159,7 @@
 									Vacancies at 3167 Posts. Candidates who &#8230; <a
 										title="TN Postal Circle GDS Recruitment 2023 » Gramin Dak Sevak 3167 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tn-postal-circle-gds-recruitment/"
+										href="tn-postal-circle-gds-recruitment/"
 										aria-label="More on TN Postal Circle GDS Recruitment 2023 » Gramin Dak Sevak 3167 Post">Read
 										more</a></p>
 							</div>
@@ -3170,10 +3170,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3182,7 +3182,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-postal-circle-gds-recruitment/#respond">Leave
+										href="tn-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3193,7 +3193,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-jobs/"
+										href="telangana-postal-circle-gds-jobs/"
 										rel="bookmark">Telangana Postal Circle GDS Recruitment 2023 Apply Now 1266
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3203,7 +3203,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3217,7 +3217,7 @@
 									(ABPM) Vacancies at 1266 Posts. Candidates who &#8230; <a
 										title="Telangana Postal Circle GDS Recruitment 2023 Apply Now 1266 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-jobs/"
+										href="telangana-postal-circle-gds-jobs/"
 										aria-label="More on Telangana Postal Circle GDS Recruitment 2023 Apply Now 1266 Post">Read
 										more</a></p>
 							</div>
@@ -3228,10 +3228,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3240,7 +3240,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-jobs/#respond">Leave
+										href="telangana-postal-circle-gds-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3251,7 +3251,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-online-form/"
+										href="jk-postal-circle-gds-online-form/"
 										rel="bookmark">JK Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 300
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3261,7 +3261,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3275,7 +3275,7 @@
 									(ABPM) Vacancies at 300 Posts. Candidates &#8230; <a
 										title="JK Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 300 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-online-form/"
+										href="jk-postal-circle-gds-online-form/"
 										aria-label="More on JK Postal Circle GDS Recruitment 2023 Gramin Dak Sevak 300 Post">Read
 										more</a></p>
 							</div>
@@ -3286,10 +3286,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3298,7 +3298,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-online-form/#respond">Leave
+										href="jk-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3309,7 +3309,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-job/"
+										href="jharkhand-postal-circle-gds-job/"
 										rel="bookmark">Jharkhand Postal Circle GDS Recruitment 2023 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-16T23:55:07+05:30"
@@ -3318,7 +3318,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3331,7 +3331,7 @@
 									Gramin Dak Sevak (GDS), Branch Postmaster (BPM), and Assistant Branch Postmaster
 									(ABPM) Vacancies at 1590 Posts. Candidates who &#8230; <a
 										title="Jharkhand Postal Circle GDS Recruitment 2023 Apply Now" class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-job/"
+										href="jharkhand-postal-circle-gds-job/"
 										aria-label="More on Jharkhand Postal Circle GDS Recruitment 2023 Apply Now">Read
 										more</a></p>
 							</div>
@@ -3342,10 +3342,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3354,7 +3354,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-job/#respond">Leave
+										href="jharkhand-postal-circle-gds-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3365,7 +3365,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-postal-circle-gds-jobs/"
+										href="up-postal-circle-gds-jobs/"
 										rel="bookmark">UP Postal Circle GDS Recruitment 2023 Online Application 7987
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3375,7 +3375,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3389,7 +3389,7 @@
 									Vacancies at 7987 Posts. Candidates who &#8230; <a
 										title="UP Postal Circle GDS Recruitment 2023 Online Application 7987 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-postal-circle-gds-jobs/"
+										href="up-postal-circle-gds-jobs/"
 										aria-label="More on UP Postal Circle GDS Recruitment 2023 Online Application 7987 Post">Read
 										more</a></p>
 							</div>
@@ -3400,10 +3400,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3412,7 +3412,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-postal-circle-gds-jobs/#respond">Leave a
+										href="up-postal-circle-gds-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3423,7 +3423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-vacancy/"
+										href="uttarakhand-postal-circle-gds-vacancy/"
 										rel="bookmark">Uttarakhand Postal Circle GDS Recruitment 2023 Apply Now 889
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3433,7 +3433,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3447,7 +3447,7 @@
 									(ABPM) Vacancies at 889 Posts. Candidates who &#8230; <a
 										title="Uttarakhand Postal Circle GDS Recruitment 2023 Apply Now 889 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-vacancy/"
+										href="uttarakhand-postal-circle-gds-vacancy/"
 										aria-label="More on Uttarakhand Postal Circle GDS Recruitment 2023 Apply Now 889 Post">Read
 										more</a></p>
 							</div>
@@ -3458,10 +3458,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3470,7 +3470,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-vacancy/#respond">Leave
+										href="uttarakhand-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3481,7 +3481,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-job/" rel="bookmark">HP
+										href="hp-postal-circle-gds-job/" rel="bookmark">HP
 										Postal Circle GDS Recruitment 2023 Apply Now 603 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-16T23:55:06+05:30"
@@ -3490,7 +3490,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3503,7 +3503,7 @@
 									Recruitment 2023 of Gramin Dak Sevak (GDS), Branch Postmaster (BPM), and Assistant
 									Branch Postmaster (ABPM) Vacancies at 603 Posts. &#8230; <a
 										title="HP Postal Circle GDS Recruitment 2023 Apply Now 603 Post"
-										class="read-more" href="https://www.sarkariresult.app/hp-postal-circle-gds-job/"
+										class="read-more" href="hp-postal-circle-gds-job/"
 										aria-label="More on HP Postal Circle GDS Recruitment 2023 Apply Now 603 Post">Read
 										more</a></p>
 							</div>
@@ -3514,10 +3514,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3526,7 +3526,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-job/#respond">Leave a
+										href="hp-postal-circle-gds-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3537,7 +3537,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-gds-apply-online/"
+										href="haryana-postal-circle-gds-apply-online/"
 										rel="bookmark">Haryana Postal Circle GDS Recruitment 2023 Apply Now 354 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3547,7 +3547,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3561,7 +3561,7 @@
 									Vacancies at 354 Posts. Candidates who &#8230; <a
 										title="Haryana Postal Circle GDS Recruitment 2023 Apply Now 354 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-postal-circle-gds-apply-online/"
+										href="haryana-postal-circle-gds-apply-online/"
 										aria-label="More on Haryana Postal Circle GDS Recruitment 2023 Apply Now 354 Post">Read
 										more</a></p>
 							</div>
@@ -3572,10 +3572,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3584,7 +3584,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-gds-apply-online/#respond">Leave
+										href="haryana-postal-circle-gds-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3595,7 +3595,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-postal-gds-online-form/"
+										href="delhi-postal-gds-online-form/"
 										rel="bookmark">Delhi Postal Circle GDS Recruitment 2023 Apply Online 46 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3605,7 +3605,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3619,7 +3619,7 @@
 									Vacancies at 46 Posts. Candidates who &#8230; <a
 										title="Delhi Postal Circle GDS Recruitment 2023 Apply Online 46 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-postal-gds-online-form/"
+										href="delhi-postal-gds-online-form/"
 										aria-label="More on Delhi Postal Circle GDS Recruitment 2023 Apply Online 46 Post">Read
 										more</a></p>
 							</div>
@@ -3630,10 +3630,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3642,7 +3642,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-postal-gds-online-form/#respond">Leave
+										href="delhi-postal-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3653,7 +3653,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-apply-online/"
+										href="gujarat-postal-circle-gds-apply-online/"
 										rel="bookmark">Gujarat Postal Circle GDS Recruitment 2023 Apply Now 2017
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3663,7 +3663,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3677,7 +3677,7 @@
 									Vacancies at 2017 Posts. Candidates who &#8230; <a
 										title="Gujarat Postal Circle GDS Recruitment 2023 Apply Now 2017 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-apply-online/"
+										href="gujarat-postal-circle-gds-apply-online/"
 										aria-label="More on Gujarat Postal Circle GDS Recruitment 2023 Apply Now 2017 Post">Read
 										more</a></p>
 							</div>
@@ -3688,10 +3688,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3700,7 +3700,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-apply-online/#respond">Leave
+										href="gujarat-postal-circle-gds-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3711,7 +3711,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-postal-circle-gds-online-form/"
+										href="cg-postal-circle-gds-online-form/"
 										rel="bookmark">Chattisgarh Postal Circle GDS Recruitment 2023 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -3721,7 +3721,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3735,7 +3735,7 @@
 									(ABPM) Vacancies at 1593 Posts. Candidates who &#8230; <a
 										title="Chattisgarh Postal Circle GDS Recruitment 2023 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/cg-postal-circle-gds-online-form/"
+										href="cg-postal-circle-gds-online-form/"
 										aria-label="More on Chattisgarh Postal Circle GDS Recruitment 2023 Apply Online">Read
 										more</a></p>
 							</div>
@@ -3746,10 +3746,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3758,7 +3758,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-postal-circle-gds-online-form/#respond">Leave
+										href="cg-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3769,7 +3769,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-apply-online/"
+										href="bihar-postal-circle-gds-apply-online/"
 										rel="bookmark">Bihar Postal Circle GDS Recruitment 2023 Apply Now 1461 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3779,7 +3779,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3793,7 +3793,7 @@
 									Vacancies at 1461 Posts. Candidates who are &#8230; <a
 										title="Bihar Postal Circle GDS Recruitment 2023 Apply Now 1461 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-apply-online/"
+										href="bihar-postal-circle-gds-apply-online/"
 										aria-label="More on Bihar Postal Circle GDS Recruitment 2023 Apply Now 1461 Post">Read
 										more</a></p>
 							</div>
@@ -3804,10 +3804,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3816,7 +3816,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-apply-online/#respond">Leave
+										href="bihar-postal-circle-gds-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3827,7 +3827,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-post-gds-recruitment/"
+										href="assam-post-gds-recruitment/"
 										rel="bookmark">Assam Postal Circle GDS Recruitment 2023 Apply Online 407
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3837,7 +3837,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3851,7 +3851,7 @@
 									Vacancies at 407 Posts. Candidates who &#8230; <a
 										title="Assam Postal Circle GDS Recruitment 2023 Apply Online 407 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-post-gds-recruitment/"
+										href="assam-post-gds-recruitment/"
 										aria-label="More on Assam Postal Circle GDS Recruitment 2023 Apply Online 407 Post">Read
 										more</a></p>
 							</div>
@@ -3862,10 +3862,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3874,7 +3874,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-post-gds-recruitment/#respond">Leave a
+										href="assam-post-gds-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3885,7 +3885,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-post-office-gds-recruitment/"
+										href="ap-post-office-gds-recruitment/"
 										rel="bookmark">AP Postal Circle GDS Recruitment 2023 Apply Online 2480 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3895,7 +3895,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3909,7 +3909,7 @@
 									(ABPM) Vacancies at 2480 Posts. Candidates who are &#8230; <a
 										title="AP Postal Circle GDS Recruitment 2023 Apply Online 2480 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-post-office-gds-recruitment/"
+										href="ap-post-office-gds-recruitment/"
 										aria-label="More on AP Postal Circle GDS Recruitment 2023 Apply Online 2480 Post">Read
 										more</a></p>
 							</div>
@@ -3920,10 +3920,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3932,7 +3932,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-post-office-gds-recruitment/#respond">Leave
+										href="ap-post-office-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3943,7 +3943,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/india-post-gds-online-form/"
+										href="india-post-gds-online-form/"
 										rel="bookmark">India Post GDS Recruitment 2023 Apply Gramin Dak Sevak 40889
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3953,7 +3953,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3967,7 +3967,7 @@
 									Vacancies at 40889 Posts. Candidates who &#8230; <a
 										title="India Post GDS Recruitment 2023 Apply Gramin Dak Sevak 40889 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/india-post-gds-online-form/"
+										href="india-post-gds-online-form/"
 										aria-label="More on India Post GDS Recruitment 2023 Apply Gramin Dak Sevak 40889 Post">Read
 										more</a></p>
 							</div>
@@ -3978,10 +3978,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3990,7 +3990,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/india-post-gds-online-form/#respond">Leave a
+										href="india-post-gds-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4001,7 +4001,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-chennai-jobs/"
+										href="mail-motor-service-chennai-jobs/"
 										rel="bookmark">Mail Motor Service Chennai Recruitment 2023 Skilled Artisan 07
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4010,7 +4010,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4024,7 +4024,7 @@
 									can download the application form through &#8230; <a
 										title="Mail Motor Service Chennai Recruitment 2023 Skilled Artisan 07 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-chennai-jobs/"
+										href="mail-motor-service-chennai-jobs/"
 										aria-label="More on Mail Motor Service Chennai Recruitment 2023 Skilled Artisan 07 Post">Read
 										more</a></p>
 							</div>
@@ -4035,10 +4035,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4047,7 +4047,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-chennai-jobs/#comments">2
+										href="mail-motor-service-chennai-jobs/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4058,7 +4058,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-manager-jobs/" rel="bookmark">IPPB
+										href="ippb-manager-jobs/" rel="bookmark">IPPB
 										Manager Recruitment 2022 Apply Online Asst Manager 41 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4066,7 +4066,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4080,7 +4080,7 @@
 									recruitment 2022 of Manager, Senior Manager, Chief Manager, Assistant General
 									Manager, Deputy General &#8230; <a
 										title="IPPB Manager Recruitment 2022 Apply Online Asst Manager 41 Post"
-										class="read-more" href="https://www.sarkariresult.app/ippb-manager-jobs/"
+										class="read-more" href="ippb-manager-jobs/"
 										aria-label="More on IPPB Manager Recruitment 2022 Apply Online Asst Manager 41 Post">Read
 										more</a></p>
 							</div>
@@ -4091,12 +4091,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/banking-jobs/" rel="category tag">Bank
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="banking-jobs/" rel="category tag">Bank
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4105,7 +4105,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ippb-manager-jobs/#comments">1
+										href="ippb-manager-jobs/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4116,7 +4116,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-sports-quota-recruitment/"
+										href="gujarat-postal-circle-sports-quota-recruitment/"
 										rel="bookmark">Gujarat Postal Circle Sports Quota Recruitment 2022 Apply 188
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4126,7 +4126,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4140,7 +4140,7 @@
 									188 posts. Candidates who are interested in &#8230; <a
 										title="Gujarat Postal Circle Sports Quota Recruitment 2022 Apply 188 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-postal-circle-sports-quota-recruitment/"
+										href="gujarat-postal-circle-sports-quota-recruitment/"
 										aria-label="More on Gujarat Postal Circle Sports Quota Recruitment 2022 Apply 188 Post">Read
 										more</a></p>
 							</div>
@@ -4151,10 +4151,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4163,7 +4163,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-sports-quota-recruitment/#comments">1
+										href="gujarat-postal-circle-sports-quota-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4174,7 +4174,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-madurai-recruitment/"
+										href="mail-motor-service-madurai-recruitment/"
 										rel="bookmark">Mail Motor Service Madurai Recruitment 2022 Skilled Artisan
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4184,7 +4184,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4198,7 +4198,7 @@
 									Vacancy at 07 Posts. Candidates who are interested in the Mail Motor &#8230; <a
 										title="Mail Motor Service Madurai Recruitment 2022 Skilled Artisan Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-madurai-recruitment/"
+										href="mail-motor-service-madurai-recruitment/"
 										aria-label="More on Mail Motor Service Madurai Recruitment 2022 Skilled Artisan Post">Read
 										more</a></p>
 							</div>
@@ -4209,10 +4209,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4221,7 +4221,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-madurai-recruitment/#comments">2
+										href="mail-motor-service-madurai-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4232,7 +4232,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-chennai-recruitment/"
+										href="mail-motor-service-chennai-recruitment/"
 										rel="bookmark">Mail Motor Service Chennai Recruitment 2022 Skilled Artisan
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4241,7 +4241,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4255,7 +4255,7 @@
 									Vacancy at 05 Posts. Candidates who are interested in the Mail Motor &#8230; <a
 										title="Mail Motor Service Chennai Recruitment 2022 Skilled Artisan Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-chennai-recruitment/"
+										href="mail-motor-service-chennai-recruitment/"
 										aria-label="More on Mail Motor Service Chennai Recruitment 2022 Skilled Artisan Post">Read
 										more</a></p>
 							</div>
@@ -4266,10 +4266,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4278,7 +4278,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-chennai-recruitment/#respond">Leave
+										href="mail-motor-service-chennai-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4289,7 +4289,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ippb-manager-recruitment/"
+										href="ippb-manager-recruitment/"
 										rel="bookmark">IPPB Manager Recruitment 2022 Online Application AGM, DGM 13
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4299,7 +4299,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4313,7 +4313,7 @@
 									recruitment 2022 of Manager, Senior Manager, Chief Manager, Assistant General
 									Manager, Deputy General &#8230; <a
 										title="IPPB Manager Recruitment 2022 Online Application AGM, DGM 13 Post"
-										class="read-more" href="https://www.sarkariresult.app/ippb-manager-recruitment/"
+										class="read-more" href="ippb-manager-recruitment/"
 										aria-label="More on IPPB Manager Recruitment 2022 Online Application AGM, DGM 13 Post">Read
 										more</a></p>
 							</div>
@@ -4324,10 +4324,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4336,7 +4336,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ippb-manager-recruitment/#respond">Leave a
+										href="ippb-manager-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4347,7 +4347,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-vacancy/"
+										href="mail-motor-service-bengaluru-vacancy/"
 										rel="bookmark">Mail Motor Service Bengaluru Recruitment 2022 Driver 19 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4356,7 +4356,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4370,7 +4370,7 @@
 									apply offline &#8230; <a
 										title="Mail Motor Service Bengaluru Recruitment 2022 Driver 19 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-vacancy/"
+										href="mail-motor-service-bengaluru-vacancy/"
 										aria-label="More on Mail Motor Service Bengaluru Recruitment 2022 Driver 19 Posts">Read
 										more</a></p>
 							</div>
@@ -4381,10 +4381,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4393,7 +4393,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-vacancy/#respond">Leave
+										href="mail-motor-service-bengaluru-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4404,7 +4404,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-recruitment/"
+										href="karnataka-postal-circle-recruitment/"
 										rel="bookmark">Karnataka Postal Circle Recruitment 2022 Postman, MTS, Guard
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4414,7 +4414,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4428,7 +4428,7 @@
 									Bharti can Apply through the official website from 15 &#8230; <a
 										title="Karnataka Postal Circle Recruitment 2022 Postman, MTS, Guard Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-postal-circle-recruitment/"
+										href="karnataka-postal-circle-recruitment/"
 										aria-label="More on Karnataka Postal Circle Recruitment 2022 Postman, MTS, Guard Post">Read
 										more</a></p>
 							</div>
@@ -4439,10 +4439,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4451,7 +4451,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-recruitment/#comments">1
+										href="karnataka-postal-circle-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4462,7 +4462,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tamilnadu-postal-circle-jobs/"
+										href="tamilnadu-postal-circle-jobs/"
 										rel="bookmark">TN Postal Circle Recruitment 2022 Postman, Guard, MTS 100
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4472,7 +4472,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4486,7 +4486,7 @@
 									Recruitment 2022 apply online to &#8230; <a
 										title="TN Postal Circle Recruitment 2022 Postman, Guard, MTS 100 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tamilnadu-postal-circle-jobs/"
+										href="tamilnadu-postal-circle-jobs/"
 										aria-label="More on TN Postal Circle Recruitment 2022 Postman, Guard, MTS 100 Post">Read
 										more</a></p>
 							</div>
@@ -4497,10 +4497,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4509,7 +4509,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tamilnadu-postal-circle-jobs/#respond">Leave
+										href="tamilnadu-postal-circle-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4520,7 +4520,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-pune-recruitment/"
+										href="mail-motor-service-pune-recruitment/"
 										rel="bookmark">Mail Motor Service Pune Recruitment 2022 Skilled Artisan
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -4530,7 +4530,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4544,7 +4544,7 @@
 									Skilled Artisan Recruitment 2022 can apply &#8230; <a
 										title="Mail Motor Service Pune Recruitment 2022 Skilled Artisan Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-pune-recruitment/"
+										href="mail-motor-service-pune-recruitment/"
 										aria-label="More on Mail Motor Service Pune Recruitment 2022 Skilled Artisan Posts">Read
 										more</a></p>
 							</div>
@@ -4555,10 +4555,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4567,7 +4567,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-pune-recruitment/#comments">3
+										href="mail-motor-service-pune-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4578,7 +4578,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-tn-recruitment/"
+										href="mail-motor-service-tn-recruitment/"
 										rel="bookmark">Mail Motor Service TN Recruitment 2022 Apply Now Driver 24
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4588,7 +4588,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4602,7 +4602,7 @@
 									Recruitment 2022 can &#8230; <a
 										title="Mail Motor Service TN Recruitment 2022 Apply Now Driver 24 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-tn-recruitment/"
+										href="mail-motor-service-tn-recruitment/"
 										aria-label="More on Mail Motor Service TN Recruitment 2022 Apply Now Driver 24 Post">Read
 										more</a></p>
 							</div>
@@ -4613,10 +4613,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4625,7 +4625,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-tn-recruitment/#respond">Leave
+										href="mail-motor-service-tn-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4636,7 +4636,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-postal-circle-bharti/"
+										href="assam-postal-circle-bharti/"
 										rel="bookmark">Assam Postal Circle Recruitment 2022 Asst, Postman, MTS 17
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4646,7 +4646,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4660,7 +4660,7 @@
 									candidates who are &#8230; <a
 										title="Assam Postal Circle Recruitment 2022 Asst, Postman, MTS 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-postal-circle-bharti/"
+										href="assam-postal-circle-bharti/"
 										aria-label="More on Assam Postal Circle Recruitment 2022 Asst, Postman, MTS 17 Post">Read
 										more</a></p>
 							</div>
@@ -4671,10 +4671,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4683,7 +4683,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-postal-circle-bharti/#comments">2
+										href="assam-postal-circle-bharti/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4694,7 +4694,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/postal-circle/" rel="bookmark">Post Office
+										href="postal-circle/" rel="bookmark">Post Office
 										Recruitment 2023 Apply Online Postal Circle Jobs</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -4702,7 +4702,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4722,8 +4722,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4731,7 +4731,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/postal-circle/#comments">8
+										</svg></span><a href="postal-circle/#comments">8
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4742,7 +4742,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-raipur/"
+										href="mail-motor-service-raipur/"
 										rel="bookmark">Mail Motor Service Raipur Recruitment 2022 Apply Now Driver
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4752,7 +4752,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4766,7 +4766,7 @@
 									official website from 10 &#8230; <a
 										title="Mail Motor Service Raipur Recruitment 2022 Apply Now Driver Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-raipur/"
+										href="mail-motor-service-raipur/"
 										aria-label="More on Mail Motor Service Raipur Recruitment 2022 Apply Now Driver Post">Read
 										more</a></p>
 							</div>
@@ -4777,10 +4777,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4789,7 +4789,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-raipur/#comments">2
+										href="mail-motor-service-raipur/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4800,7 +4800,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-vacancy/"
+										href="mail-motor-service-mumbai-vacancy/"
 										rel="bookmark">Mail Motor Service Mumbai Recruitment 2022 Apply Driver 17
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4810,7 +4810,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4824,7 +4824,7 @@
 									apply offline &#8230; <a
 										title="Mail Motor Service Mumbai Recruitment 2022 Apply Driver 17 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-vacancy/"
+										href="mail-motor-service-mumbai-vacancy/"
 										aria-label="More on Mail Motor Service Mumbai Recruitment 2022 Apply Driver 17 Post">Read
 										more</a></p>
 							</div>
@@ -4835,10 +4835,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4847,7 +4847,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-vacancy/#comments">6
+										href="mail-motor-service-mumbai-vacancy/#comments">6
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4858,7 +4858,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-ambala-recruitment/"
+										href="mail-motor-service-ambala-recruitment/"
 										rel="bookmark">Mail Motor Service Ambala Recruitment 2022 Apply Now Driver
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4868,7 +4868,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4882,7 +4882,7 @@
 									apply &#8230; <a
 										title="Mail Motor Service Ambala Recruitment 2022 Apply Now Driver Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-ambala-recruitment/"
+										href="mail-motor-service-ambala-recruitment/"
 										aria-label="More on Mail Motor Service Ambala Recruitment 2022 Apply Now Driver Post">Read
 										more</a></p>
 							</div>
@@ -4893,10 +4893,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4905,7 +4905,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-ambala-recruitment/#respond">Leave
+										href="mail-motor-service-ambala-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4916,7 +4916,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/india-post-gds-result-2022-state-wise-link/"
+										href="india-post-gds-result-2022-state-wise-link/"
 										rel="bookmark">India Post GDS Result 2022 State Wise Link for Gramin Dak Sevak
 										38926 Post</a></h2>
 								<div class="entry-meta">
@@ -4925,7 +4925,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4939,7 +4939,7 @@
 									website indiapostgdsonline.gov.in. &#8230; <a
 										title="India Post GDS Result 2022 State Wise Link for Gramin Dak Sevak 38926 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/india-post-gds-result-2022-state-wise-link/"
+										href="india-post-gds-result-2022-state-wise-link/"
 										aria-label="More on India Post GDS Result 2022 State Wise Link for Gramin Dak Sevak 38926 Post">Read
 										more</a></p>
 							</div>
@@ -4950,10 +4950,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/post-office/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="post-office/"
 										rel="category tag">Postal Circle</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4962,7 +4962,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/india-post-gds-result-2022-state-wise-link/#comments">2
+										href="india-post-gds-result-2022-state-wise-link/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4973,7 +4973,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-online-form/"
+										href="north-eastern-postal-circle-gds-online-form/"
 										rel="bookmark">North Eastern Postal Circle GDS Recruitment 2022 Apply 385
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4983,7 +4983,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4997,7 +4997,7 @@
 									ABPM/ Dak Sevak &#8230; <a
 										title="North Eastern Postal Circle GDS Recruitment 2022 Apply 385 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-online-form/"
+										href="north-eastern-postal-circle-gds-online-form/"
 										aria-label="More on North Eastern Postal Circle GDS Recruitment 2022 Apply 385 Post">Read
 										more</a></p>
 							</div>
@@ -5008,10 +5008,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5020,7 +5020,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-gds-online-form/#respond">Leave
+										href="north-eastern-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5031,7 +5031,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-postal-circle-gds-online-form/"
+										href="tn-postal-circle-gds-online-form/"
 										rel="bookmark">TN Postal Circle GDS Recruitment 2022 Gramin Dak Sevak 4310
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5041,7 +5041,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5055,7 +5055,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="TN Postal Circle GDS Recruitment 2022 Gramin Dak Sevak 4310 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tn-postal-circle-gds-online-form/"
+										href="tn-postal-circle-gds-online-form/"
 										aria-label="More on TN Postal Circle GDS Recruitment 2022 Gramin Dak Sevak 4310 Post">Read
 										more</a></p>
 							</div>
@@ -5066,10 +5066,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5078,7 +5078,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-postal-circle-gds-online-form/#respond">Leave
+										href="tn-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5089,7 +5089,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-vacancy/"
+										href="bihar-postal-circle-gds-vacancy/"
 										rel="bookmark">Bihar Postal Circle GDS Recruitment 2022 Apply Online 990
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5099,7 +5099,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5113,7 +5113,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="Bihar Postal Circle GDS Recruitment 2022 Apply Online 990 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-vacancy/"
+										href="bihar-postal-circle-gds-vacancy/"
 										aria-label="More on Bihar Postal Circle GDS Recruitment 2022 Apply Online 990 Post">Read
 										more</a></p>
 							</div>
@@ -5124,10 +5124,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5136,7 +5136,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-vacancy/#respond">Leave
+										href="bihar-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5147,7 +5147,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-vacancy/"
+										href="jk-postal-circle-gds-vacancy/"
 										rel="bookmark">JK Postal Circle GDS Recruitment 2022 Apply Now 265 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-05T23:55:05+05:30"
@@ -5156,7 +5156,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5170,7 +5170,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="JK Postal Circle GDS Recruitment 2022 Apply Now 265 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-vacancy/"
+										href="jk-postal-circle-gds-vacancy/"
 										aria-label="More on JK Postal Circle GDS Recruitment 2022 Apply Now 265 Post">Read
 										more</a></p>
 							</div>
@@ -5181,10 +5181,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5193,7 +5193,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-vacancy/#respond">Leave
+										href="jk-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5204,7 +5204,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-vacancy/"
+										href="maharashtra-postal-circle-gds-vacancy/"
 										rel="bookmark">Maharashtra Postal Circle GDS Recruitment 2022 Apply 3026
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -5214,7 +5214,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5228,7 +5228,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Maharashtra Postal Circle GDS Recruitment 2022 Apply 3026 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-vacancy/"
+										href="maharashtra-postal-circle-gds-vacancy/"
 										aria-label="More on Maharashtra Postal Circle GDS Recruitment 2022 Apply 3026 Posts">Read
 										more</a></p>
 							</div>
@@ -5239,10 +5239,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5251,7 +5251,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-vacancy/#respond">Leave
+										href="maharashtra-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5262,7 +5262,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-vacancy/"
+										href="punjab-postal-circle-gds-vacancy/"
 										rel="bookmark">Punjab Postal Circle GDS Recruitment 2022 Apply Now 969 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5272,7 +5272,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5286,7 +5286,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="Punjab Postal Circle GDS Recruitment 2022 Apply Now 969 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-vacancy/"
+										href="punjab-postal-circle-gds-vacancy/"
 										aria-label="More on Punjab Postal Circle GDS Recruitment 2022 Apply Now 969 Posts">Read
 										more</a></p>
 							</div>
@@ -5297,10 +5297,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5309,7 +5309,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-vacancy/#respond">Leave
+										href="punjab-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5320,7 +5320,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chattisgarh-postal-circle-gds-online-form/"
+										href="chattisgarh-postal-circle-gds-online-form/"
 										rel="bookmark">Chhattisgarh Postal Circle GDS Recruitment 2022 Apply Now 1253
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5330,7 +5330,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5344,7 +5344,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Chhattisgarh Postal Circle GDS Recruitment 2022 Apply Now 1253 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chattisgarh-postal-circle-gds-online-form/"
+										href="chattisgarh-postal-circle-gds-online-form/"
 										aria-label="More on Chhattisgarh Postal Circle GDS Recruitment 2022 Apply Now 1253 Post">Read
 										more</a></p>
 							</div>
@@ -5355,10 +5355,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5367,7 +5367,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chattisgarh-postal-circle-gds-online-form/#respond">Leave
+										href="chattisgarh-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5378,7 +5378,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-online-form/"
+										href="jharkhand-postal-circle-gds-online-form/"
 										rel="bookmark">Jharkhand Postal Circle GDS Recruitment 2022 Apply Now 610
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5388,7 +5388,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5402,7 +5402,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Jharkhand Postal Circle GDS Recruitment 2022 Apply Now 610 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-online-form/"
+										href="jharkhand-postal-circle-gds-online-form/"
 										aria-label="More on Jharkhand Postal Circle GDS Recruitment 2022 Apply Now 610 Post">Read
 										more</a></p>
 							</div>
@@ -5413,10 +5413,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5425,7 +5425,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-online-form/#respond">Leave
+										href="jharkhand-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5436,7 +5436,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-jobs/"
+										href="uttarakhand-postal-circle-gds-jobs/"
 										rel="bookmark">Uttarakhand Postal Circle GDS Recruitment 2022 Apply Now 353
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5446,7 +5446,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5460,7 +5460,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Uttarakhand Postal Circle GDS Recruitment 2022 Apply Now 353 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-jobs/"
+										href="uttarakhand-postal-circle-gds-jobs/"
 										aria-label="More on Uttarakhand Postal Circle GDS Recruitment 2022 Apply Now 353 Post">Read
 										more</a></p>
 							</div>
@@ -5471,10 +5471,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5483,7 +5483,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-jobs/#respond">Leave
+										href="uttarakhand-postal-circle-gds-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5494,7 +5494,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-online-form/"
+										href="rajasthan-postal-circle-gds-online-form/"
 										rel="bookmark">Rajasthan Postal Circle GDS Recruitment 2022 Apply Now 2390
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5504,7 +5504,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5518,7 +5518,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Rajasthan Postal Circle GDS Recruitment 2022 Apply Now 2390 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-online-form/"
+										href="rajasthan-postal-circle-gds-online-form/"
 										aria-label="More on Rajasthan Postal Circle GDS Recruitment 2022 Apply Now 2390 Post">Read
 										more</a></p>
 							</div>
@@ -5529,10 +5529,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5541,7 +5541,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-gds-online-form/#respond">Leave
+										href="rajasthan-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5552,7 +5552,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-gds-vacancy/"
+										href="delhi-postal-circle-gds-vacancy/"
 										rel="bookmark">Delhi Postal Circle GDS Recruitment 2022 Apply Online 60 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5562,7 +5562,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5576,7 +5576,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="Delhi Postal Circle GDS Recruitment 2022 Apply Online 60 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-postal-circle-gds-vacancy/"
+										href="delhi-postal-circle-gds-vacancy/"
 										aria-label="More on Delhi Postal Circle GDS Recruitment 2022 Apply Online 60 Post">Read
 										more</a></p>
 							</div>
@@ -5587,10 +5587,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5599,7 +5599,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-gds-vacancy/#comments">1
+										href="delhi-postal-circle-gds-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5610,7 +5610,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-online-form/"
+										href="telangana-postal-circle-gds-online-form/"
 										rel="bookmark">Telangana Postal Circle GDS Recruitment 2022 Apply Now 1226
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5620,7 +5620,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5634,7 +5634,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Telangana Postal Circle GDS Recruitment 2022 Apply Now 1226 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-online-form/"
+										href="telangana-postal-circle-gds-online-form/"
 										aria-label="More on Telangana Postal Circle GDS Recruitment 2022 Apply Now 1226 Post">Read
 										more</a></p>
 							</div>
@@ -5645,10 +5645,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5657,7 +5657,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-online-form/#respond">Leave
+										href="telangana-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5668,7 +5668,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-online-form/"
+										href="gujarat-postal-circle-gds-online-form/"
 										rel="bookmark">Gujarat Postal Circle GDS Recruitment 2022 Apply Online 1901
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5678,7 +5678,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5692,7 +5692,7 @@
 									Dak Sevak Vacancy at &#8230; <a
 										title="Gujarat Postal Circle GDS Recruitment 2022 Apply Online 1901 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-online-form/"
+										href="gujarat-postal-circle-gds-online-form/"
 										aria-label="More on Gujarat Postal Circle GDS Recruitment 2022 Apply Online 1901 Post">Read
 										more</a></p>
 							</div>
@@ -5703,10 +5703,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5715,7 +5715,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-online-form/#respond">Leave
+										href="gujarat-postal-circle-gds-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5726,7 +5726,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-vacancy/"
+										href="kerala-postal-circle-gds-vacancy/"
 										rel="bookmark">Kerala Postal Circle GDS Recruitment 2022 Apply Now 2203 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5736,7 +5736,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5750,7 +5750,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="Kerala Postal Circle GDS Recruitment 2022 Apply Now 2203 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-vacancy/"
+										href="kerala-postal-circle-gds-vacancy/"
 										aria-label="More on Kerala Postal Circle GDS Recruitment 2022 Apply Now 2203 Post">Read
 										more</a></p>
 							</div>
@@ -5761,10 +5761,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5773,7 +5773,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-vacancy/#respond">Leave
+										href="kerala-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5784,7 +5784,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-postal-circle-gds-vacancy/"
+										href="up-postal-circle-gds-vacancy/"
 										rel="bookmark">UP Postal Circle GDS Recruitment 2022 Apply Now 2519 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5794,7 +5794,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5808,7 +5808,7 @@
 									Sevak Vacancy &#8230; <a
 										title="UP Postal Circle GDS Recruitment 2022 Apply Now 2519 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-postal-circle-gds-vacancy/"
+										href="up-postal-circle-gds-vacancy/"
 										aria-label="More on UP Postal Circle GDS Recruitment 2022 Apply Now 2519 Post">Read
 										more</a></p>
 							</div>
@@ -5819,10 +5819,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5831,7 +5831,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-postal-circle-gds-vacancy/#respond">Leave
+										href="up-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5842,7 +5842,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-jobs/"
+										href="odisha-postal-circle-gds-jobs/"
 										rel="bookmark">Odisha Postal Circle GDS Recruitment 2022 Apply Now 3066 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5852,7 +5852,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5866,7 +5866,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="Odisha Postal Circle GDS Recruitment 2022 Apply Now 3066 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-jobs/"
+										href="odisha-postal-circle-gds-jobs/"
 										aria-label="More on Odisha Postal Circle GDS Recruitment 2022 Apply Now 3066 Post">Read
 										more</a></p>
 							</div>
@@ -5877,10 +5877,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5889,7 +5889,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-gds-jobs/#respond">Leave
+										href="odisha-postal-circle-gds-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5900,7 +5900,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-recruitment/"
+										href="hp-postal-circle-gds-recruitment/"
 										rel="bookmark">HP Postal Circle GDS Recruitment 2022 Apply Now 1007 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5910,7 +5910,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5924,7 +5924,7 @@
 									as BPM/ ABPM/ Dak Sevak &#8230; <a
 										title="HP Postal Circle GDS Recruitment 2022 Apply Now 1007 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-recruitment/"
+										href="hp-postal-circle-gds-recruitment/"
 										aria-label="More on HP Postal Circle GDS Recruitment 2022 Apply Now 1007 Post">Read
 										more</a></p>
 							</div>
@@ -5935,10 +5935,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5947,7 +5947,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-postal-circle-gds-recruitment/#respond">Leave
+										href="hp-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5958,7 +5958,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-online-form/"
+										href="wb-postal-circle-gds-online-form/"
 										rel="bookmark">WB Postal Circle GDS Recruitment 2022 Apply Online 1963 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5968,7 +5968,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5982,7 +5982,7 @@
 									Sevak Vacancy &#8230; <a
 										title="WB Postal Circle GDS Recruitment 2022 Apply Online 1963 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-online-form/"
+										href="wb-postal-circle-gds-online-form/"
 										aria-label="More on WB Postal Circle GDS Recruitment 2022 Apply Online 1963 Posts">Read
 										more</a></p>
 							</div>
@@ -5993,10 +5993,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6005,7 +6005,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-online-form/#comments">1
+										href="wb-postal-circle-gds-online-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6016,7 +6016,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-vacancy/"
+										href="karnataka-postal-circle-gds-vacancy/"
 										rel="bookmark">Karnataka Postal Circle GDS Recruitment 2022 Apply Now 2410
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6026,7 +6026,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6040,7 +6040,7 @@
 									ABPM/ Dak Sevak Vacancy at &#8230; <a
 										title="Karnataka Postal Circle GDS Recruitment 2022 Apply Now 2410 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-vacancy/"
+										href="karnataka-postal-circle-gds-vacancy/"
 										aria-label="More on Karnataka Postal Circle GDS Recruitment 2022 Apply Now 2410 Post">Read
 										more</a></p>
 							</div>
@@ -6051,10 +6051,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6063,7 +6063,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-vacancy/#respond">Leave
+										href="karnataka-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6074,7 +6074,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-postal-circle-gds-recruitment/"
+										href="assam-postal-circle-gds-recruitment/"
 										rel="bookmark">Assam Postal Circle GDS Recruitment 2022 Apply Online 1143
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6084,7 +6084,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6098,7 +6098,7 @@
 									Sevak Vacancy at &#8230; <a
 										title="Assam Postal Circle GDS Recruitment 2022 Apply Online 1143 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-postal-circle-gds-recruitment/"
+										href="assam-postal-circle-gds-recruitment/"
 										aria-label="More on Assam Postal Circle GDS Recruitment 2022 Apply Online 1143 Post">Read
 										more</a></p>
 							</div>
@@ -6109,10 +6109,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6121,7 +6121,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-postal-circle-gds-recruitment/#respond">Leave
+										href="assam-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6132,7 +6132,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-postal-circle-gds-recruitment/"
+										href="mp-postal-circle-gds-recruitment/"
 										rel="bookmark">MP Postal Circle GDS Recruitment 2022 Apply Now 4047 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6142,7 +6142,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6156,7 +6156,7 @@
 									Sevak Vacancy &#8230; <a
 										title="MP Postal Circle GDS Recruitment 2022 Apply Now 4047 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-postal-circle-gds-recruitment/"
+										href="mp-postal-circle-gds-recruitment/"
 										aria-label="More on MP Postal Circle GDS Recruitment 2022 Apply Now 4047 Post">Read
 										more</a></p>
 							</div>
@@ -6167,10 +6167,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6179,7 +6179,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-postal-circle-gds-recruitment/#respond">Leave
+										href="mp-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6190,7 +6190,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/india-post-gds-recruitment/"
+										href="india-post-gds-recruitment/"
 										rel="bookmark">India Post GDS Recruitment 2022 » Gramin Dak Sevak 38926 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6200,7 +6200,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6214,7 +6214,7 @@
 									(BPM), Assistant Branch &#8230; <a
 										title="India Post GDS Recruitment 2022 » Gramin Dak Sevak 38926 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/india-post-gds-recruitment/"
+										href="india-post-gds-recruitment/"
 										aria-label="More on India Post GDS Recruitment 2022 » Gramin Dak Sevak 38926 Post">Read
 										more</a></p>
 							</div>
@@ -6225,10 +6225,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6237,7 +6237,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/india-post-gds-recruitment/#comments">1
+										href="india-post-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6248,7 +6248,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mumbai-postal-circle-vacancy/"
+										href="mumbai-postal-circle-vacancy/"
 										rel="bookmark">Mumbai Postal Circle Recruitment 2022 Skilled Artisan 09 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6258,7 +6258,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6272,7 +6272,7 @@
 									official website Mumbai Postal Circle &#8230; <a
 										title="Mumbai Postal Circle Recruitment 2022 Skilled Artisan 09 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mumbai-postal-circle-vacancy/"
+										href="mumbai-postal-circle-vacancy/"
 										aria-label="More on Mumbai Postal Circle Recruitment 2022 Skilled Artisan 09 Post">Read
 										more</a></p>
 							</div>
@@ -6283,10 +6283,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6295,7 +6295,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mumbai-postal-circle-vacancy/#comments">1
+										href="mumbai-postal-circle-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6306,7 +6306,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-kolkata-vacancy/"
+										href="mail-motor-service-kolkata-vacancy/"
 										rel="bookmark">Mail Motor Service Kolkata Recruitment 2022 Apply Driver 28
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6315,7 +6315,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6329,7 +6329,7 @@
 									can apply offline &#8230; <a
 										title="Mail Motor Service Kolkata Recruitment 2022 Apply Driver 28 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-kolkata-vacancy/"
+										href="mail-motor-service-kolkata-vacancy/"
 										aria-label="More on Mail Motor Service Kolkata Recruitment 2022 Apply Driver 28 Post">Read
 										more</a></p>
 							</div>
@@ -6340,10 +6340,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6352,7 +6352,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-kolkata-vacancy/#respond">Leave
+										href="mail-motor-service-kolkata-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6363,7 +6363,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-vacancy/" rel="bookmark">WB
+										href="wb-postal-circle-vacancy/" rel="bookmark">WB
 										Postal Circle Recruitment 2021 Postman, Postal Asst 124 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-12-24T23:55:01+05:30"
@@ -6372,7 +6372,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6385,7 +6385,7 @@
 									Postman Vacancy at 124 posts. Those candidates who are interested in West Bengal
 									Circle Sports Quota Vacancy 2021 &#8230; <a
 										title="WB Postal Circle Recruitment 2021 Postman, Postal Asst 124 Posts"
-										class="read-more" href="https://www.sarkariresult.app/wb-postal-circle-vacancy/"
+										class="read-more" href="wb-postal-circle-vacancy/"
 										aria-label="More on WB Postal Circle Recruitment 2021 Postman, Postal Asst 124 Posts">Read
 										more</a></p>
 							</div>
@@ -6396,10 +6396,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6408,7 +6408,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-vacancy/#comments">2
+										href="wb-postal-circle-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6419,7 +6419,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-apply/"
+										href="uttarakhand-postal-circle-apply/"
 										rel="bookmark">Uttarakhand Postal Circle Recruitment 2021 Apply PA, MTS 13
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6429,7 +6429,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6443,7 +6443,7 @@
 									Uttarakhand Postal Circle Sports Quota Vacancy 2021 apply &#8230; <a
 										title="Uttarakhand Postal Circle Recruitment 2021 Apply PA, MTS 13 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-apply/"
+										href="uttarakhand-postal-circle-apply/"
 										aria-label="More on Uttarakhand Postal Circle Recruitment 2021 Apply PA, MTS 13 Post">Read
 										more</a></p>
 							</div>
@@ -6454,10 +6454,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6466,7 +6466,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-apply/#respond">Leave
+										href="uttarakhand-postal-circle-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6477,7 +6477,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-vacancy/"
+										href="bihar-postal-circle-vacancy/"
 										rel="bookmark">Bihar Postal Circle Recruitment 2021 MTS, PA, Postman 60 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6487,7 +6487,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6498,7 +6498,7 @@
 										style="color: #000000;"><strong>ame of Post: </strong></span>Multi Tasking
 									Staff, Postal Assistant, Postman Vacancy at 60 Posts.<br />
 									<span style="color: #000000;"><strong>Short Information:</strong></span> Bihar Post
-									Office has released the <a href="https://www.sarkariresult.app/latest-jobs/"
+									Office has released the <a href="latest-jobs/"
 										target="_blank" rel="noopener noreferrer">latest notification</a> for the Bihar
 									Postal Circle recruitment 2021 of <strong>Multi Tasking Staff, Postal Assistant,
 										Postman Vacancy </strong>at <strong>60 posts</strong>. Those candidates who are
@@ -6511,13 +6511,13 @@
 								<p>Those Candidates Are Interested in Bihar Postal Circle Recruitment 2021 the Following
 									Bihar Postal Circle Vacancy 2021 and Completed the All Eligibility Criteria Can Read
 									the Bihar Postal Circle <a
-										href="https://www.sarkariresult.app/sarkari-exam/">Assistant, Postman, MTS
+										href="sarkari-exam/">Assistant, Postman, MTS
 										Notification</a> Before <a
-										href="https://www.sarkariresult.app/free-job-alert/">Bihar Postal Circle PA, MTS
+										href="free-job-alert/">Bihar Postal Circle PA, MTS
 										Application Form</a> 2021. Below is a brief description of the Bihar Postal
 									Circle Jobs 2021 official notification. Other details of Bihar Post Office
 									Recruitment 2021 Age Limit, Bihar Postal Circle PA Recruitment 2021 Educational
-									Qualification, <a href="https://www.sarkariresult.app/sarkari-naukri/">India Post
+									Qualification, <a href="sarkari-naukri/">India Post
 										Office Vacancy</a> 2021 Selection Process, Bihar Postal Circle MTS Jobs 2021
 									Application Fee, and How to Apply are given below.</p>
 								<h3 style="text-align: center;"><strong><span style="color: #ffffff;"><span
@@ -6588,7 +6588,7 @@
 								<p class="read-more-container"><a
 										title="Bihar Postal Circle Recruitment 2021 MTS, PA, Postman 60 Post"
 										class="read-more content-read-more"
-										href="https://www.sarkariresult.app/bihar-postal-circle-vacancy/#more-38547"
+										href="bihar-postal-circle-vacancy/#more-38547"
 										aria-label="More on Bihar Postal Circle Recruitment 2021 MTS, PA, Postman 60 Post">Read
 										more</a></p>
 							</div>
@@ -6599,10 +6599,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6611,7 +6611,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-vacancy/#respond">Leave
+										href="bihar-postal-circle-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6622,7 +6622,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jammu-postal-circle-recruitment/"
+										href="jammu-postal-circle-recruitment/"
 										rel="bookmark">Jammu Postal Circle Recruitment 2021 Postal Assistant Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6632,7 +6632,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6644,7 +6644,7 @@
 									Vacancy at 05 Posts.<br />
 									<span style="color: #000000;"><strong>Short Information:</strong></span> Jammu &amp;
 									Kashmir Post Office has released the <a
-										href="https://www.sarkariresult.app/latest-jobs/" target="_blank"
+										href="latest-jobs/" target="_blank"
 										rel="noopener noreferrer">latest notification</a> for the Jammu Postal Circle
 									recruitment 2021 of <strong>Postal Assistant Vacancy </strong>at <strong>05
 										posts</strong>. Those candidates who are interested in Jammu Postal Circle
@@ -6657,12 +6657,12 @@
 								<p>Those Candidates Are Interested in Jammu Postal Circle Recruitment 2021 the Following
 									Jammu Postal Circle Vacancy 2021 and Completed the All Eligibility Criteria Can Read
 									the Jammu Postal Circle <a
-										href="https://www.sarkariresult.app/sarkari-exam/">Assistant Notification</a>
-									Before <a href="https://www.sarkariresult.app/free-job-alert/">Jammu Postal Circle
+										href="sarkari-exam/">Assistant Notification</a>
+									Before <a href="free-job-alert/">Jammu Postal Circle
 										PA Application Form</a> 2021. Below is a brief description of the Jammu Postal
 									Circle Jobs 2021 official notification. Other details of Jammu Post Office
 									Recruitment 2021 Age Limit, Jammu Postal Circle PA Recruitment 2021 Educational
-									Qualification, <a href="https://www.sarkariresult.app/sarkari-naukri/">India Post
+									Qualification, <a href="sarkari-naukri/">India Post
 										Office Vacancy</a> 2021 Selection Process, Application Fee, and How to Apply are
 									given below.</p>
 								<h3 style="text-align: center;"><strong><span style="color: #ffffff;"><span
@@ -6733,7 +6733,7 @@
 								<p class="read-more-container"><a
 										title="Jammu Postal Circle Recruitment 2021 Postal Assistant Posts"
 										class="read-more content-read-more"
-										href="https://www.sarkariresult.app/jammu-postal-circle-recruitment/#more-38724"
+										href="jammu-postal-circle-recruitment/#more-38724"
 										aria-label="More on Jammu Postal Circle Recruitment 2021 Postal Assistant Posts">Read
 										more</a></p>
 							</div>
@@ -6744,10 +6744,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6756,7 +6756,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jammu-postal-circle-recruitment/#respond">Leave
+										href="jammu-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6767,7 +6767,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-job/"
+										href="delhi-postal-circle-job/"
 										rel="bookmark">Delhi Postal Circle Recruitment 2021 Skilled Artisans 17 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6777,7 +6777,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6790,7 +6790,7 @@
 									Delhi Post Office recruitment 2021 of Skilled Artisans (Motor Vehicle Mechanic,
 									Motor Vehicle Electrician, Tyreman, Painter, Fitter, Copper &amp; Tin &#8230; <a
 										title="Delhi Postal Circle Recruitment 2021 Skilled Artisans 17 Post"
-										class="read-more" href="https://www.sarkariresult.app/delhi-postal-circle-job/"
+										class="read-more" href="delhi-postal-circle-job/"
 										aria-label="More on Delhi Postal Circle Recruitment 2021 Skilled Artisans 17 Post">Read
 										more</a></p>
 							</div>
@@ -6801,10 +6801,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6813,7 +6813,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-job/#comments">1
+										href="delhi-postal-circle-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6824,7 +6824,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-jobs-apply/"
+										href="rajasthan-postal-circle-jobs-apply/"
 										rel="bookmark">Rajasthan Postal Circle Recruitment 2021 PA, MTS, Postman 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6834,7 +6834,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6848,7 +6848,7 @@
 									Rajasthan Postal Circle Sports Quota Vacancy 2021 apply &#8230; <a
 										title="Rajasthan Postal Circle Recruitment 2021 PA, MTS, Postman 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-jobs-apply/"
+										href="rajasthan-postal-circle-jobs-apply/"
 										aria-label="More on Rajasthan Postal Circle Recruitment 2021 PA, MTS, Postman 22 Post">Read
 										more</a></p>
 							</div>
@@ -6859,10 +6859,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6871,7 +6871,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-jobs-apply/#respond">Leave
+										href="rajasthan-postal-circle-jobs-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6882,7 +6882,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-recruitment/"
+										href="chhattisgarh-postal-circle-recruitment/"
 										rel="bookmark">Chhattisgarh Postal Circle Recruitment 2021 PA, MTS, Postman
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6891,7 +6891,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6905,7 +6905,7 @@
 									Chhattisgarh Postal Circle Sports Quota Vacancy 2021 apply &#8230; <a
 										title="Chhattisgarh Postal Circle Recruitment 2021 PA, MTS, Postman Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-recruitment/"
+										href="chhattisgarh-postal-circle-recruitment/"
 										aria-label="More on Chhattisgarh Postal Circle Recruitment 2021 PA, MTS, Postman Post">Read
 										more</a></p>
 							</div>
@@ -6916,10 +6916,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6928,7 +6928,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chhattisgarh-postal-circle-recruitment/#respond">Leave
+										href="chhattisgarh-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6939,7 +6939,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-job/"
+										href="kerala-postal-circle-job/"
 										rel="bookmark">Kerala Postal Circle Recruitment 2021 Guard, PA, MTS 95 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6949,7 +6949,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6962,7 +6962,7 @@
 									Staff, Postal Assistant, Postman, Sorting Assistant, Mail Guard Vacancy at 95 posts.
 									Those candidates who are interested in &#8230; <a
 										title="Kerala Postal Circle Recruitment 2021 Guard, PA, MTS 95 Post"
-										class="read-more" href="https://www.sarkariresult.app/kerala-postal-circle-job/"
+										class="read-more" href="kerala-postal-circle-job/"
 										aria-label="More on Kerala Postal Circle Recruitment 2021 Guard, PA, MTS 95 Post">Read
 										more</a></p>
 							</div>
@@ -6973,10 +6973,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6985,7 +6985,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-job/#respond">Leave a
+										href="kerala-postal-circle-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6996,7 +6996,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-east-postal-circle-recruitment/"
+										href="north-east-postal-circle-recruitment/"
 										rel="bookmark">North East Postal Circle Recruitment 2021 PA, Postman, MTS
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7006,7 +7006,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7020,7 +7020,7 @@
 									posts. Those candidates who are interested &#8230; <a
 										title="North East Postal Circle Recruitment 2021 PA, Postman, MTS Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-east-postal-circle-recruitment/"
+										href="north-east-postal-circle-recruitment/"
 										aria-label="More on North East Postal Circle Recruitment 2021 PA, Postman, MTS Post">Read
 										more</a></p>
 							</div>
@@ -7031,10 +7031,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7043,7 +7043,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-east-postal-circle-recruitment/#respond">Leave
+										href="north-east-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7054,7 +7054,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-jobs/"
+										href="odisha-postal-circle-jobs/"
 										rel="bookmark">Odisha Postal Circle Recruitment 2021 MTS, PA, Postman 42
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7064,7 +7064,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7075,7 +7075,7 @@
 										style="color: #000000;"><strong>ame of Post: </strong></span>Multi Tasking
 									Staff, Postal Assistant, Postman Vacancy at 42 Posts.<br />
 									<span style="color: #000000;"><strong>Short Information:</strong></span> Odisha Post
-									Office has released the <a href="https://www.sarkariresult.app/latest-jobs/"
+									Office has released the <a href="latest-jobs/"
 										target="_blank" rel="noopener noreferrer">latest notification</a> for the Odisha
 									Postal Circle recruitment 2021 of <strong>Multi Tasking Staff, Postal Assistant,
 										Postman Vacancy </strong>at <strong>42 posts</strong>. Those candidates who are
@@ -7088,13 +7088,13 @@
 								<p>Those Candidates Are Interested in Odisha Postal Circle Recruitment 2021 the
 									Following Odisha Postal Circle Vacancy 2021 and Completed the All Eligibility
 									Criteria Can Read the Odisha Postal Circle <a
-										href="https://www.sarkariresult.app/sarkari-exam/">Assistant, Postman, MTS
+										href="sarkari-exam/">Assistant, Postman, MTS
 										Notification</a> Before <a
-										href="https://www.sarkariresult.app/free-job-alert/">Odisha Postal Circle PA,
+										href="free-job-alert/">Odisha Postal Circle PA,
 										MTS Application Form</a> 2021. Below is a brief description of the Odisha Postal
 									Circle Jobs 2021 official notification. Other details of Odisha Post Office
 									Recruitment 2021 Age Limit, Odisha Postal Circle PA Recruitment 2021 Educational
-									Qualification, <a href="https://www.sarkariresult.app/sarkari-naukri/">India Post
+									Qualification, <a href="sarkari-naukri/">India Post
 										Office Vacancy</a> 2021 Selection Process, Odisha Postal Circle MTS Jobs 2021
 									Application Fee, and Odisha Postal Circle Vacancy 2021 How to Apply are given below.
 								</p>
@@ -7166,7 +7166,7 @@
 								<p class="read-more-container"><a
 										title="Odisha Postal Circle Recruitment 2021 MTS, PA, Postman 42 Post"
 										class="read-more content-read-more"
-										href="https://www.sarkariresult.app/odisha-postal-circle-jobs/#more-33645"
+										href="odisha-postal-circle-jobs/#more-33645"
 										aria-label="More on Odisha Postal Circle Recruitment 2021 MTS, PA, Postman 42 Post">Read
 										more</a></p>
 							</div>
@@ -7177,10 +7177,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7189,7 +7189,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-jobs/#respond">Leave a
+										href="odisha-postal-circle-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7200,7 +7200,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-postal-circle-vacancy/" rel="bookmark">MP
+										href="mp-postal-circle-vacancy/" rel="bookmark">MP
 										Postal Circle Recruitment 2021 PA, Postman, MTS 44 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-12-03T23:55:00+05:30"
@@ -7209,7 +7209,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7221,7 +7221,7 @@
 									Staff, Postal Assistant, Postman Vacancy at 44 Posts.<br />
 									<span style="color: #000000;"><strong>Short Information:</strong></span> Madhya
 									Pradesh Post Office has released the <a
-										href="https://www.sarkariresult.app/latest-jobs/" target="_blank"
+										href="latest-jobs/" target="_blank"
 										rel="noopener noreferrer">latest notification</a> for the MP Postal Circle
 									recruitment 2021 of <strong>Multi Tasking Staff, Postal Assistant, Postman Vacancy
 									</strong>at <strong>44 posts</strong>. Those candidates who are interested in MP
@@ -7233,13 +7233,13 @@
 									44 Post</h2>
 								<p>Those Candidates Are Interested in MP Postal Circle Recruitment 2021 the Following MP
 									Postal Circle Vacancy 2021 and Completed the All Eligibility Criteria Can Read the
-									MP Postal Circle <a href="https://www.sarkariresult.app/sarkari-exam/">Assistant,
+									MP Postal Circle <a href="sarkari-exam/">Assistant,
 										Postman, MTS Notification</a> Before <a
-										href="https://www.sarkariresult.app/free-job-alert/">MP Postal Circle PA, MTS
+										href="free-job-alert/">MP Postal Circle PA, MTS
 										Application Form</a> 2021. Below is a brief description of the MP Postal Circle
 									Jobs 2021 official notification. Other details of MP Post Office Recruitment 2021
 									Age Limit, MP Postal Circle PA Recruitment 2021 Educational Qualification, <a
-										href="https://www.sarkariresult.app/sarkari-naukri/">India Post Office
+										href="sarkari-naukri/">India Post Office
 										Vacancy</a> 2021 Selection Process, MP Postal Circle MTS Jobs 2021 Application
 									Fee, and MP Postal Circle Vacancy 2021 How to Apply are given below.</p>
 								<h3 style="text-align: center;"><strong><span style="color: #ffffff;"><span
@@ -7311,7 +7311,7 @@
 								<p class="read-more-container"><a
 										title="MP Postal Circle Recruitment 2021 PA, Postman, MTS 44 Post"
 										class="read-more content-read-more"
-										href="https://www.sarkariresult.app/mp-postal-circle-vacancy/#more-33630"
+										href="mp-postal-circle-vacancy/#more-33630"
 										aria-label="More on MP Postal Circle Recruitment 2021 PA, Postman, MTS 44 Post">Read
 										more</a></p>
 							</div>
@@ -7322,10 +7322,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7334,7 +7334,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-postal-circle-vacancy/#respond">Leave a
+										href="mp-postal-circle-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7345,7 +7345,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-postal-circle-vacancy/" rel="bookmark">AP
+										href="ap-postal-circle-vacancy/" rel="bookmark">AP
 										Postal Circle Recruitment 2021 PA, Postman, MTS 75 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-11-27T23:55:18+05:30"
@@ -7354,7 +7354,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7367,7 +7367,7 @@
 									Postman Vacancy at 75 posts. Those candidates who are interested in AP Postal Circle
 									Sports Quota Vacancy 2021 &#8230; <a
 										title="AP Postal Circle Recruitment 2021 PA, Postman, MTS 75 Post"
-										class="read-more" href="https://www.sarkariresult.app/ap-postal-circle-vacancy/"
+										class="read-more" href="ap-postal-circle-vacancy/"
 										aria-label="More on AP Postal Circle Recruitment 2021 PA, Postman, MTS 75 Post">Read
 										more</a></p>
 							</div>
@@ -7378,10 +7378,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7390,7 +7390,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-postal-circle-vacancy/#respond">Leave a
+										href="ap-postal-circle-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7401,7 +7401,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-vacancy/"
+										href="maharashtra-postal-circle-vacancy/"
 										rel="bookmark">Maharashtra Postal Circle Recruitment 2021 MTS, PA 257 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7411,7 +7411,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7425,7 +7425,7 @@
 									257 posts. Those candidates who are interested in Maharashtra Postal &#8230; <a
 										title="Maharashtra Postal Circle Recruitment 2021 MTS, PA 257 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-vacancy/"
+										href="maharashtra-postal-circle-vacancy/"
 										aria-label="More on Maharashtra Postal Circle Recruitment 2021 MTS, PA 257 Post">Read
 										more</a></p>
 							</div>
@@ -7436,10 +7436,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7448,7 +7448,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-vacancy/#respond">Leave
+										href="maharashtra-postal-circle-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7459,7 +7459,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-recruitment/"
+										href="jharkhand-postal-circle-recruitment/"
 										rel="bookmark">Jharkhand Postal Circle Recruitment 2021 PA, MTS, Postman 19
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7469,7 +7469,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7483,7 +7483,7 @@
 									Jharkhand Postal Circle Sports Quota Vacancy 2021 apply &#8230; <a
 										title="Jharkhand Postal Circle Recruitment 2021 PA, MTS, Postman 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-recruitment/"
+										href="jharkhand-postal-circle-recruitment/"
 										aria-label="More on Jharkhand Postal Circle Recruitment 2021 PA, MTS, Postman 19 Post">Read
 										more</a></p>
 							</div>
@@ -7494,10 +7494,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7506,7 +7506,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-recruitment/#respond">Leave
+										href="jharkhand-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7517,7 +7517,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-vacancy/"
+										href="ap-postal-circle-gds-vacancy/"
 										rel="bookmark">AP Postal Circle GDS Recruitment 2021 Apply Online 2296 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7527,7 +7527,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7541,7 +7541,7 @@
 									Branch Post Master (BPM), Assistant &#8230; <a
 										title="AP Postal Circle GDS Recruitment 2021 Apply Online 2296 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-vacancy/"
+										href="ap-postal-circle-gds-vacancy/"
 										aria-label="More on AP Postal Circle GDS Recruitment 2021 Apply Online 2296 Post">Read
 										more</a></p>
 							</div>
@@ -7552,10 +7552,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7564,7 +7564,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-vacancy/#respond">Leave
+										href="ap-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7575,7 +7575,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-vacancy/"
+										href="telangana-postal-circle-gds-vacancy/"
 										rel="bookmark">Telangana Postal Circle GDS Recruitment 2021 Apply 1150 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7585,7 +7585,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7599,7 +7599,7 @@
 									Branch Post Master (BPM), Assistant Branch &#8230; <a
 										title="Telangana Postal Circle GDS Recruitment 2021 Apply 1150 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-vacancy/"
+										href="telangana-postal-circle-gds-vacancy/"
 										aria-label="More on Telangana Postal Circle GDS Recruitment 2021 Apply 1150 Post">Read
 										more</a></p>
 							</div>
@@ -7610,10 +7610,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7622,7 +7622,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-vacancy/#respond">Leave
+										href="telangana-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7633,7 +7633,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-postal-circle-recruitment/"
+										href="hp-postal-circle-recruitment/"
 										rel="bookmark">HP Postal Circle Recruitment 2021 Apply PA, MTS, Postman 18
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7643,7 +7643,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7657,7 +7657,7 @@
 									Sports Quota Vacancy 2021 &#8230; <a
 										title="HP Postal Circle Recruitment 2021 Apply PA, MTS, Postman 18 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-postal-circle-recruitment/"
+										href="hp-postal-circle-recruitment/"
 										aria-label="More on HP Postal Circle Recruitment 2021 Apply PA, MTS, Postman 18 Post">Read
 										more</a></p>
 							</div>
@@ -7668,10 +7668,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7680,7 +7680,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-postal-circle-recruitment/#comments">1
+										href="hp-postal-circle-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7691,7 +7691,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-recruitment/"
+										href="delhi-postal-circle-recruitment/"
 										rel="bookmark">Delhi Postal Circle Recruitment 2021 MTS, Postman 221 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7701,7 +7701,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7715,7 +7715,7 @@
 									Quota Vancay 2021 apply online &#8230; <a
 										title="Delhi Postal Circle Recruitment 2021 MTS, Postman 221 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-postal-circle-recruitment/"
+										href="delhi-postal-circle-recruitment/"
 										aria-label="More on Delhi Postal Circle Recruitment 2021 MTS, Postman 221 Posts">Read
 										more</a></p>
 							</div>
@@ -7726,10 +7726,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7738,7 +7738,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-recruitment/#comments">1
+										href="delhi-postal-circle-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7749,7 +7749,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-post-office-recruitment/"
+										href="up-post-office-recruitment/"
 										rel="bookmark">UP Postal Circle Recruitment 2021 Asst, Postman, MTS 46 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7759,7 +7759,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7773,7 +7773,7 @@
 									Circle Sports Quota Vancay 2021 &#8230; <a
 										title="UP Postal Circle Recruitment 2021 Asst, Postman, MTS 46 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-post-office-recruitment/"
+										href="up-post-office-recruitment/"
 										aria-label="More on UP Postal Circle Recruitment 2021 Asst, Postman, MTS 46 Post">Read
 										more</a></p>
 							</div>
@@ -7784,10 +7784,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7796,7 +7796,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-post-office-recruitment/#comments">4
+										href="up-post-office-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7807,7 +7807,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-recruitment/"
+										href="jk-postal-circle-gds-recruitment/"
 										rel="bookmark">JK Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 266
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -7817,7 +7817,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7831,7 +7831,7 @@
 									are &#8230; <a
 										title="JK Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 266 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-recruitment/"
+										href="jk-postal-circle-gds-recruitment/"
 										aria-label="More on JK Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 266 Posts">Read
 										more</a></p>
 							</div>
@@ -7842,10 +7842,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7854,7 +7854,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-postal-circle-gds-recruitment/#comments">1
+										href="jk-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7865,7 +7865,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-postal-circle-vacancy/" rel="bookmark">TN
+										href="tn-postal-circle-vacancy/" rel="bookmark">TN
 										Postal Circle Recruitment 2021 Apply Now Postman 501 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-10-20T23:55:00+05:30"
@@ -7874,7 +7874,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7887,7 +7887,7 @@
 									are interested in TN Circle Sports Quota Vancay 2021 apply online the appost.in
 									rough the official website &#8230; <a
 										title="TN Postal Circle Recruitment 2021 Apply Now Postman 501 Post"
-										class="read-more" href="https://www.sarkariresult.app/tn-postal-circle-vacancy/"
+										class="read-more" href="tn-postal-circle-vacancy/"
 										aria-label="More on TN Postal Circle Recruitment 2021 Apply Now Postman 501 Post">Read
 										more</a></p>
 							</div>
@@ -7898,10 +7898,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7910,7 +7910,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-postal-circle-vacancy/#respond">Leave a
+										href="tn-postal-circle-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7921,7 +7921,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-vacancy/"
+										href="haryana-postal-circle-vacancy/"
 										rel="bookmark">Haryana Postal Circle Recruitment 2021 PA, LDC, MTS 75 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7931,7 +7931,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7945,7 +7945,7 @@
 									Tasking Staff Vacancy at 75 posts. Those candidates who are interested &#8230; <a
 										title="Haryana Postal Circle Recruitment 2021 PA, LDC, MTS 75 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-postal-circle-vacancy/"
+										href="haryana-postal-circle-vacancy/"
 										aria-label="More on Haryana Postal Circle Recruitment 2021 PA, LDC, MTS 75 Posts">Read
 										more</a></p>
 							</div>
@@ -7956,10 +7956,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7969,7 +7969,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-vacancy/#respond">Leave
+										href="haryana-postal-circle-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7980,7 +7980,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-postal-circle-gds-recruitment/"
+										href="up-postal-circle-gds-recruitment/"
 										rel="bookmark">UP Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 4264
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7989,7 +7989,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8003,7 +8003,7 @@
 									candidates who are &#8230; <a
 										title="UP Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 4264 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-postal-circle-gds-recruitment/"
+										href="up-postal-circle-gds-recruitment/"
 										aria-label="More on UP Postal Circle GDS Recruitment 2021 Gramin Dak Sevak 4264 Post">Read
 										more</a></p>
 							</div>
@@ -8014,10 +8014,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8027,7 +8027,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-postal-circle-gds-recruitment/#respond">Leave
+										href="up-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8038,7 +8038,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-recruitment/"
+										href="uttarakhand-postal-circle-gds-recruitment/"
 										rel="bookmark">Uttarakhand Postal Circle GDS Recruitment 2021 Apply 581 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8048,7 +8048,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8062,7 +8062,7 @@
 									apply through &#8230; <a
 										title="Uttarakhand Postal Circle GDS Recruitment 2021 Apply 581 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-recruitment/"
+										href="uttarakhand-postal-circle-gds-recruitment/"
 										aria-label="More on Uttarakhand Postal Circle GDS Recruitment 2021 Apply 581 Post">Read
 										more</a></p>
 							</div>
@@ -8073,10 +8073,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8086,7 +8086,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-gds-recruitment/#respond">Leave
+										href="uttarakhand-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8097,7 +8097,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment-2/"
+										href="mail-motor-service-chandigarh-recruitment-2/"
 										rel="bookmark">Mail Motor Service Chandigarh Recruitment 2021 Driver 11
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -8107,7 +8107,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8121,7 +8121,7 @@
 									2021 can apply offline through &#8230; <a
 										title="Mail Motor Service Chandigarh Recruitment 2021 Driver 11 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment-2/"
+										href="mail-motor-service-chandigarh-recruitment-2/"
 										aria-label="More on Mail Motor Service Chandigarh Recruitment 2021 Driver 11 Posts">Read
 										more</a></p>
 							</div>
@@ -8132,10 +8132,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8144,7 +8144,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment-2/#respond">Leave
+										href="mail-motor-service-chandigarh-recruitment-2/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8155,7 +8155,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-job/"
+										href="telangana-postal-circle-job/"
 										rel="bookmark">Telangana Postal Circle Recruitment 2021 PA, MTS, Guard 55
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8164,7 +8164,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8178,7 +8178,7 @@
 									Staff Vacancy at 55 posts. Those candidates who are &#8230; <a
 										title="Telangana Postal Circle Recruitment 2021 PA, MTS, Guard 55 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-job/"
+										href="telangana-postal-circle-job/"
 										aria-label="More on Telangana Postal Circle Recruitment 2021 PA, MTS, Guard 55 Post">Read
 										more</a></p>
 							</div>
@@ -8189,10 +8189,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8202,7 +8202,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-job/#respond">Leave
+										href="telangana-postal-circle-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8213,7 +8213,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment/"
+										href="mail-motor-service-chandigarh-recruitment/"
 										rel="bookmark">Mail Motor Service Chandigarh Recruitment 2021 Application
 										Form</a></h2>
 								<div class="entry-meta">
@@ -8223,7 +8223,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8237,7 +8237,7 @@
 									interested in the Mail Motor Service &#8230; <a
 										title="Mail Motor Service Chandigarh Recruitment 2021 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment/"
+										href="mail-motor-service-chandigarh-recruitment/"
 										aria-label="More on Mail Motor Service Chandigarh Recruitment 2021 Application Form">Read
 										more</a></p>
 							</div>
@@ -8248,10 +8248,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8261,7 +8261,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-chandigarh-recruitment/#respond">Leave
+										href="mail-motor-service-chandigarh-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8272,7 +8272,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-vacancy/"
+										href="wb-postal-circle-gds-vacancy/"
 										rel="bookmark">WB Postal Circle GDS Recruitment 2021 Apply Now 2357 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8282,7 +8282,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8296,7 +8296,7 @@
 									to apply &#8230; <a
 										title="WB Postal Circle GDS Recruitment 2021 Apply Now 2357 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-vacancy/"
+										href="wb-postal-circle-gds-vacancy/"
 										aria-label="More on WB Postal Circle GDS Recruitment 2021 Apply Now 2357 Posts">Read
 										more</a></p>
 							</div>
@@ -8307,10 +8307,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8320,7 +8320,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-vacancy/#respond">Leave
+										href="wb-postal-circle-gds-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8331,7 +8331,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-recruitment/"
+										href="punjab-postal-circle-recruitment/"
 										rel="bookmark">Punjab Postal Circle Recruitment 2021 MTS, Postal Asst 57
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -8341,7 +8341,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8355,7 +8355,7 @@
 									Punjab Postal Circle Recruitment 2021 can &#8230; <a
 										title="Punjab Postal Circle Recruitment 2021 MTS, Postal Asst 57 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-postal-circle-recruitment/"
+										href="punjab-postal-circle-recruitment/"
 										aria-label="More on Punjab Postal Circle Recruitment 2021 MTS, Postal Asst 57 Posts">Read
 										more</a></p>
 							</div>
@@ -8366,10 +8366,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8379,7 +8379,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-recruitment/#comments">1
+										href="punjab-postal-circle-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8390,7 +8390,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-recruitment/"
+										href="bihar-postal-circle-gds-recruitment/"
 										rel="bookmark">Bihar Postal Circle GDS Recruitment 2021 Apply Now 1940 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8399,7 +8399,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8413,7 +8413,7 @@
 									through the &#8230; <a
 										title="Bihar Postal Circle GDS Recruitment 2021 Apply Now 1940 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-recruitment/"
+										href="bihar-postal-circle-gds-recruitment/"
 										aria-label="More on Bihar Postal Circle GDS Recruitment 2021 Apply Now 1940 Post">Read
 										more</a></p>
 							</div>
@@ -8424,10 +8424,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8437,7 +8437,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-postal-circle-gds-recruitment/#respond">Leave
+										href="bihar-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8448,7 +8448,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-recruitment/"
+										href="mail-motor-service-bengaluru-recruitment/"
 										rel="bookmark">Mail Motor Service Recruitment 2021 Staff Car Driver 15 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8457,7 +8457,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8471,7 +8471,7 @@
 									Motor Service Staff &#8230; <a
 										title="Mail Motor Service Recruitment 2021 Staff Car Driver 15 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-recruitment/"
+										href="mail-motor-service-bengaluru-recruitment/"
 										aria-label="More on Mail Motor Service Recruitment 2021 Staff Car Driver 15 Posts">Read
 										more</a></p>
 							</div>
@@ -8482,10 +8482,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8495,7 +8495,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-bengaluru-recruitment/#respond">Leave
+										href="mail-motor-service-bengaluru-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8506,7 +8506,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-recruitment/"
+										href="jharkhand-postal-circle-gds-recruitment/"
 										rel="bookmark">Jharkhand Postal Circle GDS Result 2021 Check Merit List</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8514,7 +8514,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8528,7 +8528,7 @@
 									Merit List including &#8230; <a
 										title="Jharkhand Postal Circle GDS Result 2021 Check Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-recruitment/"
+										href="jharkhand-postal-circle-gds-recruitment/"
 										aria-label="More on Jharkhand Postal Circle GDS Result 2021 Check Merit List">Read
 										more</a></p>
 							</div>
@@ -8539,10 +8539,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/post-office/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="post-office/"
 										rel="category tag">Postal Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8551,7 +8551,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-postal-circle-gds-recruitment/#comments">1
+										href="jharkhand-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8562,7 +8562,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-recruitment/"
+										href="mail-motor-service-recruitment/"
 										rel="bookmark">Mail Motor Service Recruitment 2021 Staff Car Driver 25 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8571,7 +8571,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8585,7 +8585,7 @@
 									2021 can apply offline &#8230; <a
 										title="Mail Motor Service Recruitment 2021 Staff Car Driver 25 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-recruitment/"
+										href="mail-motor-service-recruitment/"
 										aria-label="More on Mail Motor Service Recruitment 2021 Staff Car Driver 25 Posts">Read
 										more</a></p>
 							</div>
@@ -8596,10 +8596,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8609,7 +8609,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-recruitment/#comments">1
+										href="mail-motor-service-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8620,7 +8620,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tamilnadu-postal-circle-vacancy/"
+										href="tamilnadu-postal-circle-vacancy/"
 										rel="bookmark">Tamilnadu Postal Circle Recruitment 2021 Apply Now 35 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8630,7 +8630,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8644,7 +8644,7 @@
 									Vacancy at 35 posts. Candidates wishing to apply through &#8230; <a
 										title="Tamilnadu Postal Circle Recruitment 2021 Apply Now 35 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tamilnadu-postal-circle-vacancy/"
+										href="tamilnadu-postal-circle-vacancy/"
 										aria-label="More on Tamilnadu Postal Circle Recruitment 2021 Apply Now 35 Post">Read
 										more</a></p>
 							</div>
@@ -8655,10 +8655,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8668,7 +8668,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tamilnadu-postal-circle-vacancy/#comments">1
+										href="tamilnadu-postal-circle-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8679,7 +8679,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-recruitment/"
+										href="maharashtra-postal-circle-gds-recruitment/"
 										rel="bookmark">Maharashtra Postal Circle GDS Recruitment 2021 Apply 2428
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8688,7 +8688,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8702,7 +8702,7 @@
 									to apply through the &#8230; <a
 										title="Maharashtra Postal Circle GDS Recruitment 2021 Apply 2428 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-recruitment/"
+										href="maharashtra-postal-circle-gds-recruitment/"
 										aria-label="More on Maharashtra Postal Circle GDS Recruitment 2021 Apply 2428 Post">Read
 										more</a></p>
 							</div>
@@ -8713,10 +8713,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8726,7 +8726,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-postal-circle-gds-recruitment/#comments">1
+										href="maharashtra-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8737,7 +8737,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-postal-circle-gds-recruitment/"
+										href="cg-postal-circle-gds-recruitment/"
 										rel="bookmark">CG Postal Circle GDS Recruitment 2021 Apply Online 1137 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8746,7 +8746,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8760,7 +8760,7 @@
 									wishing to apply through the &#8230; <a
 										title="CG Postal Circle GDS Recruitment 2021 Apply Online 1137 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cg-postal-circle-gds-recruitment/"
+										href="cg-postal-circle-gds-recruitment/"
 										aria-label="More on CG Postal Circle GDS Recruitment 2021 Apply Online 1137 Post">Read
 										more</a></p>
 							</div>
@@ -8771,10 +8771,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8784,7 +8784,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-postal-circle-gds-recruitment/#respond">Leave
+										href="cg-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8795,7 +8795,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-recruitment/"
+										href="kerala-postal-circle-gds-recruitment/"
 										rel="bookmark">Kerala Postal Circle GDS Recruitment 2021 Apply Now 1421 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8804,7 +8804,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8818,7 +8818,7 @@
 									2021 &#8211; Apply Online &#8230; <a
 										title="Kerala Postal Circle GDS Recruitment 2021 Apply Now 1421 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-recruitment/"
+										href="kerala-postal-circle-gds-recruitment/"
 										aria-label="More on Kerala Postal Circle GDS Recruitment 2021 Apply Now 1421 Post">Read
 										more</a></p>
 							</div>
@@ -8829,10 +8829,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8842,7 +8842,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-gds-recruitment/#comments">1
+										href="kerala-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8853,7 +8853,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment/"
+										href="telangana-postal-circle-gds-recruitment/"
 										rel="bookmark">Telangana Postal Circle GDS Recruitment 2021 Apply 1150 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8862,7 +8862,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8876,7 +8876,7 @@
 									Branch Post Master (BPM), Assistant Branch &#8230; <a
 										title="Telangana Postal Circle GDS Recruitment 2021 Apply 1150 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment/"
+										href="telangana-postal-circle-gds-recruitment/"
 										aria-label="More on Telangana Postal Circle GDS Recruitment 2021 Apply 1150 Posts">Read
 										more</a></p>
 							</div>
@@ -8887,10 +8887,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8900,7 +8900,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-gds-recruitment/#respond">Leave
+										href="telangana-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8911,7 +8911,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-recruitment/"
+										href="ap-postal-circle-gds-recruitment/"
 										rel="bookmark">AP Postal Circle GDS Recruitment 2021 Apply Online 2296 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8920,7 +8920,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8934,7 +8934,7 @@
 									Branch Post Master (BPM), Assistant &#8230; <a
 										title="AP Postal Circle GDS Recruitment 2021 Apply Online 2296 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-recruitment/"
+										href="ap-postal-circle-gds-recruitment/"
 										aria-label="More on AP Postal Circle GDS Recruitment 2021 Apply Online 2296 Post">Read
 										more</a></p>
 							</div>
@@ -8945,10 +8945,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8958,7 +8958,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-postal-circle-gds-recruitment/#comments">1
+										href="ap-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8969,7 +8969,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-gds-recruitment/"
+										href="delhi-postal-circle-gds-recruitment/"
 										rel="bookmark">Delhi Postal Circle GDS Recruitment 2021 Apply Now 233 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8978,7 +8978,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8992,7 +8992,7 @@
 									Master (BPM), Assistant Branch &#8230; <a
 										title="Delhi Postal Circle GDS Recruitment 2021 Apply Now 233 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-postal-circle-gds-recruitment/"
+										href="delhi-postal-circle-gds-recruitment/"
 										aria-label="More on Delhi Postal Circle GDS Recruitment 2021 Apply Now 233 Posts">Read
 										more</a></p>
 							</div>
@@ -9003,10 +9003,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9016,7 +9016,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-postal-circle-gds-recruitment/#respond">Leave
+										href="delhi-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9027,7 +9027,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-delhi-recruitment/"
+										href="mail-motor-service-delhi-recruitment/"
 										rel="bookmark">Mail Motor Service Delhi Recruitment 2021 Staff Car Driver 15
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9037,7 +9037,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9051,7 +9051,7 @@
 									Delhi &#8230; <a
 										title="Mail Motor Service Delhi Recruitment 2021 Staff Car Driver 15 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-delhi-recruitment/"
+										href="mail-motor-service-delhi-recruitment/"
 										aria-label="More on Mail Motor Service Delhi Recruitment 2021 Staff Car Driver 15 Post">Read
 										more</a></p>
 							</div>
@@ -9062,10 +9062,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9075,7 +9075,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-delhi-recruitment/#comments">2
+										href="mail-motor-service-delhi-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9086,7 +9086,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-staff-car-driver-recruitment/"
+										href="mail-motor-service-staff-car-driver-recruitment/"
 										rel="bookmark">Mail Motor Service Staff Car Driver Recruitment 2021 Apply 12
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9096,7 +9096,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9110,7 +9110,7 @@
 									Driver Jobs &#8230; <a
 										title="Mail Motor Service Staff Car Driver Recruitment 2021 Apply 12 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-staff-car-driver-recruitment/"
+										href="mail-motor-service-staff-car-driver-recruitment/"
 										aria-label="More on Mail Motor Service Staff Car Driver Recruitment 2021 Apply 12 Post">Read
 										more</a></p>
 							</div>
@@ -9121,10 +9121,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9134,7 +9134,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-staff-car-driver-recruitment/#respond">Leave
+										href="mail-motor-service-staff-car-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9145,7 +9145,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver-recruitment/"
+										href="mail-motor-service-mumbai-driver-recruitment/"
 										rel="bookmark">Mail Motor Service Mumbai Driver Recruitment 2021 Apply 16
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9155,7 +9155,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9169,7 +9169,7 @@
 									completed all eligibility &#8230; <a
 										title="Mail Motor Service Mumbai Driver Recruitment 2021 Apply 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver-recruitment/"
+										href="mail-motor-service-mumbai-driver-recruitment/"
 										aria-label="More on Mail Motor Service Mumbai Driver Recruitment 2021 Apply 16 Post">Read
 										more</a></p>
 							</div>
@@ -9180,10 +9180,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9193,7 +9193,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver-recruitment/#comments">2
+										href="mail-motor-service-mumbai-driver-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9204,7 +9204,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-recruitment/"
+										href="karnataka-postal-circle-gds-recruitment/"
 										rel="bookmark">Karnataka Postal Circle GDS Recruitment 2021 Apply Now 2443
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9213,7 +9213,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9227,7 +9227,7 @@
 									Posts including Branch Post &#8230; <a
 										title="Karnataka Postal Circle GDS Recruitment 2021 Apply Now 2443 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-recruitment/"
+										href="karnataka-postal-circle-gds-recruitment/"
 										aria-label="More on Karnataka Postal Circle GDS Recruitment 2021 Apply Now 2443 Post">Read
 										more</a></p>
 							</div>
@@ -9238,10 +9238,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9251,7 +9251,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-postal-circle-gds-recruitment/#comments">1
+										href="karnataka-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9262,7 +9262,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-recruitment/"
+										href="gujarat-postal-circle-gds-recruitment/"
 										rel="bookmark">Gujarat Postal Circle GDS Recruitment 2021 Apply Now 1826
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9271,7 +9271,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9285,7 +9285,7 @@
 									including Branch Post &#8230; <a
 										title="Gujarat Postal Circle GDS Recruitment 2021 Apply Now 1826 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-recruitment/"
+										href="gujarat-postal-circle-gds-recruitment/"
 										aria-label="More on Gujarat Postal Circle GDS Recruitment 2021 Apply Now 1826 Post">Read
 										more</a></p>
 							</div>
@@ -9296,10 +9296,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9309,7 +9309,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle-gds-recruitment/#respond">Leave
+										href="gujarat-postal-circle-gds-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9320,7 +9320,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-recruitment/"
+										href="punjab-postal-circle-gds-recruitment/"
 										rel="bookmark">Punjab Postal Circle GDS Recruitment 2020 Apply Now 516 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9329,7 +9329,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9343,7 +9343,7 @@
 									Branch Post Master &#8230; <a
 										title="Punjab Postal Circle GDS Recruitment 2020 Apply Now 516 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-recruitment/"
+										href="punjab-postal-circle-gds-recruitment/"
 										aria-label="More on Punjab Postal Circle GDS Recruitment 2020 Apply Now 516 Post">Read
 										more</a></p>
 							</div>
@@ -9354,10 +9354,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9367,7 +9367,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-postal-circle-gds-recruitment/#comments">2
+										href="punjab-postal-circle-gds-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9378,7 +9378,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-recruitment/"
+										href="north-eastern-postal-circle-recruitment/"
 										rel="bookmark">North Eastern Postal Circle Recruitment 2020 Apply GDS Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9387,7 +9387,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9401,7 +9401,7 @@
 									including Branch &#8230; <a
 										title="North Eastern Postal Circle Recruitment 2020 Apply GDS Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-recruitment/"
+										href="north-eastern-postal-circle-recruitment/"
 										aria-label="More on North Eastern Postal Circle Recruitment 2020 Apply GDS Post">Read
 										more</a></p>
 							</div>
@@ -9412,10 +9412,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9425,7 +9425,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/north-eastern-postal-circle-recruitment/#respond">Leave
+										href="north-eastern-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9436,7 +9436,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-post-office-gds-recruitment/"
+										href="hp-post-office-gds-recruitment/"
 										rel="bookmark">HP Post Office GDS Recruitment 2020 Apply Online 634 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9445,7 +9445,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9459,7 +9459,7 @@
 									including Branch Post &#8230; <a
 										title="HP Post Office GDS Recruitment 2020 Apply Online 634 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-post-office-gds-recruitment/"
+										href="hp-post-office-gds-recruitment/"
 										aria-label="More on HP Post Office GDS Recruitment 2020 Apply Online 634 Posts">Read
 										more</a></p>
 							</div>
@@ -9470,10 +9470,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9483,7 +9483,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-post-office-gds-recruitment/#comments">6
+										href="hp-post-office-gds-recruitment/#comments">6
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9494,7 +9494,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-postal-circle/"
+										href="haryana-postal-circle/"
 										rel="bookmark">Haryana Postal Circle Result 2020 Check Haryana GDS Merit List,
 										Cut Off</a></h2>
 								<div class="entry-meta">
@@ -9503,7 +9503,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9516,7 +9516,7 @@
 									Gramin Dak Sevak (GDS) Posts including Branch Post Master (BPM), Assistant Branch
 									Post Master &#8230; <a
 										title="Haryana Postal Circle Result 2020 Check Haryana GDS Merit List, Cut Off"
-										class="read-more" href="https://www.sarkariresult.app/haryana-postal-circle/"
+										class="read-more" href="haryana-postal-circle/"
 										aria-label="More on Haryana Postal Circle Result 2020 Check Haryana GDS Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -9527,10 +9527,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/post-office/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="post-office/"
 										rel="category tag">Postal Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9539,7 +9539,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-postal-circle/#comments">5
+										href="haryana-postal-circle/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9550,7 +9550,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/india-post-skilled-artisan-recruitment/"
+										href="india-post-skilled-artisan-recruitment/"
 										rel="bookmark">India Post Skilled Artisan Recruitment 2020 Application Form</a>
 								</h2>
 								<div class="entry-meta">
@@ -9560,7 +9560,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9574,7 +9574,7 @@
 									Jobs Vacancy at 19 posts of &#8230; <a
 										title="India Post Skilled Artisan Recruitment 2020 Application Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/india-post-skilled-artisan-recruitment/"
+										href="india-post-skilled-artisan-recruitment/"
 										aria-label="More on India Post Skilled Artisan Recruitment 2020 Application Form">Read
 										more</a></p>
 							</div>
@@ -9585,10 +9585,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9597,7 +9597,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/india-post-skilled-artisan-recruitment/#comments">4
+										href="india-post-skilled-artisan-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9608,7 +9608,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-post-office-recruitment/"
+										href="maharashtra-post-office-recruitment/"
 										rel="bookmark">Maharashtra Postal Circle Recruitment 2020 MTS,Postman 1371
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -9617,7 +9617,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9631,7 +9631,7 @@
 									Mailguard and MTS. Here we have given &#8230; <a
 										title="Maharashtra Postal Circle Recruitment 2020 MTS,Postman 1371 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-post-office-recruitment/"
+										href="maharashtra-post-office-recruitment/"
 										aria-label="More on Maharashtra Postal Circle Recruitment 2020 MTS,Postman 1371 Posts">Read
 										more</a></p>
 							</div>
@@ -9642,10 +9642,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9655,7 +9655,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-post-office-recruitment/#comments">13
+										href="maharashtra-post-office-recruitment/#comments">13
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9666,7 +9666,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-kolkata-recruitment/"
+										href="mail-motor-service-kolkata-recruitment/"
 										rel="bookmark">Mail Motor Service Kolkata Recruitment 2020 Apply Now 19 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9675,7 +9675,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9689,7 +9689,7 @@
 									Those Candidates who are interested in the 19 Skilled Artisan Posts &#8230; <a
 										title="Mail Motor Service Kolkata Recruitment 2020 Apply Now 19 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-kolkata-recruitment/"
+										href="mail-motor-service-kolkata-recruitment/"
 										aria-label="More on Mail Motor Service Kolkata Recruitment 2020 Apply Now 19 Post">Read
 										more</a></p>
 							</div>
@@ -9700,10 +9700,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9713,7 +9713,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-kolkata-recruitment/#comments">3
+										href="mail-motor-service-kolkata-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9724,7 +9724,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-recruitment/"
+										href="odisha-postal-circle-recruitment/"
 										rel="bookmark">Odisha Postal Circle Recruitment 2020 Apply Online GDS 2060
 										Post</a></h2>
 								<div class="entry-meta">
@@ -9733,7 +9733,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9747,7 +9747,7 @@
 									Branch Post Master &#8230; <a
 										title="Odisha Postal Circle Recruitment 2020 Apply Online GDS 2060 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-postal-circle-recruitment/"
+										href="odisha-postal-circle-recruitment/"
 										aria-label="More on Odisha Postal Circle Recruitment 2020 Apply Online GDS 2060 Post">Read
 										more</a></p>
 							</div>
@@ -9758,10 +9758,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
-										Circle</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="post-office/" rel="category tag">Postal
+										Circle</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -9771,7 +9771,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-postal-circle-recruitment/#comments">2
+										href="odisha-postal-circle-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9782,7 +9782,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-recruitment/"
+										href="rajasthan-postal-circle-recruitment/"
 										rel="bookmark">Rajasthan Postal Circle Recruitment 2020 Apply GDS 3262 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9791,7 +9791,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9805,7 +9805,7 @@
 									Branch Post Master (BPM), Assistant Branch &#8230; <a
 										title="Rajasthan Postal Circle Recruitment 2020 Apply GDS 3262 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-recruitment/"
+										href="rajasthan-postal-circle-recruitment/"
 										aria-label="More on Rajasthan Postal Circle Recruitment 2020 Apply GDS 3262 Posts">Read
 										more</a></p>
 							</div>
@@ -9816,10 +9816,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9828,7 +9828,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-postal-circle-recruitment/#comments">1
+										href="rajasthan-postal-circle-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9839,7 +9839,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-recruitment/"
+										href="haryana-postal-circle-recruitment/"
 										rel="bookmark">Haryana Postal Circle Recruitment 2020 MTS, Postman 58 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9848,7 +9848,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9862,7 +9862,7 @@
 									(MTS) Job Vacancies. Those Candidates who are interested &#8230; <a
 										title="Haryana Postal Circle Recruitment 2020 MTS, Postman 58 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-postal-circle-recruitment/"
+										href="haryana-postal-circle-recruitment/"
 										aria-label="More on Haryana Postal Circle Recruitment 2020 MTS, Postman 58 Posts">Read
 										more</a></p>
 							</div>
@@ -9873,10 +9873,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9885,7 +9885,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-postal-circle-recruitment/#respond">Leave
+										href="haryana-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9896,7 +9896,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle/"
+										href="gujarat-postal-circle/"
 										rel="bookmark">Gujarat Postal Circle Recruitment 2020 MTS, Postman 144 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9905,7 +9905,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9918,7 +9918,7 @@
 									Sorting Assistant, Postman/Mail Guard, Multi Tasking Staff (MTS) Vacancy at 144
 									Posts. In Gujarat Postal Circle Interested candidates can &#8230; <a
 										title="Gujarat Postal Circle Recruitment 2020 MTS, Postman 144 Post"
-										class="read-more" href="https://www.sarkariresult.app/gujarat-postal-circle/"
+										class="read-more" href="gujarat-postal-circle/"
 										aria-label="More on Gujarat Postal Circle Recruitment 2020 MTS, Postman 144 Post">Read
 										more</a></p>
 							</div>
@@ -9929,10 +9929,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9941,7 +9941,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-postal-circle/#comments">1
+										href="gujarat-postal-circle/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9952,7 +9952,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-postal-circle-recruitment/"
+										href="jk-postal-circle-recruitment/"
 										rel="bookmark">JK Postal Circle GDS Recruitment 2020 Apply Online 442 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9961,7 +9961,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9975,7 +9975,7 @@
 									on India Posts &#8230; <a
 										title="JK Postal Circle GDS Recruitment 2020 Apply Online 442 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jk-postal-circle-recruitment/"
+										href="jk-postal-circle-recruitment/"
 										aria-label="More on JK Postal Circle GDS Recruitment 2020 Apply Online 442 Post">Read
 										more</a></p>
 							</div>
@@ -9986,10 +9986,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9998,7 +9998,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-postal-circle-recruitment/#comments">2
+										href="jk-postal-circle-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10009,7 +10009,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-recruitment/"
+										href="kerala-postal-circle-recruitment/"
 										rel="bookmark">Kerala Postal Circle MTS Recruitment 2020 Apply Now 80 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -10018,7 +10018,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10032,7 +10032,7 @@
 									Recruitment 2020 on &#8230; <a
 										title="Kerala Postal Circle MTS Recruitment 2020 Apply Now 80 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-postal-circle-recruitment/"
+										href="kerala-postal-circle-recruitment/"
 										aria-label="More on Kerala Postal Circle MTS Recruitment 2020 Apply Now 80 Posts">Read
 										more</a></p>
 							</div>
@@ -10043,10 +10043,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10055,7 +10055,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-postal-circle-recruitment/#comments">3
+										href="kerala-postal-circle-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10066,7 +10066,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-vacancy/"
+										href="uttarakhand-postal-circle-vacancy/"
 										rel="bookmark">Uttarakhand Postal Circle GDS Recruitment 2020 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -10075,7 +10075,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10089,7 +10089,7 @@
 									Branch Post Master (BPM), Assistant Branch &#8230; <a
 										title="Uttarakhand Postal Circle GDS Recruitment 2020 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-vacancy/"
+										href="uttarakhand-postal-circle-vacancy/"
 										aria-label="More on Uttarakhand Postal Circle GDS Recruitment 2020 Apply Online">Read
 										more</a></p>
 							</div>
@@ -10100,10 +10100,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10112,7 +10112,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-vacancy/#respond">Leave
+										href="uttarakhand-postal-circle-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10123,7 +10123,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-postal-circle-recruitment/"
+										href="mp-postal-circle-recruitment/"
 										rel="bookmark">MP Postal Circle GDS Recruitment 2020 Apply Online 2834 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10132,7 +10132,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10146,7 +10146,7 @@
 									(BPM), Assistant &#8230; <a
 										title="MP Postal Circle GDS Recruitment 2020 Apply Online 2834 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-postal-circle-recruitment/"
+										href="mp-postal-circle-recruitment/"
 										aria-label="More on MP Postal Circle GDS Recruitment 2020 Apply Online 2834 Post">Read
 										more</a></p>
 							</div>
@@ -10157,10 +10157,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10169,7 +10169,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-postal-circle-recruitment/#comments">7
+										href="mp-postal-circle-recruitment/#comments">7
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10180,7 +10180,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver/"
+										href="mail-motor-service-mumbai-driver/"
 										rel="bookmark">Mail Motor Service Mumbai Driver Recruitment 2020 Apply Now</a>
 								</h2>
 								<div class="entry-meta">
@@ -10189,7 +10189,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10202,7 +10202,7 @@
 									Posts, India can apply by 30 March 2020 (Extended Date to 15 June 2020). Department
 									of &#8230; <a title="Mail Motor Service Mumbai Driver Recruitment 2020 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver/"
+										href="mail-motor-service-mumbai-driver/"
 										aria-label="More on Mail Motor Service Mumbai Driver Recruitment 2020 Apply Now">Read
 										more</a></p>
 							</div>
@@ -10213,10 +10213,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10225,7 +10225,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mail-motor-service-mumbai-driver/#comments">2
+										href="mail-motor-service-mumbai-driver/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -10236,7 +10236,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-postal-circle/" rel="bookmark">TN Postal
+										href="tn-postal-circle/" rel="bookmark">TN Postal
 										Circle MTS Recruitment 2020 Apply Now 37750 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10244,7 +10244,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10256,7 +10256,7 @@
 									Nadu Post Office Recruitment 2020 for Group C (Multi Tasking Staff) Vacancy at 37750
 									Posts. Interested candidates can apply by 24 February 2020. Tamil Nadu Postal Circle
 									&#8230; <a title="TN Postal Circle MTS Recruitment 2020 Apply Now 37750 Post"
-										class="read-more" href="https://www.sarkariresult.app/tn-postal-circle/"
+										class="read-more" href="tn-postal-circle/"
 										aria-label="More on TN Postal Circle MTS Recruitment 2020 Apply Now 37750 Post">Read
 										more</a></p>
 							</div>
@@ -10267,10 +10267,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10279,7 +10279,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-postal-circle/#respond">Leave a
+										href="tn-postal-circle/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10290,7 +10290,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-recruitment/"
+										href="wb-postal-circle-gds-recruitment/"
 										rel="bookmark">WB Postal Circle GDS Recruitment 2020 Apply Online 2021 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -10299,7 +10299,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10312,7 +10312,7 @@
 									candidates can apply by 18 March 2020. West Bengal Gramin Dak Sevak Recruitment 2020
 									&#8230; <a title="WB Postal Circle GDS Recruitment 2020 Apply Online 2021 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-recruitment/"
+										href="wb-postal-circle-gds-recruitment/"
 										aria-label="More on WB Postal Circle GDS Recruitment 2020 Apply Online 2021 Post">Read
 										more</a></p>
 							</div>
@@ -10323,10 +10323,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10335,7 +10335,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-gds-recruitment/#comments">1
+										href="wb-postal-circle-gds-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10346,7 +10346,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-postal-circle-mts-recruitment/"
+										href="wb-postal-circle-mts-recruitment/"
 										rel="bookmark">WB Postal Circle MTS Recruitment 2020 Apply Now 223 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10354,7 +10354,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10367,7 +10367,7 @@
 									Interested candidates can apply by 17 February 2020. West Bengal Postal Circle Jobs
 									&#8230; <a title="WB Postal Circle MTS Recruitment 2020 Apply Now 223 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-postal-circle-mts-recruitment/"
+										href="wb-postal-circle-mts-recruitment/"
 										aria-label="More on WB Postal Circle MTS Recruitment 2020 Apply Now 223 Post">Read
 										more</a></p>
 							</div>
@@ -10378,10 +10378,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10390,7 +10390,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-postal-circle-mts-recruitment/#respond">Leave
+										href="wb-postal-circle-mts-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10401,7 +10401,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-postal-circle/" rel="bookmark">Assam
+										href="assam-postal-circle/" rel="bookmark">Assam
 										Postal Circle GDS Recruitment 2020 Apply 919 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10409,7 +10409,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10421,7 +10421,7 @@
 									Recruitment. Those candidates can who have interested in the Post of Assam Postal
 									Circle GDS Vacancy can apply by 9 February 2020. Assam Post Office GDS Recruitment
 									2020 &#8230; <a title="Assam Postal Circle GDS Recruitment 2020 Apply 919 Post"
-										class="read-more" href="https://www.sarkariresult.app/assam-postal-circle/"
+										class="read-more" href="assam-postal-circle/"
 										aria-label="More on Assam Postal Circle GDS Recruitment 2020 Apply 919 Post">Read
 										more</a></p>
 							</div>
@@ -10432,10 +10432,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10444,7 +10444,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-postal-circle/#respond">Leave a
+										href="assam-postal-circle/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10455,7 +10455,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-postal-circle-recruitment/"
+										href="cg-postal-circle-recruitment/"
 										rel="bookmark">CG Postal Circle GDS Result 2020 Merit List, Cut Off Marks</a>
 								</h2>
 								<div class="entry-meta">
@@ -10464,7 +10464,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10478,7 +10478,7 @@
 									can download &#8230; <a
 										title="CG Postal Circle GDS Result 2020 Merit List, Cut Off Marks"
 										class="read-more"
-										href="https://www.sarkariresult.app/cg-postal-circle-recruitment/"
+										href="cg-postal-circle-recruitment/"
 										aria-label="More on CG Postal Circle GDS Result 2020 Merit List, Cut Off Marks">Read
 										more</a></p>
 							</div>
@@ -10489,10 +10489,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/post-office/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="post-office/"
 										rel="category tag">Postal Circle</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10501,7 +10501,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-postal-circle-recruitment/#respond">Leave
+										href="cg-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10512,7 +10512,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-recruitment/"
+										href="telangana-postal-circle-recruitment/"
 										rel="bookmark">Telangana Postal Circle GDS Result 2020 Merit List, Cut Off</a>
 								</h2>
 								<div class="entry-meta">
@@ -10521,7 +10521,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10535,7 +10535,7 @@
 									Postal Circle GDS Vacancy can download &#8230; <a
 										title="Telangana Postal Circle GDS Result 2020 Merit List, Cut Off"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-postal-circle-recruitment/"
+										href="telangana-postal-circle-recruitment/"
 										aria-label="More on Telangana Postal Circle GDS Result 2020 Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -10546,10 +10546,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/post-office/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="post-office/"
 										rel="category tag">Postal Circle</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10558,7 +10558,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-postal-circle-recruitment/#comments">1
+										href="telangana-postal-circle-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -10569,7 +10569,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-gds-form/" rel="bookmark">AP Postal
+										href="ap-gds-form/" rel="bookmark">AP Postal
 										Circle GDS Result 2020 Merit List, Cut Off</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10577,7 +10577,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10590,7 +10590,7 @@
 									Postal Circle Gramin Dak Sevaks Result 2020 @Download Merit List, Cut Off Marks
 									Those Candidates Are &#8230; <a
 										title="AP Postal Circle GDS Result 2020 Merit List, Cut Off" class="read-more"
-										href="https://www.sarkariresult.app/ap-gds-form/"
+										href="ap-gds-form/"
 										aria-label="More on AP Postal Circle GDS Result 2020 Merit List, Cut Off">Read
 										more</a></p>
 							</div>
@@ -10601,10 +10601,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/post-office/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="post-office/"
 										rel="category tag">Postal Circle</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10612,7 +10612,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/ap-gds-form/#respond">Leave
+										</svg></span><a href="ap-gds-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10623,7 +10623,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-postal-circle-recruitment/"
+										href="tn-postal-circle-recruitment/"
 										rel="bookmark">TN Postal Circle Recruitment 2019 Apply MTS 231 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10631,7 +10631,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10644,7 +10644,7 @@
 									can apply by 31 December 2019. TN Postal Circle Jobs 2019 @Application Form Asst,
 									Postman, MTS 231 Posts Those Candidates Are Interested in &#8230; <a
 										title="TN Postal Circle Recruitment 2019 Apply MTS 231 Post" class="read-more"
-										href="https://www.sarkariresult.app/tn-postal-circle-recruitment/"
+										href="tn-postal-circle-recruitment/"
 										aria-label="More on TN Postal Circle Recruitment 2019 Apply MTS 231 Post">Read
 										more</a></p>
 							</div>
@@ -10655,10 +10655,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10667,7 +10667,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-postal-circle-recruitment/#respond">Leave
+										href="tn-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10678,7 +10678,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-recruitment/"
+										href="uttarakhand-postal-circle-recruitment/"
 										rel="bookmark">Uttarakhand Postal Circle Recruitment 2019 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10686,7 +10686,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10699,7 +10699,7 @@
 									candidates can apply by 20 December 2019. Uttarakhand Postal Circle Jobs 2019
 									@Application Form Asst, Postman, MTS 10 Posts Those &#8230; <a
 										title="Uttarakhand Postal Circle Recruitment 2019 Apply Now" class="read-more"
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-recruitment/"
+										href="uttarakhand-postal-circle-recruitment/"
 										aria-label="More on Uttarakhand Postal Circle Recruitment 2019 Apply Now">Read
 										more</a></p>
 							</div>
@@ -10710,10 +10710,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10722,7 +10722,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/uttarakhand-postal-circle-recruitment/#respond">Leave
+										href="uttarakhand-postal-circle-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -10733,7 +10733,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-sub-inspector/" rel="bookmark">KSP Sub
+										href="ksp-sub-inspector/" rel="bookmark">KSP Sub
 										Inspector (SI) Online Form for 300 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -10741,7 +10741,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -10754,7 +10754,7 @@
 									November 2019. KSP SI Vacancy 2019 @Application Form Sub Inspector 300 Post Those
 									Candidates Are Interested in &#8230; <a
 										title="KSP Sub Inspector (SI) Online Form for 300 Post" class="read-more"
-										href="https://www.sarkariresult.app/ksp-sub-inspector/"
+										href="ksp-sub-inspector/"
 										aria-label="More on KSP Sub Inspector (SI) Online Form for 300 Post">Read
 										more</a></p>
 							</div>
@@ -10765,10 +10765,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/post-office/" rel="category tag">Postal
+										href="post-office/" rel="category tag">Postal
 										Circle</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -10777,7 +10777,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-sub-inspector/#respond">Leave a
+										href="ksp-sub-inspector/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -10802,83 +10802,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -11046,7 +11046,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

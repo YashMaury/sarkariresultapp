@@ -19,7 +19,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -31,23 +31,23 @@
 									<span style="color: #000000;"><strong>Short Information:</strong></span> The staff
 									selection commission (SSC) has released the latest SSC MTS and Havildar Admit Card
 									2023 Paper 1 notification for the <a
-										href="https://www.sarkariresult.app/admit-card/">SSC MTS Admit Card Link</a>
-									2023 and <a href="https://www.sarkariresult.app/admit-card/">Application Status</a>,
+										href="admit-card/">SSC MTS Admit Card Link</a>
+									2023 and <a href="admit-card/">Application Status</a>,
 									Exam Date of <strong>Multi-Tasking (Non-Technical) Staff a General Central Service
 										Group ‘C’ Non-Gazetted, Non-Ministerial and Havaldar a General Central Service
 										Group ‘C’ Non-Gazetted, Non-Ministerial Vacancy</strong> at<strong> 11409
 										Posts.</strong> Candidates who are interested in SSC MTS and <a
-										href="https://www.sarkariresult.app/admit-card/">Havildar Admit Card 2023</a>
+										href="admit-card/">Havildar Admit Card 2023</a>
 									can link online through the ssc.nic.in admit card official website SSC Jobs from
 									here. We have provided an SSC Havaldar Admit Card 2023 direct link for <a
-										href="https://www.sarkariresult.app/admit-card/">SSC MTS/Havaldar Hall Ticket
+										href="admit-card/">SSC MTS/Havaldar Hall Ticket
 										2023</a> download online given below.
 								</p>
 								<h2>SSC MTS and Havaldar Admit Card 2023 Check Application Status, CBT Exam Date</h2>
 								<p>Those Candidates Are Interested in SSC Recruitment 2023 the Following SSC MTS Vacancy
 									2023 Sarkari Result and Completed the All Eligibility Criteria Can Read the <a
-										href="https://www.sarkariresult.app/rojgar-result/">SSC MTS Notification</a>
-									2023 Before <a href="https://www.sarkariresult.app/sarkari-exam/">SSC Havaldar
+										href="rojgar-result/">SSC MTS Notification</a>
+									2023 Before <a href="sarkari-exam/">SSC Havaldar
 										Bharti Online Form 2023</a>. Below is a brief description of the SSC Jobs
 									official notification. Other details of SSC MTS Recruitment 2023 Like Age Limit, SSC
 									MTS Syllabus 2023 pdf, Educational Qualification, SSC MTS 2023 Syllabus, SSC
@@ -334,9 +334,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
-										rel="category tag">Govt Jobs</a>, <a href="https://www.sarkariresult.app/ssc/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
+										rel="category tag">Govt Jobs</a>, <a href="ssc/"
 										rel="category tag">SSC</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -348,7 +348,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/nhidcl-manager-asst-director-job/"
+												href="nhidcl-manager-asst-director-job/"
 												rel="prev">NHIDCL Recruitment 2023 Apply Manager, Asst Director 84
 												Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -360,7 +360,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/zss-kandhamal-vacancy/"
+												href="zss-kandhamal-vacancy/"
 												rel="next">NHM Kandhamal Recruitment 2023 MO, Technician, Worker 80
 												Post</a></span></div>
 								</nav>
@@ -393,7 +393,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/ssc-mts-online-application-2023/#comment-53467">
+														href="ssc-mts-online-application-2023/#comment-53467">
 														<time datetime="2023-01-24T08:51:29+05:30"
 															itemprop="datePublished">
 															24 Jan 2023 at 08:51 </time>
@@ -432,7 +432,7 @@
 												</div>
 												<div class="entry-meta comment-metadata">
 													<a
-														href="https://www.sarkariresult.app/ssc-mts-online-application-2023/#comment-57420">
+														href="ssc-mts-online-application-2023/#comment-57420">
 														<time datetime="2023-05-14T10:30:46+05:30"
 															itemprop="datePublished">
 															14 May 2023 at 10:30 </time>
@@ -510,83 +510,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-panchkula-engineer-job/">BEL Panchkula
+								<a href="bel-panchkula-engineer-job/">BEL Panchkula
 									Recruitment 2023 Apply Online Engineer 57 Post</a>
 							</li>
 						</ul>
@@ -771,7 +771,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

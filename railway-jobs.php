@@ -19,18 +19,18 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
 								</div>
 							</header>
 							<div class="entry-content" itemprop="text">
-								<p>If you are looking for <a href="https://www.sarkariresult.app/railway-jobs/">Railway
+								<p>If you are looking for <a href="railway-jobs/">Railway
 										Recruitment 2023</a> like Railway Group D, RRB, RRC, RPF &amp; more other
 									railway jobs then visit instant <a
-										href="https://www.sarkariresult.app/">SarkariResult.app</a>. Here we <a
-										href="https://www.sarkariresult.app/railway-jobs/">Railway Jobs</a> / Indian
+										href="">SarkariResult.app</a>. Here we <a
+										href="railway-jobs/">Railway Jobs</a> / Indian
 									Railway latest information very frequently updated.</p>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -60,1238 +60,1238 @@
 												<td>
 													<ul class="su-posts su-posts-list-loop">
 														<li id="su-post-163827" class="su-post"><a
-																href="https://www.sarkariresult.app/east-coast-railway-alp-recruitment-2023/">East
+																href="east-coast-railway-alp-recruitment-2023/">East
 																Coast Railway Recruitment 2023 ALP, Manager, Tech 781
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 September 2023
 															</span>
 														</li>
 														<li id="su-post-163777" class="su-post"><a
-																href="https://www.sarkariresult.app/south-western-railway-job/">South
+																href="south-western-railway-job/">South
 																Western Railway Recruitment 2023 Technician, JE, ALP
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 September 2023
 															</span>
 														</li>
 														<li id="su-post-163653" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-eastern-railway-notification/">Eastern
+																href="rrc-eastern-railway-notification/">Eastern
 																Railway Recruitment 2023 Tech, ALP, JE, Guard 689
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 August 2023
 															</span>
 														</li>
 														<li id="su-post-163634" class="su-post"><a
-																href="https://www.sarkariresult.app/ncl-hemm-operator-recruitment/">NCL
+																href="ncl-hemm-operator-recruitment/">NCL
 																HEMM Operator Recruitment 2023 Apply Online Trainee 338
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 August 2023 </span>
 														</li>
 														<li id="su-post-163257" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-apply-je-tech-alp-1303-post/">Central
+																href="central-railway-apply-je-tech-alp-1303-post/">Central
 																Railway Recruitment 2023 Apply JE, Tech, ALP 1303
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 Sptember 2023
 															</span>
 														</li>
 														<li id="su-post-163198" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-alp-recruitment/">Southern
+																href="southern-railway-alp-recruitment/">Southern
 																Railway ALP Recruitment 2023 Apply Guard 790 Post</a>
 															<span style="color:#ab183d">Last Date: 30 August 2023
 															</span>
 														</li>
 														<li id="su-post-163134" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-ncr-gdce-notification/">RRC
+																href="rrc-ncr-gdce-notification/">RRC
 																NCR Recruitment 2023 JE, ALP, Tech, Train Manager 323
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 August 2023
 															</span>
 														</li>
 														<li id="su-post-162786" class="su-post"><a
-																href="https://www.sarkariresult.app/mp-metro-recruitment/">MP
+																href="mp-metro-recruitment/">MP
 																Metro Recruitment 2023 Apply Now Asst, Supervisor 152
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 August 2023
 															</span>
 														</li>
 														<li id="su-post-162546" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-secr-vacancy/">RRC
+																href="rrc-secr-vacancy/">RRC
 																SECR Recruitment 2023 Apply Now JE, Technician, ALP 1016
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 August 2023
 															</span>
 														</li>
 														<li id="su-post-161469" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-swr-trade-apprentice-online-form/">South
+																href="rrc-swr-trade-apprentice-online-form/">South
 																Western Railway Recruitment 2023 Trade Apprentice 904
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 August 2023 </span>
 														</li>
 														<li id="su-post-160869" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-trade-apprentice-job/">Western
+																href="western-railway-trade-apprentice-job/">Western
 																Railway Recruitment 2023 Apply Trade Apprentice 3624
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 July 2023 </span>
 														</li>
 														<li id="su-post-160686" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-trade-apprentices-job/">IRCTC
+																href="irctc-trade-apprentices-job/">IRCTC
 																Recruitment 2023 Apply Online Trade Apprentices 25
 																Post</a>
 															<span style="color:#ab183d">Last Date: 29 June 2023 </span>
 														</li>
 														<li id="su-post-160633" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-alp-recruitment/">WCR
+																href="wcr-alp-recruitment/">WCR
 																ALP Recruitment 2023 Apply Now Assistant Loco Pilot 279
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-160512" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-sta-recruitment/">Southern
+																href="southern-railway-sta-recruitment/">Southern
 																Railway Recruitment 2023 Sr Technical Associate 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-160246" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway-jta-notification/">South
+																href="south-central-railway-jta-notification/">South
 																Central Railway JTA Recruitment 2023 Application Form 35
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2023 </span>
 														</li>
 														<li id="su-post-159841" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-trade-apprentice-online-form/">SECR
+																href="secr-trade-apprentice-online-form/">SECR
 																Trade Apprentice Recruitment 2023 Apply Now 772 Post</a>
 															<span style="color:#ab183d">Last Date: 7 July 2023 </span>
 														</li>
 														<li id="su-post-155552" class="su-post"><a
-																href="https://www.sarkariresult.app/south-east-central-railway-apply-online/">SECR
+																href="south-east-central-railway-apply-online/">SECR
 																Recruitment 2023 Apply Online Trade Apprentice 548
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 June 2023 </span>
 														</li>
 														<li id="su-post-156752" class="su-post"><a
-																href="https://www.sarkariresult.app/gmrc-non-executive-job/">Gujarat
+																href="gmrc-non-executive-job/">Gujarat
 																Metro Rail Recruitment 2023 Apply Non Executive 424
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 June 2023 </span>
 														</li>
 														<li id="su-post-123807" class="su-post"><a
-																href="https://www.sarkariresult.app/icf-sports-quota-recruitment/">ICF
+																href="icf-sports-quota-recruitment/">ICF
 																Sports Quota Recruitment 2023 Application Form 13
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 7 February 2023
 															</span>
 														</li>
 														<li id="su-post-157298" class="su-post"><a
-																href="https://www.sarkariresult.app/mpmrcl-supervisor-job/">MPMRCL
+																href="mpmrcl-supervisor-job/">MPMRCL
 																Recruitment 2023 Apply Supervisor, Maintainer 57
 																Post</a>
 															<span style="color:#ab183d">Last Date: 28 May 2023 </span>
 														</li>
 														<li id="su-post-157725" class="su-post"><a
-																href="https://www.sarkariresult.app/bmrcl-station-controller-job/">BMRCL
+																href="bmrcl-station-controller-job/">BMRCL
 																Recruitment 2023 Apply Online Train Operator 96 Post</a>
 															</span></li>
 														<li id="su-post-155992" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-ncr-jta-recruitment/">RRC
+																href="rrc-ncr-jta-recruitment/">RRC
 																NCR JTA Recruitment 2023 Apply Jr Technical Associate 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 May 2023 </span>
 														</li>
 														<li id="su-post-148937" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-nwr-alp-recruitment/">RRC
+																href="rrc-nwr-alp-recruitment/">RRC
 																NWR ALP Recruitment 2023 RRC Jaipur Asst Loco Pilot 238
 																Post</a>
 															<span style="color:#ab183d">Last Date: 6 May 2023 </span>
 														</li>
 														<li id="su-post-146144" class="su-post"><a
-																href="https://www.sarkariresult.app/bmrcl-fireman-recruitment/">BMRCL
+																href="bmrcl-fireman-recruitment/">BMRCL
 																ASO Recruitment 2023 Apply Online DCFO, DCSO 41 Post</a>
 															<span style="color:#ab183d">Last Date: 20 April 2023 </span>
 														</li>
 														<li id="su-post-41519" class="su-post"><a
-																href="https://www.sarkariresult.app/rrb-group-d-admit-card-download/">RRB
+																href="rrb-group-d-admit-card-download/">RRB
 																Group D Fee Refund Link Update Railway RRC Group D
 																(01/2019) Fee Refund Date</a>
 															</span></li>
 														<li id="su-post-150177" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-hospitality-monitor-job/">IRCTC
+																href="irctc-hospitality-monitor-job/">IRCTC
 																Hospitality Monitor Recruitment 2023 Apply Now 48
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 April 2023 </span>
 														</li>
 														<li id="su-post-144378" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-hospitality-monitor-notification/">IRCTC
+																href="irctc-hospitality-monitor-notification/">IRCTC
 																Recruitment 2023 Direct Interview Hospitality Monitor
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 April 2023 </span>
 														</li>
 														<li id="su-post-132767" class="su-post"><a
-																href="https://www.sarkariresult.app/icf-vacancy/">ICF
+																href="icf-vacancy/">ICF
 																Recruitment 2023 Application Form Erstwhile Group-D 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 March 2023 </span>
 														</li>
 														<li id="su-post-140655" class="su-post"><a
-																href="https://www.sarkariresult.app/rail-coach-factory-sonipat/">RCF
+																href="rail-coach-factory-sonipat/">RCF
 																Sonipat Recruitment 2023 Walk In Interview Pharmacist
 																Post</a>
 															</span></li>
 														<li id="su-post-138137" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-para-medical-group-c-jobs/">Southern
+																href="southern-railway-para-medical-group-c-jobs/">Southern
 																Railway Para Medical Recruitment 2023 Apply Group C
 																Post</a>
 															<span style="color:#ab183d">Last Date: 8 March 2023 </span>
 														</li>
 														<li id="su-post-138106" class="su-post"><a
-																href="https://www.sarkariresult.app/kmrl-trainee-recruitment/">KMRL
+																href="kmrl-trainee-recruitment/">KMRL
 																Trainee Recruitment 2023 Apply Online Fleet Manager 53
 																Post</a>
 															<span style="color:#ab183d">Last Date: 8 March 2023 </span>
 														</li>
 														<li id="su-post-129948" class="su-post"><a
-																href="https://www.sarkariresult.app/rcf-kapurthala-trade-apprentice-apply-online/">RCF
+																href="rcf-kapurthala-trade-apprentice-apply-online/">RCF
 																Kapurthala Recruitment 2023 Apply Trade Apprentice 550
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 March 2023 </span>
 														</li>
 														<li id="su-post-132728" class="su-post"><a
-																href="https://www.sarkariresult.app/west-central-railway-vacancy/">West
+																href="west-central-railway-vacancy/">West
 																Central Railway Recruitment 2023 Apply Now JTA, STA 30
 																Post</a>
 															</span></li>
 														<li id="su-post-128039" class="su-post"><a
-																href="https://www.sarkariresult.app/rwf-trade-apprentice-vacancy/">Rail
+																href="rwf-trade-apprentice-vacancy/">Rail
 																Wheel Factory Recruitment 2023 Trade Apprentice 192
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 20 February 2023
 															</span>
 														</li>
 														<li id="su-post-122610" class="su-post"><a
-																href="https://www.sarkariresult.app/south-eastern-railway-apprentice-job/">South
+																href="south-eastern-railway-apprentice-job/">South
 																Eastern Railway Apprentice Recruitment 2023 Apply Now
 																1785 Post</a>
 															<span style="color:#ab183d">Last Date: 2 February 2023
 															</span>
 														</li>
 														<li id="su-post-124656" class="su-post"><a
-																href="https://www.sarkariresult.app/bmrcl-vacancy/">BMRCL
+																href="bmrcl-vacancy/">BMRCL
 																Recruitment 2023 Apply Online AGM, DGM, Manager 17
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 February 2023
 															</span>
 														</li>
 														<li id="su-post-122852" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-north-western-railway-jobs/">North
+																href="rrc-north-western-railway-jobs/">North
 																Western Railway Recruitment 2023 Apply Apprentice 2026
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 February 2023
 															</span>
 														</li>
 														<li id="su-post-127387" class="su-post"><a
-																href="https://www.sarkariresult.app/gmrc-technician-apprentice-recruitment/">Gujarat
+																href="gmrc-technician-apprentice-recruitment/">Gujarat
 																Metro Rail Recruitment 2023 Technician Apprentice 45
 																Post</a>
 															<span style="color:#ab183d">Last Date: 8 February 2023
 															</span>
 														</li>
 														<li id="su-post-126462" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-jta-vacancy/">Central
+																href="central-railway-jta-vacancy/">Central
 																Railway JTA Recruitment 2023 Jr Technical Associate
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-107996" class="su-post"><a
-																href="https://www.sarkariresult.app/rrb-ntpc-aptitude-test-admit-card/">Railway
+																href="rrb-ntpc-aptitude-test-admit-card/">Railway
 																RRB NTPC CEN 01/2019 DV Test Admit Card 2023 Download
 																Link here</a>
 															</span></li>
 														<li id="su-post-122388" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-sports-quota-apply-online/">Southern
+																href="southern-railway-sports-quota-apply-online/">Southern
 																Railway Sports Quota Recruitment 2023 Apply Now 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 January 2023
 															</span>
 														</li>
 														<li id="su-post-122985" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-scr-apprentice-recruitment/">RRC
+																href="rrc-scr-apprentice-recruitment/">RRC
 																SCR Apprentice Recruitment 2023 Online Application 4103
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 20 January 2023.
 															</span>
 														</li>
 														<li id="su-post-122695" class="su-post"><a
-																href="https://www.sarkariresult.app/krcl-technical-assistant-recruitment/">KRCL
+																href="krcl-technical-assistant-recruitment/">KRCL
 																Technical Assistant Recruitment 2023 Direct Interview 41
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 January 2023
 															</span>
 														</li>
 														<li id="su-post-122509" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-apprentice-trainee-apply-jobs/">IRCTC
+																href="irctc-apprentice-trainee-apply-jobs/">IRCTC
 																Apprentice Trainee Recruitment 2023 Apply Now COPA 25
 																Post</a>
 															<span style="color:#ab183d">Last Date: 12 January 2023
 															</span>
 														</li>
 														<li id="su-post-122330" class="su-post"><a
-																href="https://www.sarkariresult.app/gujarat-metro-rail-vacancy/">Gujarat
+																href="gujarat-metro-rail-vacancy/">Gujarat
 																Metro Rail Recruitment 2023 Manager, Engineer 56
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 January 2023
 															</span>
 														</li>
 														<li id="su-post-121923" class="su-post"><a
-																href="https://www.sarkariresult.app/northern-railway-group-c-d-recruitment/">Northern
+																href="northern-railway-group-c-d-recruitment/">Northern
 																Railway Group C &#038; D Recruitment 2023 Apply Online
 																25 Post</a>
 															<span style="color:#ab183d">Last Date: 28 December 2022
 															</span>
 														</li>
 														<li id="su-post-121892" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-notification/">KRCL
+																href="konkan-railway-notification/">KRCL
 																Recruitment 2023 Walk In Interview Account Manager
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 11 January 2023
 															</span>
 														</li>
 														<li id="su-post-120537" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-central-railway-apprentice-recruitment/">Central
+																href="rrc-central-railway-apprentice-recruitment/">Central
 																Railway Apprentice Recruitment 2023 Apply Now 2422
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 January 2023
 															</span>
 														</li>
 														<li id="su-post-119146" class="su-post"><a
-																href="https://www.sarkariresult.app/jaipur-metro-recruitment-apply/">Jaipur
+																href="jaipur-metro-recruitment-apply/">Jaipur
 																Metro Recruitment 2022 Apply Now Patwari, Tehsildar 22
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 December 2022
 															</span>
 														</li>
 														<li id="su-post-118979" class="su-post"><a
-																href="https://www.sarkariresult.app/mumbai-metro-recruitment/">MMRCL
+																href="mumbai-metro-recruitment/">MMRCL
 																Recruitment 2023 Apply Manager, GM, DGM, Director 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 January 2023
 															</span>
 														</li>
 														<li id="su-post-118504" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-railway-notification/">North
+																href="north-eastern-railway-notification/">North
 																Eastern Railway Recruitment 2022 Apply Sports Quota 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 December 2022
 															</span>
 														</li>
 														<li id="su-post-118418" class="su-post"><a
-																href="https://www.sarkariresult.app/south-western-railway-hubballi/">South
+																href="south-western-railway-hubballi/">South
 																Western Railway Recruitment 2022 Apply Group C &#038; D
 																Post</a>
 															<span style="color:#ab183d">Last Date: 19 December 2022
 															</span>
 														</li>
 														<li id="su-post-118125" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-nwr-vacancy/">RRC
+																href="rrc-nwr-vacancy/">RRC
 																NWR Recruitment 2022 Group C &#038; D Helper, Clerk
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 December 2022
 															</span>
 														</li>
 														<li id="su-post-117993" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-wcr-apprentice-recruitment/">RRC
+																href="rrc-wcr-apprentice-recruitment/">RRC
 																WCR Apprentice Recruitment 2022 Apply Online 2521
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 17 December 2022
 															</span>
 														</li>
 														<li id="su-post-115321" class="su-post"><a
-																href="https://www.sarkariresult.app/south-eastern-railway-sports-quota-recruitment/">South
+																href="south-eastern-railway-sports-quota-recruitment/">South
 																Eastern Railway Recruitment 2022 Apply Sports Quota 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 November 2022
 															</span>
 														</li>
 														<li id="su-post-117065" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway-online-form/">South
+																href="south-central-railway-online-form/">South
 																Central Railway Recruitment 2022 Apply Tech III 17
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 December 2022
 															</span>
 														</li>
 														<li id="su-post-116848" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-wr-vacancy/">Western
+																href="rrc-wr-vacancy/">Western
 																Railway Recruitment 2022 Apply Online 14 Level 1 &#038;
 																2 Post</a>
 															<span style="color:#ab183d">Last Date: 9 December 2022
 															</span>
 														</li>
 														<li id="su-post-116228" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-north-eastern-railway-recruitment/">North
+																href="rrc-north-eastern-railway-recruitment/">North
 																Eastern Railway Recruitment 2022 Apply Group C &#038; D
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 November 2022
 															</span>
 														</li>
 														<li id="su-post-116136" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-central-railway-vacancy/">RRC
+																href="rrc-central-railway-vacancy/">RRC
 																Central Railway Recruitment 2022 Apply Now 596 Post</a>
 															<span style="color:#ab183d">Last Date: 28 November 2022
 															</span>
 														</li>
 														<li id="su-post-115820" class="su-post"><a
-																href="https://www.sarkariresult.app/up-metro-bharti/">UP
+																href="up-metro-bharti/">UP
 																Metro Recruitment 2022 JE, Assistant, Asst Manager 162
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 November 2022
 															</span>
 														</li>
 														<li id="su-post-115720" class="su-post"><a
-																href="https://www.sarkariresult.app/115720-2/">KMRL
+																href="115720-2/">KMRL
 																Recruitment 2022 Boat Master, Operator, Assistant 39
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 November 2022
 															</span>
 														</li>
 														<li id="su-post-115587" class="su-post"><a
-																href="https://www.sarkariresult.app/plw-recruitment/">PLW
+																href="plw-recruitment/">PLW
 																Recruitment 2022 Apply Online 311 Trade Apprentice
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 November 2022.
 															</span>
 														</li>
 														<li id="su-post-115353" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-apprentice-trainee-recruitment/">IRCTC
+																href="irctc-apprentice-trainee-recruitment/">IRCTC
 																Recruitment 2022 Apply Online Apprentice Trainee 80
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 October 2022.
 															</span>
 														</li>
 														<li id="su-post-115090" class="su-post"><a
-																href="https://www.sarkariresult.app/nfr-recruitment/">Northeast
+																href="nfr-recruitment/">Northeast
 																Frontier Railway Recruitment 2022 Sports Quota 16
 																Post</a>
 															<span style="color:#ab183d">Last Date: 7 November 2022
 															</span>
 														</li>
 														<li id="su-post-114861" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-sports-quota-recruitment/">Southern
+																href="southern-railway-sports-quota-recruitment/">Southern
 																Railway Recruitment 2022 Apply Sports Quota Posts</a>
 															<span style="color:#ab183d">Last Date: 8 November 2022
 															</span>
 														</li>
 														<li id="su-post-114270" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-apprentice-apply-online/">Southern
+																href="southern-railway-apprentice-apply-online/">Southern
 																Railway Recruitment 2022 Apply 3154 Apprentice Post</a>
 															<span style="color:#ab183d">Last Date: 31 October 2022
 															</span>
 														</li>
 														<li id="su-post-114115" class="su-post"><a
-																href="https://www.sarkariresult.app/eastern-railway-apprentice-vacancy/">Eastern
+																href="eastern-railway-apprentice-vacancy/">Eastern
 																Railway Apprentice Recruitment 2022 Apply Now 3115
 																Post</a>
 															<span style="color:#ab183d">Last Date: 29 October 2022
 															</span>
 														</li>
 														<li id="su-post-113702" class="su-post"><a
-																href="https://www.sarkariresult.app/kmrl-recruitment/">KMRL
+																href="kmrl-recruitment/">KMRL
 																Recruitment 2022 Online Application Form Apprentice 35
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 October 2022
 															</span>
 														</li>
 														<li id="su-post-113434" class="su-post"><a
-																href="https://www.sarkariresult.app/kochi-water-metro-recruitment/">Kochi
+																href="kochi-water-metro-recruitment/">Kochi
 																Water Metro Recruitment 2022 Manager, Engineer, Asst 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 October 2022
 															</span>
 														</li>
 														<li id="su-post-113227" class="su-post"><a
-																href="https://www.sarkariresult.app/cmrl-manager-recruitment/">CMRL
+																href="cmrl-manager-recruitment/">CMRL
 																GM Recruitment 2022 Apply Online Form JGM, DGM Posts</a>
 															<span style="color:#ab183d">Last Date: 24 September 2022
 															</span>
 														</li>
 														<li id="su-post-113202" class="su-post"><a
-																href="https://www.sarkariresult.app/maha-metro-jobs/">MAHA
+																href="maha-metro-jobs/">MAHA
 																Metro Recruitment 2022 DGM, Manager, Engineer, Asst 23
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 October 2022
 															</span>
 														</li>
 														<li id="su-post-112333" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-teaching-recruitment/">Central
+																href="central-railway-teaching-recruitment/">Central
 																Railway Teaching Recruitment 2022 Walk In Interview</a>
 															<span style="color:#ab183d">Last Date: 4 October 2022
 															</span>
 														</li>
 														<li id="su-post-112243" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-western-railway/">Western
+																href="rrc-western-railway/">Western
 																Railway Recruitment 2022 Apply Now 21 Sports Quota
 																Post</a>
 															</span></li>
 														<li id="su-post-111524" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-hospitality-monitor-vacancy/">IRCTC
+																href="irctc-hospitality-monitor-vacancy/">IRCTC
 																Recruitment 2022 Application Form Hospitality Monitor
 																Post</a>
 															<span style="color:#ab183d">Last Date: 16 September 2022
 															</span>
 														</li>
 														<li id="su-post-110699" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-eastern-railway-recruitment/">Eastern
+																href="rrc-eastern-railway-recruitment/">Eastern
 																Railway Recruitment 2022 Group C Sports Quota 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 29 September 2022
 															</span>
 														</li>
 														<li id="su-post-110594" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-hospitality-monitor-recruitment/">IRCTC
+																href="irctc-hospitality-monitor-recruitment/">IRCTC
 																Hospitality Monitor Recruitment 2022 Apply 70 Posts</a>
 															<span style="color:#ab183d">Last Date: 9 September 2022
 															</span>
 														</li>
 														<li id="su-post-109391" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-recruitment/">West
+																href="wcr-recruitment/">West
 																Central Railway Recruitment 2022 JE, Staff Nurse 102
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 August 2022
 															</span>
 														</li>
 														<li id="su-post-108791" class="su-post"><a
-																href="https://www.sarkariresult.app/ecr-recruitment/">East
+																href="ecr-recruitment/">East
 																Central Railway Recruitment 2022 Dresser, OT Asst 13
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 August 2022
 															</span>
 														</li>
 														<li id="su-post-100322" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-ncr-prayagraj-recruitment/">North
+																href="rrc-ncr-prayagraj-recruitment/">North
 																Central Railway Recruitment 2022 Apprentice 1659
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 1 August 2022 </span>
 														</li>
 														<li id="su-post-99028" class="su-post"><a
-																href="https://www.sarkariresult.app/integral-coach-factory-recruitment/">ICF
+																href="integral-coach-factory-recruitment/">ICF
 																Recruitment 2022 Apply Online Apprentice 876 Posts</a>
 															<span style="color:#ab183d">Last Date: 26 July 2022 </span>
 														</li>
 														<li id="su-post-101521" class="su-post"><a
-																href="https://www.sarkariresult.app/railtel-engineer-recruitment/">RailTel
+																href="railtel-engineer-recruitment/">RailTel
 																Engineer Recruitment 2022 Application Form Manager 37
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 July 2022 </span>
 														</li>
 														<li id="su-post-101645" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-south-eastern-railway-recruitment/">South
+																href="rrc-south-eastern-railway-recruitment/">South
 																Eastern Railway Recruitment 2022 Technical Associate 17
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 July 202 </span>
 														</li>
 														<li id="su-post-97737" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-railway-jobs/">North
+																href="north-eastern-railway-jobs/">North
 																Eastern Railway Recruitment 2022 Technical Associate 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 5 July 2022 </span>
 														</li>
 														<li id="su-post-89077" class="su-post"><a
-																href="https://www.sarkariresult.app/nfr-vacancy/">Northeast
+																href="nfr-vacancy/">Northeast
 																Frontier Railway Recruitment 2022 Apply Online 5636
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 June 2022 </span>
 														</li>
 														<li id="su-post-88002" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-western-railway-vacancy/">RRC
+																href="rrc-western-railway-vacancy/">RRC
 																Western Railway Recruitment 2022 Apply Online Apprentice
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 June 2022 </span>
 														</li>
 														<li id="su-post-76003" class="su-post"><a
-																href="https://www.sarkariresult.app/ministry-of-railway-recruitment/">Ministry
+																href="ministry-of-railway-recruitment/">Ministry
 																of Railway Recruitment 2022 Asst Programmer 17 Post</a>
 															<span style="color:#ab183d">Last Date: 60 Days </span>
 														</li>
 														<li id="su-post-21594" class="su-post"><a
-																href="https://www.sarkariresult.app/rrb-ntpc-fee-refund/">RRB
+																href="rrb-ntpc-fee-refund/">RRB
 																NTPC Tier 2 Answer Key 2022 RRB NTPC Level 2, 3, 5
 																(CBT-2)</a>
 															</span></li>
 														<li id="su-post-88992" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-apprentice-job/">SECR
+																href="secr-apprentice-job/">SECR
 																Apprentice Recruitment 2022 Apply Now 465 Posts</a>
 															<span style="color:#ab183d">Last Date: 22 June 2022 </span>
 														</li>
 														<li id="su-post-89121" class="su-post"><a
-																href="https://www.sarkariresult.app/mmrda-engineer-recruitment/">MMRDA
+																href="mmrda-engineer-recruitment/">MMRDA
 																Engineer Recruitment 2022 Executive Engineer, AE 15
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 June 2022 </span>
 														</li>
 														<li id="su-post-81999" class="su-post"><a
-																href="https://www.sarkariresult.app/bmrcl-recruitment/">BMRCL
+																href="bmrcl-recruitment/">BMRCL
 																Engineer Recruitment 2022 Apply Now Manager, AEE 35
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 June 2022 </span>
 														</li>
 														<li id="su-post-89011" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway-vacancy/">South
+																href="south-central-railway-vacancy/">South
 																Central Railway Recruitment 2022 Apply Assistant 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 June 2022 </span>
 														</li>
 														<li id="su-post-85036" class="su-post"><a
-																href="https://www.sarkariresult.app/gmrc-recruitment/">Gujarat
+																href="gmrc-recruitment/">Gujarat
 																Metro Rail Recruitment 2022 Apply Online Apprentice
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 May 2022 </span>
 														</li>
 														<li id="su-post-81948" class="su-post"><a
-																href="https://www.sarkariresult.app/northern-railway-senior-resident-recruitment/">Northern
+																href="northern-railway-senior-resident-recruitment/">Northern
 																Railway Recruitment 2022 Apply Senior Resident 31
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 May 2022 </span>
 														</li>
 														<li id="su-post-73690" class="su-post"><a
-																href="https://www.sarkariresult.app/cris-vacancy/">CRIS
+																href="cris-vacancy/">CRIS
 																Recruitment 2022 Apply Now ASE &#038; ADA 150 Posts</a>
 															<span style="color:#ab183d">Last Date: 24 May 2022 </span>
 														</li>
 														<li id="su-post-77275" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-apprentice-vacancy/">SECR
+																href="secr-apprentice-vacancy/">SECR
 																Apprentice Recruitment 2022 Apply Online 1033 Posts</a>
 															<span style="color:#ab183d">Last Date: 24 May 2022 </span>
 														</li>
 														<li id="su-post-78588" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-office-asst-recruitment/">KRCL
+																href="konkan-railway-office-asst-recruitment/">KRCL
 																Office Assistant Recruitment 2022 Walk In Interview</a>
 															<span style="color:#ab183d">Last Date: 18 May 2022 </span>
 														</li>
 														<li id="su-post-76012" class="su-post"><a
-																href="https://www.sarkariresult.app/cmrl-jobs/">CMRL
+																href="cmrl-jobs/">CMRL
 																Recruitment 2022 Application Form Manager, DGM, JGM 14
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 May 2022 </span>
 														</li>
 														<li id="su-post-75099" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-jobs/">Konkan
+																href="konkan-railway-jobs/">Konkan
 																Railway Recruitment 2022 Apply Technical Assistant
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 May 2022 </span>
 														</li>
 														<li id="su-post-67774" class="su-post"><a
-																href="https://www.sarkariresult.app/eastern-railway-apprentice-recruitment/">Eastern
+																href="eastern-railway-apprentice-recruitment/">Eastern
 																Railway Apprentice Recruitment 2022 Apply Now 2972
 																Post</a>
 															</span></li>
 														<li id="su-post-81036" class="su-post"><a
-																href="https://www.sarkariresult.app/south-east-central-railway-recruitment/">SECR
+																href="south-east-central-railway-recruitment/">SECR
 																Recruitment 2022 Fitter, Electrician, Stenographer 2077
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 June 2022 </span>
 														</li>
 														<li id="su-post-66991" class="su-post"><a
-																href="https://www.sarkariresult.app/blw-railway-apprentice-recruitment/">BLW
+																href="blw-railway-apprentice-recruitment/">BLW
 																Railway Apprentice Recruitment 2022 Apply Online 374
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 April 2022 </span>
 														</li>
 														<li id="su-post-65528" class="su-post"><a
-																href="https://www.sarkariresult.app/ner-sports-quota-recruitment/">NER
+																href="ner-sports-quota-recruitment/">NER
 																Sports Quota Recruitment 2022 Application Form 21
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 25 April 2022 </span>
 														</li>
 														<li id="su-post-69888" class="su-post"><a
-																href="https://www.sarkariresult.app/south-western-railway-vacancy/">South
+																href="south-western-railway-vacancy/">South
 																Western Railway Recruitment 2022 Goods Train Manager 147
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 April 2022 </span>
 														</li>
 														<li id="su-post-71213" class="su-post"><a
-																href="https://www.sarkariresult.app/north-central-railway-jta-recruitment/">North
+																href="north-central-railway-jta-recruitment/">North
 																Central Railway Recruitment 2022 Apply Online JTA 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 18 April 2022 </span>
 														</li>
 														<li id="su-post-64195" class="su-post"><a
-																href="https://www.sarkariresult.app/railtel-apprentice-trainee-recruitment/">RailTel
+																href="railtel-apprentice-trainee-recruitment/">RailTel
 																Apprentice Trainee Recruitment 2022 Apply Online 103
 																Post</a>
 															<span style="color:#ab183d">Last Date: 4 April 2022 </span>
 														</li>
 														<li id="su-post-64636" class="su-post"><a
-																href="https://www.sarkariresult.app/northeast-frontier-railway-vacancy/">Northeast
+																href="northeast-frontier-railway-vacancy/">Northeast
 																Frontier Railway Recruitment 2022 Apply Teacher 52
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 April 2022 </span>
 														</li>
 														<li id="su-post-61943" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-vacancy/">Konkan
+																href="konkan-railway-vacancy/">Konkan
 																Railway Recruitment 2022 Apply Project Engineer, STA
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 March 2022 </span>
 														</li>
 														<li id="su-post-59296" class="su-post"><a
-																href="https://www.sarkariresult.app/rcf-clerk-recruitment/">RCF
+																href="rcf-clerk-recruitment/">RCF
 																Clerk Recruitment 2022 Apply Now Technician, Typist 10
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 March 2022 </span>
 														</li>
 														<li id="su-post-60259" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-wcr-recruitment/">West
+																href="rrc-wcr-recruitment/">West
 																Central Railway Recruitment 2022 Apply Now STA, JTA 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 March 2022 </span>
 														</li>
 														<li id="su-post-57279" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-jta-recruitment/">Central
+																href="central-railway-jta-recruitment/">Central
 																Railway JTA Recruitment 2022 Technical Associate 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 March 2022 </span>
 														</li>
 														<li id="su-post-59024" class="su-post"><a
-																href="https://www.sarkariresult.app/cmrl-recruitment/">CMRL
+																href="cmrl-recruitment/">CMRL
 																Recruitment 2022 Application Form Manager, GDM, GM 19
 																Post</a>
 															<span style="color:#ab183d">Last Date: 11 March 2022 </span>
 														</li>
 														<li id="su-post-54284" class="su-post"><a
-																href="https://www.sarkariresult.app/east-coast-railway-apprentice-recruitment/">East
+																href="east-coast-railway-apprentice-recruitment/">East
 																Coast Railway Apprentice Recruitment 2022 Apply 756
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 7 March 2022 </span>
 														</li>
 														<li id="su-post-56854" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-sports-quota-recruitment/">SECR
+																href="secr-sports-quota-recruitment/">SECR
 																Sports Quota Recruitment 2022 Apply Online 21 Posts</a>
 															<span style="color:#ab183d">Last Date: 5 March 2022 </span>
 														</li>
 														<li id="su-post-51527" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-para-medical-staff-recruitment/">Western
+																href="western-railway-para-medical-staff-recruitment/">Western
 																Railway Recruitment 2022 Apply Para Medical Staff 20
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 February 2022
 															</span>
 														</li>
 														<li id="su-post-47961" class="su-post"><a
-																href="https://www.sarkariresult.app/rail-coach-factory-vacancy/">RCF
+																href="rail-coach-factory-vacancy/">RCF
 																Apprentice Recruitment 2022 Rail Coach Factory 56
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 January 2022
 															</span>
 														</li>
 														<li id="su-post-48134" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-paramedical-staff-recruitment/">SECR
+																href="secr-paramedical-staff-recruitment/">SECR
 																Paramedical Staff Recruitment 2022 Walk In Interview 75
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 January 2022
 															</span>
 														</li>
 														<li id="su-post-44456" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-sports-quota-recruitment/">WCR
+																href="wcr-sports-quota-recruitment/">WCR
 																Sports Quota Recruitment 2022 Application Form 21
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 20 January 2022
 															</span>
 														</li>
 														<li id="su-post-47872" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-railway-gateman-recruitment/">North
+																href="north-eastern-railway-gateman-recruitment/">North
 																Eastern Railway Gateman Recruitment 2022 Apply Now 323
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 January 2022
 															</span>
 														</li>
 														<li id="su-post-42951" class="su-post"><a
-																href="https://www.sarkariresult.app/bmrcl-engineer-recruitment/">BMRCL
+																href="bmrcl-engineer-recruitment/">BMRCL
 																Recruitment 2022 Apply Manager, Engineer, AEE, DGM 19
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 January 2022
 															</span>
 														</li>
 														<li id="su-post-39683" class="su-post"><a
-																href="https://www.sarkariresult.app/north-central-railway-group-c-recruitment/">North
+																href="north-central-railway-group-c-recruitment/">North
 																Central Railway Group C Recruitment 2021 Apply Now 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 December 2021
 															</span>
 														</li>
 														<li id="su-post-39171" class="su-post"><a
-																href="https://www.sarkariresult.app/ser-goods-guard-recruitment/">SER
+																href="ser-goods-guard-recruitment/">SER
 																Goods Guard Recruitment 2021 Apply Online 520 Posts</a>
 															<span style="color:#ab183d">Last Date: 23 December 2021
 															</span>
 														</li>
 														<li id="su-post-40822" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-jobs-apply/">Central
+																href="central-railway-jobs-apply/">Central
 																Railway Recruitment 2021 Apply Now Level 1, Level 2
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 December 2021
 															</span>
 														</li>
 														<li id="su-post-36686" class="su-post"><a
-																href="https://www.sarkariresult.app/south-eastern-railway-apprentice-recruitment/">South
+																href="south-eastern-railway-apprentice-recruitment/">South
 																Eastern Railway Apprentice Recruitment 2021 Apply 1785
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 December 2021
 															</span>
 														</li>
 														<li id="su-post-37760" class="su-post"><a
-																href="https://www.sarkariresult.app/eastern-railway-group-c-recruitment/">Eastern
+																href="eastern-railway-group-c-recruitment/">Eastern
 																Railway Group C Recruitment 2021 Appy Online 21
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 11 December 2021
 															</span>
 														</li>
 														<li id="su-post-31516" class="su-post"><a
-																href="https://www.sarkariresult.app/ncr-prayagraj-recruitment/">NCR
+																href="ncr-prayagraj-recruitment/">NCR
 																Prayagraj Recruitment 2021 Apply RRC Prayagraj
 																Apprentice Post</a>
 															<span style="color:#ab183d">Last Date: 1 December 2021
 															</span>
 														</li>
 														<li id="su-post-37416" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-teacher-recruitment/">Central
+																href="central-railway-teacher-recruitment/">Central
 																Railway Teacher Recruitment 2021 Walk In PGT, TGT 10
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 November 2021
 															</span>
 														</li>
 														<li id="su-post-32853" class="su-post"><a
-																href="https://www.sarkariresult.app/ser-instructor-recruitment/">SER
+																href="ser-instructor-recruitment/">SER
 																Instructor Recruitment 2021 Application Form 11
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 18 November 2021
 															</span>
 														</li>
 														<li id="su-post-30667" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-western-railway-je-recruitment/">RRC
+																href="rrc-western-railway-je-recruitment/">RRC
 																Western Railway JE Recruitment 2021 Steno, Translator 80
 																Post</a>
 															<span style="color:#ab183d">Last Date: 21 November 2021
 															</span>
 														</li>
 														<li id="su-post-31664" class="su-post"><a
-																href="https://www.sarkariresult.app/bmrcl-assistant-security-officer-recruitment/">BMRCL
+																href="bmrcl-assistant-security-officer-recruitment/">BMRCL
 																Assistant Security Officer Recruitment 2021 Apply 37
 																Post</a>
 															<span style="color:#ab183d">Last Date: 17 November 2021
 															</span>
 														</li>
 														<li id="su-post-29172" class="su-post"><a
-																href="https://www.sarkariresult.app/west-central-railway-recruitment/">West
+																href="west-central-railway-recruitment/">West
 																Central Railway Apprentice Recruitment 2021 Apply 2226
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 10 November 2021
 															</span>
 														</li>
 														<li id="su-post-28295" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-swr-apprentice-recruitment/">RRC
+																href="rrc-swr-apprentice-recruitment/">RRC
 																SWR Apprentice Recruitment 2021 Apply Online 904
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-27386" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-er-apprentice-recruitment/">RRC
+																href="rrc-er-apprentice-recruitment/">RRC
 																ER Apprentice Recruitment 2021 Apply Online 2945
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-28349" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway-apprentice-recruitment/">South
+																href="south-central-railway-apprentice-recruitment/">South
 																Central Railway Apprentice Recruitment 2021 Apply 4103
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 November 2021
 															</span>
 														</li>
 														<li id="su-post-10772" class="su-post"><a
-																href="https://www.sarkariresult.app/rrb-ministerial-and-isolated-admit-card/">RRB
+																href="rrb-ministerial-and-isolated-admit-card/">RRB
 																Ministerial and Isolated Skill Test Admit Card 2021
 																Check RRB MI Skill Test Date</a>
 															</span></li>
 														<li id="su-post-24581" class="su-post"><a
-																href="https://www.sarkariresult.app/northern-railway-apprentice-recruitment/">Northern
+																href="northern-railway-apprentice-recruitment/">Northern
 																Railway Apprentice Recruitment 2021 Apply 3093 Posts</a>
 															<span style="color:#ab183d">Last Date: 20 October 2021
 															</span>
 														</li>
 														<li id="su-post-23785" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-apprentice-job-apply/">SECR
+																href="secr-apprentice-job-apply/">SECR
 																Apprentice Recruitment 2021 Apply Online 339 Posts</a>
 															<span style="color:#ab183d">Last Date: 5 October 2021
 															</span>
 														</li>
 														<li id="su-post-24749" class="su-post"><a
-																href="https://www.sarkariresult.app/clw-apprentice-recruitment/">CLW
+																href="clw-apprentice-recruitment/">CLW
 																Apprentice Recruitment 2021 Apply Online 492 Posts</a>
 															<span style="color:#ab183d">Last Date: 3 October 2021
 															</span>
 														</li>
 														<li id="su-post-23314" class="su-post"><a
-																href="https://www.sarkariresult.app/irctc-recruitment/">IRCTC
+																href="irctc-recruitment/">IRCTC
 																Recruitment 2021 Apply Now Computer Operator 150
 																Post</a>
 															<span style="color:#ab183d">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-23012" class="su-post"><a
-																href="https://www.sarkariresult.app/east-central-railway-vacancy/">East
+																href="east-central-railway-vacancy/">East
 																Central Railways Recruitment 2021 Mechanic Diesel 30
 																Posts</a>
 															<span style="color:#ab183d">Last Date: Update Soon </span>
 														</li>
 														<li id="su-post-22896" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway-technician-recruitment/">South
+																href="south-central-railway-technician-recruitment/">South
 																Central Railway Recruitment 2021 Apply Technician 21
 																Post</a>
 															<span style="color:#ab183d">Last Date: 26 September 2021
 															</span>
 														</li>
 														<li id="su-post-22466" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-walk-in-interview/">Konkan
+																href="konkan-railway-walk-in-interview/">Konkan
 																Railway Recruitment 2021 Technical Asst Walk In
 																Interview</a>
 															<span style="color:#ab183d">Last Date: 25 September 2021
 															</span>
 														</li>
 														<li id="su-post-22297" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-teacher-recruitment/">WCR
+																href="wcr-teacher-recruitment/">WCR
 																Teacher Recruitment 2021 Direct Interview TGT &#038; PGT
 																Post</a>
 															<span style="color:#ab183d">Last Date: 27 August to 28
 																August 2021 </span>
 														</li>
 														<li id="su-post-20676" class="su-post"><a
-																href="https://www.sarkariresult.app/north-central-railway/">North
+																href="north-central-railway/">North
 																Central Railway Recruitment 2021 Apply Apprentice 1664
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 September 2021
 															</span>
 														</li>
 														<li id="su-post-20705" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-western-railway-recruitment/">RRC
+																href="rrc-western-railway-recruitment/">RRC
 																Western Railway Recruitment 2021 Apply Now Group C
 																Post</a>
 															<span style="color:#ab183d">Last Date: 3 September 2021
 															</span>
 														</li>
 														<li id="su-post-19497" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-station-master-recruitment/">WCR
+																href="wcr-station-master-recruitment/">WCR
 																Station Master Recruitment 2021 Apply Online 38
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 25 July 2021 </span>
 														</li>
 														<li id="su-post-18200" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-teacher-recruitment/">Western
+																href="western-railway-teacher-recruitment/">Western
 																Railway Teacher Recruitment 2021 Apply Now TGT 11
 																Post</a>
 															<span style="color:#ab183d">Last Date: 10 June 2021 </span>
 														</li>
 														<li id="su-post-18118" class="su-post"><a
-																href="https://www.sarkariresult.app/krcl-vacancy/">Konkan
+																href="krcl-vacancy/">Konkan
 																Railway Recruitment 2021 Manager, Accounts Asst 12
 																Post</a>
 															<span style="color:#ab183d">Last Date: 1 July 2021 </span>
 														</li>
 														<li id="su-post-17938" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-apprentice-recruitment/">Southern
+																href="southern-railway-apprentice-recruitment/">Southern
 																Railway Apprentice Recruitment 2021 Apply 3378 Posts</a>
 															<span style="color:#ab183d">Last Date: 30 June 2021 </span>
 														</li>
 														<li id="su-post-17606" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-apprentice-recruitment/">Western
+																href="western-railway-apprentice-recruitment/">Western
 																Railway Apprentice Recruitment 2021 Apply Now 3591
 																Post</a>
 															<span style="color:#ab183d">Last Date: 24 June 2021 </span>
 														</li>
 														<li id="su-post-5886" class="su-post"><a
-																href="https://www.sarkariresult.app/rrb-ntpc-admit-card/">RRB
+																href="rrb-ntpc-admit-card/">RRB
 																NTPC Admit Card 2021 Check Phase VI Exam Date
 																RRB/CEN/1/2019</a>
 															</span></li>
 														<li id="su-post-17422" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway-jobs/">SCR
+																href="south-central-railway-jobs/">SCR
 																Paramedical Staff Recruitment 2021 Application Form 40
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 May 2021 </span>
 														</li>
 														<li id="su-post-17206" class="su-post"><a
-																href="https://www.sarkariresult.app/integral-coach-factory/">ICF
+																href="integral-coach-factory/">ICF
 																Recruitment 2021 Apply Online Staff Nurse, Assistant 39
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 May 2021 </span>
 														</li>
 														<li id="su-post-17178" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-jobs/">Western
+																href="western-railway-jobs/">Western
 																Railway Recruitment 2021 Attendant, Nursing 27 Post</a>
 															<span style="color:#ab183d">Last Date: 11 May 2021 </span>
 														</li>
 														<li id="su-post-17142" class="su-post"><a
-																href="https://www.sarkariresult.app/nfr-paramedical-staff-recruitment/">NFR
+																href="nfr-paramedical-staff-recruitment/">NFR
 																Paramedical Staff Recruitment 2021 Apply Online 15
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 15 May 2021 </span>
 														</li>
 														<li id="su-post-17080" class="su-post"><a
-																href="https://www.sarkariresult.app/chennai-metro/">CMRL
+																href="chennai-metro/">CMRL
 																Recruitment 2021 Manager, DGM, AGM, Officer 11 Post</a>
 															<span style="color:#ab183d">Last Date: 2 June 2021 </span>
 														</li>
 														<li id="su-post-16893" class="su-post"><a
-																href="https://www.sarkariresult.app/northern-railway-vacancy/">Northern
+																href="northern-railway-vacancy/">Northern
 																Railway Recruitment 2021 Paramedical Staff 80 Posts</a>
 															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-16776" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-job-vacancy/">Southern
+																href="southern-railway-job-vacancy/">Southern
 																Railway Recruitment 2021 Para Medical Staff 191 Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-16696" class="su-post"><a
-																href="https://www.sarkariresult.app/maha-metro-vacancy/">Maha
+																href="maha-metro-vacancy/">Maha
 																Metro Recruitment 2021 Apply Now JE, Manager 14 Post</a>
 															<span style="color:#ab183d">Last Date: 15 May 2021 </span>
 														</li>
 														<li id="su-post-13645" class="su-post"><a
-																href="https://www.sarkariresult.app/railway-blw-apprentice-recruitment/">Railway
+																href="railway-blw-apprentice-recruitment/">Railway
 																BLW Apprentice Result 2021 Check Merit List, Cut Off</a>
 															</span></li>
 														<li id="su-post-15854" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-kota-apprentice-recruitment/">WCR
+																href="wcr-kota-apprentice-recruitment/">WCR
 																Kota Apprentice Recruitment 2021 Steno, Mechanic 716
 																Post</a>
 															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-15839" class="su-post"><a
-																href="https://www.sarkariresult.app/northeast-frontier-railway/">Northeast
+																href="northeast-frontier-railway/">Northeast
 																Frontier Railway Recruitment 2021 JE, Helper 370
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-15641" class="su-post"><a
-																href="https://www.sarkariresult.app/east-central-railway-recruitment/">East
+																href="east-central-railway-recruitment/">East
 																Central Railway Recruitment 2021 Ticket Clerk 61
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 30 April 2021 </span>
 														</li>
 														<li id="su-post-15633" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-paramedical-staff-recruitment/">Central
+																href="central-railway-paramedical-staff-recruitment/">Central
 																Railway Recruitment 2021 Apply Paramedical Staff 52
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 March 2021 </span>
 														</li>
 														<li id="su-post-15564" class="su-post"><a
-																href="https://www.sarkariresult.app/wcr-apprentice-recruitment/">WCR
+																href="wcr-apprentice-recruitment/">WCR
 																Apprentice Recruitment 2021 Apply Online 680 Posts</a>
 															<span style="color:#ab183d">Last Date: 5 April 2021 </span>
 														</li>
 														<li id="su-post-15442" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-ser-recruitment/">RRC
+																href="rrc-ser-recruitment/">RRC
 																SCR Recruitment 2021 Apply JE, Steno, Translator 96
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 April 2021 </span>
 														</li>
 														<li id="su-post-15153" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-technical-asst-recruitment/">Konkan
+																href="konkan-railway-technical-asst-recruitment/">Konkan
 																Railway Technical Asst Recruitment 2021 Apply Now</a>
 															</span></li>
 														<li id="su-post-15147" class="su-post"><a
-																href="https://www.sarkariresult.app/dmw-patiala-recruitment/">DMW
+																href="dmw-patiala-recruitment/">DMW
 																Patiala Recruitment 2021 Apply Online Apprentice 182
 																Post</a>
 															<span style="color:#ab183d">Last Date: 31 March 2021 </span>
 														</li>
 														<li id="su-post-13960" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-apprentice-recruitment/">Central
+																href="central-railway-apprentice-recruitment/">Central
 																Railway Apprentice Recruitment 2021 Apply 2532 Post</a>
 															<span style="color:#ab183d">Last Date: 5 March 2021 </span>
 														</li>
 														<li id="su-post-13741" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-recruitment/">SECR
+																href="secr-recruitment/">SECR
 																Recruitment 2021 Apply Sports Quota Group C 26 Posts</a>
 															<span style="color:#ab183d">Last Date: 23 February 2021
 															</span>
 														</li>
 														<li id="su-post-12693" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-je-recruitment/">Konkan
+																href="konkan-railway-je-recruitment/">Konkan
 																Railway JE Recruitment 2021 Junior Engineer 10 Posts</a>
 															<span style="color:#ab183d">Last Date: 15 January 2021
 															</span>
 														</li>
 														<li id="su-post-12300" class="su-post"><a
-																href="https://www.sarkariresult.app/swr-apprentice-recruitment/">SWR
+																href="swr-apprentice-recruitment/">SWR
 																Apprentice Recruitment 2021 RRC Hubli Apprentice 1004
 																Post</a>
 															<span style="color:#ab183d">Last Date: 9 January 2021
 															</span>
 														</li>
 														<li id="su-post-11813" class="su-post"><a
-																href="https://www.sarkariresult.app/south-western-railway-recruitment/">South
+																href="south-western-railway-recruitment/">South
 																Western Railway Recruitment 2020 Apply Group C 21
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 28 December 2020
 															</span>
 														</li>
 														<li id="su-post-10858" class="su-post"><a
-																href="https://www.sarkariresult.app/mcf-raebareli-recruitment/">MCF
+																href="mcf-raebareli-recruitment/">MCF
 																Raebareli Recruitment 2020 Apply Online Apprentice 110
 																Post</a>
 															<span style="color:#ab183d">Last Date: 2 December 2020
 															</span>
 														</li>
 														<li id="su-post-6933" class="su-post"><a
-																href="https://www.sarkariresult.app/south-east-central-railway/">South
+																href="south-east-central-railway/">South
 																East Central Railway Recruitment 2020 Apprentice 432
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 1 December 2020
 															</span>
 														</li>
 														<li id="su-post-10875" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-apprentice-recruitment/">SECR
+																href="secr-apprentice-recruitment/">SECR
 																Apprentice Recruitment 2020 Apply Online 413 Post</a>
 															<span style="color:#ab183d">Last Date: 12 December 2020
 															</span>
 														</li>
 														<li id="su-post-10708" class="su-post"><a
-																href="https://www.sarkariresult.app/konkan-railway-recruitment/">Konkan
+																href="konkan-railway-recruitment/">Konkan
 																Railway Recruitment 2020 KRCL Technician 58 Post</a>
 															<span style="color:#ab183d">Last Date: 27 November 2020
 															</span>
 														</li>
 														<li id="su-post-9787" class="su-post"><a
-																href="https://www.sarkariresult.app/secl-recruitment/">SECL
+																href="secl-recruitment/">SECL
 																Recruitment 2020 DEO, Staff Nurse, Inspector 310
 																Post</a>
 															<span style="color:#ab183d">Last Date: 29 October 2020
 															</span>
 														</li>
 														<li id="su-post-9177" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-junior-clerk-vacancy/">Central
+																href="central-railway-junior-clerk-vacancy/">Central
 																Railway Recruitment 2020 Apply Junior Clerk 251 Post</a>
 															<span style="color:#ab183d">Last Date: 5 October 2020
 															</span>
 														</li>
 														<li id="su-post-8869" class="su-post"><a
-																href="https://www.sarkariresult.app/rrb-ntpc-application-status/">RRB
+																href="rrb-ntpc-application-status/">RRB
 																NTPC Application Status 2020 Link Check CEN 01/2019
 																Status Date</a>
 															<span style="color:#ab183d">Last Date: 30 September 2020
 															</span>
 														</li>
 														<li id="su-post-8517" class="su-post"><a
-																href="https://www.sarkariresult.app/north-eastern-railway-recruitment/">North
+																href="north-eastern-railway-recruitment/">North
 																Eastern Railway PGT, TGT Interview Result 2020 Check
 																Here</a>
 															<span style="color:#ab183d">Last Date: 21 September 2020
 															</span>
 														</li>
 														<li id="su-post-4669" class="su-post"><a
-																href="https://www.sarkariresult.app/railway-jobs/">Railway
+																href="railway-jobs/">Railway
 																Recruitment 2023 Apply Online Group D, RRB, RRC Post</a>
 															</span></li>
 														<li id="su-post-8008" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-ser-instructor-vacancy/">South
+																href="rrc-ser-instructor-vacancy/">South
 																Eastern Railway Instructor Recruitment 2020 Apply
 																Now</a>
 															<span style="color:#ab183d">Last Date: 7 September 2020
 															</span>
 														</li>
 														<li id="su-post-7870" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-paramedical-recruitment/">Southern
+																href="southern-railway-paramedical-recruitment/">Southern
 																Railway Recruitment 2020 Apply Paramedical 201 Post</a>
 															<span style="color:#ab183d">Last Date: 14 August 2020
 															</span>
 														</li>
 														<li id="su-post-6488" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-jta-recruitment/">Western
+																href="western-railway-jta-recruitment/">Western
 																Railway JTA Recruitment 2020 Technical Associate
 																Post</a>
 															<span style="color:#ab183d">Last Date: 22 August 2020
 															</span>
 														</li>
 														<li id="su-post-5996" class="su-post"><a
-																href="https://www.sarkariresult.app/south-central-railway/">South
+																href="south-central-railway/">South
 																Central Railway Recruitment 2020 Apply Online 110
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 15 July 2020 </span>
 														</li>
 														<li id="su-post-3009" class="su-post"><a
-																href="https://www.sarkariresult.app/railway-clerk-alp-tc-jobs/">South
+																href="railway-clerk-alp-tc-jobs/">South
 																Eastern Railway Clerk Recruitment 2020 Apply 617
 																Post</a>
 															<span style="color:#ab183d">Last Date: 15 July 2020 </span>
 														</li>
 														<li id="su-post-5260" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-jaipur-vacancy/">RRC
+																href="rrc-jaipur-vacancy/">RRC
 																Jaipur Para Medical Staff Recruitment 2020 Apply 184
 																Post</a>
 															</span></li>
 														<li id="su-post-5152" class="su-post"><a
-																href="https://www.sarkariresult.app/north-central-railway-recruitment/">North
+																href="north-central-railway-recruitment/">North
 																Central Railway Recruitment 2020 Apprentice 196
 																Posts</a>
 															<span style="color:#ab183d">Last Date: 15 July 2020 </span>
 														</li>
 														<li id="su-post-3946" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-wr-recruitment/">RRC
+																href="rrc-wr-recruitment/">RRC
 																WR Clerk Recruitment 2020 Apply Now Group C &#038; D 42
 																Post</a>
 															<span style="color:#ab183d">Last Date: 13 June 2020 </span>
 														</li>
 														<li id="su-post-3464" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-para-medical-staff-recruitment/">Southern
+																href="southern-railway-para-medical-staff-recruitment/">Southern
 																Railway Para Medical Staff Recruitment 2020 Apply
 																Now</a>
 															<span style="color:#ab183d">Last Date: 22 April 2020 </span>
 														</li>
 														<li id="su-post-3379" class="su-post"><a
-																href="https://www.sarkariresult.app/western-railway-recruitment/">Western
+																href="western-railway-recruitment/">Western
 																Railway Staff Nurse Recruitment 2020 Apply 18 Posts</a>
 															<span style="color:#ab183d">Last Date: 19 April 2020 </span>
 														</li>
 														<li id="su-post-3358" class="su-post"><a
-																href="https://www.sarkariresult.app/northern-railway-job-vacancy/">Northern
+																href="northern-railway-job-vacancy/">Northern
 																Railway Recruitment 2020 GDMO,Staff Nurse 134 Post</a>
 															<span style="color:#ab183d">Last Date: 17 April 2020 </span>
 														</li>
 														<li id="su-post-3330" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-central-railway-recruitment/">RRC
+																href="rrc-central-railway-recruitment/">RRC
 																Central Railway Recruitment 2020 Attendant, Asst 92
 																Post</a>
 															<span style="color:#ab183d">Last Date: 20 April 2020 </span>
 														</li>
 														<li id="su-post-3304" class="su-post"><a
-																href="https://www.sarkariresult.app/southern-railway-paramedical-jobs/">Southern
+																href="southern-railway-paramedical-jobs/">Southern
 																Railway Paramedical Recruitment 2020 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 17 April 2020 </span>
 														</li>
 														<li id="su-post-3299" class="su-post"><a
-																href="https://www.sarkariresult.app/rrc-bilaspur-recruitment/">RRC
+																href="rrc-bilaspur-recruitment/">RRC
 																Bilaspur Recruitment 2020 RRC SECR Group C 103 Posts</a>
 															<span style="color:#ab183d">Last Date: 13 April 2020 </span>
 														</li>
 														<li id="su-post-3283" class="su-post"><a
-																href="https://www.sarkariresult.app/secr-staff-nurse-recruitment/">RRC
+																href="secr-staff-nurse-recruitment/">RRC
 																SECR Staff Nurse Recruitment 2020 Apply Online 31
 																Post</a>
 															<span style="color:#ab183d">Last Date: 14 April 2020 </span>
 														</li>
 														<li id="su-post-3220" class="su-post"><a
-																href="https://www.sarkariresult.app/northern-railway-recruitment/">Northern
+																href="northern-railway-recruitment/">Northern
 																Railway Staff Nurse Recruitment 2020 Apply Now</a>
 															<span style="color:#ab183d">Last Date: 7 April 2020 </span>
 														</li>
 														<li id="su-post-2533" class="su-post"><a
-																href="https://www.sarkariresult.app/central-railway-recruitment/">Central
+																href="central-railway-recruitment/">Central
 																Railway Recruitment 2020 Apply Online JTO 37 Posts</a>
 															<span style="color:#ab183d">Last Date: 6 March 2020 </span>
 														</li>
 														<li id="su-post-2515" class="su-post"><a
-																href="https://www.sarkariresult.app/south-eastern-railway-recruitment/">South
+																href="south-eastern-railway-recruitment/">South
 																Eastern Railway Recruitment 2020 Apply Online 158
 																Posts</a>
 															</span></li>
 														<li id="su-post-1795" class="su-post"><a
-																href="https://www.sarkariresult.app/ecr-group-d-jobs/">East
+																href="ecr-group-d-jobs/">East
 																Central Railway Recruitment 2020 Group D 447 Post</a>
 															<span style="color:#ab183d">Last Date: 20 February 2020
 															</span>
@@ -1301,7 +1301,7 @@
 															style="color: #0000ff;"><strong
 																style="float: right; padding: 0px 6px;"><a
 																	style="color: #0000ee; text-decoration: underline;"
-																	href="https://www.sarkariresult.app/railway-jobs/"
+																	href="railway-jobs/"
 																	target="_blank" rel="noopener noreferrer">More
 																	»</a></strong></span></span>
 												</td>
@@ -1319,8 +1319,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/railway-vacancy/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="railway-vacancy/"
 										rel="category tag">Railway Jobs</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -1332,7 +1332,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/indian-air-force-airmen-rally/"
+												href="indian-air-force-airmen-rally/"
 												rel="prev">Indian Air Force Airmen Rally 2020 Apply IAF Group X
 												Technical Post</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -1344,7 +1344,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/fazilka-municipal-corporation-recruitment/"
+												href="fazilka-municipal-corporation-recruitment/"
 												rel="next">Fazilka Municipal Corporation Recruitment 2020 Sweeper 26
 												Post</a></span></div>
 								</nav>
@@ -1376,7 +1376,7 @@
 													<cite itemprop="name" class="fn">Purushottam</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5155">
+													<a href="railway-jobs/#comment-5155">
 														<time datetime="2020-05-30T22:52:14+05:30"
 															itemprop="datePublished">
 															30 May 2020 at 22:52 </time>
@@ -1416,7 +1416,7 @@
 														</div>
 														<div class="entry-meta comment-metadata">
 															<a
-																href="https://www.sarkariresult.app/railway-jobs/#comment-5158">
+																href="railway-jobs/#comment-5158">
 																<time datetime="2020-06-10T19:55:11+05:30"
 																	itemprop="datePublished">
 																	10 Jun 2020 at 19:55 </time>
@@ -1457,7 +1457,7 @@
 													<cite itemprop="name" class="fn">Kishan shrivastava.</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5156">
+													<a href="railway-jobs/#comment-5156">
 														<time datetime="2020-06-04T15:29:19+05:30"
 															itemprop="datePublished">
 															4 Jun 2020 at 15:29 </time>
@@ -1495,7 +1495,7 @@
 													<cite itemprop="name" class="fn">Harinam Singh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5157">
+													<a href="railway-jobs/#comment-5157">
 														<time datetime="2020-06-08T07:40:58+05:30"
 															itemprop="datePublished">
 															8 Jun 2020 at 07:40 </time>
@@ -1533,7 +1533,7 @@
 													<cite itemprop="name" class="fn">sarkariresult</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5159">
+													<a href="railway-jobs/#comment-5159">
 														<time datetime="2020-06-12T12:20:02+05:30"
 															itemprop="datePublished">
 															12 Jun 2020 at 12:20 </time>
@@ -1571,7 +1571,7 @@
 													<cite itemprop="name" class="fn">Hemlata</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5160">
+													<a href="railway-jobs/#comment-5160">
 														<time datetime="2020-08-22T23:00:41+05:30"
 															itemprop="datePublished">
 															22 Aug 2020 at 23:00 </time>
@@ -1609,7 +1609,7 @@
 													<cite itemprop="name" class="fn">Poonam patel</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5161">
+													<a href="railway-jobs/#comment-5161">
 														<time datetime="2020-08-28T20:27:38+05:30"
 															itemprop="datePublished">
 															28 Aug 2020 at 20:27 </time>
@@ -1647,7 +1647,7 @@
 													<cite itemprop="name" class="fn">Dinesh Sharma</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-5162">
+													<a href="railway-jobs/#comment-5162">
 														<time datetime="2020-08-30T22:30:09+05:30"
 															itemprop="datePublished">
 															30 Aug 2020 at 22:30 </time>
@@ -1685,7 +1685,7 @@
 													<cite itemprop="name" class="fn">Tushar</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-6176">
+													<a href="railway-jobs/#comment-6176">
 														<time datetime="2020-09-06T17:39:48+05:30"
 															itemprop="datePublished">
 															6 Sep 2020 at 17:39 </time>
@@ -1723,7 +1723,7 @@
 													<cite itemprop="name" class="fn">Rakesh t</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-6779">
+													<a href="railway-jobs/#comment-6779">
 														<time datetime="2020-09-18T22:31:00+05:30"
 															itemprop="datePublished">
 															18 Sep 2020 at 22:31 </time>
@@ -1761,7 +1761,7 @@
 													<cite itemprop="name" class="fn">Rakesh singh</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-6780">
+													<a href="railway-jobs/#comment-6780">
 														<time datetime="2020-09-18T22:32:23+05:30"
 															itemprop="datePublished">
 															18 Sep 2020 at 22:32 </time>
@@ -1799,7 +1799,7 @@
 													<cite itemprop="name" class="fn">Khushbu kumari</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-7351">
+													<a href="railway-jobs/#comment-7351">
 														<time datetime="2020-09-30T08:46:55+05:30"
 															itemprop="datePublished">
 															30 Sep 2020 at 08:46 </time>
@@ -1837,7 +1837,7 @@
 													<cite itemprop="name" class="fn">RAJESH KUMAR</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-8206">
+													<a href="railway-jobs/#comment-8206">
 														<time datetime="2020-10-16T16:56:08+05:30"
 															itemprop="datePublished">
 															16 Oct 2020 at 16:56 </time>
@@ -1875,7 +1875,7 @@
 													<cite itemprop="name" class="fn">Lokesh Sharma</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-11666">
+													<a href="railway-jobs/#comment-11666">
 														<time datetime="2021-01-10T07:43:17+05:30"
 															itemprop="datePublished">
 															10 Jan 2021 at 07:43 </time>
@@ -1914,7 +1914,7 @@
 													<cite itemprop="name" class="fn">Sunil yadav</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-14865">
+													<a href="railway-jobs/#comment-14865">
 														<time datetime="2021-02-26T15:26:36+05:30"
 															itemprop="datePublished">
 															26 Feb 2021 at 15:26 </time>
@@ -1952,7 +1952,7 @@
 													<cite itemprop="name" class="fn">Suraj Kumar pandit</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-23348">
+													<a href="railway-jobs/#comment-23348">
 														<time datetime="2021-07-04T13:07:20+05:30"
 															itemprop="datePublished">
 															4 Jul 2021 at 13:07 </time>
@@ -1990,7 +1990,7 @@
 													<cite itemprop="name" class="fn">M.jinsha</cite>
 												</div>
 												<div class="entry-meta comment-metadata">
-													<a href="https://www.sarkariresult.app/railway-jobs/#comment-28435">
+													<a href="railway-jobs/#comment-28435">
 														<time datetime="2021-10-08T18:48:43+05:30"
 															itemprop="datePublished">
 															8 Oct 2021 at 18:48 </time>
@@ -2066,84 +2066,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(18 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(18 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (18 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/esic-bihta-junior-resident-job/">ESIC Bihta
+								<a href="esic-bihta-junior-resident-job/">ESIC Bihta
 									Recruitment 2023 Direct Interview Jr Resident 18 Post</a>
 							</li>
 							<li>
 								<a
-									href="https://www.sarkariresult.app/isec-walk-in-interview-for-listers-mappers-post/">ISEC
+									href="isec-walk-in-interview-for-listers-mappers-post/">ISEC
 									Recruitment 2023 Walk In Interview for Listers, Mappers Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (18
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (18
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 						</ul>
@@ -2328,7 +2328,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
+			href="wp-content/cache/min/1/24799490c8d3e90789cb905b6ff95c8a.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

@@ -19,7 +19,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -28,21 +28,21 @@
 							<div class="entry-content" itemprop="text">
 								<p><span style="color: #000000;"><strong>Name of Post: </strong></span>Sarkari Result TS
 									SSC Result 2023 Live Update: <a
-										href="https://www.sarkariresult.app/results/">Telangana Board 10th Result
+										href="results/">Telangana Board 10th Result
 										2023</a> Check: TS 10th Result 2023 Declared: Check Manabadi SSC Result 2023
 									Link<br />
 									<span style="color: #000000;"><strong>Short Information: </strong></span>Today TS
 									SSC Result 2023 Latest Updates: SSC (10th) result declared by BSE Telangana at
 									bse.telangana.gov.in Manabadi SSC result kr diya gya. Board of Secondary Education,
 									Telangana (BSE Telangana) has uploaded the Telangana Board 10th Result 2023. <a
-										href="https://www.sarkariresult.app/results/">Manabadi 10th Class Result
+										href="results/">Manabadi 10th Class Result
 										2023</a> Declared by BSE Telangana on 10 May 2023 at 12:00 PM. All the students
 									who are waiting for class 10 latest updates download their BSE Telangana SSC Result
 									2023 from the link given by us. TS Board SSC Result by checking online at
 									bse.telangana.gov.in 2023 SSC Result website. Sarkari Result <a
-										href="https://www.sarkariresult.app/results/">TS SSC Result 2023</a> link has
+										href="results/">TS SSC Result 2023</a> link has
 									been activated on the official website. Sarkari Result <a
-										href="https://www.sarkariresult.app/results/">Telangana 10th Class Result
+										href="results/">Telangana 10th Class Result
 										2023</a> link www.bse.telangana.gov.in TS SSC Result 2023 Manabadi has been
 									activated. All the students now have Telangana SSC Result 2023 as well as TS 10th
 									Result 2023 with more details given below Manabadi SSC Result 2023.
@@ -52,11 +52,11 @@
 								<p>Sarkari Result TS SSC Result 2023 Date All Students Check your TS Board SSC Result
 									2023 Manabadi Live News and BSE Telangana Class 10th result 2023 Live Updates Here
 									Sarkari Result 10th Class Result 2023 TS Manabad here also check the <a
-										href="https://www.sarkariresult.app/results/">Telangana Board 10th Result
+										href="results/">Telangana Board 10th Result
 										2023</a> Date published on the Manabadi Class 10 / SSC Results 2023 kab aayega
 									Click Here Today. TS SSC Marks Memo 2023 Check Now Sarkari Result Manabadi TS 10th
 									Results 2023 available here when published www.bse.telangana.gov.in result 2023 TS
-									SSC on the <a href="https://www.sarkariresult.app/results/">Manabadi 10th Results
+									SSC on the <a href="results/">Manabadi 10th Results
 										Online</a>
 								<div data-ad-id="19274"
 									style="text-align:center; margin-top:px; margin-bottom:px; margin-left:px; margin-right:px;float:none;"
@@ -72,7 +72,7 @@
 										(adsbygoogle = window.adsbygoogle || []).push({});
 									</script>
 								</div> check official website <a
-									href="https://www.sarkariresult.app/results/">www.bse.telangana.gov.in 2023 SSC
+									href="results/">www.bse.telangana.gov.in 2023 SSC
 									Results</a> | www.bse.telangana.gov.in result 2023 10th Notification, for Telangana
 								SSC results with marks 2023 Check from here bse.telangana.gov.in TS SSC Result 2023, as
 								well as Manabadi SSC Results 2023.</p>
@@ -84,7 +84,7 @@
 											Details</strong></span></p>
 								<ul>
 									<li>Telangana SSC Board Exam Date: 3 April to 13th April 2023.</li>
-									<li><a href="https://www.sarkariresult.app/results/">Telangana SSC Board Exam
+									<li><a href="results/">Telangana SSC Board Exam
 											Result</a> Declare Date: (Today 10 May 2023 at 12:00 Noon).</li>
 								</ul>
 								<p><span style="text-decoration: underline;"><strong>TS 10th Result 2023 Course/Exam
@@ -149,11 +149,11 @@
 										results link to the official website BSE Telangana.</li>
 									<li><strong>Step 2:</strong> Now click on the Telangana SSC result 2023 link.</li>
 									<li><strong>Step 3: </strong><a
-											href="https://www.sarkariresult.app/results/">Manabadi TS SSC Result
+											href="results/">Manabadi TS SSC Result
 											2023</a> Login page for Class 10 2023 will appear on the screen.</li>
 									<li><strong>Step 4:</strong> Enter the hall ticket number and captcha code.</li>
 									<li><strong>Step 5:</strong> Click on the submit button.</li>
-									<li><strong>Step 6: </strong>Your <a href="https://www.sarkariresult.app/">Telangana
+									<li><strong>Step 6: </strong>Your <a href="">Telangana
 											SSC result 2023</a> will appear on the computer screen.</li>
 									<li><strong>Step 7:</strong> Download the TS SSC Result and take a printout for
 										future reference.</li>
@@ -177,10 +177,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/10th-12th-result/"
+										href="10th-12th-result/"
 										rel="category tag">10th/12th Result</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/sarkari-result/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="sarkari-result/"
 										rel="category tag">Results</a></span>
 								<nav id="nav-below" class="post-navigation" aria-label="Posts">
 									<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
@@ -192,7 +192,7 @@
 													d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
 													fill-rule="nonzero" />
 											</svg></span><span class="prev"><a
-												href="https://www.sarkariresult.app/cgbse-10th-12th-result/"
+												href="cgbse-10th-12th-result/"
 												rel="prev">Chhattisgarh Board Result 2023 Check CGBSE 10th, 12th Result
 												Link</a></span></div>
 									<div class="nav-next"><span class="gp-icon icon-arrow-right"><svg
@@ -204,7 +204,7 @@
 													d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
 													fill-rule="nonzero" />
 											</svg></span><span class="next"><a
-												href="https://www.sarkariresult.app/skuast-driver-stenographer-job/"
+												href="skuast-driver-stenographer-job/"
 												rel="next">SKUAST Recruitment 2023 Apply Online Driver, Stenographer
 												Post</a></span></div>
 								</nav>
@@ -271,84 +271,84 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/esic-bihta-junior-resident-job/">ESIC Bihta
+								<a href="esic-bihta-junior-resident-job/">ESIC Bihta
 									Recruitment 2023 Direct Interview Jr Resident 18 Post</a>
 							</li>
 							<li>
 								<a
-									href="https://www.sarkariresult.app/isec-walk-in-interview-for-listers-mappers-post/">ISEC
+									href="isec-walk-in-interview-for-listers-mappers-post/">ISEC
 									Recruitment 2023 Walk In Interview for Listers, Mappers Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 						</ul>
@@ -533,7 +533,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
+			href="wp-content/cache/min/1/5682a410646f661bdb77dce1819c3bc5.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

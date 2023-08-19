@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/smvdu-recruitment-apply/"
+										href="smvdu-recruitment-apply/"
 										rel="bookmark">SMVDU Recruitment 2022 Professor, Assistant Professor 49 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -26,7 +26,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -40,7 +40,7 @@
 									candidates who are interested in SMVDU Assistant Professor Recruitment 2022 apply
 									online &#8230; <a
 										title="SMVDU Recruitment 2022 Professor, Assistant Professor 49 Post"
-										class="read-more" href="https://www.sarkariresult.app/smvdu-recruitment-apply/"
+										class="read-more" href="smvdu-recruitment-apply/"
 										aria-label="More on SMVDU Recruitment 2022 Professor, Assistant Professor 49 Post">Read
 										more</a></p>
 							</div>
@@ -51,11 +51,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/syllabus/" rel="category tag">Syllabus</a>,
-									<a href="https://www.sarkariresult.app/teacher-vacancy/" rel="category tag">Teacher
+										href="syllabus/" rel="category tag">Syllabus</a>,
+									<a href="teacher-vacancy/" rel="category tag">Teacher
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -64,7 +64,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/smvdu-recruitment-apply/#respond">Leave a
+										href="smvdu-recruitment-apply/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -75,7 +75,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-stenographer-syllabus/"
+										href="ssc-stenographer-syllabus/"
 										rel="bookmark">SSC Steno Admit Card 2020 Check SSC Stenographer New Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -84,7 +84,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -97,7 +97,7 @@
 									SSC Stenographer Grade C and D exam will be conducted from 16 to 18 November &#8230;
 									<a title="SSC Steno Admit Card 2020 Check SSC Stenographer New Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/ssc-stenographer-syllabus/"
+										href="ssc-stenographer-syllabus/"
 										aria-label="More on SSC Steno Admit Card 2020 Check SSC Stenographer New Exam Date">Read
 										more</a></p>
 							</div>
@@ -108,10 +108,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/syllabus/"
+										href="syllabus/"
 										rel="category tag">Syllabus</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -120,7 +120,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ssc-stenographer-syllabus/#respond">Leave a
+										href="ssc-stenographer-syllabus/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -131,7 +131,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-cpo-si-syllabus/" rel="bookmark">SSC CPO
+										href="ssc-cpo-si-syllabus/" rel="bookmark">SSC CPO
 										SI Syllabus 2019 Download Here</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -139,7 +139,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -152,7 +152,7 @@
 									Vacancy. Other details Like Age Limit, Syllabus, Educational Qualification,
 									Selection Process, Application Fee and How to Apply are &#8230; <a
 										title="SSC CPO SI Syllabus 2019 Download Here" class="read-more"
-										href="https://www.sarkariresult.app/ssc-cpo-si-syllabus/"
+										href="ssc-cpo-si-syllabus/"
 										aria-label="More on SSC CPO SI Syllabus 2019 Download Here">Read more</a></p>
 							</div>
 							<footer class="entry-meta" aria-label="Entry meta">
@@ -162,8 +162,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/syllabus/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="syllabus/"
 										rel="category tag">Syllabus</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -172,7 +172,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ssc-cpo-si-syllabus/#respond">Leave a
+										href="ssc-cpo-si-syllabus/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -183,7 +183,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/acio-ib-syllabus/" rel="bookmark">ACIO IB
+										href="acio-ib-syllabus/" rel="bookmark">ACIO IB
 										Syllabus &#038; Exam Pattern 2018 Tier I &#038; II Study Material</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -191,7 +191,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -205,7 +205,7 @@
 									curious to know about MAH ACIO IB Syllabus and Exam Pattern. Candidates, here we
 									&#8230; <a
 										title="ACIO IB Syllabus &#038; Exam Pattern 2018 Tier I &#038; II Study Material"
-										class="read-more" href="https://www.sarkariresult.app/acio-ib-syllabus/"
+										class="read-more" href="acio-ib-syllabus/"
 										aria-label="More on ACIO IB Syllabus &#038; Exam Pattern 2018 Tier I &#038; II Study Material">Read
 										more</a></p>
 							</div>
@@ -216,8 +216,8 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/syllabus/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="syllabus/"
 										rel="category tag">Syllabus</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -226,7 +226,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/acio-ib-syllabus/#respond">Leave a
+										href="acio-ib-syllabus/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -237,7 +237,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/23exam2016/" rel="bookmark">UPSSSC Combined
+										href="23exam2016/" rel="bookmark">UPSSSC Combined
 										Technical Recruitment 2016 Syllabus</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -245,7 +245,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -259,7 +259,7 @@
 									Instructor or Instructor of Civil Work, Instructor Power looms Machine Maintenance,
 									Instructor Drawing and &#8230; <a
 										title="UPSSSC Combined Technical Recruitment 2016 Syllabus" class="read-more"
-										href="https://www.sarkariresult.app/23exam2016/"
+										href="23exam2016/"
 										aria-label="More on UPSSSC Combined Technical Recruitment 2016 Syllabus">Read
 										more</a></p>
 							</div>
@@ -270,9 +270,9 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/syllabus/"
-										rel="category tag">Syllabus</a>, <a href="https://www.sarkariresult.app/upsssc/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="syllabus/"
+										rel="category tag">Syllabus</a>, <a href="upsssc/"
 										rel="category tag">UPSSSC</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -280,7 +280,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/23exam2016/#comments">1
+										</svg></span><a href="23exam2016/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -305,83 +305,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/karnataka-bank-po-acs-notification/">Karnataka
+								<a href="karnataka-bank-po-acs-notification/">Karnataka
 									Bank Recruitment 2023 Apply Online PO, ACS, Officer Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/gbpuat-teaching-personnel-job/">GBPUAT
+								<a href="gbpuat-teaching-personnel-job/">GBPUAT
 									Recruitment 2023 Apply Teaching Personnel 22 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 						</ul>
@@ -549,7 +549,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>

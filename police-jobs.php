@@ -16,7 +16,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-cpo-2023/" rel="bookmark">SSC CPO
+										href="ssc-cpo-2023/" rel="bookmark">SSC CPO
 										Recruitment 2023 Notification for CAPF SI and Delhi Police SI 1876 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -24,7 +24,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -37,7 +37,7 @@
 									order and Sub-Inspector (Executive) in Delhi Police &#8211; (Male/Female): Joining
 									Delhi Police &#8230; <a
 										title="SSC CPO Recruitment 2023 Notification for CAPF SI and Delhi Police SI 1876 Post"
-										class="read-more" href="https://www.sarkariresult.app/ssc-cpo-2023/"
+										class="read-more" href="ssc-cpo-2023/"
 										aria-label="More on SSC CPO Recruitment 2023 Notification for CAPF SI and Delhi Police SI 1876 Post">Read
 										more</a></p>
 							</div>
@@ -48,11 +48,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/ssc/" rel="category tag">SSC</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="ssc/" rel="category tag">SSC</a>, <a
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -60,7 +60,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/ssc-cpo-2023/#respond">Leave
+										</svg></span><a href="ssc-cpo-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -71,7 +71,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-warder-recruitment/"
+										href="wb-police-warder-recruitment/"
 										rel="bookmark">WB Police Warder Recruitment 2023 Apply Now 130 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -79,7 +79,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -91,7 +91,7 @@
 									released by the WB Police Recruitment Board. The deadline to apply is 26 August
 									2023, and the online application process will begin on 6 August 2023. &#8230; <a
 										title="WB Police Warder Recruitment 2023 Apply Now 130 Post" class="read-more"
-										href="https://www.sarkariresult.app/wb-police-warder-recruitment/"
+										href="wb-police-warder-recruitment/"
 										aria-label="More on WB Police Warder Recruitment 2023 Apply Now 130 Post">Read
 										more</a></p>
 							</div>
@@ -102,10 +102,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -115,7 +115,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-warder-recruitment/#respond">Leave
+										href="wb-police-warder-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -126,7 +126,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-notification-2023/"
+										href="rajasthan-police-constable-notification-2023/"
 										rel="bookmark">Rajasthan Police Constable Notification 2023 Out, for Apply
 										Online, Exam Date, 3578 Posts</a></h2>
 								<div class="entry-meta">
@@ -136,7 +136,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -151,7 +151,7 @@
 									Constable Bharti drive &#8230; <a
 										title="Rajasthan Police Constable Notification 2023 Out, for Apply Online, Exam Date, 3578 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-constable-notification-2023/"
+										href="rajasthan-police-constable-notification-2023/"
 										aria-label="More on Rajasthan Police Constable Notification 2023 Out, for Apply Online, Exam Date, 3578 Posts">Read
 										more</a></p>
 							</div>
@@ -162,10 +162,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -175,7 +175,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-notification-2023/#respond">Leave
+										href="rajasthan-police-constable-notification-2023/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -186,7 +186,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/panipat-police/" rel="bookmark">Panipat
+										href="panipat-police/" rel="bookmark">Panipat
 										Police SPO Recruitment 2023 Application Form for 22 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-07-21T13:04:03+05:30"
@@ -195,7 +195,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -208,7 +208,7 @@
 									candidates who are interested in Panipat Police Recruitment can apply online through
 									the official website Panipat Police Jobs &#8230; <a
 										title="Panipat Police SPO Recruitment 2023 Application Form for 22 Post"
-										class="read-more" href="https://www.sarkariresult.app/panipat-police/"
+										class="read-more" href="panipat-police/"
 										aria-label="More on Panipat Police SPO Recruitment 2023 Application Form for 22 Post">Read
 										more</a></p>
 							</div>
@@ -219,10 +219,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -232,7 +232,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/panipat-police/#respond">Leave a
+										href="panipat-police/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -243,7 +243,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-police-constable-vacancy/"
+										href="mp-police-constable-vacancy/"
 										rel="bookmark">MP Police Recruitment 2023 Apply Online Constable 7411 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -252,7 +252,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -266,7 +266,7 @@
 									July 2023. &#8230; <a
 										title="MP Police Recruitment 2023 Apply Online Constable 7411 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-police-constable-vacancy/"
+										href="mp-police-constable-vacancy/"
 										aria-label="More on MP Police Recruitment 2023 Apply Online Constable 7411 Post">Read
 										more</a></p>
 							</div>
@@ -277,10 +277,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -289,7 +289,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-police-constable-vacancy/#comments">1
+										href="mp-police-constable-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -300,7 +300,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-police-asi-apply-online/"
+										href="chandigarh-police-asi-apply-online/"
 										rel="bookmark">Chandigarh Police ASI Recruitment 2023 Asst Sub Inspector 44
 										Post</a></h2>
 								<div class="entry-meta">
@@ -309,7 +309,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -323,7 +323,7 @@
 									Recruitment 2023 apply online through the Chandigarh Police Jobs &#8230; <a
 										title="Chandigarh Police ASI Recruitment 2023 Asst Sub Inspector 44 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-police-asi-apply-online/"
+										href="chandigarh-police-asi-apply-online/"
 										aria-label="More on Chandigarh Police ASI Recruitment 2023 Asst Sub Inspector 44 Post">Read
 										more</a></p>
 							</div>
@@ -334,10 +334,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -347,7 +347,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-police-asi-apply-online/#respond">Leave
+										href="chandigarh-police-asi-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -358,7 +358,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-cpo-si-2022-pet-pst-admit-card/"
+										href="ssc-cpo-si-2022-pet-pst-admit-card/"
 										rel="bookmark">SSC CPO SI 2022 DV Admit Card 2023 Check All Regions Wise Direct
 										Link</a></h2>
 								<div class="entry-meta">
@@ -368,7 +368,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -382,7 +382,7 @@
 									Card &#8230; <a
 										title="SSC CPO SI 2022 DV Admit Card 2023 Check All Regions Wise Direct Link"
 										class="read-more"
-										href="https://www.sarkariresult.app/ssc-cpo-si-2022-pet-pst-admit-card/"
+										href="ssc-cpo-si-2022-pet-pst-admit-card/"
 										aria-label="More on SSC CPO SI 2022 DV Admit Card 2023 Check All Regions Wise Direct Link">Read
 										more</a></p>
 							</div>
@@ -393,11 +393,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/ssc/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="ssc/"
 										rel="category tag">SSC</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -406,7 +406,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ssc-cpo-si-2022-pet-pst-admit-card/#respond">Leave
+										href="ssc-cpo-si-2022-pet-pst-admit-card/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -417,7 +417,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-police-vacancy-notification/"
+										href="jharkhand-police-vacancy-notification/"
 										rel="bookmark">Jharkhand Police Recruitment 2023 Inspector, Instructor Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -426,7 +426,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -440,7 +440,7 @@
 									official website Jharkhand Police Jobs walk-In-Interview on 15 &#8230; <a
 										title="Jharkhand Police Recruitment 2023 Inspector, Instructor Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-police-vacancy-notification/"
+										href="jharkhand-police-vacancy-notification/"
 										aria-label="More on Jharkhand Police Recruitment 2023 Inspector, Instructor Post">Read
 										more</a></p>
 							</div>
@@ -451,10 +451,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -464,7 +464,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-police-vacancy-notification/#respond">Leave
+										href="jharkhand-police-vacancy-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -475,7 +475,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-constable-notification/"
+										href="bihar-police-constable-notification/"
 										rel="bookmark">Bihar Police Constable Recruitment 2023 Apply Now 21391 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -484,7 +484,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -498,7 +498,7 @@
 									official website Bihar Police Jobs from 20 June &#8230; <a
 										title="Bihar Police Constable Recruitment 2023 Apply Now 21391 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-constable-notification/"
+										href="bihar-police-constable-notification/"
 										aria-label="More on Bihar Police Constable Recruitment 2023 Apply Now 21391 Post">Read
 										more</a></p>
 							</div>
@@ -509,10 +509,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -522,7 +522,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-constable-notification/#respond">Leave
+										href="bihar-police-constable-notification/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -533,7 +533,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tnusrb-si-job/" rel="bookmark">TNUSRB SI
+										href="tnusrb-si-job/" rel="bookmark">TNUSRB SI
 										Recruitment 2023 Apply Form 621 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-06-02T12:59:15+05:30"
@@ -542,7 +542,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -555,7 +555,7 @@
 									2023 of Station Officer Vacancies at 129 Posts. Those candidates who are interested
 									in TNUSRB Sub Inspector Recruitment 2023 &#8230; <a
 										title="TNUSRB SI Recruitment 2023 Apply Form 621 Posts" class="read-more"
-										href="https://www.sarkariresult.app/tnusrb-si-job/"
+										href="tnusrb-si-job/"
 										aria-label="More on TNUSRB SI Recruitment 2023 Apply Form 621 Posts">Read
 										more</a></p>
 							</div>
@@ -566,10 +566,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -579,7 +579,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tnusrb-si-job/#respond">Leave a
+										href="tnusrb-si-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -590,7 +590,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tnusrb-station-officer-recruitment/"
+										href="tnusrb-station-officer-recruitment/"
 										rel="bookmark">TNUSRB Station Officer Recruitment 2023 Apply Online 129 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -599,7 +599,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -613,7 +613,7 @@
 									through the official website TNUSRB Jobs from &#8230; <a
 										title="TNUSRB Station Officer Recruitment 2023 Apply Online 129 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tnusrb-station-officer-recruitment/"
+										href="tnusrb-station-officer-recruitment/"
 										aria-label="More on TNUSRB Station Officer Recruitment 2023 Apply Online 129 Post">Read
 										more</a></p>
 							</div>
@@ -624,10 +624,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -637,7 +637,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tnusrb-station-officer-recruitment/#respond">Leave
+										href="tnusrb-station-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -648,7 +648,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-excise-constable-recruitment/"
+										href="assam-police-excise-constable-recruitment/"
 										rel="bookmark">Assam Police Excise Constable Recruitment 2023 Apply Now 222
 										Post</a></h2>
 								<div class="entry-meta">
@@ -657,7 +657,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -671,7 +671,7 @@
 									are interested in Assam Police Vacancy 2023 can &#8230; <a
 										title="Assam Police Excise Constable Recruitment 2023 Apply Now 222 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-excise-constable-recruitment/"
+										href="assam-police-excise-constable-recruitment/"
 										aria-label="More on Assam Police Excise Constable Recruitment 2023 Apply Now 222 Post">Read
 										more</a></p>
 							</div>
@@ -682,10 +682,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -694,7 +694,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-excise-constable-recruitment/#comments">1
+										href="assam-police-excise-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -705,7 +705,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-havildar-recruitment/"
+										href="assam-police-havildar-recruitment/"
 										rel="bookmark">Assam Police Havildar Recruitment 2023 Apply Now 36 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -714,7 +714,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -728,7 +728,7 @@
 									Assam Police Jobs from 7 &#8230; <a
 										title="Assam Police Havildar Recruitment 2023 Apply Now 36 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-havildar-recruitment/"
+										href="assam-police-havildar-recruitment/"
 										aria-label="More on Assam Police Havildar Recruitment 2023 Apply Now 36 Posts">Read
 										more</a></p>
 							</div>
@@ -739,10 +739,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -751,7 +751,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-havildar-recruitment/#respond">Leave
+										href="assam-police-havildar-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -762,7 +762,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/an-police-recruitment/"
+										href="an-police-recruitment/"
 										rel="bookmark">A&#038;N Police Recruitment 2023 Apply Online Group B &#038; C
 										200 Post</a></h2>
 								<div class="entry-meta">
@@ -771,7 +771,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -785,7 +785,7 @@
 									Societies, RCS, Accountant, CPAO, Extension Officer, RD, PRIs &amp; ULBs, Panchayat
 									Secretary, RD, PRIs &amp; &#8230; <a
 										title="A&#038;N Police Recruitment 2023 Apply Online Group B &#038; C 200 Post"
-										class="read-more" href="https://www.sarkariresult.app/an-police-recruitment/"
+										class="read-more" href="an-police-recruitment/"
 										aria-label="More on A&#038;N Police Recruitment 2023 Apply Online Group B &#038; C 200 Post">Read
 										more</a></p>
 							</div>
@@ -796,10 +796,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -808,7 +808,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/an-police-recruitment/#respond">Leave a
+										href="an-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -819,7 +819,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-police-constable-online-form/"
+										href="chandigarh-police-constable-online-form/"
 										rel="bookmark">Chandigarh Police Constable Recruitment 2023 Apply Now 700
 										Post</a></h2>
 								<div class="entry-meta">
@@ -828,7 +828,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -842,7 +842,7 @@
 									2023 apply online through the Chandigarh Police Jobs official website from &#8230;
 									<a title="Chandigarh Police Constable Recruitment 2023 Apply Now 700 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-police-constable-online-form/"
+										href="chandigarh-police-constable-online-form/"
 										aria-label="More on Chandigarh Police Constable Recruitment 2023 Apply Now 700 Post">Read
 										more</a></p>
 							</div>
@@ -853,10 +853,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -865,7 +865,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-police-constable-online-form/#comments">1
+										href="chandigarh-police-constable-online-form/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -876,7 +876,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-lady-constable-job/"
+										href="wb-police-lady-constable-job/"
 										rel="bookmark">WB Police Recruitment 2023 Apply Now Lady Constable 1420 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -885,7 +885,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -899,7 +899,7 @@
 									website WB Police Jobs from &#8230; <a
 										title="WB Police Recruitment 2023 Apply Now Lady Constable 1420 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-lady-constable-job/"
+										href="wb-police-lady-constable-job/"
 										aria-label="More on WB Police Recruitment 2023 Apply Now Lady Constable 1420 Post">Read
 										more</a></p>
 							</div>
@@ -910,10 +910,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -922,7 +922,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-lady-constable-job/#respond">Leave
+										href="wb-police-lady-constable-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -933,7 +933,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-police-constable-vacancy/"
+										href="up-police-constable-vacancy/"
 										rel="bookmark">UP Police Constable Sports Quota Result 2023 Check Online Merit
 										List</a></h2>
 								<div class="entry-meta">
@@ -943,7 +943,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -957,7 +957,7 @@
 									the official website UP &#8230; <a
 										title="UP Police Constable Sports Quota Result 2023 Check Online Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-police-constable-vacancy/"
+										href="up-police-constable-vacancy/"
 										aria-label="More on UP Police Constable Sports Quota Result 2023 Check Online Merit List">Read
 										more</a></p>
 							</div>
@@ -968,10 +968,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -980,7 +980,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-police-constable-vacancy/#comments">2
+										href="up-police-constable-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -991,7 +991,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-police-technical-staff-recruitment/"
+										href="odisha-police-technical-staff-recruitment/"
 										rel="bookmark">Odisha Police Technical Staff Recruitment 2023 Apply Now 200
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1001,7 +1001,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1015,7 +1015,7 @@
 									Mechanic Vacancies at 200 Posts. Those candidates who are &#8230; <a
 										title="Odisha Police Technical Staff Recruitment 2023 Apply Now 200 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-police-technical-staff-recruitment/"
+										href="odisha-police-technical-staff-recruitment/"
 										aria-label="More on Odisha Police Technical Staff Recruitment 2023 Apply Now 200 Post">Read
 										more</a></p>
 							</div>
@@ -1026,10 +1026,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1038,7 +1038,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-police-technical-staff-recruitment/#respond">Leave
+										href="odisha-police-technical-staff-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1049,7 +1049,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-asi-recruitment/"
+										href="wb-police-asi-recruitment/"
 										rel="bookmark">WB Police ASI Recruitment 2023 Apply Now 1525 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-03-18T23:55:07+05:30"
@@ -1058,7 +1058,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1071,7 +1071,7 @@
 									Candidates who are interested in WB Police Vacancy 2023 can apply through the
 									official &#8230; <a title="WB Police ASI Recruitment 2023 Apply Now 1525 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-asi-recruitment/"
+										href="wb-police-asi-recruitment/"
 										aria-label="More on WB Police ASI Recruitment 2023 Apply Now 1525 Posts">Read
 										more</a></p>
 							</div>
@@ -1082,10 +1082,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1094,7 +1094,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-asi-recruitment/#respond">Leave a
+										href="wb-police-asi-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1105,7 +1105,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-police-constable-job/"
+										href="odisha-police-constable-job/"
 										rel="bookmark">Odisha Police Constable Result 2023 Check Merit List &#038; Cut
 										Off Marks</a></h2>
 								<div class="entry-meta">
@@ -1114,7 +1114,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1128,7 +1128,7 @@
 									Constable Result 2023 can online &#8230; <a
 										title="Odisha Police Constable Result 2023 Check Merit List &#038; Cut Off Marks"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-police-constable-job/"
+										href="odisha-police-constable-job/"
 										aria-label="More on Odisha Police Constable Result 2023 Check Merit List &#038; Cut Off Marks">Read
 										more</a></p>
 							</div>
@@ -1139,10 +1139,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1151,7 +1151,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-police-constable-job/#respond">Leave
+										href="odisha-police-constable-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1162,7 +1162,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-constable-online-form/"
+										href="punjab-police-constable-online-form/"
 										rel="bookmark">Punjab Police Constable Recruitment 2023 Apply Now 1746 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1172,7 +1172,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1186,7 +1186,7 @@
 									February 2023 to 8 March &#8230; <a
 										title="Punjab Police Constable Recruitment 2023 Apply Now 1746 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-constable-online-form/"
+										href="punjab-police-constable-online-form/"
 										aria-label="More on Punjab Police Constable Recruitment 2023 Apply Now 1746 Post">Read
 										more</a></p>
 							</div>
@@ -1197,10 +1197,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1209,7 +1209,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-constable-online-form/#respond">Leave
+										href="punjab-police-constable-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1220,7 +1220,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/itbp-sub-inspector-recruitment/"
+										href="itbp-sub-inspector-recruitment/"
 										rel="bookmark">ITBP Sub Inspector Admit Card 2023 Chcek SI (Overseer) Exam Hall
 										Ticket</a></h2>
 								<div class="entry-meta">
@@ -1230,7 +1230,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1244,7 +1244,7 @@
 									the official website of the ITBP SI Hall Ticket &#8230; <a
 										title="ITBP Sub Inspector Admit Card 2023 Chcek SI (Overseer) Exam Hall Ticket"
 										class="read-more"
-										href="https://www.sarkariresult.app/itbp-sub-inspector-recruitment/"
+										href="itbp-sub-inspector-recruitment/"
 										aria-label="More on ITBP Sub Inspector Admit Card 2023 Chcek SI (Overseer) Exam Hall Ticket">Read
 										more</a></p>
 							</div>
@@ -1255,11 +1255,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/defence-job/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="defence-job/"
 										rel="category tag">Defence Jobs</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1268,7 +1268,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/itbp-sub-inspector-recruitment/#respond">Leave
+										href="itbp-sub-inspector-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1279,7 +1279,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-si-vacancy/"
+										href="punjab-police-si-vacancy/"
 										rel="bookmark">Punjab Police SI Recruitment 2023 Apply Now 288 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-28T23:55:04+05:30"
@@ -1288,7 +1288,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1301,7 +1301,7 @@
 									Vacancy 2023 can apply through the official website Punjab Police Jobs from 7
 									February 2023 to 28 February &#8230; <a
 										title="Punjab Police SI Recruitment 2023 Apply Now 288 Posts" class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-si-vacancy/"
+										href="punjab-police-si-vacancy/"
 										aria-label="More on Punjab Police SI Recruitment 2023 Apply Now 288 Posts">Read
 										more</a></p>
 							</div>
@@ -1312,10 +1312,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1324,7 +1324,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-si-vacancy/#respond">Leave a
+										href="punjab-police-si-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1335,7 +1335,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-home-guard-apply-online/"
+										href="rajasthan-home-guard-apply-online/"
 										rel="bookmark">Rajasthan Home Guard Recruitment 2023 Apply Online 3842 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1345,7 +1345,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1359,7 +1359,7 @@
 									website home.rajasthan.gov.in Rajasthan Home Guard &#8230; <a
 										title="Rajasthan Home Guard Recruitment 2023 Apply Online 3842 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-home-guard-apply-online/"
+										href="rajasthan-home-guard-apply-online/"
 										aria-label="More on Rajasthan Home Guard Recruitment 2023 Apply Online 3842 Post">Read
 										more</a></p>
 							</div>
@@ -1370,10 +1370,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1382,7 +1382,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-home-guard-apply-online/#comments">7
+										href="rajasthan-home-guard-apply-online/#comments">7
 										Comments</a></span>
 							</footer>
 						</div>
@@ -1393,7 +1393,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-safai-karmchari-recruitment/"
+										href="assam-police-safai-karmchari-recruitment/"
 										rel="bookmark">Assam Police Safai Karmchari Recruitment 2023 Apply Now 587
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1403,7 +1403,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1417,7 +1417,7 @@
 									Karmachari and Sweeper vacancies in Assam Police. There is a &#8230; <a
 										title="Assam Police Safai Karmchari Recruitment 2023 Apply Now 587 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-safai-karmchari-recruitment/"
+										href="assam-police-safai-karmchari-recruitment/"
 										aria-label="More on Assam Police Safai Karmchari Recruitment 2023 Apply Now 587 Post">Read
 										more</a></p>
 							</div>
@@ -1428,10 +1428,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1440,7 +1440,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-safai-karmchari-recruitment/#respond">Leave
+										href="assam-police-safai-karmchari-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1451,7 +1451,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-constable-jobs/"
+										href="assam-police-constable-jobs/"
 										rel="bookmark">Assam Police Constable Recruitment 2023 Apply Now 233 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -1461,7 +1461,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1476,7 +1476,7 @@
 									vacancies at &#8230; <a
 										title="Assam Police Constable Recruitment 2023 Apply Now 233 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-constable-jobs/"
+										href="assam-police-constable-jobs/"
 										aria-label="More on Assam Police Constable Recruitment 2023 Apply Now 233 Posts">Read
 										more</a></p>
 							</div>
@@ -1487,10 +1487,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1499,7 +1499,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-constable-jobs/#respond">Leave
+										href="assam-police-constable-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1510,7 +1510,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-si-online-form/"
+										href="assam-police-si-online-form/"
 										rel="bookmark">Assam Police SI Recruitment 2023 Apply Now 58 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-20T23:55:13+05:30"
@@ -1519,7 +1519,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1532,7 +1532,7 @@
 									posts. Candidates who are interested in SLPRB Assam Police Recruitment 2023 can
 									apply through the official website Assam &#8230; <a
 										title="Assam Police SI Recruitment 2023 Apply Now 58 Posts" class="read-more"
-										href="https://www.sarkariresult.app/assam-police-si-online-form/"
+										href="assam-police-si-online-form/"
 										aria-label="More on Assam Police SI Recruitment 2023 Apply Now 58 Posts">Read
 										more</a></p>
 							</div>
@@ -1543,10 +1543,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1555,7 +1555,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-si-online-form/#respond">Leave
+										href="assam-police-si-online-form/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1566,7 +1566,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-assistant-jailor-recruitment/"
+										href="assam-police-assistant-jailor-recruitment/"
 										rel="bookmark">Assam Police Assistant Jailor Recruitment 2023 Apply 32 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1576,7 +1576,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1590,7 +1590,7 @@
 									official website Assam Police &#8230; <a
 										title="Assam Police Assistant Jailor Recruitment 2023 Apply 32 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-assistant-jailor-recruitment/"
+										href="assam-police-assistant-jailor-recruitment/"
 										aria-label="More on Assam Police Assistant Jailor Recruitment 2023 Apply 32 Post">Read
 										more</a></p>
 							</div>
@@ -1601,10 +1601,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1613,7 +1613,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-assistant-jailor-recruitment/#comments">1
+										href="assam-police-assistant-jailor-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -1624,7 +1624,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-grade-iv-recruitment/"
+										href="assam-police-grade-iv-recruitment/"
 										rel="bookmark">Assam Police Grade-IV Recruitment 2023 Cook, Dhobi, Mason 928
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1634,7 +1634,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1649,7 +1649,7 @@
 									the Assam &#8230; <a
 										title="Assam Police Grade-IV Recruitment 2023 Cook, Dhobi, Mason 928 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-grade-iv-recruitment/"
+										href="assam-police-grade-iv-recruitment/"
 										aria-label="More on Assam Police Grade-IV Recruitment 2023 Cook, Dhobi, Mason 928 Post">Read
 										more</a></p>
 							</div>
@@ -1660,10 +1660,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1672,7 +1672,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-grade-iv-recruitment/#respond">Leave
+										href="assam-police-grade-iv-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -1683,7 +1683,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-notification/"
+										href="assam-police-notification/"
 										rel="bookmark">Assam Police Recruitment 2023 Apply Cook, Barber, Plumber 110
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1693,7 +1693,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1707,7 +1707,7 @@
 									Barber, DHUBI, Pump Operator, Electrician, Plumber, Pune, &#8230; <a
 										title="Assam Police Recruitment 2023 Apply Cook, Barber, Plumber 110 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-notification/"
+										href="assam-police-notification/"
 										aria-label="More on Assam Police Recruitment 2023 Apply Cook, Barber, Plumber 110 Post">Read
 										more</a></p>
 							</div>
@@ -1718,10 +1718,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1730,7 +1730,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-notification/#respond">Leave a
+										href="assam-police-notification/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1741,7 +1741,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-online-form/"
+										href="assam-police-online-form/"
 										rel="bookmark">Assam Police Recruitment 2023 Apply Constable, Driver 2649
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1751,7 +1751,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1764,7 +1764,7 @@
 									Recruitment 2023 of Forester Grade I, Forest Guard, AFPF Constable, Driver
 									Constable, Driver Vacancy at 2649 posts. Candidates who &#8230; <a
 										title="Assam Police Recruitment 2023 Apply Constable, Driver 2649 Post"
-										class="read-more" href="https://www.sarkariresult.app/assam-police-online-form/"
+										class="read-more" href="assam-police-online-form/"
 										aria-label="More on Assam Police Recruitment 2023 Apply Constable, Driver 2649 Post">Read
 										more</a></p>
 							</div>
@@ -1775,10 +1775,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1787,7 +1787,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-online-form/#respond">Leave a
+										href="assam-police-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1798,7 +1798,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-constable-job/"
+										href="assam-police-constable-job/"
 										rel="bookmark">Assam Police Constable Recruitment 2023 Apply Now 211 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -1808,7 +1808,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1822,7 +1822,7 @@
 									Assam Police Jobs from 7 &#8230; <a
 										title="Assam Police Constable Recruitment 2023 Apply Now 211 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-constable-job/"
+										href="assam-police-constable-job/"
 										aria-label="More on Assam Police Constable Recruitment 2023 Apply Now 211 Post">Read
 										more</a></p>
 							</div>
@@ -1833,10 +1833,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1845,7 +1845,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-constable-job/#respond">Leave a
+										href="assam-police-constable-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1856,7 +1856,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-psc-constable-jobs/"
+										href="kerala-psc-constable-jobs/"
 										rel="bookmark">Kerala PSC Constable Recruitment 2023 Apply Online Form</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2023-02-01T23:55:02+05:30"
@@ -1865,7 +1865,7 @@
 											2023</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1879,7 +1879,7 @@
 									in Kerala PSC Vacancy 2023 apply online through the official &#8230; <a
 										title="Kerala PSC Constable Recruitment 2023 Apply Online Form"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-psc-constable-jobs/"
+										href="kerala-psc-constable-jobs/"
 										aria-label="More on Kerala PSC Constable Recruitment 2023 Apply Online Form">Read
 										more</a></p>
 							</div>
@@ -1890,10 +1890,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1902,7 +1902,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-psc-constable-jobs/#respond">Leave a
+										href="kerala-psc-constable-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -1913,7 +1913,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-police-vacancy/"
+										href="tripura-police-vacancy/"
 										rel="bookmark">Tripura Police Warder Recruitment 2022 Application Form 249
 										Post</a></h2>
 								<div class="entry-meta">
@@ -1922,7 +1922,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1935,7 +1935,7 @@
 									Those candidates who are interested in Tripura Police Vacancy 2022 apply online
 									through the &#8230; <a
 										title="Tripura Police Warder Recruitment 2022 Application Form 249 Post"
-										class="read-more" href="https://www.sarkariresult.app/tripura-police-vacancy/"
+										class="read-more" href="tripura-police-vacancy/"
 										aria-label="More on Tripura Police Warder Recruitment 2022 Application Form 249 Post">Read
 										more</a></p>
 							</div>
@@ -1946,10 +1946,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -1958,7 +1958,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-police-vacancy/#comments">3
+										href="tripura-police-vacancy/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -1969,7 +1969,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-deo-recruitment/"
+										href="assam-police-deo-recruitment/"
 										rel="bookmark">Assam Police DEO Recruitment 2022 Apply Form 122 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -1977,7 +1977,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -1990,7 +1990,7 @@
 									Candidates who are interested in Assam Police Recruitment 2022 can apply online
 									through the official website for &#8230; <a
 										title="Assam Police DEO Recruitment 2022 Apply Form 122 Posts" class="read-more"
-										href="https://www.sarkariresult.app/assam-police-deo-recruitment/"
+										href="assam-police-deo-recruitment/"
 										aria-label="More on Assam Police DEO Recruitment 2022 Apply Form 122 Posts">Read
 										more</a></p>
 							</div>
@@ -2001,10 +2001,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2013,7 +2013,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-deo-recruitment/#respond">Leave
+										href="assam-police-deo-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2024,7 +2024,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-police-constable-driver-recruitment/"
+										href="maharashtra-police-constable-driver-recruitment/"
 										rel="bookmark">Maharashtra Police Constable Driver Recruitment 2022 Apply
 										Online</a></h2>
 								<div class="entry-meta">
@@ -2034,7 +2034,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2048,7 +2048,7 @@
 									online through the official website Maharashtra Police Jobs from 9 &#8230; <a
 										title="Maharashtra Police Constable Driver Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-police-constable-driver-recruitment/"
+										href="maharashtra-police-constable-driver-recruitment/"
 										aria-label="More on Maharashtra Police Constable Driver Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -2059,10 +2059,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2071,7 +2071,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-police-constable-driver-recruitment/#respond">Leave
+										href="maharashtra-police-constable-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2082,7 +2082,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ap-police-recruitment/" rel="bookmark">AP
+										href="ap-police-recruitment/" rel="bookmark">AP
 										Police Recruitment 2023 Apply Online SI, Constable 6511 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -2090,7 +2090,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2103,7 +2103,7 @@
 									(SI), Police Constable Vacancy at 6511 posts. Candidates who are interested in AP
 									Police Recruitment 2023 can apply online &#8230; <a
 										title="AP Police Recruitment 2023 Apply Online SI, Constable 6511 Post"
-										class="read-more" href="https://www.sarkariresult.app/ap-police-recruitment/"
+										class="read-more" href="ap-police-recruitment/"
 										aria-label="More on AP Police Recruitment 2023 Apply Online SI, Constable 6511 Post">Read
 										more</a></p>
 							</div>
@@ -2114,10 +2114,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2126,7 +2126,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ap-police-recruitment/#respond">Leave a
+										href="ap-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2137,7 +2137,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-constable-vacancy/"
+										href="haryana-police-constable-vacancy/"
 										rel="bookmark">Haryana Police Constable Recruitment 2022 Apply Online 22
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2146,7 +2146,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2160,7 +2160,7 @@
 									in Haryana Police Recruitment 2022 can &#8230; <a
 										title="Haryana Police Constable Recruitment 2022 Apply Online 22 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-constable-vacancy/"
+										href="haryana-police-constable-vacancy/"
 										aria-label="More on Haryana Police Constable Recruitment 2022 Apply Online 22 Post">Read
 										more</a></p>
 							</div>
@@ -2171,10 +2171,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2183,7 +2183,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-constable-vacancy/#respond">Leave
+										href="haryana-police-constable-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2194,7 +2194,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/puducherry-police-recruitment/"
+										href="puducherry-police-recruitment/"
 										rel="bookmark">Puducherry Police Driver Recruitment 2022 Apply Grade III 26
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2203,7 +2203,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2217,7 +2217,7 @@
 									police.py.gov.in official website of Puducherry Police Jobs from &#8230; <a
 										title="Puducherry Police Driver Recruitment 2022 Apply Grade III 26 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/puducherry-police-recruitment/"
+										href="puducherry-police-recruitment/"
 										aria-label="More on Puducherry Police Driver Recruitment 2022 Apply Grade III 26 Post">Read
 										more</a></p>
 							</div>
@@ -2228,12 +2228,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/defence-job/" rel="category tag">Defence
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="defence-job/" rel="category tag">Defence
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2242,7 +2242,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/puducherry-police-recruitment/#comments">1
+										href="puducherry-police-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -2253,7 +2253,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-class-iv-recruitment/"
+										href="rajasthan-police-class-iv-recruitment/"
 										rel="bookmark">Rajasthan Police Class IV Recruitment 2022 Apply Online 08
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2262,7 +2262,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2276,7 +2276,7 @@
 									official website Rajasthan Police &#8230; <a
 										title="Rajasthan Police Class IV Recruitment 2022 Apply Online 08 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-class-iv-recruitment/"
+										href="rajasthan-police-class-iv-recruitment/"
 										aria-label="More on Rajasthan Police Class IV Recruitment 2022 Apply Online 08 Post">Read
 										more</a></p>
 							</div>
@@ -2287,10 +2287,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2299,7 +2299,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-class-iv-recruitment/#respond">Leave
+										href="rajasthan-police-class-iv-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2310,7 +2310,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-prohibition-constable-apply-online/"
+										href="bihar-police-prohibition-constable-apply-online/"
 										rel="bookmark">Bihar Police Prohibition Constable Recruitment 2022 Apply 689
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2319,7 +2319,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2333,7 +2333,7 @@
 									Those candidates who are interested in &#8230; <a
 										title="Bihar Police Prohibition Constable Recruitment 2022 Apply 689 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-prohibition-constable-apply-online/"
+										href="bihar-police-prohibition-constable-apply-online/"
 										aria-label="More on Bihar Police Prohibition Constable Recruitment 2022 Apply 689 Post">Read
 										more</a></p>
 							</div>
@@ -2344,10 +2344,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2356,7 +2356,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-prohibition-constable-apply-online/#respond">Leave
+										href="bihar-police-prohibition-constable-apply-online/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2367,7 +2367,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/puducherry-police-si-recruitment/"
+										href="puducherry-police-si-recruitment/"
 										rel="bookmark">Puducherry Police SI Recruitment 2022 Apply Sub Inspector 60
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2376,7 +2376,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2390,7 +2390,7 @@
 									police.py.gov.in official website of Puducherry Police &#8230; <a
 										title="Puducherry Police SI Recruitment 2022 Apply Sub Inspector 60 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/puducherry-police-si-recruitment/"
+										href="puducherry-police-si-recruitment/"
 										aria-label="More on Puducherry Police SI Recruitment 2022 Apply Sub Inspector 60 Post">Read
 										more</a></p>
 							</div>
@@ -2401,10 +2401,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2413,7 +2413,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/puducherry-police-si-recruitment/#respond">Leave
+										href="puducherry-police-si-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2424,7 +2424,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-police-constable-recruitment/"
+										href="maharashtra-police-constable-recruitment/"
 										rel="bookmark">Maharashtra Police Constable Recruitment 2022 Apply Online</a>
 								</h2>
 								<div class="entry-meta">
@@ -2433,7 +2433,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2448,7 +2448,7 @@
 									can apply &#8230; <a
 										title="Maharashtra Police Constable Recruitment 2022 Apply Online"
 										class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-police-constable-recruitment/"
+										href="maharashtra-police-constable-recruitment/"
 										aria-label="More on Maharashtra Police Constable Recruitment 2022 Apply Online">Read
 										more</a></p>
 							</div>
@@ -2459,10 +2459,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2471,7 +2471,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-police-constable-recruitment/#respond">Leave
+										href="maharashtra-police-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2482,7 +2482,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-police-online-form/"
+										href="tripura-police-online-form/"
 										rel="bookmark">Tripura Police Constable Recruitment 2022 Apply Online 1000
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2491,7 +2491,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2505,7 +2505,7 @@
 									through the official website Tripura Police Jobs from 10 &#8230; <a
 										title="Tripura Police Constable Recruitment 2022 Apply Online 1000 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-police-online-form/"
+										href="tripura-police-online-form/"
 										aria-label="More on Tripura Police Constable Recruitment 2022 Apply Online 1000 Post">Read
 										more</a></p>
 							</div>
@@ -2516,10 +2516,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2528,7 +2528,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-police-online-form/#respond">Leave a
+										href="tripura-police-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2539,7 +2539,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/nepa-online-form/" rel="bookmark">NEPA
+										href="nepa-online-form/" rel="bookmark">NEPA
 										Recruitment 2022 Apply Now MTS, Guard, Constable 33 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -2547,7 +2547,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2560,7 +2560,7 @@
 									Information: North Eastern Police Academy has issued the latest notification for the
 									NEPA recruitment 2022 of MTS (Cook), MTS (Masalchi), MTS (Water &#8230; <a
 										title="NEPA Recruitment 2022 Apply Now MTS, Guard, Constable 33 Post"
-										class="read-more" href="https://www.sarkariresult.app/nepa-online-form/"
+										class="read-more" href="nepa-online-form/"
 										aria-label="More on NEPA Recruitment 2022 Apply Now MTS, Guard, Constable 33 Post">Read
 										more</a></p>
 							</div>
@@ -2571,10 +2571,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2583,7 +2583,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/nepa-online-form/#respond">Leave a
+										href="nepa-online-form/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2594,7 +2594,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-mts-recruitment/"
+										href="delhi-police-mts-recruitment/"
 										rel="bookmark">Delhi Police MTS Recruitment 2022 Online Form Civilian Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2603,7 +2603,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2617,7 +2617,7 @@
 									notification for the Delhi Police MTS recruitment 2022 of &#8230; <a
 										title="Delhi Police MTS Recruitment 2022 Online Form Civilian Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-police-mts-recruitment/"
+										href="delhi-police-mts-recruitment/"
 										aria-label="More on Delhi Police MTS Recruitment 2022 Online Form Civilian Post">Read
 										more</a></p>
 							</div>
@@ -2628,10 +2628,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2640,7 +2640,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-mts-recruitment/#comments">2
+										href="delhi-police-mts-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2651,7 +2651,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-hc-recruitment/"
+										href="delhi-police-hc-recruitment/"
 										rel="bookmark">Delhi Police Head Constable Recruitment 2022 AWO/TPO 649
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -2661,7 +2661,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2675,7 +2675,7 @@
 									Police Recruitment 2022 apply online the ssc.nic.in through &#8230; <a
 										title="Delhi Police Head Constable Recruitment 2022 AWO/TPO 649 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-police-hc-recruitment/"
+										href="delhi-police-hc-recruitment/"
 										aria-label="More on Delhi Police Head Constable Recruitment 2022 AWO/TPO 649 Posts">Read
 										more</a></p>
 							</div>
@@ -2686,10 +2686,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2698,7 +2698,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-hc-recruitment/#respond">Leave
+										href="delhi-police-hc-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2709,7 +2709,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-police-gd-constable-recruitment/"
+										href="cg-police-gd-constable-recruitment/"
 										rel="bookmark">CG Police GD Constable Recruitment 2022 Apply Form 400 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2718,7 +2718,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2732,7 +2732,7 @@
 									Police Jobs from 24 September 2022 &#8230; <a
 										title="CG Police GD Constable Recruitment 2022 Apply Form 400 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cg-police-gd-constable-recruitment/"
+										href="cg-police-gd-constable-recruitment/"
 										aria-label="More on CG Police GD Constable Recruitment 2022 Apply Form 400 Post">Read
 										more</a></p>
 							</div>
@@ -2743,10 +2743,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2755,7 +2755,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-police-gd-constable-recruitment/#respond">Leave
+										href="cg-police-gd-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -2766,7 +2766,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-police-asi-recruitment/"
+										href="chandigarh-police-asi-recruitment/"
 										rel="bookmark">Chandigarh Police ASI Recruitment 2022 Asst Sub Inspector 49
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2775,7 +2775,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2789,7 +2789,7 @@
 									Chandigarh Police ASI Recruitment 2022 apply online through &#8230; <a
 										title="Chandigarh Police ASI Recruitment 2022 Asst Sub Inspector 49 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-police-asi-recruitment/"
+										href="chandigarh-police-asi-recruitment/"
 										aria-label="More on Chandigarh Police ASI Recruitment 2022 Asst Sub Inspector 49 Post">Read
 										more</a></p>
 							</div>
@@ -2800,10 +2800,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2812,7 +2812,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-police-asi-recruitment/#comments">2
+										href="chandigarh-police-asi-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2823,7 +2823,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-constable-recruitment-apply/"
+										href="ksp-constable-recruitment-apply/"
 										rel="bookmark">KSP Recruitment 2022 Apply Online 3484 Constable (CAR/DAR)
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2832,7 +2832,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2846,7 +2846,7 @@
 									Police Constable (CAR/DAR)  – Kalyana Karnataka &#8230; <a
 										title="KSP Recruitment 2022 Apply Online 3484 Constable (CAR/DAR) Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ksp-constable-recruitment-apply/"
+										href="ksp-constable-recruitment-apply/"
 										aria-label="More on KSP Recruitment 2022 Apply Online 3484 Constable (CAR/DAR) Post">Read
 										more</a></p>
 							</div>
@@ -2857,10 +2857,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2869,7 +2869,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-constable-recruitment-apply/#comments">4
+										href="ksp-constable-recruitment-apply/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2880,7 +2880,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-constable-bharti/"
+										href="punjab-police-constable-bharti/"
 										rel="bookmark">Punjab Police Constable Recruitment 2022 Apply Now 1191 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -2889,7 +2889,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2904,7 +2904,7 @@
 									the official &#8230; <a
 										title="Punjab Police Constable Recruitment 2022 Apply Now 1191 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-constable-bharti/"
+										href="punjab-police-constable-bharti/"
 										aria-label="More on Punjab Police Constable Recruitment 2022 Apply Now 1191 Post">Read
 										more</a></p>
 							</div>
@@ -2915,10 +2915,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2927,7 +2927,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-constable-bharti/#comments">5
+										href="punjab-police-constable-bharti/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -2938,7 +2938,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-hc-vacancy/"
+										href="punjab-police-hc-vacancy/"
 										rel="bookmark">Punjab Police Head Constable Recruitment 2022 Apply Now 787
 										Post</a></h2>
 								<div class="entry-meta">
@@ -2948,7 +2948,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -2961,7 +2961,7 @@
 									Punjab Police Head Constable Recruitment 2022 apply online through the official
 									website punjabpolice.gov.in Punjab Police Jobs &#8230; <a
 										title="Punjab Police Head Constable Recruitment 2022 Apply Now 787 Post"
-										class="read-more" href="https://www.sarkariresult.app/punjab-police-hc-vacancy/"
+										class="read-more" href="punjab-police-hc-vacancy/"
 										aria-label="More on Punjab Police Head Constable Recruitment 2022 Apply Now 787 Post">Read
 										more</a></p>
 							</div>
@@ -2972,10 +2972,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -2984,7 +2984,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-hc-vacancy/#respond">Leave a
+										href="punjab-police-hc-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -2995,7 +2995,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-vacancy/"
+										href="punjab-police-vacancy/"
 										rel="bookmark">Punjab Police Recruitment 2022 Apply Now Sub Inspector 560
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3005,7 +3005,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3018,7 +3018,7 @@
 									Punjab Police Sub-Inspector Recruitment 2022 apply online through the official
 									website punjabpolice.gov.in Punjab Police Jobs from 10 August &#8230; <a
 										title="Punjab Police Recruitment 2022 Apply Now Sub Inspector 560 Post"
-										class="read-more" href="https://www.sarkariresult.app/punjab-police-vacancy/"
+										class="read-more" href="punjab-police-vacancy/"
 										aria-label="More on Punjab Police Recruitment 2022 Apply Now Sub Inspector 560 Post">Read
 										more</a></p>
 							</div>
@@ -3029,10 +3029,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3041,7 +3041,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-vacancy/#respond">Leave a
+										href="punjab-police-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3052,7 +3052,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-police-vacancy/"
+										href="chandigarh-police-vacancy/"
 										rel="bookmark">Chandigarh Police Recruitment 2022 Apply Online ASI 49 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3062,7 +3062,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3076,7 +3076,7 @@
 									to the chandigarhpolice.gov.in through the official website Chandigarh Police
 									&#8230; <a title="Chandigarh Police Recruitment 2022 Apply Online ASI 49 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-police-vacancy/"
+										href="chandigarh-police-vacancy/"
 										aria-label="More on Chandigarh Police Recruitment 2022 Apply Online ASI 49 Post">Read
 										more</a></p>
 							</div>
@@ -3087,10 +3087,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3099,7 +3099,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-police-vacancy/#comments">3
+										href="chandigarh-police-vacancy/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3110,7 +3110,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-constable-driver-recruitment/"
+										href="delhi-police-constable-driver-recruitment/"
 										rel="bookmark">Delhi Police Constable Driver Recruitment 2022 Apply 1215
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3120,7 +3120,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3134,7 +3134,7 @@
 									ssc.nic.in through the official website Delhi Police Jobs &#8230; <a
 										title="Delhi Police Constable Driver Recruitment 2022 Apply 1215 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-police-constable-driver-recruitment/"
+										href="delhi-police-constable-driver-recruitment/"
 										aria-label="More on Delhi Police Constable Driver Recruitment 2022 Apply 1215 Post">Read
 										more</a></p>
 							</div>
@@ -3145,10 +3145,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3157,7 +3157,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-constable-driver-recruitment/#comments">2
+										href="delhi-police-constable-driver-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3168,7 +3168,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-police-recruitment/" rel="bookmark">TN
+										href="tn-police-recruitment/" rel="bookmark">TN
 										Police Constable Recruitment 2022 Warder, Firemen 3552 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-08-15T23:55:01+05:30"
@@ -3177,7 +3177,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3190,7 +3190,7 @@
 									Constables, Gr.II Jail Warders, and Firemen Vacancies at 3552 Posts. Those
 									candidates who are interested in TN &#8230; <a
 										title="TN Police Constable Recruitment 2022 Warder, Firemen 3552 Post"
-										class="read-more" href="https://www.sarkariresult.app/tn-police-recruitment/"
+										class="read-more" href="tn-police-recruitment/"
 										aria-label="More on TN Police Constable Recruitment 2022 Warder, Firemen 3552 Post">Read
 										more</a></p>
 							</div>
@@ -3201,10 +3201,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3213,7 +3213,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-police-recruitment/#comments">5
+										href="tn-police-recruitment/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3224,7 +3224,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/itbp-head-constable-recruitment/"
+										href="itbp-head-constable-recruitment/"
 										rel="bookmark">ITBP Head Constable Recruitment 2022 Apply ASI 286 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-07-07T23:55:00+05:30"
@@ -3233,7 +3233,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3247,7 +3247,7 @@
 									posts. Those Candidates who are interested in ITBP Head Constable Recruitment
 									&#8230; <a title="ITBP Head Constable Recruitment 2022 Apply ASI 286 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/itbp-head-constable-recruitment/"
+										href="itbp-head-constable-recruitment/"
 										aria-label="More on ITBP Head Constable Recruitment 2022 Apply ASI 286 Posts">Read
 										more</a></p>
 							</div>
@@ -3258,10 +3258,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3270,7 +3270,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/itbp-head-constable-recruitment/#comments">1
+										href="itbp-head-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -3281,7 +3281,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-forest-guard-recruitment/"
+										href="bihar-police-forest-guard-recruitment/"
 										rel="bookmark">Bihar Police Forest Guard, Forester Final Result 2022 Check Cut
 										Off, Merit List</a></h2>
 								<div class="entry-meta">
@@ -3290,7 +3290,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3304,7 +3304,7 @@
 									Bihar &#8230; <a
 										title="Bihar Police Forest Guard, Forester Final Result 2022 Check Cut Off, Merit List"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-forest-guard-recruitment/"
+										href="bihar-police-forest-guard-recruitment/"
 										aria-label="More on Bihar Police Forest Guard, Forester Final Result 2022 Check Cut Off, Merit List">Read
 										more</a></p>
 							</div>
@@ -3315,10 +3315,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3327,7 +3327,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-forest-guard-recruitment/#comments">3
+										href="bihar-police-forest-guard-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3338,7 +3338,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-constable-vacancy-apply/"
+										href="wb-police-constable-vacancy-apply/"
 										rel="bookmark">WB Police Constable Recruitment 2022 Apply Online 1666 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3348,7 +3348,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3362,7 +3362,7 @@
 									Police Jobs from 29 May 2022 to &#8230; <a
 										title="WB Police Constable Recruitment 2022 Apply Online 1666 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-constable-vacancy-apply/"
+										href="wb-police-constable-vacancy-apply/"
 										aria-label="More on WB Police Constable Recruitment 2022 Apply Online 1666 Posts">Read
 										more</a></p>
 							</div>
@@ -3373,10 +3373,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3385,7 +3385,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-constable-vacancy-apply/#comments">3
+										href="wb-police-constable-vacancy-apply/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -3396,7 +3396,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gadchiroli-police-recruitment/"
+										href="gadchiroli-police-recruitment/"
 										rel="bookmark">Gadchiroli Police Recruitment 2022 Apply Now Constable 136
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3406,7 +3406,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3420,7 +3420,7 @@
 									official website Gadchiroli Police Jobs gadchirolipolice.gov.in from 26 &#8230; <a
 										title="Gadchiroli Police Recruitment 2022 Apply Now Constable 136 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gadchiroli-police-recruitment/"
+										href="gadchiroli-police-recruitment/"
 										aria-label="More on Gadchiroli Police Recruitment 2022 Apply Now Constable 136 Post">Read
 										more</a></p>
 							</div>
@@ -3431,10 +3431,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3443,7 +3443,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gadchiroli-police-recruitment/#respond">Leave
+										href="gadchiroli-police-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3454,7 +3454,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-recruitment/" rel="bookmark">WB
+										href="wb-police-recruitment/" rel="bookmark">WB
 										Police Recruitment 2022 Apply Now Sub Assistant Engineer Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-06-03T23:55:01+05:30"
@@ -3463,7 +3463,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3476,7 +3476,7 @@
 									interested in WB Police SAE Recruitment 2022 apply online through the official
 									website WB Police Jobs from 18 May 2022 to &#8230; <a
 										title="WB Police Recruitment 2022 Apply Now Sub Assistant Engineer Post"
-										class="read-more" href="https://www.sarkariresult.app/wb-police-recruitment/"
+										class="read-more" href="wb-police-recruitment/"
 										aria-label="More on WB Police Recruitment 2022 Apply Now Sub Assistant Engineer Post">Read
 										more</a></p>
 							</div>
@@ -3487,10 +3487,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3499,7 +3499,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-recruitment/#respond">Leave a
+										href="wb-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3510,7 +3510,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-police-driver-recruitment/"
+										href="telangana-police-driver-recruitment/"
 										rel="bookmark">Telangana Police Driver Recruitment 2022 Apply Online 225
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3520,7 +3520,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3534,7 +3534,7 @@
 									apply online to the tslprb.in through the Telangana &#8230; <a
 										title="Telangana Police Driver Recruitment 2022 Apply Online 225 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-police-driver-recruitment/"
+										href="telangana-police-driver-recruitment/"
 										aria-label="More on Telangana Police Driver Recruitment 2022 Apply Online 225 Post">Read
 										more</a></p>
 							</div>
@@ -3545,10 +3545,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3557,7 +3557,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-police-driver-recruitment/#respond">Leave
+										href="telangana-police-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3568,7 +3568,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/telangana-police-si-recruitment/"
+										href="telangana-police-si-recruitment/"
 										rel="bookmark">Telangana Police Recruitment 2022 Apply SI, Constable 16614
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3578,7 +3578,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3592,7 +3592,7 @@
 									online through the official website Telangana Police &#8230; <a
 										title="Telangana Police Recruitment 2022 Apply SI, Constable 16614 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/telangana-police-si-recruitment/"
+										href="telangana-police-si-recruitment/"
 										aria-label="More on Telangana Police Recruitment 2022 Apply SI, Constable 16614 Post">Read
 										more</a></p>
 							</div>
@@ -3603,10 +3603,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3615,7 +3615,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/telangana-police-si-recruitment/#respond">Leave
+										href="telangana-police-si-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3626,7 +3626,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kerala-psc-constable-vacancy/"
+										href="kerala-psc-constable-vacancy/"
 										rel="bookmark">Kerala PSC Recruitment 2022 Apply Online Constable 199 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -3636,7 +3636,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3650,7 +3650,7 @@
 									official website Kerala PSC Jobs from &#8230; <a
 										title="Kerala PSC Recruitment 2022 Apply Online Constable 199 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/kerala-psc-constable-vacancy/"
+										href="kerala-psc-constable-vacancy/"
 										aria-label="More on Kerala PSC Recruitment 2022 Apply Online Constable 199 Posts">Read
 										more</a></p>
 							</div>
@@ -3661,10 +3661,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3673,7 +3673,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kerala-psc-constable-vacancy/#respond">Leave
+										href="kerala-psc-constable-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3684,7 +3684,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/apsc-squad-commander-recruitment/"
+										href="apsc-squad-commander-recruitment/"
 										rel="bookmark">APSC Squad Commander Recruitment 2022 Apply Online 11 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3694,7 +3694,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3708,7 +3708,7 @@
 									official website APSC Jobs from &#8230; <a
 										title="APSC Squad Commander Recruitment 2022 Apply Online 11 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/apsc-squad-commander-recruitment/"
+										href="apsc-squad-commander-recruitment/"
 										aria-label="More on APSC Squad Commander Recruitment 2022 Apply Online 11 Post">Read
 										more</a></p>
 							</div>
@@ -3719,10 +3719,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3731,7 +3731,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/apsc-squad-commander-recruitment/#respond">Leave
+										href="apsc-squad-commander-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3742,7 +3742,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bhiwani-police-spo-recruitment/"
+										href="bhiwani-police-spo-recruitment/"
 										rel="bookmark">Bhiwani Police SPO Recruitment 2022 Application Form 27 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3752,7 +3752,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3766,7 +3766,7 @@
 									the official website Bhiwani Police Jobs bhiwani.haryanapolice.gov.in &#8230; <a
 										title="Bhiwani Police SPO Recruitment 2022 Application Form 27 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bhiwani-police-spo-recruitment/"
+										href="bhiwani-police-spo-recruitment/"
 										aria-label="More on Bhiwani Police SPO Recruitment 2022 Application Form 27 Post">Read
 										more</a></p>
 							</div>
@@ -3777,10 +3777,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3789,7 +3789,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bhiwani-police-spo-recruitment/#comments">1
+										href="bhiwani-police-spo-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -3800,7 +3800,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/kolkata-police-vacancy/"
+										href="kolkata-police-vacancy/"
 										rel="bookmark">Kolkata Police Recruitment 2022 Apply Now Civic Volunteer 30
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3810,7 +3810,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3823,7 +3823,7 @@
 									who are interested in Kolkata Police Recruitment 2022 apply online to the Kolkata
 									Police through the official website Kolkata &#8230; <a
 										title="Kolkata Police Recruitment 2022 Apply Now Civic Volunteer 30 Post"
-										class="read-more" href="https://www.sarkariresult.app/kolkata-police-vacancy/"
+										class="read-more" href="kolkata-police-vacancy/"
 										aria-label="More on Kolkata Police Recruitment 2022 Apply Now Civic Volunteer 30 Post">Read
 										more</a></p>
 							</div>
@@ -3834,10 +3834,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3846,7 +3846,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/kolkata-police-vacancy/#respond">Leave a
+										href="kolkata-police-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3857,7 +3857,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ossc-cgl-recruitment/" rel="bookmark">OSSC
+										href="ossc-cgl-recruitment/" rel="bookmark">OSSC
 										CGL Recruitment 2022 Apply Auditor, Inspector 233 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-22T23:55:03+05:30"
@@ -3866,7 +3866,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3879,7 +3879,7 @@
 									Level Examination (Inspector, Auditor, Inspector of Textiles) Vacancy at 233 posts.
 									Those candidates who are interested in OSSC CGL Vacancy &#8230; <a
 										title="OSSC CGL Recruitment 2022 Apply Auditor, Inspector 233 Post"
-										class="read-more" href="https://www.sarkariresult.app/ossc-cgl-recruitment/"
+										class="read-more" href="ossc-cgl-recruitment/"
 										aria-label="More on OSSC CGL Recruitment 2022 Apply Auditor, Inspector 233 Post">Read
 										more</a></p>
 							</div>
@@ -3890,10 +3890,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3902,7 +3902,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ossc-cgl-recruitment/#respond">Leave a
+										href="ossc-cgl-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -3913,7 +3913,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/svpnpa-constable-recruitment/"
+										href="svpnpa-constable-recruitment/"
 										rel="bookmark">SVPNPA Recruitment 2022 Apply Now Constable, SI, ASI, HC 63
 										Post</a></h2>
 								<div class="entry-meta">
@@ -3923,7 +3923,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3938,7 +3938,7 @@
 									interested &#8230; <a
 										title="SVPNPA Recruitment 2022 Apply Now Constable, SI, ASI, HC 63 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/svpnpa-constable-recruitment/"
+										href="svpnpa-constable-recruitment/"
 										aria-label="More on SVPNPA Recruitment 2022 Apply Now Constable, SI, ASI, HC 63 Post">Read
 										more</a></p>
 							</div>
@@ -3949,10 +3949,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -3961,7 +3961,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/svpnpa-constable-recruitment/#respond">Leave
+										href="svpnpa-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -3972,7 +3972,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ossc-traffic-constable-recruitment/"
+										href="ossc-traffic-constable-recruitment/"
 										rel="bookmark">OSSC Traffic Constable Recruitment 2022 Apply Now 56 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -3982,7 +3982,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -3996,7 +3996,7 @@
 									ossc.gov.in through the official website OSSC Jobs &#8230; <a
 										title="OSSC Traffic Constable Recruitment 2022 Apply Now 56 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ossc-traffic-constable-recruitment/"
+										href="ossc-traffic-constable-recruitment/"
 										aria-label="More on OSSC Traffic Constable Recruitment 2022 Apply Now 56 Post">Read
 										more</a></p>
 							</div>
@@ -4007,10 +4007,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4019,7 +4019,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ossc-traffic-constable-recruitment/#respond">Leave
+										href="ossc-traffic-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4030,7 +4030,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tnusrb-si-recruitment/"
+										href="tnusrb-si-recruitment/"
 										rel="bookmark">TNUSRB SI Recruitment 2022 Apply Online Sub Inspector 444
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4040,7 +4040,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4053,7 +4053,7 @@
 									candidates who are interested in TN SI Recruitment 2022 apply online at the
 									tnusrb.tn.gov.in through the official &#8230; <a
 										title="TNUSRB SI Recruitment 2022 Apply Online Sub Inspector 444 Post"
-										class="read-more" href="https://www.sarkariresult.app/tnusrb-si-recruitment/"
+										class="read-more" href="tnusrb-si-recruitment/"
 										aria-label="More on TNUSRB SI Recruitment 2022 Apply Online Sub Inspector 444 Post">Read
 										more</a></p>
 							</div>
@@ -4064,10 +4064,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4076,7 +4076,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tnusrb-si-recruitment/#comments">1
+										href="tnusrb-si-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4087,7 +4087,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jk-police-recruitment/" rel="bookmark">JK
+										href="jk-police-recruitment/" rel="bookmark">JK
 										Police Recruitment 2022 Apply Online Constable 2700 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-04-02T23:55:00+05:30"
@@ -4096,7 +4096,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4109,7 +4109,7 @@
 									interested in JK Police Recruitment 2022 apply online the jkpolice.gov.in through
 									the official website JK Police Jobs from 4 &#8230; <a
 										title="JK Police Recruitment 2022 Apply Online Constable 2700 Posts"
-										class="read-more" href="https://www.sarkariresult.app/jk-police-recruitment/"
+										class="read-more" href="jk-police-recruitment/"
 										aria-label="More on JK Police Recruitment 2022 Apply Online Constable 2700 Posts">Read
 										more</a></p>
 							</div>
@@ -4120,10 +4120,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4132,7 +4132,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jk-police-recruitment/#comments">1
+										href="jk-police-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4143,7 +4143,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ladakh-police-follower-executive-recruitment/"
+										href="ladakh-police-follower-executive-recruitment/"
 										rel="bookmark">Ladakh Police Recruitment 2022 Apply Follower Executive 80
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4153,7 +4153,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4167,7 +4167,7 @@
 									police.ladakh.gov.in through the official website Ladakh Police Jobs &#8230; <a
 										title="Ladakh Police Recruitment 2022 Apply Follower Executive 80 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ladakh-police-follower-executive-recruitment/"
+										href="ladakh-police-follower-executive-recruitment/"
 										aria-label="More on Ladakh Police Recruitment 2022 Apply Follower Executive 80 Post">Read
 										more</a></p>
 							</div>
@@ -4178,10 +4178,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4190,7 +4190,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ladakh-police-follower-executive-recruitment/#respond">Leave
+										href="ladakh-police-follower-executive-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4201,7 +4201,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-constable-bharti/"
+										href="assam-police-constable-bharti/"
 										rel="bookmark">Assam Police Constable Recruitment 2022 Apply Now Driver 487
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4211,7 +4211,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4225,7 +4225,7 @@
 									CARPENTER &amp; DISPATCH RIDER), Assistant Squad Commandant, Driver Vacancy &#8230;
 									<a title="Assam Police Constable Recruitment 2022 Apply Now Driver 487 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-constable-bharti/"
+										href="assam-police-constable-bharti/"
 										aria-label="More on Assam Police Constable Recruitment 2022 Apply Now Driver 487 Post">Read
 										more</a></p>
 							</div>
@@ -4236,10 +4236,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4248,7 +4248,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-constable-bharti/#comments">1
+										href="assam-police-constable-bharti/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4259,7 +4259,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-police-constable-recruitment/"
+										href="tripura-police-constable-recruitment/"
 										rel="bookmark">Tripura Police Recruitment 2022 Apply Online Constable 500
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4269,7 +4269,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4283,7 +4283,7 @@
 									website Tripura Police Jobs from 17 January 2022 &#8230; <a
 										title="Tripura Police Recruitment 2022 Apply Online Constable 500 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-police-constable-recruitment/"
+										href="tripura-police-constable-recruitment/"
 										aria-label="More on Tripura Police Recruitment 2022 Apply Online Constable 500 Post">Read
 										more</a></p>
 							</div>
@@ -4294,10 +4294,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4306,7 +4306,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-police-constable-recruitment/#comments">7
+										href="tripura-police-constable-recruitment/#comments">7
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4317,7 +4317,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-si-recruitment/" rel="bookmark">KSP SI
+										href="ksp-si-recruitment/" rel="bookmark">KSP SI
 										Recruitment 2022 Apply Online Sub Inspector 63 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2022-03-03T23:55:08+05:30"
@@ -4326,7 +4326,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4339,7 +4339,7 @@
 									Police Recruitment 2022 can apply online through the official website KSISF KSP Jobs
 									from 10 February &#8230; <a
 										title="KSP SI Recruitment 2022 Apply Online Sub Inspector 63 Posts"
-										class="read-more" href="https://www.sarkariresult.app/ksp-si-recruitment/"
+										class="read-more" href="ksp-si-recruitment/"
 										aria-label="More on KSP SI Recruitment 2022 Apply Online Sub Inspector 63 Posts">Read
 										more</a></p>
 							</div>
@@ -4350,10 +4350,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4362,7 +4362,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-si-recruitment/#respond">Leave a
+										href="ksp-si-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4373,7 +4373,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-admit-card-2022-link/"
+										href="rajasthan-police-constable-admit-card-2022-link/"
 										rel="bookmark">Rajasthan Police Constable Admit Card 2022 Link Check Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -4383,7 +4383,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4397,7 +4397,7 @@
 									Rajasthan Police Constable Exam Date has been declared which is 13-16 March &#8230;
 									<a title="Rajasthan Police Constable Admit Card 2022 Link Check Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-constable-admit-card-2022-link/"
+										href="rajasthan-police-constable-admit-card-2022-link/"
 										aria-label="More on Rajasthan Police Constable Admit Card 2022 Link Check Exam Date">Read
 										more</a></p>
 							</div>
@@ -4408,10 +4408,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4420,7 +4420,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-admit-card-2022-link/#respond">Leave
+										href="rajasthan-police-constable-admit-card-2022-link/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4431,7 +4431,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-bharti/"
+										href="rajasthan-police-constable-bharti/"
 										rel="bookmark">Rajasthan Police Constable Recruitment 2022 Apply Now 67 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4441,7 +4441,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4455,7 +4455,7 @@
 									police.rajasthan.gov.in through the official website Rajasthan Police Jobs from
 									&#8230; <a title="Rajasthan Police Constable Recruitment 2022 Apply Now 67 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-constable-bharti/"
+										href="rajasthan-police-constable-bharti/"
 										aria-label="More on Rajasthan Police Constable Recruitment 2022 Apply Now 67 Post">Read
 										more</a></p>
 							</div>
@@ -4466,10 +4466,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4478,7 +4478,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-bharti/#respond">Leave
+										href="rajasthan-police-constable-bharti/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4489,7 +4489,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-police-constable-recruitment/"
+										href="up-police-constable-recruitment/"
 										rel="bookmark">UP Police Constable Recruitment 2022 Apply Online 26382 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4499,7 +4499,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4513,7 +4513,7 @@
 									online the uppbpb.gov.in through the official website &#8230; <a
 										title="UP Police Constable Recruitment 2022 Apply Online 26382 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-police-constable-recruitment/"
+										href="up-police-constable-recruitment/"
 										aria-label="More on UP Police Constable Recruitment 2022 Apply Online 26382 Post">Read
 										more</a></p>
 							</div>
@@ -4524,10 +4524,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4536,7 +4536,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-police-constable-recruitment/#comments">3
+										href="up-police-constable-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4547,7 +4547,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-police-assistant-operator-recruitment/"
+										href="up-police-assistant-operator-recruitment/"
 										rel="bookmark">UP Police Assistant Operator Recruitment 2022 Apply Now 2430
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4557,7 +4557,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4571,7 +4571,7 @@
 									Operator 1374, Head Operator / Head Operator Mechanic 936 &#8230; <a
 										title="UP Police Assistant Operator Recruitment 2022 Apply Now 2430 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/up-police-assistant-operator-recruitment/"
+										href="up-police-assistant-operator-recruitment/"
 										aria-label="More on UP Police Assistant Operator Recruitment 2022 Apply Now 2430 Post">Read
 										more</a></p>
 							</div>
@@ -4582,10 +4582,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4594,7 +4594,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-police-assistant-operator-recruitment/#comments">1
+										href="up-police-assistant-operator-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4605,7 +4605,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jhajjar-police-recruitment/"
+										href="jhajjar-police-recruitment/"
 										rel="bookmark">Jhajjar Police Recruitment 2022 Application Form SPO 70 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -4615,7 +4615,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4629,7 +4629,7 @@
 									jhajjar.haryanapolice.gov.in through the Jhajjar &#8230; <a
 										title="Jhajjar Police Recruitment 2022 Application Form SPO 70 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jhajjar-police-recruitment/"
+										href="jhajjar-police-recruitment/"
 										aria-label="More on Jhajjar Police Recruitment 2022 Application Form SPO 70 Post">Read
 										more</a></p>
 							</div>
@@ -4640,10 +4640,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4652,7 +4652,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jhajjar-police-recruitment/#respond">Leave a
+										href="jhajjar-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -4663,7 +4663,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-constable-vacancy/"
+										href="bihar-police-constable-vacancy/"
 										rel="bookmark">Bihar Police Constable Recruitment 2022 CSBC Constable 365
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4673,7 +4673,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4687,7 +4687,7 @@
 									online the csbc.bih.nic.in through the official website &#8230; <a
 										title="Bihar Police Constable Recruitment 2022 CSBC Constable 365 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-constable-vacancy/"
+										href="bihar-police-constable-vacancy/"
 										aria-label="More on Bihar Police Constable Recruitment 2022 CSBC Constable 365 Post">Read
 										more</a></p>
 							</div>
@@ -4698,10 +4698,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4710,7 +4710,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-constable-vacancy/#respond">Leave
+										href="bihar-police-constable-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4721,7 +4721,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-scene-of-crime-officer-recruitment/"
+										href="ksp-scene-of-crime-officer-recruitment/"
 										rel="bookmark">KSP Scene of Crime Officer Recruitment 2022 Apply Online 206
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4731,7 +4731,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4745,7 +4745,7 @@
 									through the official &#8230; <a
 										title="KSP Scene of Crime Officer Recruitment 2022 Apply Online 206 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ksp-scene-of-crime-officer-recruitment/"
+										href="ksp-scene-of-crime-officer-recruitment/"
 										aria-label="More on KSP Scene of Crime Officer Recruitment 2022 Apply Online 206 Post">Read
 										more</a></p>
 							</div>
@@ -4756,10 +4756,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4768,7 +4768,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-scene-of-crime-officer-recruitment/#respond">Leave
+										href="ksp-scene-of-crime-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4779,7 +4779,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-police-asi-recruitment/"
+										href="odisha-police-asi-recruitment/"
 										rel="bookmark">Odisha Police ASI Recruitment 2022 Assistant Sub Inspector 144
 										Post</a></h2>
 								<div class="entry-meta">
@@ -4789,7 +4789,7 @@
 											2022</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4804,7 +4804,7 @@
 									&#8230; <a
 										title="Odisha Police ASI Recruitment 2022 Assistant Sub Inspector 144 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-police-asi-recruitment/"
+										href="odisha-police-asi-recruitment/"
 										aria-label="More on Odisha Police ASI Recruitment 2022 Assistant Sub Inspector 144 Post">Read
 										more</a></p>
 							</div>
@@ -4815,10 +4815,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4827,7 +4827,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-police-asi-recruitment/#respond">Leave
+										href="odisha-police-asi-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -4838,7 +4838,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-constable-recruitment/"
+										href="haryana-police-constable-recruitment/"
 										rel="bookmark">Haryana Police Female Constable PST Result 2022 Link HSSC HAP
 										Durga PMT/DV Date</a></h2>
 								<div class="entry-meta">
@@ -4848,7 +4848,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4862,7 +4862,7 @@
 									HSSC Online applications are &#8230; <a
 										title="Haryana Police Female Constable PST Result 2022 Link HSSC HAP Durga PMT/DV Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-constable-recruitment/"
+										href="haryana-police-constable-recruitment/"
 										aria-label="More on Haryana Police Female Constable PST Result 2022 Link HSSC HAP Durga PMT/DV Date">Read
 										more</a></p>
 							</div>
@@ -4873,11 +4873,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/hssc-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="hssc-jobs/"
 										rel="category tag">HSSC Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/sarkari-result/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4886,7 +4886,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-constable-recruitment/#comments">9
+										href="haryana-police-constable-recruitment/#comments">9
 										Comments</a></span>
 							</footer>
 						</div>
@@ -4897,7 +4897,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-male-constable-admit-card/"
+										href="haryana-police-male-constable-admit-card/"
 										rel="bookmark">Haryana Police Male Constable Admit Card 2022 Check PMT, DV
 										Date</a></h2>
 								<div class="entry-meta">
@@ -4907,7 +4907,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4921,7 +4921,7 @@
 									Constable PMT and Scrutiny &#8230; <a
 										title="Haryana Police Male Constable Admit Card 2022 Check PMT, DV Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-male-constable-admit-card/"
+										href="haryana-police-male-constable-admit-card/"
 										aria-label="More on Haryana Police Male Constable Admit Card 2022 Check PMT, DV Date">Read
 										more</a></p>
 							</div>
@@ -4932,13 +4932,13 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/hssc-jobs/" rel="category tag">HSSC
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="hssc-jobs/" rel="category tag">HSSC
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -4947,7 +4947,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-male-constable-admit-card/#comments">1
+										href="haryana-police-male-constable-admit-card/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -4958,7 +4958,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/faridabad-police-spo-recruitment/"
+										href="faridabad-police-spo-recruitment/"
 										rel="bookmark">Faridabad Police SPO Recruitment 2021 Apply Now 183 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -4968,7 +4968,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -4982,7 +4982,7 @@
 									online to faridabad.haryanapolice.gov.in through the Faridabad &#8230; <a
 										title="Faridabad Police SPO Recruitment 2021 Apply Now 183 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/faridabad-police-spo-recruitment/"
+										href="faridabad-police-spo-recruitment/"
 										aria-label="More on Faridabad Police SPO Recruitment 2021 Apply Now 183 Posts">Read
 										more</a></p>
 							</div>
@@ -4993,10 +4993,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5005,7 +5005,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/faridabad-police-spo-recruitment/#respond">Leave
+										href="faridabad-police-spo-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5016,7 +5016,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-system-analyst-recruitment/"
+										href="haryana-police-system-analyst-recruitment/"
 										rel="bookmark">Haryana Police System Analyst Recruitment 2021 Walk In
 										Interview</a></h2>
 								<div class="entry-meta">
@@ -5026,7 +5026,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5040,7 +5040,7 @@
 									Data Analyst, Network Engineer, Web Designer Vacancy at 45 &#8230; <a
 										title="Haryana Police System Analyst Recruitment 2021 Walk In Interview"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-system-analyst-recruitment/"
+										href="haryana-police-system-analyst-recruitment/"
 										aria-label="More on Haryana Police System Analyst Recruitment 2021 Walk In Interview">Read
 										more</a></p>
 							</div>
@@ -5051,10 +5051,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5063,7 +5063,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-system-analyst-recruitment/#respond">Leave
+										href="haryana-police-system-analyst-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5074,7 +5074,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-constable-recruitment-apply/"
+										href="assam-police-constable-recruitment-apply/"
 										rel="bookmark">Assam Police Constable Recruitment 2022 Apply Online 4584
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -5084,7 +5084,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5098,7 +5098,7 @@
 									Female, Constable (AB) Nursing Vacancy at 4584 posts. Those &#8230; <a
 										title="Assam Police Constable Recruitment 2022 Apply Online 4584 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-constable-recruitment-apply/"
+										href="assam-police-constable-recruitment-apply/"
 										aria-label="More on Assam Police Constable Recruitment 2022 Apply Online 4584 Posts">Read
 										more</a></p>
 							</div>
@@ -5109,10 +5109,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5121,7 +5121,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-constable-recruitment-apply/#respond">Leave
+										href="assam-police-constable-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5132,7 +5132,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-si-recruitment/"
+										href="assam-police-si-recruitment/"
 										rel="bookmark">Assam Police SI Recruitment 2022 Apply Online Sub Inspector 306
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5142,7 +5142,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5156,7 +5156,7 @@
 									official website for SLPRB &#8230; <a
 										title="Assam Police SI Recruitment 2022 Apply Online Sub Inspector 306 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-si-recruitment/"
+										href="assam-police-si-recruitment/"
 										aria-label="More on Assam Police SI Recruitment 2022 Apply Online Sub Inspector 306 Post">Read
 										more</a></p>
 							</div>
@@ -5167,10 +5167,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5179,7 +5179,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-si-recruitment/#respond">Leave
+										href="assam-police-si-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5190,7 +5190,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-police-recruitment-apply/"
+										href="hp-police-recruitment-apply/"
 										rel="bookmark">HP Police Recruitment 2021 Apply Now Wards of Ex-Servicemen
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5200,7 +5200,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5214,7 +5214,7 @@
 									website for HP Police Jobs from &#8230; <a
 										title="HP Police Recruitment 2021 Apply Now Wards of Ex-Servicemen Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-police-recruitment-apply/"
+										href="hp-police-recruitment-apply/"
 										aria-label="More on HP Police Recruitment 2021 Apply Now Wards of Ex-Servicemen Post">Read
 										more</a></p>
 							</div>
@@ -5225,10 +5225,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5237,7 +5237,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-police-recruitment-apply/#respond">Leave
+										href="hp-police-recruitment-apply/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5248,7 +5248,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-recruitment/"
+										href="rajasthan-police-constable-recruitment/"
 										rel="bookmark">Rajasthan Police Constable Recruitment 2021 Apply Now 4438
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5258,7 +5258,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5273,7 +5273,7 @@
 									interested &#8230; <a
 										title="Rajasthan Police Constable Recruitment 2021 Apply Now 4438 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-constable-recruitment/"
+										href="rajasthan-police-constable-recruitment/"
 										aria-label="More on Rajasthan Police Constable Recruitment 2021 Apply Now 4438 Post">Read
 										more</a></p>
 							</div>
@@ -5284,10 +5284,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5296,7 +5296,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-constable-recruitment/#comments">1
+										href="rajasthan-police-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5307,7 +5307,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ladakh-police-constable-recruitment/"
+										href="ladakh-police-constable-recruitment/"
 										rel="bookmark">Ladakh Police Constable Recruitment 2021 Apply Now 213 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5317,7 +5317,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5331,7 +5331,7 @@
 									police.ladakh.gov.in rough the official website &#8230; <a
 										title="Ladakh Police Constable Recruitment 2021 Apply Now 213 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ladakh-police-constable-recruitment/"
+										href="ladakh-police-constable-recruitment/"
 										aria-label="More on Ladakh Police Constable Recruitment 2021 Apply Now 213 Post">Read
 										more</a></p>
 							</div>
@@ -5342,10 +5342,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5354,7 +5354,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ladakh-police-constable-recruitment/#comments">1
+										href="ladakh-police-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5365,7 +5365,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-police-bastar-fighters-recruitment/"
+										href="cg-police-bastar-fighters-recruitment/"
 										rel="bookmark">CG Police Bastar Fighters Recruitment 2021 Apply Now 300 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5375,7 +5375,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5389,7 +5389,7 @@
 									Police Recruitment 2021 apply online the cgpolice.gov.in &#8230; <a
 										title="CG Police Bastar Fighters Recruitment 2021 Apply Now 300 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/cg-police-bastar-fighters-recruitment/"
+										href="cg-police-bastar-fighters-recruitment/"
 										aria-label="More on CG Police Bastar Fighters Recruitment 2021 Apply Now 300 Post">Read
 										more</a></p>
 							</div>
@@ -5400,10 +5400,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5412,7 +5412,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-police-bastar-fighters-recruitment/#comments">2
+										href="cg-police-bastar-fighters-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -5423,7 +5423,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-police-constable-recruitment/"
+										href="gujarat-police-constable-recruitment/"
 										rel="bookmark">Gujarat Police Constable Recruitment 2021 Apply 10459 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5433,7 +5433,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5447,7 +5447,7 @@
 									website Gujarat Police Jobs from 25 October &#8230; <a
 										title="Gujarat Police Constable Recruitment 2021 Apply 10459 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-police-constable-recruitment/"
+										href="gujarat-police-constable-recruitment/"
 										aria-label="More on Gujarat Police Constable Recruitment 2021 Apply 10459 Posts">Read
 										more</a></p>
 							</div>
@@ -5458,10 +5458,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5470,7 +5470,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-police-constable-recruitment/#comments">1
+										href="gujarat-police-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5481,7 +5481,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/goa-police-constable-job/"
+										href="goa-police-constable-job/"
 										rel="bookmark">Goa Police Constable Recruitment 2021 Apply Online 773 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -5491,7 +5491,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5504,7 +5504,7 @@
 									Constable recruitment 2021 of Constable, Pharmacist, Stenographer, Lower Division
 									Clerk, Barber, Dhobi, Nursing Assistant, Mess Servant, Sweeper Vacancy at 773 posts.
 									Those &#8230; <a title="Goa Police Constable Recruitment 2021 Apply Online 773 Post"
-										class="read-more" href="https://www.sarkariresult.app/goa-police-constable-job/"
+										class="read-more" href="goa-police-constable-job/"
 										aria-label="More on Goa Police Constable Recruitment 2021 Apply Online 773 Post">Read
 										more</a></p>
 							</div>
@@ -5515,10 +5515,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5527,7 +5527,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/goa-police-constable-job/#comments">1
+										href="goa-police-constable-job/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5538,7 +5538,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-police-si-recruitment/" rel="bookmark">CG
+										href="cg-police-si-recruitment/" rel="bookmark">CG
 										Police SI Recruitment 2021 Apply Subedar, Commander 975 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-10-31T23:55:32+05:30"
@@ -5547,7 +5547,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5561,7 +5561,7 @@
 									Police recruitment 2021 of Subedar, Sub Inspector, Sub Inspector (Special Branch),
 									Platoon &#8230; <a
 										title="CG Police SI Recruitment 2021 Apply Subedar, Commander 975 Post"
-										class="read-more" href="https://www.sarkariresult.app/cg-police-si-recruitment/"
+										class="read-more" href="cg-police-si-recruitment/"
 										aria-label="More on CG Police SI Recruitment 2021 Apply Subedar, Commander 975 Post">Read
 										more</a></p>
 							</div>
@@ -5572,10 +5572,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5584,7 +5584,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-police-si-recruitment/#respond">Leave a
+										href="cg-police-si-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5595,7 +5595,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/hp-police-constable-recruitment/"
+										href="hp-police-constable-recruitment/"
 										rel="bookmark">HP Police Constable Recruitment 2021 Apply Online 1334 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -5605,7 +5605,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5619,7 +5619,7 @@
 									online through the official website for &#8230; <a
 										title="HP Police Constable Recruitment 2021 Apply Online 1334 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/hp-police-constable-recruitment/"
+										href="hp-police-constable-recruitment/"
 										aria-label="More on HP Police Constable Recruitment 2021 Apply Online 1334 Posts">Read
 										more</a></p>
 							</div>
@@ -5630,10 +5630,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5642,7 +5642,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/hp-police-constable-recruitment/#respond">Leave
+										href="hp-police-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5653,7 +5653,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/goa-police-constable-recruitment/"
+										href="goa-police-constable-recruitment/"
 										rel="bookmark">Goa Police Constable Recruitment 2021 Apply Now Driver 55
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5663,7 +5663,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5677,7 +5677,7 @@
 									through the official website for &#8230; <a
 										title="Goa Police Constable Recruitment 2021 Apply Now Driver 55 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/goa-police-constable-recruitment/"
+										href="goa-police-constable-recruitment/"
 										aria-label="More on Goa Police Constable Recruitment 2021 Apply Now Driver 55 Post">Read
 										more</a></p>
 							</div>
@@ -5688,10 +5688,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5700,7 +5700,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/goa-police-constable-recruitment/#respond">Leave
+										href="goa-police-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5711,7 +5711,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-police-vacancy/"
+										href="gujarat-police-vacancy/"
 										rel="bookmark">Gujarat Police Recruitment 2021 Apply Now SI, Operator 333
 										Post</a></h2>
 								<div class="entry-meta">
@@ -5721,7 +5721,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5734,7 +5734,7 @@
 									Inspector (Wireless), Technical Operator, Police Sub Inspector (M.T) Vacancy at 333
 									posts. Those candidates who are interested in Gujarat Police &#8230; <a
 										title="Gujarat Police Recruitment 2021 Apply Now SI, Operator 333 Post"
-										class="read-more" href="https://www.sarkariresult.app/gujarat-police-vacancy/"
+										class="read-more" href="gujarat-police-vacancy/"
 										aria-label="More on Gujarat Police Recruitment 2021 Apply Now SI, Operator 333 Post">Read
 										more</a></p>
 							</div>
@@ -5745,10 +5745,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5757,7 +5757,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-police-vacancy/#comments">1
+										href="gujarat-police-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5768,7 +5768,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-vacancy/" rel="bookmark">Delhi
+										href="delhi-police-vacancy/" rel="bookmark">Delhi
 										Police Recruitment 2021 Apply Legal Consultants 11 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-10-13T16:26:06+05:30"
@@ -5777,7 +5777,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5790,7 +5790,7 @@
 									Those candidates who are interested in Delhi Police Recruitment 2021 apply online
 									the delhipolice.nic.in rough the official website Delhi Police &#8230; <a
 										title="Delhi Police Recruitment 2021 Apply Legal Consultants 11 Post"
-										class="read-more" href="https://www.sarkariresult.app/delhi-police-vacancy/"
+										class="read-more" href="delhi-police-vacancy/"
 										aria-label="More on Delhi Police Recruitment 2021 Apply Legal Consultants 11 Post">Read
 										more</a></p>
 							</div>
@@ -5801,10 +5801,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5813,7 +5813,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-vacancy/#comments">1
+										href="delhi-police-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5824,7 +5824,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-hssc-si-recruitment/"
+										href="haryana-police-hssc-si-recruitment/"
 										rel="bookmark">Haryana Police SI Admit Card 2021 Download HSSC Female SI (Advt
 										03/2021) PST Date</a></h2>
 								<div class="entry-meta">
@@ -5834,7 +5834,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5848,7 +5848,7 @@
 									Selection Commission (HSSC) has &#8230; <a
 										title="Haryana Police SI Admit Card 2021 Download HSSC Female SI (Advt 03/2021) PST Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-hssc-si-recruitment/"
+										href="haryana-police-hssc-si-recruitment/"
 										aria-label="More on Haryana Police SI Admit Card 2021 Download HSSC Female SI (Advt 03/2021) PST Date">Read
 										more</a></p>
 							</div>
@@ -5859,11 +5859,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/hssc-jobs/" rel="category tag">HSSC
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="hssc-jobs/" rel="category tag">HSSC
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5872,7 +5872,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-hssc-si-recruitment/#respond">Leave
+										href="haryana-police-hssc-si-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -5883,7 +5883,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-commando-recruitment/"
+										href="haryana-police-commando-recruitment/"
 										rel="bookmark">Haryana Police Commando Result 2021 Release Constable PST/PMT
 										Qualified List</a></h2>
 								<div class="entry-meta">
@@ -5892,7 +5892,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5906,7 +5906,7 @@
 									Information: Haryana Staff Selection Commission &#8230; <a
 										title="Haryana Police Commando Result 2021 Release Constable PST/PMT Qualified List"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-commando-recruitment/"
+										href="haryana-police-commando-recruitment/"
 										aria-label="More on Haryana Police Commando Result 2021 Release Constable PST/PMT Qualified List">Read
 										more</a></p>
 							</div>
@@ -5917,11 +5917,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/hssc-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="hssc-jobs/"
 										rel="category tag">HSSC Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/sarkari-result/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="sarkari-result/"
 										rel="category tag">Results</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5930,7 +5930,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-commando-recruitment/#comments">1
+										href="haryana-police-commando-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -5941,7 +5941,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-police-constable-job/" rel="bookmark">MP
+										href="mp-police-constable-job/" rel="bookmark">MP
 										Police Constable Recruitment 2021 Apply Online SI 60 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-10-13T15:43:56+05:30"
@@ -5950,7 +5950,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -5963,7 +5963,7 @@
 									wishing to apply through the official website mppolice.gov.in recruitment 2021 for
 									MP Police Jobs Vacancy at 60 posts &#8230; <a
 										title="MP Police Constable Recruitment 2021 Apply Online SI 60 Post"
-										class="read-more" href="https://www.sarkariresult.app/mp-police-constable-job/"
+										class="read-more" href="mp-police-constable-job/"
 										aria-label="More on MP Police Constable Recruitment 2021 Apply Online SI 60 Post">Read
 										more</a></p>
 							</div>
@@ -5974,10 +5974,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -5986,7 +5986,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-police-constable-job/#respond">Leave a
+										href="mp-police-constable-job/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -5997,7 +5997,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-police-constable-vacancy/"
+										href="odisha-police-constable-vacancy/"
 										rel="bookmark">Odisha Police Constable Recruitment 2021 Apply Online 244
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6007,7 +6007,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6022,7 +6022,7 @@
 									Posts &#8230; <a
 										title="Odisha Police Constable Recruitment 2021 Apply Online 244 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-police-constable-vacancy/"
+										href="odisha-police-constable-vacancy/"
 										aria-label="More on Odisha Police Constable Recruitment 2021 Apply Online 244 Post">Read
 										more</a></p>
 							</div>
@@ -6033,10 +6033,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6045,7 +6045,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-police-constable-vacancy/#respond">Leave
+										href="odisha-police-constable-vacancy/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6056,7 +6056,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-recruitment/"
+										href="punjab-police-recruitment/"
 										rel="bookmark">Punjab Police SI Recruitment 2021 Apply Online Constable 2607
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6066,7 +6066,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6080,7 +6080,7 @@
 									Punjab Police Jobs. Those candidates &#8230; <a
 										title="Punjab Police SI Recruitment 2021 Apply Online Constable 2607 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-recruitment/"
+										href="punjab-police-recruitment/"
 										aria-label="More on Punjab Police SI Recruitment 2021 Apply Online Constable 2607 Post">Read
 										more</a></p>
 							</div>
@@ -6091,10 +6091,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6103,7 +6103,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-recruitment/#respond">Leave a
+										href="punjab-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6114,7 +6114,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-cpo-si-2020-result/" rel="bookmark">SSC
+										href="ssc-cpo-si-2020-result/" rel="bookmark">SSC
 										CPO SI 2020 Result Check Online PET PST Cut Off, Qualified List</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6122,7 +6122,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6134,7 +6134,7 @@
 									Physical Result Short Information: SSC CPO SI 2020 Result Out: SSC has released the
 									SSC CPO PST/PST Result today, 28 &#8230; <a
 										title="SSC CPO SI 2020 Result Check Online PET PST Cut Off, Qualified List"
-										class="read-more" href="https://www.sarkariresult.app/ssc-cpo-si-2020-result/"
+										class="read-more" href="ssc-cpo-si-2020-result/"
 										aria-label="More on SSC CPO SI 2020 Result Check Online PET PST Cut Off, Qualified List">Read
 										more</a></p>
 							</div>
@@ -6145,11 +6145,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a>, <a
-										href="https://www.sarkariresult.app/sarkari-result/"
-										rel="category tag">Results</a>, <a href="https://www.sarkariresult.app/ssc/"
+										href="sarkari-result/"
+										rel="category tag">Results</a>, <a href="ssc/"
 										rel="category tag">SSC</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6158,7 +6158,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ssc-cpo-si-2020-result/#respond">Leave a
+										href="ssc-cpo-si-2020-result/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6169,7 +6169,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/karnataka-police-constable-job/"
+										href="karnataka-police-constable-job/"
 										rel="bookmark">Karnataka Police Constable Recruitment 2021 Apply Now 100
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6178,7 +6178,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6192,7 +6192,7 @@
 									recruitment 2021 for KSP Civil Constable Jobs &#8230; <a
 										title="Karnataka Police Constable Recruitment 2021 Apply Now 100 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/karnataka-police-constable-job/"
+										href="karnataka-police-constable-job/"
 										aria-label="More on Karnataka Police Constable Recruitment 2021 Apply Now 100 Post">Read
 										more</a></p>
 							</div>
@@ -6203,10 +6203,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6216,7 +6216,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/karnataka-police-constable-job/#respond">Leave
+										href="karnataka-police-constable-job/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6227,7 +6227,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-constable-jobs/" rel="bookmark">KSP
+										href="ksp-constable-jobs/" rel="bookmark">KSP
 										Constable Recruitment 2021 Apply Online 387 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6235,7 +6235,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6248,7 +6248,7 @@
 									wishing to apply through the official website ksp.gov.in recruitment 2021 for KSP
 									Civil Constable Jobs 2021 Vacancy at 387 &#8230; <a
 										title="KSP Constable Recruitment 2021 Apply Online 387 Posts" class="read-more"
-										href="https://www.sarkariresult.app/ksp-constable-jobs/"
+										href="ksp-constable-jobs/"
 										aria-label="More on KSP Constable Recruitment 2021 Apply Online 387 Posts">Read
 										more</a></p>
 							</div>
@@ -6259,10 +6259,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6272,7 +6272,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-constable-jobs/#respond">Leave a
+										href="ksp-constable-jobs/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6283,7 +6283,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-constable-recruitment/"
+										href="punjab-police-constable-recruitment/"
 										rel="bookmark">Punjab Police Constable Recruitment 2021 Apply Online 4358
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6293,7 +6293,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6307,7 +6307,7 @@
 									through the official website Punjab Police Jobs &#8230; <a
 										title="Punjab Police Constable Recruitment 2021 Apply Online 4358 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-constable-recruitment/"
+										href="punjab-police-constable-recruitment/"
 										aria-label="More on Punjab Police Constable Recruitment 2021 Apply Online 4358 Posts">Read
 										more</a></p>
 							</div>
@@ -6318,10 +6318,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6331,7 +6331,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-constable-recruitment/#respond">Leave
+										href="punjab-police-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6342,7 +6342,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-head-constable-recruitment/"
+										href="punjab-police-head-constable-recruitment/"
 										rel="bookmark">Punjab Police Head Constable Recruitment 2021 Apply 811 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6352,7 +6352,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6366,7 +6366,7 @@
 									Police Head Constable Recruitment 2021 &#8230; <a
 										title="Punjab Police Head Constable Recruitment 2021 Apply 811 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-head-constable-recruitment/"
+										href="punjab-police-head-constable-recruitment/"
 										aria-label="More on Punjab Police Head Constable Recruitment 2021 Apply 811 Posts">Read
 										more</a></p>
 							</div>
@@ -6377,10 +6377,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6390,7 +6390,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-head-constable-recruitment/#respond">Leave
+										href="punjab-police-head-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6401,7 +6401,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-intelligence-assistant-recruitment/"
+										href="punjab-police-intelligence-assistant-recruitment/"
 										rel="bookmark">Punjab Police Intelligence Assistant Recruitment 2021 Apply
 										Now</a></h2>
 								<div class="entry-meta">
@@ -6410,7 +6410,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6424,7 +6424,7 @@
 									sports quota, which shall be filled separately) Vacancy at 1191 &#8230; <a
 										title="Punjab Police Intelligence Assistant Recruitment 2021 Apply Now"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-intelligence-assistant-recruitment/"
+										href="punjab-police-intelligence-assistant-recruitment/"
 										aria-label="More on Punjab Police Intelligence Assistant Recruitment 2021 Apply Now">Read
 										more</a></p>
 							</div>
@@ -6435,10 +6435,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6448,7 +6448,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-intelligence-assistant-recruitment/#respond">Leave
+										href="punjab-police-intelligence-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6459,7 +6459,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-si-recruitment/" rel="bookmark">WB
+										href="wb-police-si-recruitment/" rel="bookmark">WB
 										Police SI Recruitment 2021 Apply Online Sergeant 330 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6467,7 +6467,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6481,7 +6481,7 @@
 									Those candidates who are interested in WB Police Recruitment can apply online
 									through the &#8230; <a
 										title="WB Police SI Recruitment 2021 Apply Online Sergeant 330 Post"
-										class="read-more" href="https://www.sarkariresult.app/wb-police-si-recruitment/"
+										class="read-more" href="wb-police-si-recruitment/"
 										aria-label="More on WB Police SI Recruitment 2021 Apply Online Sergeant 330 Post">Read
 										more</a></p>
 							</div>
@@ -6492,10 +6492,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6505,7 +6505,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-si-recruitment/#respond">Leave a
+										href="wb-police-si-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6516,7 +6516,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/punjab-police-si-recruitment-2021/"
+										href="punjab-police-si-recruitment-2021/"
 										rel="bookmark">Punjab Police SI Recruitment 2021 Apply Sub Inspector 560
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6525,7 +6525,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6539,7 +6539,7 @@
 									against the sports quota, which shall be filled separately) in the 3 cadres of
 									&#8230; <a title="Punjab Police SI Recruitment 2021 Apply Sub Inspector 560 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/punjab-police-si-recruitment-2021/"
+										href="punjab-police-si-recruitment-2021/"
 										aria-label="More on Punjab Police SI Recruitment 2021 Apply Sub Inspector 560 Post">Read
 										more</a></p>
 							</div>
@@ -6550,10 +6550,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6563,7 +6563,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/punjab-police-si-recruitment-2021/#respond">Leave
+										href="punjab-police-si-recruitment-2021/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6574,7 +6574,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-vacancy/" rel="bookmark">Bihar
+										href="bihar-police-vacancy/" rel="bookmark">Bihar
 										Police Constable Recruitment 2021 Apply Online SI 106 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="updated" datetime="2021-07-06T16:36:30+05:30"
@@ -6583,7 +6583,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6596,7 +6596,7 @@
 									Armed Police, Bihar. Short Information: Bihar Police has released a new recruitment
 									notification for the post of 106 &#8230; <a
 										title="Bihar Police Constable Recruitment 2021 Apply Online SI 106 Posts"
-										class="read-more" href="https://www.sarkariresult.app/bihar-police-vacancy/"
+										class="read-more" href="bihar-police-vacancy/"
 										aria-label="More on Bihar Police Constable Recruitment 2021 Apply Online SI 106 Posts">Read
 										more</a></p>
 							</div>
@@ -6607,10 +6607,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6620,7 +6620,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-vacancy/#comments">1
+										href="bihar-police-vacancy/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6631,7 +6631,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-vacancy/"
+										href="rajasthan-police-vacancy/"
 										rel="bookmark">Rajasthan Police Recruitment 2021 Apply SI/ Commander 81 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6640,7 +6640,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6654,7 +6654,7 @@
 									Police has released a notification for the Rajasthan Police SI recruitment of a
 									total of 81 vacancies &#8230; <a
 										title="Rajasthan Police Recruitment 2021 Apply SI/ Commander 81 Post"
-										class="read-more" href="https://www.sarkariresult.app/rajasthan-police-vacancy/"
+										class="read-more" href="rajasthan-police-vacancy/"
 										aria-label="More on Rajasthan Police Recruitment 2021 Apply SI/ Commander 81 Post">Read
 										more</a></p>
 							</div>
@@ -6665,10 +6665,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6678,7 +6678,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-vacancy/#respond">Leave a
+										href="rajasthan-police-vacancy/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6689,7 +6689,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-police-constable-recruitment/"
+										href="odisha-police-constable-recruitment/"
 										rel="bookmark">Odisha Police Constable Recruitment 2021 Apply Now 244 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -6698,7 +6698,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6712,7 +6712,7 @@
 									15/07/2021. Odisha Police Jobs Notification 2021 &#8211; Apply Online Constable 244
 									Posts &#8230; <a title="Odisha Police Constable Recruitment 2021 Apply Now 244 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-police-constable-recruitment/"
+										href="odisha-police-constable-recruitment/"
 										aria-label="More on Odisha Police Constable Recruitment 2021 Apply Now 244 Post">Read
 										more</a></p>
 							</div>
@@ -6723,10 +6723,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6736,7 +6736,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-police-constable-recruitment/#comments">4
+										href="odisha-police-constable-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -6747,7 +6747,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-police-recruitment/" rel="bookmark">UP
+										href="up-police-recruitment/" rel="bookmark">UP
 										Police Jail Warder Result 2021 Check Fireman Final Merit List</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6755,7 +6755,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6768,7 +6768,7 @@
 									Police Jail / Fireman Result 2021 Check here UPPRPB Written Exam Result for Jail
 									Warder &#8230; <a
 										title="UP Police Jail Warder Result 2021 Check Fireman Final Merit List"
-										class="read-more" href="https://www.sarkariresult.app/up-police-recruitment/"
+										class="read-more" href="up-police-recruitment/"
 										aria-label="More on UP Police Jail Warder Result 2021 Check Fireman Final Merit List">Read
 										more</a></p>
 							</div>
@@ -6779,10 +6779,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/sarkari-result/"
+										href="sarkari-result/"
 										rel="category tag">Results</a>, <a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/police-jobs/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="police-jobs/"
 										rel="category tag">Police Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6791,7 +6791,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-police-recruitment/#comments">1
+										href="up-police-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -6802,7 +6802,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/odisha-police-si-recruitment/"
+										href="odisha-police-si-recruitment/"
 										rel="bookmark">Odisha Police SI Recruitment 2021 Apply Sub Inspector 477
 										Post</a></h2>
 								<div class="entry-meta">
@@ -6811,7 +6811,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6825,7 +6825,7 @@
 									Notification 2021 &#8211; Apply Online SI 477 Posts &#8230; <a
 										title="Odisha Police SI Recruitment 2021 Apply Sub Inspector 477 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/odisha-police-si-recruitment/"
+										href="odisha-police-si-recruitment/"
 										aria-label="More on Odisha Police SI Recruitment 2021 Apply Sub Inspector 477 Post">Read
 										more</a></p>
 							</div>
@@ -6836,10 +6836,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6849,7 +6849,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/odisha-police-si-recruitment/#respond">Leave
+										href="odisha-police-si-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6860,7 +6860,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-psi-civil-recruitment/"
+										href="ksp-psi-civil-recruitment/"
 										rel="bookmark">KSP PSI Civil Recruitment 2021 Apply Sub Inspector 402 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -6869,7 +6869,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6883,7 +6883,7 @@
 									through the official &#8230; <a
 										title="KSP PSI Civil Recruitment 2021 Apply Sub Inspector 402 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ksp-psi-civil-recruitment/"
+										href="ksp-psi-civil-recruitment/"
 										aria-label="More on KSP PSI Civil Recruitment 2021 Apply Sub Inspector 402 Posts">Read
 										more</a></p>
 							</div>
@@ -6894,10 +6894,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -6907,7 +6907,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-psi-civil-recruitment/#respond">Leave a
+										href="ksp-psi-civil-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -6918,7 +6918,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-si-recruitment/"
+										href="rajasthan-police-si-recruitment/"
 										rel="bookmark">Rajasthan Police SI Recruitment 2021 Platoon Commander 859
 										Posts</a></h2>
 								<div class="entry-meta">
@@ -6927,7 +6927,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6941,7 +6941,7 @@
 									posts. Those candidates &#8230; <a
 										title="Rajasthan Police SI Recruitment 2021 Platoon Commander 859 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-si-recruitment/"
+										href="rajasthan-police-si-recruitment/"
 										aria-label="More on Rajasthan Police SI Recruitment 2021 Platoon Commander 859 Posts">Read
 										more</a></p>
 							</div>
@@ -6952,12 +6952,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/rpsc-jobs/" rel="category tag">RPSC
+										href="rpsc-jobs/" rel="category tag">RPSC
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -6966,7 +6966,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-si-recruitment/#respond">Leave
+										href="rajasthan-police-si-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -6977,7 +6977,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-police-si-vacancy/" rel="bookmark">UP
+										href="up-police-si-vacancy/" rel="bookmark">UP
 										Police ASI Recruitment 2021 Apply Sub Inspector 1277 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -6985,7 +6985,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -6998,7 +6998,7 @@
 									for the UP Police ASI recruitment 2021 of UP Police Clerk, 358 for UP Police
 									Accounts, and 295 for Police Sub-Inspector (Confidential) &#8230; <a
 										title="UP Police ASI Recruitment 2021 Apply Sub Inspector 1277 Posts"
-										class="read-more" href="https://www.sarkariresult.app/up-police-si-vacancy/"
+										class="read-more" href="up-police-si-vacancy/"
 										aria-label="More on UP Police ASI Recruitment 2021 Apply Sub Inspector 1277 Posts">Read
 										more</a></p>
 							</div>
@@ -7009,10 +7009,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7022,7 +7022,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-police-si-vacancy/#comments">5
+										href="up-police-si-vacancy/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7033,7 +7033,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-scientific-officer-recruitment/"
+										href="ksp-scientific-officer-recruitment/"
 										rel="bookmark">KSP Scientific Officer Recruitment 2021 Apply Online 84 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7042,7 +7042,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7056,7 +7056,7 @@
 									recruitment 2021 for KSP Scientific Officer Jobs Vacancy at 84 &#8230; <a
 										title="KSP Scientific Officer Recruitment 2021 Apply Online 84 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/ksp-scientific-officer-recruitment/"
+										href="ksp-scientific-officer-recruitment/"
 										aria-label="More on KSP Scientific Officer Recruitment 2021 Apply Online 84 Post">Read
 										more</a></p>
 							</div>
@@ -7067,10 +7067,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7080,7 +7080,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-scientific-officer-recruitment/#respond">Leave
+										href="ksp-scientific-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7091,7 +7091,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/up-police-si-recruitment/" rel="bookmark">UP
+										href="up-police-si-recruitment/" rel="bookmark">UP
 										Police SI Recruitment 2021 Apply Online Sub Inspector 9534 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7099,7 +7099,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7112,7 +7112,7 @@
 									9534 posts. Candidates wishing to UP Police SI Bharti apply through the official
 									website uppbpb.gov.in recruitment 2021 for UP Police SI &#8230; <a
 										title="UP Police SI Recruitment 2021 Apply Online Sub Inspector 9534 Post"
-										class="read-more" href="https://www.sarkariresult.app/up-police-si-recruitment/"
+										class="read-more" href="up-police-si-recruitment/"
 										aria-label="More on UP Police SI Recruitment 2021 Apply Online Sub Inspector 9534 Post">Read
 										more</a></p>
 							</div>
@@ -7123,10 +7123,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7136,7 +7136,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/up-police-si-recruitment/#comments">33
+										href="up-police-si-recruitment/#comments">33
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7147,7 +7147,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/psssb-jail-warder-recruitment/"
+										href="psssb-jail-warder-recruitment/"
 										rel="bookmark">PSSSB Jail Warder Recruitment 2021 Apply Now Matron 847 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7157,7 +7157,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7171,7 +7171,7 @@
 									recruitment 2021 for Punjab Police Jail Warder Jobs &#8230; <a
 										title="PSSSB Jail Warder Recruitment 2021 Apply Now Matron 847 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/psssb-jail-warder-recruitment/"
+										href="psssb-jail-warder-recruitment/"
 										aria-label="More on PSSSB Jail Warder Recruitment 2021 Apply Now Matron 847 Post">Read
 										more</a></p>
 							</div>
@@ -7182,10 +7182,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7195,7 +7195,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/psssb-jail-warder-recruitment/#comments">1
+										href="psssb-jail-warder-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7206,7 +7206,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-constable-recruitment/"
+										href="ksp-constable-recruitment/"
 										rel="bookmark">KSP Constable Recruitment 2021 Apply Online 4000 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7214,7 +7214,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7227,7 +7227,7 @@
 									wishing to apply through the official website ksp.gov.in recruitment 2021 for KSP
 									Constable Jobs Vacancy at 4000 posts &#8230; <a
 										title="KSP Constable Recruitment 2021 Apply Online 4000 Posts" class="read-more"
-										href="https://www.sarkariresult.app/ksp-constable-recruitment/"
+										href="ksp-constable-recruitment/"
 										aria-label="More on KSP Constable Recruitment 2021 Apply Online 4000 Posts">Read
 										more</a></p>
 							</div>
@@ -7238,10 +7238,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7251,7 +7251,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-constable-recruitment/#comments">5
+										href="ksp-constable-recruitment/#comments">5
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7262,7 +7262,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/haryana-police-spo-recruitment/"
+										href="haryana-police-spo-recruitment/"
 										rel="bookmark">Haryana Police SPO Recruitment 2021 Application Form 60 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7271,7 +7271,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7285,7 +7285,7 @@
 									60 posts of SPO &#8230; <a
 										title="Haryana Police SPO Recruitment 2021 Application Form 60 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/haryana-police-spo-recruitment/"
+										href="haryana-police-spo-recruitment/"
 										aria-label="More on Haryana Police SPO Recruitment 2021 Application Form 60 Post">Read
 										more</a></p>
 							</div>
@@ -7296,10 +7296,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7309,7 +7309,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/haryana-police-spo-recruitment/#comments">1
+										href="haryana-police-spo-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7320,7 +7320,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/goa-police-recruitment/" rel="bookmark">Goa
+										href="goa-police-recruitment/" rel="bookmark">Goa
 										Police Recruitment 2021 SI, Constable, Steno 1097 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7328,7 +7328,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7342,7 +7342,7 @@
 									Constable, Searcher, Photographer, Laboratory Technician, Constable (Bandman, Mast
 									Luskar, Wireless Messenger), Stenographer, Lower Division &#8230; <a
 										title="Goa Police Recruitment 2021 SI, Constable, Steno 1097 Posts"
-										class="read-more" href="https://www.sarkariresult.app/goa-police-recruitment/"
+										class="read-more" href="goa-police-recruitment/"
 										aria-label="More on Goa Police Recruitment 2021 SI, Constable, Steno 1097 Posts">Read
 										more</a></p>
 							</div>
@@ -7353,10 +7353,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7366,7 +7366,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/goa-police-recruitment/#respond">Leave a
+										href="goa-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7377,7 +7377,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/cg-police-recruitment/" rel="bookmark">CG
+										href="cg-police-recruitment/" rel="bookmark">CG
 										Police Recruitment 2021 Apply Online Inspector, SI 168 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7385,7 +7385,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7398,7 +7398,7 @@
 									Candidates wishing to apply through the official website vyapam.cgstate.gov.in
 									recruitment 2021 for Mandi Inspector, Sub Inspector Jobs Vacancy at &#8230; <a
 										title="CG Police Recruitment 2021 Apply Online Inspector, SI 168 Post"
-										class="read-more" href="https://www.sarkariresult.app/cg-police-recruitment/"
+										class="read-more" href="cg-police-recruitment/"
 										aria-label="More on CG Police Recruitment 2021 Apply Online Inspector, SI 168 Post">Read
 										more</a></p>
 							</div>
@@ -7409,10 +7409,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7422,7 +7422,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/cg-police-recruitment/#comments">1
+										href="cg-police-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7433,7 +7433,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-constable-recruitment/"
+										href="bihar-police-constable-recruitment/"
 										rel="bookmark">Bihar Police Constable Admit Card 2021 CSBC Constable Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -7442,7 +7442,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7456,7 +7456,7 @@
 									through the Online Application for selection of Constables in Bihar Police. Bihar
 									&#8230; <a title="Bihar Police Constable Admit Card 2021 CSBC Constable Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-constable-recruitment/"
+										href="bihar-police-constable-recruitment/"
 										aria-label="More on Bihar Police Constable Admit Card 2021 CSBC Constable Exam Date">Read
 										more</a></p>
 							</div>
@@ -7467,10 +7467,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7479,7 +7479,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-constable-recruitment/#respond">Leave
+										href="bihar-police-constable-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7490,7 +7490,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/gujarat-police-recruitment/"
+										href="gujarat-police-recruitment/"
 										rel="bookmark">Gujarat Police Recruitment 2021 Apply PSI, ASI, Officer 1382
 										Post</a></h2>
 								<div class="entry-meta">
@@ -7500,7 +7500,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7514,7 +7514,7 @@
 									Candidates who are interested in Gujarat Police Vacancy 2021 can &#8230; <a
 										title="Gujarat Police Recruitment 2021 Apply PSI, ASI, Officer 1382 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/gujarat-police-recruitment/"
+										href="gujarat-police-recruitment/"
 										aria-label="More on Gujarat Police Recruitment 2021 Apply PSI, ASI, Officer 1382 Post">Read
 										more</a></p>
 							</div>
@@ -7525,10 +7525,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7538,7 +7538,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/gujarat-police-recruitment/#respond">Leave a
+										href="gujarat-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7549,7 +7549,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-fireman-recruitment/"
+										href="bihar-police-fireman-recruitment/"
 										rel="bookmark">Bihar Police Fireman Recruitment 2021 Apply Online 2380 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7558,7 +7558,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7572,7 +7572,7 @@
 									2021 &#8211; Apply Online Fireman 2380 Posts Those Candidates &#8230; <a
 										title="Bihar Police Fireman Recruitment 2021 Apply Online 2380 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-fireman-recruitment/"
+										href="bihar-police-fireman-recruitment/"
 										aria-label="More on Bihar Police Fireman Recruitment 2021 Apply Online 2380 Post">Read
 										more</a></p>
 							</div>
@@ -7583,10 +7583,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7596,7 +7596,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-fireman-recruitment/#respond">Leave
+										href="bihar-police-fireman-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7607,7 +7607,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-agragami-recruitment/"
+										href="wb-police-agragami-recruitment/"
 										rel="bookmark">WB Police Agragami Recruitment 2021 Apply Online 938 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7616,7 +7616,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7630,7 +7630,7 @@
 									the Agragami Post can apply &#8230; <a
 										title="WB Police Agragami Recruitment 2021 Apply Online 938 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-agragami-recruitment/"
+										href="wb-police-agragami-recruitment/"
 										aria-label="More on WB Police Agragami Recruitment 2021 Apply Online 938 Posts">Read
 										more</a></p>
 							</div>
@@ -7641,10 +7641,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7654,7 +7654,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-agragami-recruitment/#comments">1
+										href="wb-police-agragami-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -7665,7 +7665,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rpsc-si-recruitment/" rel="bookmark">RPSC SI
+										href="rpsc-si-recruitment/" rel="bookmark">RPSC SI
 										Recruitment 2021 Apply Now Platoon Commander 857 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -7673,7 +7673,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7686,7 +7686,7 @@
 									Rajasthan Police recruitment 2021 of Sub Inspector AP (TSP), Sub Inspector AP
 									(Non-TSP), Platoon Commander (Non-TSP), Sub Inspector MBC (TSP) &#8230; <a
 										title="RPSC SI Recruitment 2021 Apply Now Platoon Commander 857 Post"
-										class="read-more" href="https://www.sarkariresult.app/rpsc-si-recruitment/"
+										class="read-more" href="rpsc-si-recruitment/"
 										aria-label="More on RPSC SI Recruitment 2021 Apply Now Platoon Commander 857 Post">Read
 										more</a></p>
 							</div>
@@ -7697,12 +7697,12 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/rpsc-jobs/" rel="category tag">RPSC
+										href="rpsc-jobs/" rel="category tag">RPSC
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -7711,7 +7711,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rpsc-si-recruitment/#respond">Leave a
+										href="rpsc-si-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -7722,7 +7722,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/chandigarh-police-home-guard-recruitment/"
+										href="chandigarh-police-home-guard-recruitment/"
 										rel="bookmark">Chandigarh Police Home Guard Recruitment 2021 Apply 25 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7731,7 +7731,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7745,7 +7745,7 @@
 									chandigarhpolice.gov.in recruitment 2021 for Chandigarh Police &#8230; <a
 										title="Chandigarh Police Home Guard Recruitment 2021 Apply 25 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/chandigarh-police-home-guard-recruitment/"
+										href="chandigarh-police-home-guard-recruitment/"
 										aria-label="More on Chandigarh Police Home Guard Recruitment 2021 Apply 25 Post">Read
 										more</a></p>
 							</div>
@@ -7756,10 +7756,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7769,7 +7769,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/chandigarh-police-home-guard-recruitment/#comments">14
+										href="chandigarh-police-home-guard-recruitment/#comments">14
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7780,7 +7780,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-police-constable-recruitment/"
+										href="mp-police-constable-recruitment/"
 										rel="bookmark">MP Police Constable Recruitment 2021 Apply Online 4000 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7789,7 +7789,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7803,7 +7803,7 @@
 									Police Jobs Vacancy at 4000 posts of Constable Post can &#8230; <a
 										title="MP Police Constable Recruitment 2021 Apply Online 4000 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/mp-police-constable-recruitment/"
+										href="mp-police-constable-recruitment/"
 										aria-label="More on MP Police Constable Recruitment 2021 Apply Online 4000 Post">Read
 										more</a></p>
 							</div>
@@ -7814,10 +7814,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7827,7 +7827,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-police-constable-recruitment/#comments">2
+										href="mp-police-constable-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7838,7 +7838,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ksp-sub-inspector-recruitment/"
+										href="ksp-sub-inspector-recruitment/"
 										rel="bookmark">KSP Sub Inspector Recruitment 2021 Apply Online 545 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7847,7 +7847,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7861,7 +7861,7 @@
 									Vacancy at 545 posts of &#8230; <a
 										title="KSP Sub Inspector Recruitment 2021 Apply Online 545 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/ksp-sub-inspector-recruitment/"
+										href="ksp-sub-inspector-recruitment/"
 										aria-label="More on KSP Sub Inspector Recruitment 2021 Apply Online 545 Posts">Read
 										more</a></p>
 							</div>
@@ -7872,10 +7872,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7885,7 +7885,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ksp-sub-inspector-recruitment/#respond">Leave
+										href="ksp-sub-inspector-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -7896,7 +7896,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-constable-vacancy/"
+										href="wb-police-constable-vacancy/"
 										rel="bookmark">WB Police Constable Recruitment 2021 Apply Now SI 9720 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -7905,7 +7905,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7919,7 +7919,7 @@
 									Candidates wishing to apply through the official website wbpolice.gov.in &#8230; <a
 										title="WB Police Constable Recruitment 2021 Apply Now SI 9720 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-constable-vacancy/"
+										href="wb-police-constable-vacancy/"
 										aria-label="More on WB Police Constable Recruitment 2021 Apply Now SI 9720 Posts">Read
 										more</a></p>
 							</div>
@@ -7930,10 +7930,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -7943,7 +7943,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-constable-vacancy/#comments">2
+										href="wb-police-constable-vacancy/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -7954,7 +7954,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-driver-recruitment/"
+										href="wb-police-driver-recruitment/"
 										rel="bookmark">WB Police Driver Recruitment 2021 DEO, Administrator 16 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -7964,7 +7964,7 @@
 											2021</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -7978,7 +7978,7 @@
 									Police Recruitment: Post Job Location: MT Section Office Additional &#8230; <a
 										title="WB Police Driver Recruitment 2021 DEO, Administrator 16 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-driver-recruitment/"
+										href="wb-police-driver-recruitment/"
 										aria-label="More on WB Police Driver Recruitment 2021 DEO, Administrator 16 Post">Read
 										more</a></p>
 							</div>
@@ -7989,10 +7989,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8002,7 +8002,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-driver-recruitment/#respond">Leave
+										href="wb-police-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8013,7 +8013,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/jharkhand-police-recruitment/"
+										href="jharkhand-police-recruitment/"
 										rel="bookmark">Jharkhand Police Recruitment 2021 Apply Now Instructor 40
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8022,7 +8022,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8036,7 +8036,7 @@
 									recruitment 2021 for Jharkhand Police Instructor Jobs Vacancy at 40 posts of the
 									&#8230; <a title="Jharkhand Police Recruitment 2021 Apply Now Instructor 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/jharkhand-police-recruitment/"
+										href="jharkhand-police-recruitment/"
 										aria-label="More on Jharkhand Police Recruitment 2021 Apply Now Instructor 40 Post">Read
 										more</a></p>
 							</div>
@@ -8047,10 +8047,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8060,7 +8060,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/jharkhand-police-recruitment/#comments">2
+										href="jharkhand-police-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8071,7 +8071,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/ssc-delhi-constable-recruitment/"
+										href="ssc-delhi-constable-recruitment/"
 										rel="bookmark">SSC Delhi Constable Admit Card 2020 Release All Region Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -8080,7 +8080,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8094,7 +8094,7 @@
 									uploaded the admit card of online exam &#8230; <a
 										title="SSC Delhi Constable Admit Card 2020 Release All Region Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/ssc-delhi-constable-recruitment/"
+										href="ssc-delhi-constable-recruitment/"
 										aria-label="More on SSC Delhi Constable Admit Card 2020 Release All Region Exam Date">Read
 										more</a></p>
 							</div>
@@ -8105,11 +8105,11 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/ssc/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="ssc/"
 										rel="category tag">SSC</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8118,7 +8118,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/ssc-delhi-constable-recruitment/#comments">2
+										href="ssc-delhi-constable-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8129,7 +8129,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-constable-recruitment/"
+										href="delhi-police-constable-recruitment/"
 										rel="bookmark">Delhi Police Constable Admit Card 2020 Download Exam Date</a>
 								</h2>
 								<div class="entry-meta">
@@ -8138,7 +8138,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8152,7 +8152,7 @@
 									According to the latest calendar of SSC, the online examination &#8230; <a
 										title="Delhi Police Constable Admit Card 2020 Download Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/delhi-police-constable-recruitment/"
+										href="delhi-police-constable-recruitment/"
 										aria-label="More on Delhi Police Constable Admit Card 2020 Download Exam Date">Read
 										more</a></p>
 							</div>
@@ -8163,10 +8163,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8175,7 +8175,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-constable-recruitment/#comments">24
+										href="delhi-police-constable-recruitment/#comments">24
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8186,7 +8186,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-ldc-recruitment/"
+										href="wb-police-ldc-recruitment/"
 										rel="bookmark">WB Police LDC Recruitment 2020 Lower Division Clerk 35 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8196,7 +8196,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8210,7 +8210,7 @@
 									detail of WB Police LDC posts &#8230; <a
 										title="WB Police LDC Recruitment 2020 Lower Division Clerk 35 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-ldc-recruitment/"
+										href="wb-police-ldc-recruitment/"
 										aria-label="More on WB Police LDC Recruitment 2020 Lower Division Clerk 35 Post">Read
 										more</a></p>
 							</div>
@@ -8221,10 +8221,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8234,7 +8234,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-ldc-recruitment/#respond">Leave a
+										href="wb-police-ldc-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8245,7 +8245,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/csbc/" rel="bookmark">Bihar Police Constable
+										href="csbc/" rel="bookmark">Bihar Police Constable
 										PET Admit Card 2020 Download Physical Test Date</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8253,7 +8253,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8266,7 +8266,7 @@
 									admit card online at csbc.bih.nic.in Sarkari Result 2020). Short Information: Today
 									According to Latest Update &#8230; <a
 										title="Bihar Police Constable PET Admit Card 2020 Download Physical Test Date"
-										class="read-more" href="https://www.sarkariresult.app/csbc/"
+										class="read-more" href="csbc/"
 										aria-label="More on Bihar Police Constable PET Admit Card 2020 Download Physical Test Date">Read
 										more</a></p>
 							</div>
@@ -8277,10 +8277,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8288,7 +8288,7 @@
 												d="M132.838 329.973a435.298 435.298 0 0016.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" />
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
-										</svg></span><a href="https://www.sarkariresult.app/csbc/#comments">3
+										</svg></span><a href="csbc/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8299,7 +8299,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-field-asst-recruitment/"
+										href="assam-police-field-asst-recruitment/"
 										rel="bookmark">Assam Police Field Asst Recruitment 2020 SI, Draftsman 133
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8309,7 +8309,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8323,7 +8323,7 @@
 									to the posts of Statistics Sub-Inspector (SI), Junior Artist-cum Draftsman, Junior
 									&#8230; <a title="Assam Police Field Asst Recruitment 2020 SI, Draftsman 133 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-field-asst-recruitment/"
+										href="assam-police-field-asst-recruitment/"
 										aria-label="More on Assam Police Field Asst Recruitment 2020 SI, Draftsman 133 Post">Read
 										more</a></p>
 							</div>
@@ -8334,10 +8334,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8347,7 +8347,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-field-asst-recruitment/#respond">Leave
+										href="assam-police-field-asst-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8358,7 +8358,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-jr-assistant-recruitment/"
+										href="assam-police-jr-assistant-recruitment/"
 										rel="bookmark">Assam Police Jr Assistant Recruitment 2020 Grade-IV 444 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8368,7 +8368,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8383,7 +8383,7 @@
 									Junior Assistant, Superintendent, Store Keeper, Librarian, Dresser, &#8230; <a
 										title="Assam Police Jr Assistant Recruitment 2020 Grade-IV 444 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-jr-assistant-recruitment/"
+										href="assam-police-jr-assistant-recruitment/"
 										aria-label="More on Assam Police Jr Assistant Recruitment 2020 Grade-IV 444 Post">Read
 										more</a></p>
 							</div>
@@ -8394,10 +8394,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8407,7 +8407,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-jr-assistant-recruitment/#respond">Leave
+										href="assam-police-jr-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8418,7 +8418,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-driver-constable-admit-card/"
+										href="bihar-police-driver-constable-admit-card/"
 										rel="bookmark">Bihar Police Driver Constable Admit Card 2020 CSBC 5/2019 Exam
 										Date</a></h2>
 								<div class="entry-meta">
@@ -8427,7 +8427,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8441,7 +8441,7 @@
 									download your e-Admit Card for Written &#8230; <a
 										title="Bihar Police Driver Constable Admit Card 2020 CSBC 5/2019 Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-driver-constable-admit-card/"
+										href="bihar-police-driver-constable-admit-card/"
 										aria-label="More on Bihar Police Driver Constable Admit Card 2020 CSBC 5/2019 Exam Date">Read
 										more</a></p>
 							</div>
@@ -8452,10 +8452,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8464,7 +8464,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-driver-constable-admit-card/#comments">1
+										href="bihar-police-driver-constable-admit-card/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8475,7 +8475,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tn-police-constable-recruitment/"
+										href="tn-police-constable-recruitment/"
 										rel="bookmark">TN Police Constable Recruitment 2020 Apply Warder 10906 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8484,7 +8484,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8498,7 +8498,7 @@
 									posts. Candidates wishing to apply through the &#8230; <a
 										title="TN Police Constable Recruitment 2020 Apply Warder 10906 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tn-police-constable-recruitment/"
+										href="tn-police-constable-recruitment/"
 										aria-label="More on TN Police Constable Recruitment 2020 Apply Warder 10906 Post">Read
 										more</a></p>
 							</div>
@@ -8509,10 +8509,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8522,7 +8522,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tn-police-constable-recruitment/#comments">8
+										href="tn-police-constable-recruitment/#comments">8
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8533,7 +8533,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/wb-police-constable-recruitment/"
+										href="wb-police-constable-recruitment/"
 										rel="bookmark">WB Police Constable Recruitment 2020 Apply SI, ASI 139 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8542,7 +8542,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8556,7 +8556,7 @@
 									apply by 18/10/2020. WB Police &#8230; <a
 										title="WB Police Constable Recruitment 2020 Apply SI, ASI 139 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/wb-police-constable-recruitment/"
+										href="wb-police-constable-recruitment/"
 										aria-label="More on WB Police Constable Recruitment 2020 Apply SI, ASI 139 Post">Read
 										more</a></p>
 							</div>
@@ -8567,10 +8567,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8580,7 +8580,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/wb-police-constable-recruitment/#comments">1
+										href="wb-police-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -8591,7 +8591,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-si-recruitment/"
+										href="bihar-police-si-recruitment/"
 										rel="bookmark">Bihar Police SI Recruitment 2020 Apply Online BPSSC SI 2213
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8600,7 +8600,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8614,7 +8614,7 @@
 									Police SI Jobs Vacancy at 2213 &#8230; <a
 										title="Bihar Police SI Recruitment 2020 Apply Online BPSSC SI 2213 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-si-recruitment/"
+										href="bihar-police-si-recruitment/"
 										aria-label="More on Bihar Police SI Recruitment 2020 Apply Online BPSSC SI 2213 Post">Read
 										more</a></p>
 							</div>
@@ -8625,10 +8625,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
-										Jobs</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="police-jobs/" rel="category tag">Police
+										Jobs</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/latest-notification/"
+										href="latest-notification/"
 										rel="category tag">Latest Notification</a></span> <span
 									class="comments-link"><span class="gp-icon icon-comments"><svg viewBox="0 0 512 512"
 											aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em"
@@ -8638,7 +8638,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-si-recruitment/#comments">3
+										href="bihar-police-si-recruitment/#comments">3
 										Comments</a></span>
 							</footer>
 						</div>
@@ -8649,7 +8649,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-assistant-recruitment/"
+										href="assam-police-assistant-recruitment/"
 										rel="bookmark">Assam Police Assistant Recruitment 2020 Apply Online 40 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8658,7 +8658,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8672,7 +8672,7 @@
 									candidates can Assam Police apply online for &#8230; <a
 										title="Assam Police Assistant Recruitment 2020 Apply Online 40 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-assistant-recruitment/"
+										href="assam-police-assistant-recruitment/"
 										aria-label="More on Assam Police Assistant Recruitment 2020 Apply Online 40 Post">Read
 										more</a></p>
 							</div>
@@ -8683,10 +8683,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8695,7 +8695,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-assistant-recruitment/#respond">Leave
+										href="assam-police-assistant-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8706,7 +8706,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-extension-officer-recruitment/"
+										href="assam-police-extension-officer-recruitment/"
 										rel="bookmark">Assam Police Extension Officer Recruitment 2020 Apply 131
 										Post</a></h2>
 								<div class="entry-meta">
@@ -8715,7 +8715,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8730,7 +8730,7 @@
 									2020. &#8230; <a
 										title="Assam Police Extension Officer Recruitment 2020 Apply 131 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-extension-officer-recruitment/"
+										href="assam-police-extension-officer-recruitment/"
 										aria-label="More on Assam Police Extension Officer Recruitment 2020 Apply 131 Post">Read
 										more</a></p>
 							</div>
@@ -8741,10 +8741,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8753,7 +8753,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-extension-officer-recruitment/#respond">Leave
+										href="assam-police-extension-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8764,7 +8764,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-range-officer-recruitment/"
+										href="bihar-police-range-officer-recruitment/"
 										rel="bookmark">Bihar Police Range Officer Recruitment 2020 Apply 43 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -8773,7 +8773,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8787,7 +8787,7 @@
 									43 posts of the &#8230; <a
 										title="Bihar Police Range Officer Recruitment 2020 Apply 43 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-range-officer-recruitment/"
+										href="bihar-police-range-officer-recruitment/"
 										aria-label="More on Bihar Police Range Officer Recruitment 2020 Apply 43 Posts">Read
 										more</a></p>
 							</div>
@@ -8798,10 +8798,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8810,7 +8810,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-range-officer-recruitment/#respond">Leave
+										href="bihar-police-range-officer-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8821,7 +8821,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-forester-recruitment/"
+										href="bihar-police-forester-recruitment/"
 										rel="bookmark">Bihar Police Forester Recruitment 2020 Apply Online 236 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8830,7 +8830,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8844,7 +8844,7 @@
 									posts of the Forester Post 2020 &#8230; <a
 										title="Bihar Police Forester Recruitment 2020 Apply Online 236 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-forester-recruitment/"
+										href="bihar-police-forester-recruitment/"
 										aria-label="More on Bihar Police Forester Recruitment 2020 Apply Online 236 Post">Read
 										more</a></p>
 							</div>
@@ -8855,10 +8855,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8867,7 +8867,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-forester-recruitment/#respond">Leave
+										href="bihar-police-forester-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8878,7 +8878,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/tripura-police-recruitment/"
+										href="tripura-police-recruitment/"
 										rel="bookmark">Tripura Police Recruitment 2020 Apply Now Volunteer 213 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -8887,7 +8887,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8901,7 +8901,7 @@
 									Police Jobs Vacancy at 213 posts of &#8230; <a
 										title="Tripura Police Recruitment 2020 Apply Now Volunteer 213 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/tripura-police-recruitment/"
+										href="tripura-police-recruitment/"
 										aria-label="More on Tripura Police Recruitment 2020 Apply Now Volunteer 213 Post">Read
 										more</a></p>
 							</div>
@@ -8912,10 +8912,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8924,7 +8924,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/tripura-police-recruitment/#respond">Leave a
+										href="tripura-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -8935,7 +8935,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-junior-asst-recruitment/"
+										href="assam-police-junior-asst-recruitment/"
 										rel="bookmark">Assam Police Junior Asst Recruitment 2020 Apply 255 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -8943,7 +8943,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -8958,7 +8958,7 @@
 									Enforcement Inspector, Enforcement Checker, Assistant Commercial &#8230; <a
 										title="Assam Police Junior Asst Recruitment 2020 Apply 255 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-junior-asst-recruitment/"
+										href="assam-police-junior-asst-recruitment/"
 										aria-label="More on Assam Police Junior Asst Recruitment 2020 Apply 255 Post">Read
 										more</a></p>
 							</div>
@@ -8969,10 +8969,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -8981,7 +8981,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-junior-asst-recruitment/#respond">Leave
+										href="assam-police-junior-asst-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -8992,7 +8992,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-home-guard-recruitment/"
+										href="bihar-home-guard-recruitment/"
 										rel="bookmark">Bihar Home Guard Recruitment 2020 Apply Online 551 Posts</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9000,7 +9000,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9013,7 +9013,7 @@
 									Guard can apply by 3 August 2020. Bihar Police Home Guard Jobs 2020 &#8230; <a
 										title="Bihar Home Guard Recruitment 2020 Apply Online 551 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-home-guard-recruitment/"
+										href="bihar-home-guard-recruitment/"
 										aria-label="More on Bihar Home Guard Recruitment 2020 Apply Online 551 Posts">Read
 										more</a></p>
 							</div>
@@ -9024,10 +9024,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9036,7 +9036,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-home-guard-recruitment/#comments">11
+										href="bihar-home-guard-recruitment/#comments">11
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9047,7 +9047,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-constable-recruitment/"
+										href="assam-police-constable-recruitment/"
 										rel="bookmark">Assam Police Constable Recruitment 2020 Guardsman 451 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9056,7 +9056,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9070,7 +9070,7 @@
 									Assam Police posts of Constable/Guardsman can apply by &#8230; <a
 										title="Assam Police Constable Recruitment 2020 Guardsman 451 Posts"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-constable-recruitment/"
+										href="assam-police-constable-recruitment/"
 										aria-label="More on Assam Police Constable Recruitment 2020 Guardsman 451 Posts">Read
 										more</a></p>
 							</div>
@@ -9081,10 +9081,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9093,7 +9093,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-constable-recruitment/#comments">2
+										href="assam-police-constable-recruitment/#comments">2
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9104,7 +9104,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-jr-assistant-steno-jobs/"
+										href="assam-police-jr-assistant-steno-jobs/"
 										rel="bookmark">Assam Police Jr Assistant Recruitment 2020 Steno 204 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9113,7 +9113,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9127,7 +9127,7 @@
 									Assam Police Jobs can apply by &#8230; <a
 										title="Assam Police Jr Assistant Recruitment 2020 Steno 204 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/assam-police-jr-assistant-steno-jobs/"
+										href="assam-police-jr-assistant-steno-jobs/"
 										aria-label="More on Assam Police Jr Assistant Recruitment 2020 Steno 204 Post">Read
 										more</a></p>
 							</div>
@@ -9138,10 +9138,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9150,7 +9150,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-jr-assistant-steno-jobs/#respond">Leave
+										href="assam-police-jr-assistant-steno-jobs/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9161,7 +9161,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/rajasthan-police-recruitment/"
+										href="rajasthan-police-recruitment/"
 										rel="bookmark">Rajasthan Police Constable Admit Card 2020 » Check Exam Date</a>
 								</h2>
 								<div class="entry-meta">
@@ -9170,7 +9170,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9184,7 +9184,7 @@
 									here. Rajasthan Police Constable (Sports Quota) Exam &#8230; <a
 										title="Rajasthan Police Constable Admit Card 2020 » Check Exam Date"
 										class="read-more"
-										href="https://www.sarkariresult.app/rajasthan-police-recruitment/"
+										href="rajasthan-police-recruitment/"
 										aria-label="More on Rajasthan Police Constable Admit Card 2020 » Check Exam Date">Read
 										more</a></p>
 							</div>
@@ -9195,10 +9195,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/hall-ticket/" rel="category tag">Admit
-										Card</a>, <a href="https://www.sarkariresult.app/govt-jobs/"
+										href="hall-ticket/" rel="category tag">Admit
+										Card</a>, <a href="govt-jobs/"
 										rel="category tag">Govt Jobs</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9207,7 +9207,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/rajasthan-police-recruitment/#comments">4
+										href="rajasthan-police-recruitment/#comments">4
 										Comments</a></span>
 							</footer>
 						</div>
@@ -9218,7 +9218,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/assam-police-recruitment/"
+										href="assam-police-recruitment/"
 										rel="bookmark">Assam Police Recruitment 2020 Constable, Fireman 1456 Posts</a>
 								</h2>
 								<div class="entry-meta">
@@ -9227,7 +9227,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9240,7 +9240,7 @@
 									Constable &amp; Fireman posts of Assam Police force can apply by 15 March 2020.
 									Assam Police Jobs 2020 Constable, &#8230; <a
 										title="Assam Police Recruitment 2020 Constable, Fireman 1456 Posts"
-										class="read-more" href="https://www.sarkariresult.app/assam-police-recruitment/"
+										class="read-more" href="assam-police-recruitment/"
 										aria-label="More on Assam Police Recruitment 2020 Constable, Fireman 1456 Posts">Read
 										more</a></p>
 							</div>
@@ -9251,10 +9251,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9263,7 +9263,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/assam-police-recruitment/#respond">Leave a
+										href="assam-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9274,7 +9274,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-asi-recruitment/"
+										href="bihar-police-asi-recruitment/"
 										rel="bookmark">Bihar Police ASI Steno Recruitment 2020 Apply Online 133 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9283,7 +9283,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9297,7 +9297,7 @@
 									2020. Bihar Police Recruitment 2020 &#8211; Apply Online  For Steno Assistant Sub
 									&#8230; <a title="Bihar Police ASI Steno Recruitment 2020 Apply Online 133 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-asi-recruitment/"
+										href="bihar-police-asi-recruitment/"
 										aria-label="More on Bihar Police ASI Steno Recruitment 2020 Apply Online 133 Post">Read
 										more</a></p>
 							</div>
@@ -9308,10 +9308,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9320,7 +9320,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-asi-recruitment/#respond">Leave
+										href="bihar-police-asi-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9331,7 +9331,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-head-constable-recruitment/"
+										href="delhi-police-head-constable-recruitment/"
 										rel="bookmark">Delhi Police Head Constable Operator Recruitment 2020</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9339,7 +9339,7 @@
 											2020</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9353,7 +9353,7 @@
 									Candidates can apply by 27 January 2020. Delhi Police Head Constable Jobs 2020
 									@Apply Online 649 &#8230; <a
 										title="Delhi Police Head Constable Operator Recruitment 2020" class="read-more"
-										href="https://www.sarkariresult.app/delhi-police-head-constable-recruitment/"
+										href="delhi-police-head-constable-recruitment/"
 										aria-label="More on Delhi Police Head Constable Operator Recruitment 2020">Read
 										more</a></p>
 							</div>
@@ -9364,10 +9364,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9376,7 +9376,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-head-constable-recruitment/#comments">1
+										href="delhi-police-head-constable-recruitment/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9387,7 +9387,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-recruitment/"
+										href="delhi-police-recruitment/"
 										rel="bookmark">Delhi Police Head Constable Recruitment 2020 Apply 649 Post</a>
 								</h2>
 								<div class="entry-meta">
@@ -9396,7 +9396,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9410,7 +9410,7 @@
 									Posts. Interested candidates can apply by 27 January 2020. Delhi Police direct
 									recruitment for the &#8230; <a
 										title="Delhi Police Head Constable Recruitment 2020 Apply 649 Post"
-										class="read-more" href="https://www.sarkariresult.app/delhi-police-recruitment/"
+										class="read-more" href="delhi-police-recruitment/"
 										aria-label="More on Delhi Police Head Constable Recruitment 2020 Apply 649 Post">Read
 										more</a></p>
 							</div>
@@ -9421,10 +9421,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9433,7 +9433,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-recruitment/#respond">Leave a
+										href="delhi-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9444,7 +9444,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/maharashtra-police-driver-recruitment/"
+										href="maharashtra-police-driver-recruitment/"
 										rel="bookmark">Maharashtra Police Driver Recruitment 2019 Apply Now</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9452,7 +9452,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9465,7 +9465,7 @@
 									by 22 December 2019. Maharashtra Police vacancy notification 2019 for Bruhnmumbai,
 									Thane City, Nagpur City, New Mumbai, Amrawati City, Aurangabad &#8230; <a
 										title="Maharashtra Police Driver Recruitment 2019 Apply Now" class="read-more"
-										href="https://www.sarkariresult.app/maharashtra-police-driver-recruitment/"
+										href="maharashtra-police-driver-recruitment/"
 										aria-label="More on Maharashtra Police Driver Recruitment 2019 Apply Now">Read
 										more</a></p>
 							</div>
@@ -9476,10 +9476,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9488,7 +9488,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/maharashtra-police-driver-recruitment/#respond">Leave
+										href="maharashtra-police-driver-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9499,7 +9499,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/meghalaya-police-recruitment/"
+										href="meghalaya-police-recruitment/"
 										rel="bookmark">Meghalaya Police Recruitment 2019 Apply Driver 1015 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9507,7 +9507,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9521,7 +9521,7 @@
 									Inspector, UB Constable, Firemen, Driver Firemen, MPRO Operator Constable, &#8230;
 									<a title="Meghalaya Police Recruitment 2019 Apply Driver 1015 Post"
 										class="read-more"
-										href="https://www.sarkariresult.app/meghalaya-police-recruitment/"
+										href="meghalaya-police-recruitment/"
 										aria-label="More on Meghalaya Police Recruitment 2019 Apply Driver 1015 Post">Read
 										more</a></p>
 							</div>
@@ -9532,10 +9532,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9544,7 +9544,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/meghalaya-police-recruitment/#respond">Leave
+										href="meghalaya-police-recruitment/#respond">Leave
 										a comment</a></span>
 							</footer>
 						</div>
@@ -9555,7 +9555,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/bihar-police-recruitment/"
+										href="bihar-police-recruitment/"
 										rel="bookmark">Bihar Police Home Guard Driver Recruitment 2019</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9563,7 +9563,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9576,7 +9576,7 @@
 									candidates can apply by 20 November 2019. Other details of like Age Limit,
 									Educational Qualification, Selection Process, Application Fee &#8230; <a
 										title="Bihar Police Home Guard Driver Recruitment 2019" class="read-more"
-										href="https://www.sarkariresult.app/bihar-police-recruitment/"
+										href="bihar-police-recruitment/"
 										aria-label="More on Bihar Police Home Guard Driver Recruitment 2019">Read
 										more</a></p>
 							</div>
@@ -9587,10 +9587,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9599,7 +9599,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/bihar-police-recruitment/#respond">Leave a
+										href="bihar-police-recruitment/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9610,7 +9610,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/mp-vyapam-police-constable/"
+										href="mp-vyapam-police-constable/"
 										rel="bookmark">MP Vyapam Police Constable Online Form 2019</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9618,7 +9618,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9631,7 +9631,7 @@
 									7771 Posts. Candidates can apply by 24 November 2019. MP Vyapam Police Constable
 									Bharti 2019 Apply Online SI, Head Constable 7771 &#8230; <a
 										title="MP Vyapam Police Constable Online Form 2019" class="read-more"
-										href="https://www.sarkariresult.app/mp-vyapam-police-constable/"
+										href="mp-vyapam-police-constable/"
 										aria-label="More on MP Vyapam Police Constable Online Form 2019">Read more</a>
 								</p>
 							</div>
@@ -9642,10 +9642,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9654,7 +9654,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/mp-vyapam-police-constable/#respond">Leave a
+										href="mp-vyapam-police-constable/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9665,7 +9665,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/delhi-police-hc-oct19/" rel="bookmark">Delhi
+										href="delhi-police-hc-oct19/" rel="bookmark">Delhi
 										Police Head Constable Online Form 2019</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9673,7 +9673,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9686,7 +9686,7 @@
 									can apply by 13 November 2019. Delhi Police Head Constable 2019 Apply Online for 554
 									Post Delhi Police invited online applications &#8230; <a
 										title="Delhi Police Head Constable Online Form 2019" class="read-more"
-										href="https://www.sarkariresult.app/delhi-police-hc-oct19/"
+										href="delhi-police-hc-oct19/"
 										aria-label="More on Delhi Police Head Constable Online Form 2019">Read more</a>
 								</p>
 							</div>
@@ -9697,10 +9697,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9709,7 +9709,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/delhi-police-hc-oct19/#comments">1
+										href="delhi-police-hc-oct19/#comments">1
 										Comment</a></span>
 							</footer>
 						</div>
@@ -9720,7 +9720,7 @@
 						<div class="inside-article">
 							<header class="entry-header" aria-label="Content">
 								<h2 class="entry-title" itemprop="headline"><a
-										href="https://www.sarkariresult.app/csbc-bihar-constable-02-19/"
+										href="csbc-bihar-constable-02-19/"
 										rel="bookmark">Bihar Police Constable Online Form 11880 Post</a></h2>
 								<div class="entry-meta">
 									<span class="posted-on"><time class="entry-date published"
@@ -9728,7 +9728,7 @@
 											2019</time></span> <span class="byline">by <span class="author vcard"
 											itemprop="author" itemtype="https://schema.org/Person" itemscope><a
 												class="url fn n"
-												href="https://www.sarkariresult.app/author/pooja-manisha-antil/"
+												href="author/pooja-manisha-antil/"
 												title="View all posts by Sarkari Result" rel="author"
 												itemprop="url"><span class="author-name" itemprop="name">Sarkari
 													Result</span></a></span></span>
@@ -9741,7 +9741,7 @@
 									Apply Online. Bihar Police Bharti 2019 Central Selection Board of Constable Bihar
 									Bihar Constable Recruitment 2019 Advt No-2/2019 &#8230; <a
 										title="Bihar Police Constable Online Form 11880 Post" class="read-more"
-										href="https://www.sarkariresult.app/csbc-bihar-constable-02-19/"
+										href="csbc-bihar-constable-02-19/"
 										aria-label="More on Bihar Police Constable Online Form 11880 Post">Read more</a>
 								</p>
 							</div>
@@ -9752,10 +9752,10 @@
 											<path
 												d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" />
 										</svg></span><span class="screen-reader-text">Categories </span><a
-										href="https://www.sarkariresult.app/govt-jobs/" rel="category tag">Govt
-										Jobs</a>, <a href="https://www.sarkariresult.app/latest-notification/"
+										href="govt-jobs/" rel="category tag">Govt
+										Jobs</a>, <a href="latest-notification/"
 										rel="category tag">Latest Notification</a>, <a
-										href="https://www.sarkariresult.app/police-jobs/" rel="category tag">Police
+										href="police-jobs/" rel="category tag">Police
 										Jobs</a></span> <span class="comments-link"><span
 										class="gp-icon icon-comments"><svg viewBox="0 0 512 512" aria-hidden="true"
 											xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
@@ -9764,7 +9764,7 @@
 											<path
 												d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" />
 										</svg></span><a
-										href="https://www.sarkariresult.app/csbc-bihar-constable-02-19/#respond">Leave a
+										href="csbc-bihar-constable-02-19/#respond">Leave a
 										comment</a></span>
 							</footer>
 						</div>
@@ -9789,83 +9789,83 @@
 						<h2 class="widget-title">Recent Posts</h2>
 						<ul>
 							<li>
-								<a href="https://www.sarkariresult.app/rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
+								<a href="rojgar-result/">Rojgar Result : रोजगार रिजल्ट (17
 									August 2023) Today New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/cag-administrative-assistant-recruitment/">CAG
+								<a href="cag-administrative-assistant-recruitment/">CAG
 									Administrative Assistant Recruitment 2023 Apply Now 1773 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/whatsapp-group-link/">WhatsApp Group Links 2023
+								<a href="whatsapp-group-link/">WhatsApp Group Links 2023
 									Sarkari Result Group Direct Join Links</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/spices-board-india/">Spices Board Recruitment
+								<a href="spices-board-india/">Spices Board Recruitment
 									2023 Executive, Trade Analyst 15 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
+								<a href="free-job-alert/">Free Job Alert : फ्री जॉब अलर्ट
 									(17 August 2023) New Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/iiit-allahabad-asst-professor-job/">IIIT
+								<a href="iiit-allahabad-asst-professor-job/">IIIT
 									Allahabad Recruitment 2023 Apply Asst Professor 18 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
+								<a href="sarkari-naukri/">Sarkari Naukri : सरकारी नौकरी
 									(17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/sarkari-result-10-2-latest-job/">Sarkari Result
+								<a href="sarkari-result-10-2-latest-job/">Sarkari Result
 									10+2 latest Job (17 August 2023) Latest Updates</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/high-court-jobs/">High Court Jobs 2023 Check
+								<a href="high-court-jobs/">High Court Jobs 2023 Check
 									Today New Recruitment Notification</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bihar-stet-2023-notification-out/">Bihar STET
+								<a href="bihar-stet-2023-notification-out/">Bihar STET
 									2023 Notification, Eligibility, Application Form, Exam Date</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/midc-asst-officer-typist-job/">MIDC Recruitment
+								<a href="midc-asst-officer-typist-job/">MIDC Recruitment
 									2023 Apply Online Asst, Officer, Typist 795 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-ghaziabad-deputy-engineer-recruitment/">BEL
+								<a href="bel-ghaziabad-deputy-engineer-recruitment/">BEL
 									Ghaziabad Deputy Engineer Recruitment 2023 Apply Now 34 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
+								<a href="aiims-bathinda-group-a-b-c-job/">AIIMS Bathinda
 									Recruitment 2023 Apply Online Group A, B, C 35 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/kondagaon-district-recruitment/">Kondagaon
+								<a href="kondagaon-district-recruitment/">Kondagaon
 									District Recruitment 2023 Officer, Manager, Asst 20 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/aiesl-aircraft-technician-recruitment/">AIESL
+								<a href="aiesl-aircraft-technician-recruitment/">AIESL
 									Aircraft Technician Recruitment 2023 Apply 57 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/jpsc-civil-judge-notification/">JPSC Civil Judge
+								<a href="jpsc-civil-judge-notification/">JPSC Civil Judge
 									Recruitment 2023 Apply Now 138 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/opsc-medical-officer-notification/">OPSC Medical
+								<a href="opsc-medical-officer-notification/">OPSC Medical
 									Officer Recruitment 2023 Apply Now 7276 Posts</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bmc-stenographer-recruitment/">BMC Stenographer
+								<a href="bmc-stenographer-recruitment/">BMC Stenographer
 									Recruitment 2023 Apply Now 226 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/bel-panchkula-engineer-job/">BEL Panchkula
+								<a href="bel-panchkula-engineer-job/">BEL Panchkula
 									Recruitment 2023 Apply Online Engineer 57 Post</a>
 							</li>
 							<li>
-								<a href="https://www.sarkariresult.app/mdl-non-executive-notification/">MDL
+								<a href="mdl-non-executive-notification/">MDL
 									Non-Executive Recruitment 2023 Driver, Translator 531 Post</a>
 							</li>
 						</ul>
@@ -10033,7 +10033,7 @@
 	<script>"use strict"; function wprRemoveCPCSS() { var preload_stylesheets = document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]'); if (preload_stylesheets && 0 < preload_stylesheets.length) for (var stylesheet_index = 0; stylesheet_index < preload_stylesheets.length; stylesheet_index++) { var media = preload_stylesheets[stylesheet_index].getAttribute("media") || "all"; if (window.matchMedia(media).matches) return void setTimeout(wprRemoveCPCSS, 200) } var elem = document.getElementById("rocket-critical-css"); elem && "remove" in elem && elem.remove() } window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);</script>
 	<noscript>
 		<link rel="stylesheet"
-			href="https://www.sarkariresult.app/wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
+			href="wp-content/cache/min/1/1755dba4ab3cfc8476bea96bf1bb8192.css" media="all"
 			data-minify="1" />
 	</noscript>
 </body>
