@@ -307,7 +307,7 @@
                         <p align="center">8th</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">8000 + (Stay + Food)</p>
+                        <p align="center">10000</p>
                     </td>
                     <td valign="top" width="168">
                         <p align="center">200</p>
@@ -387,7 +387,7 @@
                         <p align="center">Literate</p>
                     </td>
                     <td valign="top" width="168">
-                        <p align="center">8000 + (Stay + Food)</p>
+                        <p align="center">10000</p>
                     </td>
                     <td valign="top" width="168">
                         <p align="center">200</p>
