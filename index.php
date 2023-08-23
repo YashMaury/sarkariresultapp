@@ -103,7 +103,7 @@
 												<span id="su-post-162725" class="su-post"><a href="ssc-cpo-2023.php">
 														<span
 															style="color:#ffffff; font-size: 20px; text-align:center; font-weight: 700;">
-															SSC CPO SI Apply Online Form </span></a>
+															Krishilimited Recruitment Salesman, Supervisor</span></a>
 												</span>
 											</div>
 											<p>
