@@ -69,7 +69,7 @@
         </tr>
         <tr>
             <td valign="top" align="left" style="font-weight:bold; color:#FF0033" >Post Start Date</td>
-<td valign=" top" align="left">22 August 2023</td>
+<td valign=" top" align="left">24 August 2023</td>
         </tr>
         <tr>
             <td valign="top" align="left" style="font-weight:bold; color:#FF0033">Short Information : </td>
