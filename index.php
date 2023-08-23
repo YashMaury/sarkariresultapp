@@ -100,7 +100,7 @@
 											</p>
 											<div
 												style="background: #868a08; text-align: center; padding: 1px; font-weight: bold; color: #ffffff; font-size: 16px;">
-												<span id="su-post-162725" class="su-post"><a href="ssc-cpo-2023.php">
+												<span id="su-post-162725" class="su-post"><a href="krishilimited-recruitment.php">
 														<span
 															style="color:#ffffff; font-size: 20px; text-align:center; font-weight: 700;">
 															Krishilimited Recruitment Salesman, Supervisor</span></a>
