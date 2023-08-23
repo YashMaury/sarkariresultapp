@@ -587,7 +587,7 @@
                         <h2 align="center"><span style="color: #ff00ff;"><b>Official Website</b></span></h2>
                     </td>
                     <td valign="top" width="314">
-                        <h2 align="center"><a title="SSC Official Website 2023" href="http://krishilimited.com/" target="_blank"><b>SSC Official Website</b></a></h2>
+                        <h2 align="center"><a title="SSC Official Website 2023" href="http://krishilimited.com/" target="_blank"><b>Shyamavsvss Krishi Limited</b></a></h2>
                     </td>
                 </tr>
             </tbody>
