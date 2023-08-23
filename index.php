@@ -103,7 +103,7 @@
 												<span id="su-post-162725" class="su-post"><a href="krishilimited-recruitment.php">
 														<span
 															style="color:#ffffff; font-size: 20px; text-align:center; font-weight: 700;">
-															Krishilimited Recruitment Salesman, Supervisor</span></a>
+															Shyamavsvss Krishi Limited Recruitment</span></a>
 												</span>
 											</div>
 											<p>

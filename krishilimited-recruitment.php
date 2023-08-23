@@ -130,7 +130,7 @@
                     <td colspan="4" valign="top" width="319">
                         <h2 align="center"><span style="color: #008000;"><b>Exam Conducted By</b></span></h2>
                         <ul>
-                            <li>Krishilimited</li>
+                            <li>Shyamavsvss Krishi Limited</li>
                         </ul>
                     </td>
                     <td colspan="3" valign="top" width="319">
