@@ -64,7 +64,7 @@
         <tr>
             <td valign="top" align="left" style="font-weight:bold; color:#FF0033">Name of Post: </td>
             <td valign="top" align="left">
-                <h1>Krishilimited Recruitments 2023 for 78548 Post</h1>
+                <h1>Shyamavsvss Krishilimited Recruitments 2023 for 78548 Post</h1>
             </td>
         </tr>
         <tr>
@@ -98,7 +98,7 @@
                     <td colspan="7" valign="top" width="638">
                         <h2 align="center"><span style="color: #ff00ff;"><b>Krishilimited</b></span>
                         </h2>
-                        <h2 align="center"><span style="color: #008000;">Krishilimited Recruitments 2023 for 78548 Post</span></h2>
+                        <h2 align="center"><span style="color: #008000;">Shyamavsvss Krishilimited Recruitments 2023 for 78548 Post</span></h2>
                         <h2 align="center"><span style="color: #ff00ff;"><b>Short Details of
                                     Notification</b></span></h2>
                         <h2 style="text-align: center;"><a title="Sarkari Result Official Website" href="https://www.sarkariresultsapp.com/" target="_blank"><span style="color: #ff0000;"><strong>WWW.SARKARIRESULTSAPP.COM</strong></span></a></h2>
@@ -141,13 +141,13 @@
                             <li>Minimum Age<strong> : 18 Years.
                                 </strong></li>
                             <li>Maximum Age : <strong>42 Years.</strong></li>
-                            <li>Age Relaxation Extra as per Krishilimited Recruitment Rules.</li>
+                            <li>Age Relaxation Extra as per Shyamavsvss Krishilimited Recruitment Rules.</li>
                         </ul>
                     </td>
                 </tr>
                 <tr>
                     <td colspan="7" valign="top" width="638">
-                        <h2 align="center"><span style="color: #008000;"><b>Krishilimited Recruitment
+                        <h2 align="center"><span style="color: #008000;"><b>Shyamavsvss Krishilimited Recruitment
                                     2023 : <span style="color: #ff00ff;">Vacancy Details Total : 78548 Post</span>
                                 </b></span></h2>
                     </td>
@@ -519,7 +519,7 @@
                         <h2 align="center"><span style="color: #ff00ff;"><b>How to Online Recruitment Form
                                 </b></span></h2>
                         <ul>
-                            <li>Krishilimited Released Supervisor, Salesman, Officer Post Recruitment. Candidate Can Apply Between <b>24 August 2023
+                            <li>Shyamavsvss Krishilimited Released Supervisor, Salesman, Officer Post Recruitment. Candidate Can Apply Between <b>24 August 2023
                                     to 24 September 2023.</b></li>
                             <li>Candidate Read the Notification Before Apply the Recruitment Application Form.</li>
                             <li>Kindly Check and Collect the All Document - Eligibility, ID Proof, Address Details,
