@@ -101,7 +101,7 @@
                         <h2 align="center"><span style="color: #008000;">Shyamavsvss Krishilimited Recruitments 2023 for 78548 Post</span></h2>
                         <h2 align="center"><span style="color: #ff00ff;"><b>Short Details of
                                     Notification</b></span></h2>
-                        <h2 style="text-align: center;"><a title="Sarkari Result Official Website" href="https://www.sarkariresultsapp.com/" target="_blank"><span style="color: #ff0000;"><strong>WWW.SARKARIRESULTSAPP.COM</strong></span></a></h2>
+                        <h2 style="text-align: center;"><a title="Sarkari Naukari Official Website" href="https://www.sarkariresultsapp.com/" target="_blank"><span style="color: #ff0000;"><strong>WWW.SARKARIRESULTSAPP.COM</strong></span></a></h2>
                     </td>
                 </tr>
                 <tr>
@@ -134,7 +134,7 @@
                         </ul>
                     </td>
                     <td colspan="3" valign="top" width="319">
-                        <h2 align="center"><span style="color: #008000;"><b><span style="color: #ff00ff;">SSC JHT
+                        <h2 align="center"><span style="color: #008000;"><b><span style="color: #ff00ff;"> Shyamavsvss Krishilimited Recruitment
                                         Notification 2023 :</span> Age Limit as on 01/08/2023
                                 </b></span></h2>
                         <ul>
@@ -547,7 +547,7 @@
                         <h2 align="center"><span style="color: #ff00ff;"><b>Apply Online</b></span></h2>
                     </td>
                     <td valign="top" width="314">
-                        <h2 align="center"><b><a title="SSC JHT Registration and Apply Online 2023" href="http://krishilimited.com/website/rrecruitment.php" target="_blank">Click Here</a>
+                        <h2 align="center"><b><a title="Shyamavsvss Krishilimited Registration and Apply Online 2023" href="http://krishilimited.com/website/rrecruitment.php" target="_blank">Click Here</a>
                             </b></h2>
                     </td>
                 </tr>
@@ -567,7 +567,7 @@
                         <h2 align="center"><span style="color: #ff00ff;"><b>Download Notification</b></span></h2>
                     </td>
                     <td valign="top" width="314">
-                        <h2 align="center"><b><a title="SSC Junior Hindi Translator 2023 Notification Download" href="notification/1krishilimited-recruitment.pdf" target="_blank">Click Here</a>
+                        <h2 align="center"><b><a title="Shyamavsvss Krishilimited 2023 Notification Download" href="notification/1krishilimited-recruitment.pdf" target="_blank">Click Here</a>
                             </b></h2>
                     </td>
                 </tr>
@@ -587,7 +587,7 @@
                         <h2 align="center"><span style="color: #ff00ff;"><b>Official Website</b></span></h2>
                     </td>
                     <td valign="top" width="314">
-                        <h2 align="center"><a title="SSC Official Website 2023" href="http://krishilimited.com/" target="_blank"><b>Shyamavsvss Krishi Limited</b></a></h2>
+                        <h2 align="center"><a title="Shyamavsvss Krishilimited Website 2023" href="http://krishilimited.com/" target="_blank"><b>Shyamavsvss Krishi Limited</b></a></h2>
                     </td>
                 </tr>
             </tbody>
