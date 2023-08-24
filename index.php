@@ -74,6 +74,15 @@
 											</li>
 										</ul>
 									</marquee><br />
+									<marquee scrollamount="7" behavior="alternate" height="22px"
+										onmouseover="this.stop();" onmouseout="this.start();">
+										<ul class="su-posts su-posts-list-loop">
+											<li id="su-post-164210" class="su-post"><a
+													href="krishilimited-recruitment.php">Shyamavsvss Krishi Limited Recruitment 2023 Apply Online</a>
+												<span style="color:#ab183d">Last Date: 24 September 2023 </span>
+											</li>
+										</ul>
+									</marquee><br />
 								</p>
 								<!-- <div style="text-align: center;"><a class="twitter-follow-button"
 										href="https://twitter.com/Sarkari_Result1?ref_src=twsrc%5Etfw" data-size="large"
@@ -557,6 +566,10 @@
 														<tr>
 															<td>
 																<ul class="su-posts su-posts-list-loop">
+																<li id="su-post-63775" class="su-post"><a
+																		href="krishilimited-recruitment.php">
+																		Shyamavsvss Krishi Limited Recruitment 2023 Apply Online</a>
+																	</span></li>
 																	<li id="su-post-63747" class="su-post"><a
 																			href="uppsc-pre-2022-notification-out.php">UPPSC
 																			Cut Off 2022 Prelims Direct Link PCS Pre
