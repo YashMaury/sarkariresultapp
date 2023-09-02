@@ -101,7 +101,7 @@
                         <h2 align="center"><span style="color: #008000;">Shyamavsvss Krishilimited Recruitments 2023 for 78548 Post</span></h2>
                         <h2 align="center"><span style="color: #ff00ff;"><b>Short Details of
                                     Notification</b></span></h2>
-                        <h2 style="text-align: center;"><a title="Sarkari Naukari Official Website" href="https://www.sarkariresultsapp.com/" target="_blank"><span style="color: #ff0000;"><strong>WWW.SARKARIRESULTSAPP.COM</strong></span></a></h2>
+                        <h2 style="text-align: center;"><a title="Sarkari Naukari Official Website" href="https://www.sarkarinaukaris.in/" target="_blank"><span style="color: #ff0000;"><strong>WWW.SARKARINAUKARIS.IN</strong></span></a></h2>
                     </td>
                 </tr>
                 <tr>
@@ -120,8 +120,8 @@
                     <td colspan="3" valign="top" width="319">
                         <h2 align="center"><span style="color: #008000;"><b>Application Fee</b></span></h2>
                         <ul>
-                            <li>General / OBC / EWS : <strong>On Official webesite</strong></li>
-                            <li>SC / ST / PH / Female : <strong>On Official webesite</strong></li>
+                            <li>General / OBC : <strong>400</strong></li>
+                            <li>SC / ST : <strong>300</strong></li>
                             <li>Pay the Examination Fee Through Net Banking, Debit / Credit Card, UPI Only.</li>
                         </ul>
                     </td>
@@ -169,9 +169,6 @@
                     <td valign="top" width="300">
                         <p align="center"><b>Salary</b></p>
                     </td>
-                    <td valign="top" width="300">
-                        <p align="center"><b>Application Fee</b></p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -188,9 +185,6 @@
                     </td>
                     <td valign="top" width="415">
                         <p align="center">8000 - 12000</p>
-                    </td>
-                    <td valign="top" width="300">
-                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -209,9 +203,6 @@
                     <td valign="top" width="415">
                         <p align="center">12000</p>
                     </td>
-                    <td valign="top" width="300">
-                        <p align="center">400</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -228,9 +219,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">18000 - 30000</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">400</p>
                     </td>
                 </tr>
                 <tr>
@@ -249,9 +237,6 @@
                     <td valign="top" width="168">
                         <p align="center">30000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">400</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -268,9 +253,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">20000 - 32000</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">400</p>
                     </td>
                 </tr>
                 <tr>
@@ -289,9 +271,6 @@
                     <td valign="top" width="168">
                         <p align="center">30000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">400</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -308,9 +287,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">10000</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -329,9 +305,6 @@
                     <td valign="top" width="168">
                         <p align="center">14000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">300</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -348,9 +321,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">14000</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -369,9 +339,6 @@
                     <td valign="top" width="168">
                         <p align="center">12000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">300</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -388,9 +355,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">10000</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">300</p>
                     </td>
                 </tr>
                 <tr>
@@ -409,9 +373,6 @@
                     <td valign="top" width="168">
                         <p align="center">14000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">400</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -428,9 +389,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">32500</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">500</p>
                     </td>
                 </tr>
                 <tr>
@@ -449,9 +407,6 @@
                     <td valign="top" width="168">
                         <p align="center">35000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">500</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -468,9 +423,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">38000</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">500</p>
                     </td>
                 </tr>
                 <tr>
@@ -489,9 +441,6 @@
                     <td valign="top" width="168">
                         <p align="center">22000</p>
                     </td>
-                    <td valign="top" width="168">
-                        <p align="center">400</p>
-                    </td>
                 </tr>
                 <tr>
                     <td valign="top" width="55">
@@ -508,9 +457,6 @@
                     </td>
                     <td valign="top" width="168">
                         <p align="center">48500</p>
-                    </td>
-                    <td valign="top" width="168">
-                        <p align="center">500</p>
                     </td>
                 </tr>
                 
@@ -582,6 +528,15 @@
                             </b></h2>
                     </td>
                 </tr> -->
+                <tr>
+                    <td colspan="5" valign="top" width="324">
+                        <h2 align="center"><span style="color: #ff00ff;"><b>Download Syllabus</b></span></h2>
+                    </td>
+                    <td valign="top" width="314">
+                        <h2 align="center"><b><a title="Shyamavsvss Krishilimited 2023 Syllabus Download" href="notification/syllabus.pdf" target="_blank">Click Here</a>
+                            </b></h2>
+                    </td>
+                </tr>
                 <tr>
                     <td colspan="5" valign="top" width="324">
                         <h2 align="center"><span style="color: #ff00ff;"><b>Official Website</b></span></h2>
